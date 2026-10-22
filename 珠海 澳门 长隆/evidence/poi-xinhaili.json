@@ -1,0 +1,312 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "4",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": [],
+      "pcode": "440000",
+      "keytag": "海鲜",
+      "type": "餐饮服务;中餐厅;海鲜酒楼|生活服务;生活服务场所;生活服务场所",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/6dbc358c3842446a0000002341666041?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFIWPGNT/comment/1118cd20-e2b6-4ff2-9f52-d20efb591dd7.png"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFIWPGNT/comment/content_media_external_file_59143_ss__1759458057594_76501431.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "050119|070000",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "0756-8899333",
+      "id": "B0FFIWPGNT",
+      "tag": "流沙包,扇贝,芝士焗生蚝,潮式炒面线,鲜虾香茜饺,蒸凤爪,金枕榴莲酥,烤乳鸽,海鲜,卤水金钱肚,蜜汁叉烧饭,豉汁蒸排骨,白灼桂虾,甘香墨鱼饼,椒盐九肚鱼,点心,猪肉,鸡肉,早茶",
+      "entr_location": "113.546321,22.221874",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": "拱北",
+      "childtype": [],
+      "atag": "流沙包,扇贝,芝士焗生蚝,潮式炒面线,鲜虾香茜饺,蒸凤爪,金枕榴莲酥,烤乳鸽,海鲜,卤水金钱肚,蜜汁叉烧饭,豉汁蒸排骨,白灼桂虾,甘香墨鱼饼,椒盐九肚鱼,点心,猪肉,鸡肉,早茶",
+      "name": "新海利海鲜城(夏湾店)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F022045_23045",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "94.00",
+        "opentime2": "周一至周日 09:00-22:00",
+        "rating": "4.7",
+        "open_time": "09:00-22:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313246312",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-04 00:22:41",
+      "website": [],
+      "address": "粤华路271-275号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.546601,22.221822",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B0FFGLB8QZ",
+      "pcode": "440000",
+      "keytag": "海鲜",
+      "type": "餐饮服务;中餐厅;海鲜酒楼",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/6099300629ce3081386692d7ddd03146"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B02F401IQE/comment/FBE7E1B4_9DB4_4044_A810_97DA038685DF_L0_001_2000_150_1755251325077_87250589.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B02F401IQE/comment/content_media_external_file_1000091068_ss__1762675540972_40751752.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "050119",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "0756-8882388",
+      "id": "B02F401IQE",
+      "tag": "生蚝,虾饺,灌汤包,流沙包,榴莲酥,上汤益母草,鲍汁凤爪,蒜蓉粉丝蒸扇贝,白切鸡,辣酒煮花螺,赖尿蝦,反沙芋头,鲮鱼饼,蒸排骨,小鲍鱼,早茶,大排档,肠粉,点心,素菜,虾仁",
+      "entr_location": "113.551754,22.230722",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": "迎宾",
+      "childtype": "202",
+      "atag": "生蚝,虾饺,灌汤包,流沙包,榴莲酥,上汤益母草,鲍汁凤爪,蒜蓉粉丝蒸扇贝,白切鸡,辣酒煮花螺,赖尿蝦,反沙芋头,鲮鱼饼,蒸排骨,小鲍鱼,早茶,大排档,肠粉,点心,素菜,虾仁",
+      "name": "新海利•珠海老字号(北岭店)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F022045_23187",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "73.00",
+        "opentime2": "周一至周日 08:00-23:00",
+        "rating": "4.6",
+        "open_time": "08:00-23:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313247420",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-04 23:54:59",
+      "website": [],
+      "address": "拱北街道迎宾南路2079号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.551501,22.230747",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B0FFI8N1PX",
+      "pcode": "440000",
+      "keytag": "水产海鲜",
+      "type": "餐饮服务;中餐厅;海鲜酒楼",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/33c35a4d6d684ade0000002876226258?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/1d5628e83b4fed290000000975832777?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0H3M583BJ/comment/412e69361a14f5fa90fe905d284703dc_2048_2048_80.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "050119",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "金湾区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "0756-7519988",
+      "id": "B0H3M583BJ",
+      "tag": "芝士,凤爪,烧鹅,早茶",
+      "entr_location": [],
+      "adcode": "440404",
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "320",
+      "atag": "芝士,凤爪,烧鹅,早茶",
+      "name": "新海利海鲜城(金湾店)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "55.00",
+        "opentime2": "周一至周日 09:00-14:00,17:00-21:00",
+        "rating": "4.7",
+        "open_time": "09:00-14:00 17:00-21:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313038112",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 15:31:19",
+      "website": [],
+      "address": "三灶镇金海岸大道东金湾新海利海鲜城",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.397025,22.070375",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B0JKBZNMEQ",
+      "pcode": "440000",
+      "keytag": "粤式茶点",
+      "type": "餐饮服务;中餐厅;海鲜酒楼|餐饮服务;中餐厅;综合酒楼",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0KRKC9TRS/comment/content_media_external_images_media_100014623_1745467639151_02401655.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/371438b793794fd9a74f0716db266f0b"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/aa181fbfd32fc83d0000003202518640?type=pic"
+        }
+      ],
+      "building": [],
+      "typecode": "050119|050101",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "斗门区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "0756-5686688",
+      "id": "B0KRKC9TRS",
+      "tag": "牛肉,早茶,大排档,油条",
+      "entr_location": [],
+      "adcode": "440403",
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "202",
+      "atag": "牛肉,早茶,大排档,油条",
+      "name": "新海利海鲜酒楼(斗门招商花园城店)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "64.00",
+        "opentime2": "周一至周日 09:30-14:30,17:00-22:00",
+        "rating": "4.5",
+        "open_time": "09:30-14:30 17:00-22:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313224621",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 15:43:52",
+      "website": [],
+      "address": "白蕉镇招商花园城二楼新海利",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.329338,22.207792",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

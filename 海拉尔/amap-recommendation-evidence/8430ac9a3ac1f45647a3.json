@@ -1,0 +1,104 @@
+{
+  "endpoint": "v5/direction/driving",
+  "params": {
+    "origin": "121.064824,50.995729",
+    "destination": "121.103063,51.017185",
+    "origin_id": "B01D601K05",
+    "destination_id": "B0HR9U6CCO",
+    "strategy": 32,
+    "show_fields": "cost,polyline"
+  },
+  "queriedAt": "2026-10-03T08:24:03+08:00",
+  "response": {
+    "status": "1",
+    "info": "OK",
+    "infocode": "10000",
+    "count": "1",
+    "route": {
+      "origin": "121.064824,50.995729",
+      "destination": "121.103063,51.017185",
+      "taxi_cost": "9",
+      "paths": [
+        {
+          "distance": "3827",
+          "restriction": "0",
+          "cost": {
+            "duration": "674",
+            "tolls": "0",
+            "toll_distance": "0",
+            "traffic_lights": "1"
+          },
+          "steps": [
+            {
+              "instruction": "向西行驶66米右转",
+              "orientation": "西",
+              "step_distance": "66",
+              "cost": {
+                "duration": "20",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "121.064718,50.995544;121.063831,50.995745"
+            },
+            {
+              "instruction": "向东北行驶52米右转",
+              "orientation": "东北",
+              "step_distance": "52",
+              "cost": {
+                "duration": "19",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "121.063831,50.995745;121.064062,50.99619"
+            },
+            {
+              "instruction": "沿325县道向东行驶203米左转",
+              "orientation": "东",
+              "road_name": "325县道",
+              "step_distance": "203",
+              "cost": {
+                "duration": "32",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "1"
+              },
+              "polyline": "121.064062,50.99619;121.065682,50.995863;121.066825,50.995627"
+            },
+            {
+              "instruction": "沿325县道向东北行驶1.7千米向左前方行驶",
+              "orientation": "东北",
+              "road_name": "325县道",
+              "step_distance": "1700",
+              "cost": {
+                "duration": "201",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "121.066825,50.995627;121.067705,50.997242;121.067806,50.997397;121.067908,50.997515;121.068101,50.997666;121.068504,50.997901;121.069335,50.998352;121.069668,50.998535;121.072275,50.999956;121.074608,51.001233;121.075081,51.00149;121.077527,51.002826;121.079453,51.003878;121.081496,51.004988;121.082478,51.00553;121.083154,51.005905;121.083691,51.006157;121.083878,51.006216"
+            },
+            {
+              "instruction": "向东北行驶1.8千米到达目的地",
+              "orientation": "东北",
+              "step_distance": "1806",
+              "cost": {
+                "duration": "402",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "121.083878,51.006216;121.084002,51.00634;121.084163,51.006458;121.085144,51.006989;121.089259,51.009215;121.089833,51.009521;121.091308,51.010304;121.092102,51.010728;121.096329,51.013056;121.099848,51.014955;121.10149,51.015953;121.102997,51.017026;121.103027,51.017046"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

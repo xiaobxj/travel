@@ -1,0 +1,53 @@
+[
+  {
+    "day": 1,
+    "km": 267.7,
+    "duration": "3小时50分",
+    "seconds": 13772,
+    "stay": "根河市区"
+  },
+  {
+    "day": 2,
+    "km": 123.8,
+    "duration": "2小时10分",
+    "seconds": 7805,
+    "stay": "莫尔道嘎镇",
+    "queriedAt": "2026-10-03T08:35:02+08:00",
+    "evidenceFile": "genhe-juele-station-longshan-final-driving-20261003-083501.json",
+    "routePlan": "A"
+  },
+  {
+    "day": 3,
+    "km": 109.5,
+    "duration": "2小时04分",
+    "seconds": 7467,
+    "stay": "白鹿岛（营业及供暖待确认）",
+    "queriedAt": "2026-10-04T08:37:42+08:00",
+    "evidenceFile": "planning-20261004/day3-lunch-order-live-20261004T083741.json",
+    "routePlan": "selfDrive"
+  },
+  {
+    "day": 4,
+    "km": 221.3,
+    "duration": "4小时18分",
+    "seconds": 15495,
+    "stay": "七卡村附近（具体民宿待选）",
+    "queriedAt": "2026-10-04T08:41:09+08:00",
+    "evidenceFile": "planning-20261004/day4-final-driving-20261004.json",
+    "routePlan": "main"
+  },
+  {
+    "day": 5,
+    "km": 130.3,
+    "duration": "2小时04分",
+    "seconds": 7467,
+    "stay": "额尔古纳市区"
+  },
+  {
+    "day": 6,
+    "km": 127.8,
+    "duration": "1小时34分",
+    "seconds": 5664,
+    "stay": "15:00 前海拉尔还车"
+  }
+]

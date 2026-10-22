@@ -1,0 +1,317 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "4",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": "B0FFFFLAX5",
+      "pcode": "440000",
+      "keytag": "海洋馆",
+      "type": "体育休闲服务;休闲场所;游乐场|风景名胜;风景名胜相关;旅游景点",
+      "photos": [
+        {
+          "provider": [],
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/4e88ad991ee70585c8434d939523cc7d"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/0c2db91a601fe3c3c6035639dfef9d4c"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/92adbf1fcacedbebe74edd19141c2235"
+        }
+      ],
+      "building": [],
+      "typecode": "080501|110000",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "4008830083",
+      "id": "B02F40RARV",
+      "tag": [],
+      "entr_location": "113.540626,22.101474",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "601",
+      "atag": [],
+      "name": "长隆海洋王国",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F023045_13937",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "10:00-20:00",
+        "rating": "4.9",
+        "open_time": "10:00-20:00",
+        "ticket_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313141320",
+      "shopinfo": "2",
+      "alias": "珠海长隆|珠海长隆海洋王国",
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 20:56:03",
+      "website": [],
+      "address": "长隆大道",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.538507,22.098750",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "440000",
+      "keytag": "游乐园",
+      "type": "体育休闲服务;休闲场所;游乐场",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5d709f1440cd544e085ff86351840384"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/038630f44e4a383c642fb1ef48ff891d"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/1a56fc8e944005cc2009afb89cf4b9e1"
+        }
+      ],
+      "building": [],
+      "typecode": "080501",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "0756-8688888;15014939446;4008830083",
+      "id": "B0FFFFLAX5",
+      "tag": [],
+      "entr_location": "113.542566,22.096473",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "珠海横琴长隆国际海洋度假区",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F023045_14063",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 00:00-24:00；度假区全天开放，内部景点及演出开放时间详见各景点详情页。",
+        "rating": "4.7",
+        "open_time": "24小时营业"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313141320",
+      "shopinfo": "0",
+      "alias": "长隆国际海洋度假区",
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 17:00:23",
+      "website": [],
+      "address": "横琴镇环岛路长隆大道1号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.541363,22.098760",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B02F40RARV",
+      "pcode": "440000",
+      "keytag": "风景名胜,风景名胜相关,旅游景点",
+      "type": "风景名胜;风景名胜相关;旅游景点",
+      "photos": [
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/d921e25b8de5889f0000001994070830?type=pic"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/63b759e0009836040000003139128575?type=pic"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0K0HYH8PE/comment/content_media_external_file_1000021027_ss__1769825933567_45474856.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "110000",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0K0HYH8PE",
+      "tag": [],
+      "entr_location": [],
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": "tour",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "301",
+      "atag": [],
+      "name": "珠海横琴《长隆秀》",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "15:30-18:30,若有新增场次则延长至21:30结束",
+        "rating": "4.7",
+        "open_time": "15:30-18:30",
+        "ticket_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313142301",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 00:22:15",
+      "website": [],
+      "address": "珠海横琴长隆国际海洋度假区环岛东路89号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.543894,22.102049",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "440000",
+      "keytag": "餐饮服务,餐饮相关场所,餐饮相关",
+      "type": "餐饮服务;餐饮相关场所;餐饮相关",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/4e4963621671b6610000002612454244?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/a1d224accaf5a7f10000002612368855?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/d9c428b80283157412401312c859e777"
+        }
+      ],
+      "building": [],
+      "typecode": "050000",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0KUASMAGJ",
+      "tag": [],
+      "entr_location": [],
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "海洋王国企鹅酒店外卖点",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": [],
+        "rating": "4.2",
+        "open_time": [],
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313142300",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-06-28 06:30:58",
+      "website": [],
+      "address": "环岛东路83号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.538430,22.101831",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

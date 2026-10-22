@@ -1,0 +1,155 @@
+{
+  "endpoint": "v5/direction/driving",
+  "params": {
+    "origin": "119.578229,50.215675",
+    "destination": "119.570785,50.214162",
+    "origin_id": "B01D60NAPS",
+    "destination_id": "B0KU9CINYC",
+    "strategy": 32,
+    "show_fields": "cost,polyline"
+  },
+  "queriedAt": "2026-09-18T02:07:33+08:00",
+  "response": {
+    "status": "1",
+    "info": "OK",
+    "infocode": "10000",
+    "count": "2",
+    "route": {
+      "origin": "119.578229,50.215675",
+      "destination": "119.570785,50.214162",
+      "taxi_cost": "6",
+      "paths": [
+        {
+          "distance": "664",
+          "restriction": "0",
+          "cost": {
+            "duration": "96",
+            "tolls": "0",
+            "toll_distance": "0",
+            "traffic_lights": "0"
+          },
+          "steps": [
+            {
+              "instruction": "向东南行驶41米右转",
+              "orientation": "东南",
+              "step_distance": "41",
+              "cost": {
+                "duration": "20",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.578239,50.215638;119.578354,50.215651;119.578376,50.215646;119.578413,50.215496;119.578446,50.215372"
+            },
+            {
+              "instruction": "沿331国道向西行驶536米左转",
+              "orientation": "西",
+              "road_name": "331国道",
+              "step_distance": "536",
+              "cost": {
+                "duration": "51",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.578446,50.215372;119.577753,50.215297;119.57689,50.215195;119.575678,50.215056;119.575195,50.215002;119.574267,50.2149;119.573811,50.214847;119.572132,50.214664;119.571198,50.214557;119.571016,50.214536"
+            },
+            {
+              "instruction": "向南行驶62米右转",
+              "orientation": "南",
+              "step_distance": "62",
+              "cost": {
+                "duration": "19",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.571016,50.214536;119.571182,50.213983"
+            },
+            {
+              "instruction": "向西行驶25米到达目的地",
+              "orientation": "西",
+              "step_distance": "25",
+              "cost": {
+                "duration": "6",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.571182,50.213983;119.570837,50.213948"
+            }
+          ]
+        },
+        {
+          "distance": "758",
+          "restriction": "0",
+          "cost": {
+            "duration": "119",
+            "tolls": "0",
+            "toll_distance": "0",
+            "traffic_lights": "0"
+          },
+          "steps": [
+            {
+              "instruction": "向东南行驶41米右转",
+              "orientation": "东南",
+              "step_distance": "41",
+              "cost": {
+                "duration": "20",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.578239,50.215638;119.578354,50.215651;119.578376,50.215646;119.578413,50.215496;119.578446,50.215372"
+            },
+            {
+              "instruction": "沿331国道向西行驶608米左转",
+              "orientation": "西",
+              "road_name": "331国道",
+              "step_distance": "608",
+              "cost": {
+                "duration": "55",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.578446,50.215372;119.577753,50.215297;119.57689,50.215195;119.575678,50.215056;119.575195,50.215002;119.574267,50.2149;119.573811,50.214847;119.572132,50.214664;119.571198,50.214557;119.571016,50.214536;119.570013,50.214428"
+            },
+            {
+              "instruction": "向南行驶61米左转",
+              "orientation": "南",
+              "step_distance": "61",
+              "cost": {
+                "duration": "34",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.570013,50.214428;119.570168,50.213881"
+            },
+            {
+              "instruction": "向东行驶48米到达目的地",
+              "orientation": "东",
+              "step_distance": "48",
+              "cost": {
+                "duration": "10",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.570168,50.213881;119.570837,50.213948"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

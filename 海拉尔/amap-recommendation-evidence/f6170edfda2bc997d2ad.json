@@ -1,0 +1,52 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "福记列巴",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:27+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "1",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "餐饮服务,餐饮相关场所,餐饮相关",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "photos": [],
+        "building": [],
+        "typecode": "050000",
+        "shopinfo": "1",
+        "poiweight": [],
+        "adname": "额尔古纳市",
+        "featured_reviews_remake": [],
+        "tel": [],
+        "id": "B0JRJHBKLS",
+        "address": "金鹊街与丁香路交叉口西南60米",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": "列巴",
+        "name": "福记列巴坊",
+        "location": "120.173330,50.245967",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

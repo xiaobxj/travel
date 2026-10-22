@@ -1,0 +1,52 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "远方来信",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:21+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "1",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "购物服务,购物相关场所,购物相关场所",
+        "importance": [],
+        "biz_ext": [],
+        "type": "购物服务;购物相关场所;购物相关场所",
+        "photos": [],
+        "building": [],
+        "typecode": "060000",
+        "shopinfo": "1",
+        "poiweight": [],
+        "adname": "海拉尔区",
+        "featured_reviews_remake": [],
+        "tel": "15334703270",
+        "id": "B0K6U7WM7R",
+        "address": "正阳街道正阳办天润仿清古建一条街隆太号5号",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": [],
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": [],
+        "name": "远方来信文创店",
+        "location": "119.745752,49.209875",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

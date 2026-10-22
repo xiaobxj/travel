@@ -1,0 +1,64 @@
+{
+  "endpoint": "v5/direction/driving",
+  "params": {
+    "origin": "120.785747,51.255782",
+    "destination": "120.778982,51.260249",
+    "origin_id": "B01D601JZN",
+    "destination_id": "B0FFFGP0DC",
+    "strategy": 32,
+    "show_fields": "cost,polyline"
+  },
+  "queriedAt": "2026-09-18T02:07:30+08:00",
+  "response": {
+    "status": "1",
+    "info": "OK",
+    "infocode": "10000",
+    "count": "1",
+    "route": {
+      "origin": "120.785747,51.255782",
+      "destination": "120.778982,51.260249",
+      "taxi_cost": "6",
+      "paths": [
+        {
+          "distance": "709",
+          "restriction": "0",
+          "cost": {
+            "duration": "120",
+            "tolls": "0",
+            "toll_distance": "0",
+            "traffic_lights": "0"
+          },
+          "steps": [
+            {
+              "instruction": "向西行驶20米右转",
+              "orientation": "西",
+              "step_distance": "20",
+              "cost": {
+                "duration": "11",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "120.785778,51.255583;120.785493,51.255565"
+            },
+            {
+              "instruction": "沿325县道向西北行驶689米到达目的地",
+              "orientation": "西北",
+              "road_name": "325县道",
+              "step_distance": "689",
+              "cost": {
+                "duration": "109",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "120.785493,51.255565;120.784753,51.256064;120.783691,51.256783;120.783594,51.256847;120.783111,51.257169;120.782098,51.257866;120.781695,51.25814;120.780542,51.258934;120.780354,51.259063;120.7797,51.259508;120.779147,51.259862;120.778965,51.259996;120.778771,51.260128"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

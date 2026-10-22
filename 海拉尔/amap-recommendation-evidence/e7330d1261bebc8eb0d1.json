@@ -1,0 +1,52 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "临江晨雾观景台",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:39+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "2",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "自然风光",
+        "importance": [],
+        "biz_ext": [],
+        "type": "风景名胜;风景名胜;风景名胜",
+        "photos": [],
+        "building": [],
+        "typecode": "110200",
+        "shopinfo": "2",
+        "poiweight": [],
+        "adname": "额尔古纳市",
+        "featured_reviews_remake": [],
+        "tel": [],
+        "id": "B0K2XZ7N9F",
+        "address": "临江渔海宾馆东南侧190米",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "tour",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": [],
+        "name": "临江村晨雾观景点",
+        "location": "119.997240,51.411277",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "蒙源俄式面包",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:17+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "1",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "西式糕点",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "photos": [],
+        "building": [],
+        "typecode": "050000",
+        "shopinfo": "0",
+        "poiweight": [],
+        "adname": "海拉尔区",
+        "featured_reviews_remake": [],
+        "tel": "13754104688",
+        "id": "B0FFKT53GY",
+        "address": "呼伦办新桥家园三期10幢107号门市",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": "奶皮子,奶酪,菠萝包",
+        "name": "蒙源俄式面包房",
+        "location": "119.772397,49.222335",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "97",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": [],
+      "pcode": "440000",
+      "keytag": "高铁站",
+      "type": "交通设施服务;火车站;火车站",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFF2UNCN/comment/content_media_external_file_100001780_1773386643802_60206621.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/023eed6bcfc63777a56302a0feda09d4"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/7eeab74b99921ff40000000970368691?type=pic"
+        }
+      ],
+      "building": [],
+      "typecode": "150200",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0FFF2UNCN",
+      "tag": [],
+      "entr_location": "113.548485,22.215981",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "珠海站",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": [],
+        "rating": [],
+        "open_time": []
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313245322",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "1",
+      "email": [],
+      "timestamp": "2026-09-06 19:47:07",
+      "website": [],
+      "address": "昌盛路5号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": "GD000868",
+        "truefloor": [],
+        "cpid": "B0FFF2UNCN",
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.549572,22.215378",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B0FFF2UNCN",
+      "pcode": "440000",
+      "keytag": "车站出口",
+      "type": "交通设施服务;火车站;出站口",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/09ad79ba72bb54eb0000003764858404?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFH21PY7/comment/51a25e2e071a8ee0d711192b6e06c8e6_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFH21PY7/comment/content_media_external_file_1000219503_ss__1772635719695_03713933.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "150203",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0FFH21PY7",
+      "tag": [],
+      "entr_location": "113.547435,22.214984",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "104",
+      "atag": [],
+      "name": "珠海站(出站口)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F022045_122013",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": [],
+        "rating": [],
+        "open_time": []
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313245420",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-01 03:06:44",
+      "website": [],
+      "address": "昌盛路附近",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.551342,22.215746",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B0FFF2UNCN",
+      "pcode": "440000",
+      "keytag": "车站入口",
+      "type": "交通设施服务;火车站;进站口/检票口",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/comment/content_service_23bbab18d83cc14996da164f5ae458d3_1768447583636_39943454.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/ee493c036ceef4460c641811aca82a86"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFH47Y86/comment/DC28B3B8_1AE4_4E39_8E7F_E1A3D3F318EB_L0_001_1179_111_1770770772129_29414866.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "150202",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0FFH47Y86",
+      "tag": [],
+      "entr_location": "113.548533,22.215941",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "103",
+      "atag": [],
+      "name": "珠海站(进站口)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F022045_122014",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": [],
+        "rating": [],
+        "open_time": []
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313245322",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-01 03:20:28",
+      "website": [],
+      "address": "昌盛路附近",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.549284,22.215424",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B0FFF2UNCN",
+      "pcode": "440000",
+      "keytag": "地下停车场",
+      "type": "交通设施服务;停车场;公共停车场",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/9d1b43cef3fb687d2a3e82292521f10e"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/ed1f364962836f95a7dad32a75dd43ce"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFJI1NEO/comment/b8d851fcb152654db3ee598ccebc63fd_2048_2048_80.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "150904",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0FFJI1NEO",
+      "tag": [],
+      "entr_location": "113.547466,22.214965",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": "夏湾",
+      "childtype": "305",
+      "atag": [],
+      "name": "珠海站地下停车场",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F022045_43822",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 00:00-24:00",
+        "rating": [],
+        "open_time": "24小时营业"
+      },
+      "recommend": "0",
+      "parking_type": "地下",
+      "discount_num": "0",
+      "gridcode": "3313245322",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-08-17 19:48:30",
+      "website": [],
+      "address": "香洲城轨珠海站",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.546982,22.215006",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "440000",
+      "keytag": "公交站",
+      "type": "交通设施服务;公交车站;公交车站相关",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/BV10250119/comment/content_media_external_images_media_110905_ss__1768192365345_72587238.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/BV10250119/comment/4A16471C_EF48_4065_965B_1DE83ACE4BD8_L0_001_2016_151_1767148464227_40053017.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/BV10250119/comment/D49CA681_B32D_4CE1_82E9_4F82F80EA7A3_L0_001_1175_137_1757505950294_26080333.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "150700",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "BV10250119",
+      "tag": [],
+      "entr_location": [],
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "城轨珠海站(公交站)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": [],
+        "rating": [],
+        "open_time": []
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313245420",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-05 03:40:10",
+      "website": [],
+      "address": "1路短线;2路;32路;32路早高峰线;33路;601路;B10路;N20路;T11路;T22高速专线;坦洲B线;坦洲拱北A线;坦洲拱北A线(不经中澳春城)",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.550995,22.215868",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

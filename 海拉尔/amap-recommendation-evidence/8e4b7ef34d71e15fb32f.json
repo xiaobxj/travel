@@ -1,0 +1,81 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "几何精品咖啡",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T02:04:01+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "3",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "咖啡",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;咖啡厅;咖啡厅",
+        "photos": [],
+        "building": [],
+        "typecode": "050500",
+        "shopinfo": "0",
+        "poiweight": [],
+        "adname": "额尔古纳市",
+        "featured_reviews_remake": [],
+        "tel": "15352805890",
+        "id": "B0IUCUZO3H",
+        "address": "莫尔道嘎镇325县道胡老大铁锅炖西侧",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": "精品咖啡,生椰拿铁",
+        "name": "几何精品咖啡与茶",
+        "location": "120.780226,51.259838",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      },
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "麻辣烫",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "photos": [],
+        "building": [],
+        "typecode": "050100",
+        "shopinfo": "0",
+        "poiweight": [],
+        "adname": "额尔古纳市",
+        "featured_reviews_remake": [],
+        "tel": "13634746070;15049036251;18047056080",
+        "id": "B0LGHRTPWF",
+        "address": "几何精品咖啡与茶东南侧",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": "麻辣烫",
+        "name": "欢姐麻辣烫",
+        "location": "120.780243,51.259822",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

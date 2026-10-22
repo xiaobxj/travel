@@ -1,0 +1,218 @@
+{
+  "reviewedAt": "2026-09-18T02:10:50+08:00",
+  "uniqueNotes": 143,
+  "freshNotes": 142,
+  "archiveNotes": 1,
+  "incompleteCounters": 8,
+  "adFlagged": 0,
+  "excluded": [
+    {
+      "id": "6a7deb6e0000000022014130",
+      "title": "帮我看一下海拉尔这个路线行不行",
+      "reason": "求助型笔记，未作为体验推荐收录",
+      "evidenceFile": "city-research/6a7deb6e0000000022014130.json"
+    },
+    {
+      "id": "6a4666b3000000001603fced",
+      "title": "海拉尔",
+      "reason": "可提取的正文信息过少，未作为文字推荐收录",
+      "evidenceFile": "city-research/6a4666b3000000001603fced.json"
+    },
+    {
+      "id": "68a52431000000001d01e644",
+      "title": "这路线咋样，好心人帮忙看看合理不~",
+      "reason": "求助型笔记，未作为体验推荐收录",
+      "evidenceFile": "city-research/68a52431000000001d01e644.json"
+    },
+    {
+      "id": "6a44f0d50000000021019edc",
+      "title": "九卡、七卡、八卡放弃吗？",
+      "reason": "行前提问是否放弃卡线，无实际游览体验",
+      "evidenceFile": "city-research/6a44f0d50000000021019edc.json"
+    }
+  ],
+  "cities": [
+    {
+      "city": "海拉尔",
+      "id": "hailaer",
+      "notes": 57,
+      "complete": 55,
+      "local": 8,
+      "categories": {
+        "吃饭": 41,
+        "咖啡茶饮": 22,
+        "游玩": 43,
+        "住宿": 29,
+        "攻略": 36
+      }
+    },
+    {
+      "city": "莫日格勒",
+      "id": "morigle",
+      "notes": 30,
+      "complete": 30,
+      "local": 5,
+      "categories": {
+        "吃饭": 17,
+        "咖啡茶饮": 7,
+        "游玩": 29,
+        "住宿": 19,
+        "攻略": 28
+      }
+    },
+    {
+      "city": "额尔古纳",
+      "id": "eerguna",
+      "notes": 66,
+      "complete": 65,
+      "local": 4,
+      "categories": {
+        "吃饭": 39,
+        "咖啡茶饮": 18,
+        "游玩": 55,
+        "住宿": 38,
+        "攻略": 47
+      }
+    },
+    {
+      "city": "根河",
+      "id": "genhe",
+      "notes": 48,
+      "complete": 47,
+      "local": 4,
+      "categories": {
+        "吃饭": 27,
+        "咖啡茶饮": 9,
+        "游玩": 38,
+        "住宿": 28,
+        "攻略": 37
+      }
+    },
+    {
+      "city": "敖鲁古雅",
+      "id": "aoluguya",
+      "notes": 17,
+      "complete": 17,
+      "local": 1,
+      "categories": {
+        "吃饭": 10,
+        "咖啡茶饮": 4,
+        "游玩": 16,
+        "住宿": 12,
+        "攻略": 16
+      }
+    },
+    {
+      "city": "得耳布尔",
+      "id": "deerbur",
+      "notes": 11,
+      "complete": 9,
+      "local": 2,
+      "categories": {
+        "吃饭": 3,
+        "咖啡茶饮": 0,
+        "游玩": 8,
+        "住宿": 4,
+        "攻略": 7
+      }
+    },
+    {
+      "city": "莫尔道嘎",
+      "id": "mordaga",
+      "notes": 51,
+      "complete": 47,
+      "local": 7,
+      "categories": {
+        "吃饭": 29,
+        "咖啡茶饮": 15,
+        "游玩": 36,
+        "住宿": 27,
+        "攻略": 34
+      }
+    },
+    {
+      "city": "白鹿岛",
+      "id": "bailudao",
+      "notes": 16,
+      "complete": 16,
+      "local": 0,
+      "categories": {
+        "吃饭": 7,
+        "咖啡茶饮": 0,
+        "游玩": 13,
+        "住宿": 9,
+        "攻略": 10
+      }
+    },
+    {
+      "city": "临江",
+      "id": "linjiang",
+      "notes": 29,
+      "complete": 29,
+      "local": 0,
+      "categories": {
+        "吃饭": 16,
+        "咖啡茶饮": 5,
+        "游玩": 27,
+        "住宿": 21,
+        "攻略": 20
+      }
+    },
+    {
+      "city": "室韦",
+      "id": "shiwei",
+      "notes": 57,
+      "complete": 55,
+      "local": 5,
+      "categories": {
+        "吃饭": 33,
+        "咖啡茶饮": 14,
+        "游玩": 44,
+        "住宿": 34,
+        "攻略": 39
+      }
+    },
+    {
+      "city": "九卡",
+      "id": "jiuka",
+      "notes": 13,
+      "complete": 13,
+      "local": 0,
+      "categories": {
+        "吃饭": 6,
+        "咖啡茶饮": 1,
+        "游玩": 12,
+        "住宿": 9,
+        "攻略": 12
+      }
+    },
+    {
+      "city": "七卡",
+      "id": "qika",
+      "notes": 18,
+      "complete": 16,
+      "local": 0,
+      "categories": {
+        "吃饭": 7,
+        "咖啡茶饮": 2,
+        "游玩": 15,
+        "住宿": 8,
+        "攻略": 13
+      }
+    },
+    {
+      "city": "黑山头",
+      "id": "heishantou",
+      "notes": 47,
+      "complete": 46,
+      "local": 2,
+      "categories": {
+        "吃饭": 28,
+        "咖啡茶饮": 9,
+        "游玩": 41,
+        "住宿": 29,
+        "攻略": 36
+      }
+    }
+  ]
+}

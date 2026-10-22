@@ -1,0 +1,466 @@
+{
+  "attempt": {
+    "at": "2026-09-17T21:13:53+08:00",
+    "status": "complete",
+    "message": "本次有限样本采集完成。",
+    "method": "CDP public note content",
+    "finishedAt": "2026-09-17T21:29:01+08:00"
+  },
+  "coverage": [
+    {
+      "cityId": "hailaer",
+      "city": "海拉尔",
+      "at": "2026-09-17T21:11:21+08:00",
+      "queries": [
+        {
+          "query": "海拉尔 美食 咖啡",
+          "visibleCards": 27
+        },
+        {
+          "query": "海拉尔 游玩 攻略",
+          "visibleCards": 27
+        },
+        {
+          "query": "海拉尔 住宿",
+          "visibleCards": 27
+        }
+      ],
+      "read": 8,
+      "errors": []
+    },
+    {
+      "cityId": "morigle",
+      "city": "莫日格勒",
+      "at": "2026-09-17T21:13:54+08:00",
+      "queries": [
+        {
+          "query": "莫日格勒 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "莫日格勒 咖啡 茶饮",
+          "visibleCards": 20
+        },
+        {
+          "query": "莫日格勒 游玩 攻略",
+          "visibleCards": 27
+        },
+        {
+          "query": "莫日格勒 住宿",
+          "visibleCards": 27
+        }
+      ],
+      "read": 6,
+      "errors": [],
+      "filtered": [
+        {
+          "id": "6a4666b3000000001603fced",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "6a8466db000000003300a12c",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        }
+      ]
+    },
+    {
+      "cityId": "eerguna",
+      "city": "额尔古纳",
+      "at": "2026-09-17T21:15:33+08:00",
+      "queries": [
+        {
+          "query": "额尔古纳 美食",
+          "visibleCards": 20
+        },
+        {
+          "query": "额尔古纳 咖啡 茶饮",
+          "visibleCards": 27
+        },
+        {
+          "query": "额尔古纳 游玩 攻略",
+          "visibleCards": 27
+        },
+        {
+          "query": "额尔古纳 住宿",
+          "visibleCards": 27
+        }
+      ],
+      "read": 8,
+      "errors": [],
+      "filtered": []
+    },
+    {
+      "cityId": "genhe",
+      "city": "根河",
+      "at": "2026-09-17T21:17:02+08:00",
+      "queries": [
+        {
+          "query": "根河 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "根河 咖啡 茶饮",
+          "visibleCards": 30
+        },
+        {
+          "query": "根河 游玩 攻略",
+          "visibleCards": 27
+        },
+        {
+          "query": "根河 住宿",
+          "visibleCards": 27
+        }
+      ],
+      "read": 5,
+      "errors": [],
+      "filtered": [
+        {
+          "id": "6a1295d60000000006020501",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "68c1340d000000001b01f195",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        }
+      ]
+    },
+    {
+      "cityId": "aoluguya",
+      "city": "敖鲁古雅",
+      "at": "2026-09-17T21:18:34+08:00",
+      "queries": [
+        {
+          "query": "敖鲁古雅 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "敖鲁古雅 咖啡 茶饮",
+          "visibleCards": 27
+        },
+        {
+          "query": "敖鲁古雅 游玩 攻略",
+          "visibleCards": 27
+        },
+        {
+          "query": "敖鲁古雅 住宿",
+          "visibleCards": 20
+        }
+      ],
+      "read": 6,
+      "errors": [],
+      "filtered": [
+        {
+          "id": "68c1340d000000001b01f195",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        }
+      ]
+    },
+    {
+      "cityId": "deerbur",
+      "city": "得耳布尔",
+      "at": "2026-09-17T21:19:50+08:00",
+      "queries": [
+        {
+          "query": "得耳布尔 美食",
+          "visibleCards": 28
+        },
+        {
+          "query": "得耳布尔 咖啡 茶饮",
+          "visibleCards": 30
+        },
+        {
+          "query": "得耳布尔 游玩 攻略",
+          "visibleCards": 20
+        },
+        {
+          "query": "得耳布尔 住宿",
+          "visibleCards": 27
+        }
+      ],
+      "read": 1,
+      "errors": [],
+      "filtered": [
+        {
+          "id": "6a8466db000000003300a12c",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "68c1340d000000001b01f195",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "6a01f54d00000000350256a3",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "689763640000000025019ed3",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "6a70643e000000003301d6ce",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "6a717995000000003301269e",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        }
+      ]
+    },
+    {
+      "cityId": "mordaga",
+      "city": "莫尔道嘎",
+      "at": "2026-09-17T21:21:00+08:00",
+      "queries": [
+        {
+          "query": "莫尔道嘎 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "莫尔道嘎 咖啡 茶饮",
+          "visibleCards": 27
+        },
+        {
+          "query": "莫尔道嘎 游玩 攻略",
+          "visibleCards": 27
+        },
+        {
+          "query": "莫尔道嘎 住宿",
+          "visibleCards": 20
+        }
+      ],
+      "read": 3,
+      "errors": [],
+      "filtered": [
+        {
+          "id": "6a7deb6e0000000022014130",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "68c1340d000000001b01f195",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        }
+      ]
+    },
+    {
+      "cityId": "bailudao",
+      "city": "白鹿岛",
+      "at": "2026-09-17T21:22:24+08:00",
+      "queries": [
+        {
+          "query": "莫尔道嘎 白鹿岛 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "莫尔道嘎 白鹿岛 咖啡 茶饮",
+          "visibleCards": 27
+        },
+        {
+          "query": "莫尔道嘎 白鹿岛 游玩 攻略",
+          "visibleCards": 20
+        },
+        {
+          "query": "莫尔道嘎 白鹿岛 住宿",
+          "visibleCards": 27
+        }
+      ],
+      "read": 3,
+      "errors": [],
+      "filtered": [
+        {
+          "id": "6a717995000000003301269e",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "6a7c00150000000025011174",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        }
+      ]
+    },
+    {
+      "cityId": "linjiang",
+      "city": "临江",
+      "at": "2026-09-17T21:23:29+08:00",
+      "queries": [
+        {
+          "query": "额尔古纳 临江 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "额尔古纳 临江 咖啡 茶饮",
+          "visibleCards": 28
+        },
+        {
+          "query": "额尔古纳 临江 游玩 攻略",
+          "visibleCards": 27
+        },
+        {
+          "query": "额尔古纳 临江 住宿",
+          "visibleCards": 20
+        }
+      ],
+      "read": 2,
+      "errors": [],
+      "filtered": [
+        {
+          "id": "6a717995000000003301269e",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "6a1824e1000000000702bb0d",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        }
+      ]
+    },
+    {
+      "cityId": "shiwei",
+      "city": "室韦",
+      "at": "2026-09-17T21:24:20+08:00",
+      "queries": [
+        {
+          "query": "室韦 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "室韦 咖啡 茶饮",
+          "visibleCards": 27
+        },
+        {
+          "query": "室韦 游玩 攻略",
+          "visibleCards": 27
+        },
+        {
+          "query": "室韦 住宿",
+          "visibleCards": 20
+        }
+      ],
+      "read": 6,
+      "errors": [],
+      "filtered": [
+        {
+          "id": "68c1340d000000001b01f195",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        }
+      ]
+    },
+    {
+      "cityId": "jiuka",
+      "city": "九卡",
+      "at": "2026-09-17T21:25:35+08:00",
+      "queries": [
+        {
+          "query": "呼伦贝尔 九卡 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "呼伦贝尔 九卡 咖啡 茶饮",
+          "visibleCards": 30
+        },
+        {
+          "query": "呼伦贝尔 九卡 游玩 攻略",
+          "visibleCards": 29
+        },
+        {
+          "query": "呼伦贝尔 九卡 住宿",
+          "visibleCards": 27
+        }
+      ],
+      "read": 0,
+      "errors": [],
+      "filtered": [
+        {
+          "id": "6a8466db000000003300a12c",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "6a744144000000002402e414",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "6a028a84000000003700f4b1",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "68c1340d000000001b01f195",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "6a8bf4b0000000002802909b",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "6a126aa30000000036018f25",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        }
+      ]
+    },
+    {
+      "cityId": "qika",
+      "city": "七卡",
+      "at": "2026-09-17T21:26:34+08:00",
+      "queries": [
+        {
+          "query": "呼伦贝尔 七卡 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "呼伦贝尔 七卡 咖啡 茶饮",
+          "visibleCards": 29
+        },
+        {
+          "query": "呼伦贝尔 七卡 游玩 攻略",
+          "visibleCards": 27
+        },
+        {
+          "query": "呼伦贝尔 七卡 住宿",
+          "visibleCards": 27
+        }
+      ],
+      "read": 2,
+      "errors": [],
+      "filtered": [
+        {
+          "id": "6a744144000000002402e414",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "68c1340d000000001b01f195",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "68d2846b0000000013008a4f",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "6946858b000000001d03e409",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        }
+      ]
+    },
+    {
+      "cityId": "heishantou",
+      "city": "黑山头",
+      "at": "2026-09-17T21:27:51+08:00",
+      "queries": [
+        {
+          "query": "黑山头 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "黑山头 咖啡 茶饮",
+          "visibleCards": 27
+        },
+        {
+          "query": "黑山头 游玩 攻略",
+          "visibleCards": 27
+        },
+        {
+          "query": "黑山头 住宿",
+          "visibleCards": 20
+        }
+      ],
+      "read": 5,
+      "errors": [],
+      "filtered": []
+    }
+  ]
+}

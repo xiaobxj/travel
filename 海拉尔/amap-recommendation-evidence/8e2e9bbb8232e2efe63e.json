@@ -1,0 +1,52 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "顺成红焖羊肉",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:23+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "1",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "B0FFFGO86G",
+        "distance": [],
+        "keytag": "火锅",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;快餐厅;快餐厅",
+        "photos": [],
+        "building": [],
+        "typecode": "050300",
+        "shopinfo": "0",
+        "poiweight": [],
+        "adname": "额尔古纳市",
+        "featured_reviews_remake": [],
+        "tel": "13722022936",
+        "id": "B0FFGP0R0B",
+        "address": "拉布达林街道基督教堂对面",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": "320",
+        "atag": "红焖羊肉",
+        "name": "顺成红焖羊肉火锅店(盛大家园店)",
+        "location": "120.184487,50.235606",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

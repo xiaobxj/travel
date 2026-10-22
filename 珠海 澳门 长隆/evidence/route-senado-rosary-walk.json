@@ -1,0 +1,73 @@
+{
+  "status": "1",
+  "info": "ok",
+  "infocode": "10000",
+  "count": "1",
+  "route": {
+    "origin": "113.545322,22.191104",
+    "destination": "113.545515,22.191844",
+    "paths": [
+      {
+        "distance": "179",
+        "duration": "143",
+        "steps": [
+          {
+            "instruction": "沿议事亭前地向东北步行38米向左前方行走",
+            "orientation": "东北",
+            "road": "议事亭前地",
+            "distance": "38",
+            "duration": "30",
+            "polyline": "113.545308,22.191111;113.545486,22.191341;113.545486,22.191341;113.545521,22.191398",
+            "action": "向左前方行走",
+            "assistant_action": [],
+            "walk_type": "0"
+          },
+          {
+            "instruction": "沿议事亭前地向西北步行20米右转",
+            "orientation": "西北",
+            "road": "议事亭前地",
+            "distance": "20",
+            "duration": "16",
+            "polyline": "113.545521,22.191398;113.545538,22.191437;113.545538,22.191458;113.545456,22.191545",
+            "action": "右转",
+            "assistant_action": [],
+            "walk_type": "0"
+          },
+          {
+            "instruction": "沿板樟堂街向东步行63米左转",
+            "orientation": "东",
+            "road": "板樟堂街",
+            "distance": "63",
+            "duration": "50",
+            "polyline": "113.545451,22.191545;113.545968,22.191684;113.54605,22.191693",
+            "action": "左转",
+            "assistant_action": [],
+            "walk_type": "0"
+          },
+          {
+            "instruction": "沿卖草地街向北步行25米左转",
+            "orientation": "北",
+            "road": "卖草地街",
+            "distance": "25",
+            "duration": "20",
+            "polyline": "113.54605,22.191693;113.545977,22.191914",
+            "action": "左转",
+            "assistant_action": [],
+            "walk_type": "0"
+          },
+          {
+            "instruction": "沿卖草地街向西步行33米到达目的地",
+            "orientation": "西",
+            "road": "卖草地街",
+            "distance": "33",
+            "duration": "26",
+            "polyline": "113.545972,22.191914;113.545703,22.191853;113.545703,22.191853;113.54569,22.191888",
+            "action": [],
+            "assistant_action": "到达目的地",
+            "walk_type": "0"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "1",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": "B02F40RARV",
+      "pcode": "440000",
+      "keytag": "游乐园",
+      "type": "体育休闲服务;休闲场所;游乐场",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/0f6d408638ac509e0000003772670426?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFI7UOF2/comment/content_media_external_file_408761_ss__1766284403956_25787132.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/f6cfd97e5f36a13e0000003213938519?type=pic"
+        }
+      ],
+      "building": [],
+      "typecode": "080501",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0FFI7UOF2",
+      "tag": [],
+      "entr_location": "113.533446,22.098638",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "302",
+      "atag": [],
+      "name": "鹦鹉过山车",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 10:00-19:00",
+        "rating": "4.4",
+        "open_time": "10:00-19:00"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313141222",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 00:27:43",
+      "website": [],
+      "address": "富祥湾长隆海洋王国内",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.533412,22.098722",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

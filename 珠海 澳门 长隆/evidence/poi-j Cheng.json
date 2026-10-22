@@ -1,0 +1,41 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "1",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": [],
+      "distance": [],
+      "keytag": "中餐",
+      "importance": [],
+      "biz_ext": [],
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [],
+      "building": [],
+      "typecode": "050100",
+      "shopinfo": "0",
+      "poiweight": [],
+      "adname": "大堂区",
+      "featured_reviews_remake": [],
+      "tel": "+853-63981928",
+      "id": "B0FFK9L4Q6",
+      "address": "哪咤庙斜巷18-a号",
+      "space_num": [],
+      "pname": "澳门特别行政区",
+      "biz_type": "diner",
+      "cityname": "澳门特别行政区",
+      "childtype": [],
+      "atag": "米线,鸡肉",
+      "name": "金城二食店",
+      "location": "113.547545,22.193257",
+      "shopid": [],
+      "favorite_num": [],
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

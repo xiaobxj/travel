@@ -1,0 +1,81 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "蒙妞图娅",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T02:04:03+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "3",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "工厂",
+        "importance": [],
+        "biz_ext": [],
+        "type": "公司企业;公司企业;公司企业",
+        "photos": [],
+        "building": [],
+        "typecode": "170000",
+        "shopinfo": "1",
+        "poiweight": [],
+        "adname": "额尔古纳市",
+        "featured_reviews_remake": [],
+        "tel": "15334819988",
+        "id": "B0HUP5ODFY",
+        "address": "黑山头新镇331国道北300米",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": [],
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": [],
+        "name": "蒙妞图娅奶食品加工厂",
+        "location": "119.582663,50.218987",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      },
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "经济型",
+        "importance": [],
+        "biz_ext": [],
+        "type": "住宿服务;旅馆招待所;旅馆招待所",
+        "photos": [],
+        "building": [],
+        "typecode": "100200",
+        "shopinfo": "0",
+        "poiweight": [],
+        "adname": "额尔古纳市",
+        "featured_reviews_remake": [],
+        "tel": "18747085863;+861056320612,50787601",
+        "id": "B0KRDCM4SE",
+        "address": "黑山头镇蒙妞图娅奶食加工厂西南100米",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "hotel",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": [],
+        "name": "拾光民宿(黑山头镇店)",
+        "location": "119.581072,50.218326",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

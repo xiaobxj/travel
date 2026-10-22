@@ -1,0 +1,50 @@
+{
+  "endpoint": "v5/direction/driving",
+  "params": {
+    "origin": "119.749176,51.056132",
+    "destination": "119.749176,51.056132",
+    "origin_id": "B0L367A2EJ",
+    "destination_id": "B0L367A2EJ",
+    "strategy": 32,
+    "show_fields": "cost,polyline"
+  },
+  "queriedAt": "2026-09-18T01:56:47+08:00",
+  "response": {
+    "status": "1",
+    "info": "OK",
+    "infocode": "10000",
+    "count": "1",
+    "route": {
+      "origin": "119.749176,51.056132",
+      "destination": "119.749176,51.056132",
+      "taxi_cost": "6",
+      "paths": [
+        {
+          "distance": "1",
+          "restriction": "0",
+          "cost": {
+            "duration": "1",
+            "tolls": "0",
+            "toll_distance": "0",
+            "traffic_lights": "0"
+          },
+          "steps": [
+            {
+              "instruction": "向北行驶1米到达目的地",
+              "orientation": "北",
+              "step_distance": "1",
+              "cost": {
+                "duration": "1",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.74714,51.056277;119.74714,51.056277"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

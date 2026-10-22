@@ -1,0 +1,248 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "3",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": "B02F40RARV",
+      "pcode": "440000",
+      "keytag": "海洋馆",
+      "type": "风景名胜;公园广场;水族馆",
+      "photos": [
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFF5EE31/comment/5473594428710e16d72a2f20bef478bc_2048_2048_80.jpg"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/8adc16db11950d518cd031e918ef0486"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFF5EE31/comment/content_media_external_file_408514_ss__1766284173002_50243985.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "110104",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "0756-2993333",
+      "id": "B0FFF5EE31",
+      "tag": [],
+      "entr_location": "113.541282,22.09581",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": "tour",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "301",
+      "atag": [],
+      "name": "鲸鲨馆",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F023045_14106",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "7月至8月 周一至周日 10:00-20:00；9月 周一至周日 10:00-22:00",
+        "rating": "4.6",
+        "open_time": [],
+        "ticket_ordering": "0"
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313141211",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 08:20:12",
+      "website": [],
+      "address": "富祥湾长隆海洋王国内",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.532898,22.096692",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B0FFFFLAX5",
+      "pcode": "440000",
+      "keytag": "海洋馆",
+      "type": "体育休闲服务;休闲场所;游乐场|风景名胜;风景名胜相关;旅游景点",
+      "photos": [
+        {
+          "provider": [],
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/4e88ad991ee70585c8434d939523cc7d"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/0c2db91a601fe3c3c6035639dfef9d4c"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/92adbf1fcacedbebe74edd19141c2235"
+        }
+      ],
+      "building": [],
+      "typecode": "080501|110000",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "4008830083",
+      "id": "B02F40RARV",
+      "tag": [],
+      "entr_location": "113.540626,22.101474",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "601",
+      "atag": [],
+      "name": "长隆海洋王国",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F023045_13937",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "10:00-20:00",
+        "rating": "4.9",
+        "open_time": "10:00-20:00",
+        "ticket_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313141320",
+      "shopinfo": "2",
+      "alias": "珠海长隆|珠海长隆海洋王国",
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 20:56:03",
+      "website": [],
+      "address": "长隆大道",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.538507,22.098750",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B0FFFFLAX5",
+      "pcode": "440000",
+      "keytag": "豪华型",
+      "type": "住宿服务;宾馆酒店;宾馆酒店",
+      "photos": [
+        {
+          "provider": [],
+          "title": "花园",
+          "url": "https://store.is.autonavi.com/showpic/abfa1c17efdda22b8efd4219d78301d2"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFFEYQZJ/comment/content_media_external_file_1000049931_ss__1765197987129_76024669.jpg"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/a7ee0c87c2d19769dda3add128cb1ba6"
+        }
+      ],
+      "building": [],
+      "typecode": "100100",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "0756-2993366",
+      "id": "B0FFFEYQZJ",
+      "tag": [],
+      "entr_location": "113.539175,22.101186",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": "hotel",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "302",
+      "atag": [],
+      "name": "长隆企鹅酒店",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F023045_14060",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "star": [],
+        "opentime2": [],
+        "rating": "4.5",
+        "lowest_price": [],
+        "hotel_ordering": "1",
+        "open_time": []
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313142300",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 17:00:23",
+      "website": [],
+      "address": "环岛东路89号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.538893,22.100976",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

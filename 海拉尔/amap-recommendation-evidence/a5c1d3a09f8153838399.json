@@ -1,0 +1,81 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "老杨扒拉锅",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:16+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "2",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "中餐",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "photos": [],
+        "building": [],
+        "typecode": "050100",
+        "shopinfo": "1",
+        "poiweight": [],
+        "adname": "海拉尔区",
+        "featured_reviews_remake": [],
+        "tel": "18147082335",
+        "id": "B0K65RH9CV",
+        "address": "奋斗镇奋斗综合楼1-16号",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": "扒拉锅",
+        "name": "老杨扒拉锅牛肉锅",
+        "location": "119.774905,49.199734",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      },
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "中餐",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "photos": [],
+        "building": [],
+        "typecode": "050000",
+        "shopinfo": "0",
+        "poiweight": [],
+        "adname": "新巴尔虎右旗",
+        "featured_reviews_remake": [],
+        "tel": [],
+        "id": "B0LAOBJPXF",
+        "address": "白音乌拉路17-40",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": "扒拉锅",
+        "name": "老杨扒拉锅(西旗店)",
+        "location": "116.826164,48.670839",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

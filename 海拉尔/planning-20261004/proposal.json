@@ -1,0 +1,332 @@
+{
+  "status": "awaiting_user_confirmation",
+  "published": false,
+  "overnightConfirmed": "10/5七卡",
+  "foodOct4": [
+    {
+      "name": "雅娟家常菜／红姐砂锅",
+      "time": "热饭预留45–60分钟",
+      "where": "莫尔道嘎镇内，出镇前的正餐候选",
+      "detail": "雅娟可参考排骨炖豆角、野菜煎蛋；红姐可参考菠菜羊肉粉丝、冬瓜排骨砂锅。红姐既有好评，也有等位与服务不满的亲历反馈。两家早餐时段与今日营业尚未确认，不把它们当作已确认早餐店；已入园就不为这两家回头。",
+      "drive": "今天高德：镇政府→雅娟1.8公里约7分，雅娟→公园停车场11.6公里约14分；镇政府→红姐1.6公里约5分，红姐→公园停车场11.5公里约14分。",
+      "sources": [
+        "yajuan",
+        "hongjie",
+        "hongjie-caution"
+      ]
+    },
+    {
+      "name": "红豆坡＋一目九岭自驾：午间简餐",
+      "time": "预留20–30分钟",
+      "where": "入园前购买，合法停车休息处吃",
+      "detail": "这条自驾路线以备好简餐、水和热饮最省折返。另核到森林餐厅、云树里餐厅，但只有高德餐饮登记，尚无充分实吃资料或今日营业确认；两家只作为公园入口／小火车一侧的现场询问备选。",
+      "drive": "高德同批比较：从一目九岭经任一家餐厅再到白鹿岛，比直达多约54.6公里、59分钟驾驶。它们不作为走完一目九岭后的顺路午餐。",
+      "sources": [
+        "white-supply"
+      ]
+    },
+    {
+      "name": "白鹿岛酒店中餐厅",
+      "time": "午后正餐／晚餐预留45–60分钟",
+      "where": "抵达白鹿岛后就餐候选",
+      "detail": "10月初发布的亲历记录支持餐厅近期有人用餐，可参考菌菇汤、豆角排骨、土豆南瓜等菜品；口味和份量也有分歧。到岛后先问当日午晚餐时段、是否接待外来客及最后点菜时间。不要照搬旧价，先看菜单。",
+      "drive": "尚未核到独立餐厅POI；酒店停车场只作白鹿岛接入点，不编造停车场至餐厅的驾车时长。",
+      "sources": [
+        "white-food",
+        "white-bill",
+        "white-supply"
+      ]
+    }
+  ],
+  "itineraryOct5": [
+    {
+      "name": "白鹿岛晨景后出发",
+      "time": "晨景20–30分钟，可删",
+      "detail": "仍住七卡，建议08:30–09:00左右离开白鹿岛，不为等待晨雾拖延出发。"
+    },
+    {
+      "name": "临江：驶路部落俄餐＋村落短逛",
+      "time": "用餐60–75分钟；短逛30–45分钟",
+      "detail": "午餐保留在临江，尝试鸡肉串、焖罐牛肉、红菜汤。近期两篇明确实吃支持；餐厅按民宿整体落点导航，到场再找实际入口。饭后看木刻楞、村落和开放河岸，不把晨雾或日落写成午间体验。",
+      "sources": [
+        "shilu",
+        "shilu-recent"
+      ]
+    },
+    {
+      "name": "室韦：团结广场＋奥利亚列巴房",
+      "time": "合计25–40分钟",
+      "detail": "广场看界河，再买列巴作沿途补给。排队明显就只逛广场；不把口岸参观、界河游船一并排满。",
+      "sources": [
+        "square",
+        "shiwei"
+      ]
+    },
+    {
+      "name": "九卡—七卡：沿途河谷观景",
+      "time": "停车合计30–45分钟",
+      "detail": "选2–3处允许停车的开阔位置看界河与草原。10月2日仍有实走记录，但也有人反馈落叶明显；以河谷与开阔景观为主，不承诺金黄白桦。实际放行与停车按当天现场指示。",
+      "sources": [
+        "road",
+        "road-leaves"
+      ]
+    },
+    {
+      "name": "七卡入住，再吃晚餐",
+      "time": "入住休息30分钟；晚餐约60分钟",
+      "detail": "仍住七卡。兰妮农家院为住宿餐厅之外的晚餐候选，可问现包饺子、当季蔬菜；口味依据是2025年国庆亲历，今日营业未确认。高德路线以兰妮为七卡村内参考点，不代表已订民宿。",
+      "sources": [
+        "lanni"
+      ]
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "太平林场 · 林曦农家菜",
+      "time": "午餐60–75分钟，替换临江正餐",
+      "detail": "如果路上提前饿了，或临江餐厅不开，可在太平改吃东北家常菜。高德显示在白鹿岛到临江途中基本顺路；实吃资料为2025年记录，当前开门时间需确认。",
+      "sources": [
+        "linxi"
+      ]
+    },
+    {
+      "name": "老鹰嘴",
+      "time": "观景20–30分钟；比主方案多约27分钟驾驶",
+      "detail": "仅作可选。加上观景共多预留约1小时；路况、步行入口与当天放行合适再去。若要加，优先取消室韦补给或减少卡线停车，不推迟七卡入住。",
+      "sources": [
+        "eagle",
+        "shiwei"
+      ]
+    }
+  ],
+  "mainRoute": {
+    "id": "recommended_whole",
+    "from": "白鹿岛酒店停车场",
+    "to": "兰妮农家院",
+    "via": [
+      "驶路部落民宿（餐厅整体参考点）",
+      "团结广场",
+      "奥利亚列巴房",
+      "九卡观景点"
+    ],
+    "params": {
+      "origin": "120.858340,51.940445",
+      "destination": "119.535796,50.743351",
+      "strategy": 32,
+      "show_fields": "cost,polyline",
+      "waypoints": "119.984107,51.411223;119.904230,51.342471;119.907088,51.336453;119.749176,51.056132"
+    },
+    "queriedAtStart": "2026-10-04T08:32:01+08:00",
+    "queriedAt": "2026-10-04T08:32:01+08:00",
+    "meters": 221226,
+    "seconds": 15258,
+    "roads": [
+      "331国道",
+      "325县道",
+      "团结街",
+      "健康街"
+    ]
+  },
+  "withEagle": {
+    "id": "recommended_whole_with_eagle",
+    "from": "白鹿岛酒店停车场",
+    "to": "兰妮农家院",
+    "via": [
+      "老鹰嘴",
+      "驶路部落民宿（餐厅整体参考点）",
+      "团结广场",
+      "奥利亚列巴房",
+      "九卡观景点"
+    ],
+    "params": {
+      "origin": "120.858340,51.940445",
+      "destination": "119.535796,50.743351",
+      "strategy": 32,
+      "show_fields": "cost,polyline",
+      "waypoints": "120.033336,51.491490;119.984107,51.411223;119.904230,51.342471;119.907088,51.336453;119.749176,51.056132"
+    },
+    "queriedAtStart": "2026-10-04T08:32:02+08:00",
+    "queriedAt": "2026-10-04T08:32:02+08:00",
+    "meters": 223599,
+    "seconds": 16860,
+    "roads": [
+      "331国道",
+      "325县道",
+      "团结街",
+      "健康街"
+    ]
+  },
+  "legs": [
+    {
+      "id": "bailudao_to_shilu",
+      "from": "白鹿岛酒店停车场",
+      "to": "驶路部落民宿（餐厅整体参考点）",
+      "via": [],
+      "params": {
+        "origin": "120.858340,51.940445",
+        "destination": "119.984107,51.411223",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:32:03+08:00",
+      "queriedAt": "2026-10-04T08:32:03+08:00",
+      "meters": 126611,
+      "seconds": 6899,
+      "roads": [
+        "331国道",
+        "325县道"
+      ]
+    },
+    {
+      "id": "shilu_to_square",
+      "from": "驶路部落民宿（餐厅整体参考点）",
+      "to": "团结广场",
+      "via": [],
+      "params": {
+        "origin": "119.984107,51.411223",
+        "destination": "119.904230,51.342471",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:32:04+08:00",
+      "queriedAt": "2026-10-04T08:32:04+08:00",
+      "meters": 11634,
+      "seconds": 1406,
+      "roads": [
+        "团结街"
+      ]
+    },
+    {
+      "id": "square_to_oliya",
+      "from": "团结广场",
+      "to": "奥利亚列巴房",
+      "via": [],
+      "params": {
+        "origin": "119.904230,51.342471",
+        "destination": "119.907088,51.336453",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:30:52+08:00",
+      "queriedAt": "2026-10-04T08:30:53+08:00",
+      "meters": 690,
+      "seconds": 165,
+      "roads": []
+    },
+    {
+      "id": "oliya_to_jiuka",
+      "from": "奥利亚列巴房",
+      "to": "九卡观景点",
+      "via": [],
+      "params": {
+        "origin": "119.907088,51.336453",
+        "destination": "119.749176,51.056132",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:30:53+08:00",
+      "queriedAt": "2026-10-04T08:30:55+08:00",
+      "meters": 36029,
+      "seconds": 2598,
+      "roads": [
+        "团结街"
+      ]
+    },
+    {
+      "id": "jiuka_to_lanni",
+      "from": "九卡观景点",
+      "to": "兰妮农家院",
+      "via": [],
+      "params": {
+        "origin": "119.749176,51.056132",
+        "destination": "119.535796,50.743351",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:32:05+08:00",
+      "queriedAt": "2026-10-04T08:32:05+08:00",
+      "meters": 45911,
+      "seconds": 2777,
+      "roads": []
+    }
+  ],
+  "sources": {
+    "white-food": {
+      "id": "6ac030d3000000001402de3a",
+      "title": "呼伦贝尔｜美食记录（仅代表个人口味）",
+      "url": "https://www.xiaohongshu.com/explore/6ac030d3000000001402de3a?xsec_token=ABcSfT170kCach6lfK2_Av5AFFL-QeKsT_l_InduUtc2w=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "white-bill": {
+      "id": "6abe55060000000012035ff0",
+      "title": "額爾古納白鹿島酒店餐廳",
+      "url": "https://www.xiaohongshu.com/explore/6abe55060000000012035ff0?xsec_token=ABYG57TGlrMf-WJRlJgYk3klhVfeHe5hixzTLZB1VwpLU=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "white-supply": {
+      "id": "6abdf4b9000000001b02dbb5",
+      "title": "来白鹿岛住之前一定要买吃的！",
+      "url": "https://www.xiaohongshu.com/explore/6abdf4b9000000001b02dbb5?xsec_token=ABQ4JDxbDcaXozAH5wAetPlBWZT--U5adUjCHndORyLYM=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "yajuan": {
+      "id": "6a735797000000003300aed8",
+      "title": "莫尔道嘎吃点啥",
+      "url": "https://www.xiaohongshu.com/explore/6a735797000000003300aed8?xsec_token=ABatAr-cTTcdXOGvX6hnEYKXs7BFObmB7Jno4SjQHMwZc=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "hongjie": {
+      "id": "6aab9cd40000000011038482",
+      "title": "关于大兴安岭途中我吃了啥比较美味的店",
+      "url": "https://www.xiaohongshu.com/explore/6aab9cd40000000011038482?xsec_token=AB4gdyWHNdwNF3FhkXkHxqlqDgneUZz75HZ0suZuAIiwk=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "hongjie-caution": {
+      "id": "6aafcc2e00000000280303d6",
+      "title": "莫尔道嘎避雷！",
+      "url": "https://www.xiaohongshu.com/explore/6aafcc2e00000000280303d6?xsec_token=ABN9X68lO_zESUedI8O1bUQpl7UeXBOT3sXwSqFvaXuhI=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "shilu": {
+      "id": "6abfda6e000000000a024be7",
+      "title": "不止林海秋色，大兴安岭自驾食记",
+      "url": "https://www.xiaohongshu.com/explore/6abfda6e000000000a024be7?xsec_token=ABN8gVlRGLyHYuXGtjbVp_P_VL76nwVUgIJHmt-3p6GLE=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "shilu-recent": {
+      "id": "6abf7e02000000001802f74e",
+      "title": "Day5 奇乾-临江-室韦",
+      "url": "https://www.xiaohongshu.com/explore/6abf7e02000000001802f74e?xsec_token=ABN8gVlRGLyHYuXGtjbVp_P4PdKhRv0P6zbL06o8ATHTo=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "shiwei": {
+      "id": "6ac0bdd20000000012034392",
+      "title": "奇乾-太平村-老鹰嘴-临江村-室韦",
+      "url": "https://www.xiaohongshu.com/explore/6ac0bdd20000000012034392?xsec_token=ABcSfT170kCach6lfK2_Av5AQS55MgZ7MiiWDCVF3Prqs=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "square": {
+      "id": "6abe84e000000000020112e6",
+      "title": "室韦自驾恩和｜九卡八卡沿途点位及避坑干货",
+      "url": "https://www.xiaohongshu.com/explore/6abe84e000000000020112e6?xsec_token=ABYG57TGlrMf-WJRlJgYk3kvJDwqEGLV1hA0zMh0Fqh1g=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "road": {
+      "id": "6abf6a99000000001301b90a",
+      "title": "10.2从室韦出发的卡线😍",
+      "url": "https://www.xiaohongshu.com/explore/6abf6a99000000001301b90a?xsec_token=ABN8gVlRGLyHYuXGtjbVp_Px-eam0aTFc-f4zkNdtd8E8=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "road-leaves": {
+      "id": "6abf3bdc0000000012037481",
+      "title": "10.2 没走卡线的都别走了，拉完了",
+      "url": "https://www.xiaohongshu.com/explore/6abf3bdc0000000012037481?xsec_token=ABN8gVlRGLyHYuXGtjbVp_P3yTZyOO8F9AIqSagD1RMZk=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "linxi": {
+      "id": "68d95f900000000012023085",
+      "title": "白鹿岛↔️临江途中的太平村林曦农家菜",
+      "url": "https://www.xiaohongshu.com/explore/68d95f900000000012023085?xsec_token=AB1Y6caotpfpmZtD90gOc22-BI72BUoyCxarPoPgOxXA8=&xsec_source=pc_feed"
+    },
+    "lanni": {
+      "id": "68df890700000000050106d0",
+      "title": "种草七卡一家农家院，这里是兰妮农家院呀～",
+      "url": "https://www.xiaohongshu.com/explore/68df890700000000050106d0?xsec_token=ABcDugUavjvwAnX9cjjO7kjF5xxC7qT4muNd8dNwpfG0w=&xsec_source=pc_feed"
+    },
+    "eagle": {
+      "id": "6abdfce40000000015003129",
+      "title": "临江，老鹰嘴，轿车随便去",
+      "url": "https://www.xiaohongshu.com/explore/6abdfce40000000015003129?xsec_token=ABQ4JDxbDcaXozAH5wAetPlGJRNkRNfkiYderHSkWW5kw=&xsec_source=pc_search&source=web_explore_feed"
+    }
+  },
+  "dayBudget": "不含晚餐约7–8小时；排队、路况及长时间拍照另加",
+  "nextAction": "用户确认具体方案后，再更新行程源文件、构建、检查并发布。"
+}

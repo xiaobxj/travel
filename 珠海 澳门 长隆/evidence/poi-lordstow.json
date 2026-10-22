@@ -1,0 +1,387 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "5",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": [],
+      "pcode": "820000",
+      "keytag": "西式糕点",
+      "type": "餐饮服务;糕饼店;糕饼店",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0J1HHC1XQ/comment/40C0F95D_2F4E_4E3A_9132_4C24EF17266E_L0_001_1500_200_1768305343029_54430526.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0J1HHC1XQ/comment/44A9C7DD_F7A4_4133_8107_5DB3D6C20A56_L0_001_1785_200_1765456359357_78160081.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/3dce58b2e6b5fb9b0000000981106262?type=pic"
+        }
+      ],
+      "building": [],
+      "typecode": "050800",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "嘉模堂区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "+853-28576580",
+      "id": "B0J1HHC1XQ",
+      "tag": "葡式蛋挞,蛋挞",
+      "entr_location": "113.56208858710788,22.15053609030221",
+      "adcode": "820006",
+      "pname": "澳门特别行政区",
+      "biz_type": "diner",
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": "葡式蛋挞,蛋挞",
+      "name": "安德鲁饼店(官也街店)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "20.00",
+        "opentime2": "周一至周日 09:00-19:00",
+        "rating": "4.7",
+        "open_time": "09:00-19:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313148402",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-05 16:06:45",
+      "website": [],
+      "address": "官也街9号地下D铺",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.562129,22.150555",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "820000",
+      "keytag": "西式糕点",
+      "type": "餐饮服务;餐饮相关场所;餐饮相关",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/28cb382c060840cc0000003108504226?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/4bb17363e361f6330000003455834309?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/8f4b225fabb2c9010000000960438804?type=pic"
+        }
+      ],
+      "building": [],
+      "typecode": "050000",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "路氹填海区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "+853-28844685",
+      "id": "B0L69U25DL",
+      "tag": [],
+      "entr_location": "113.569426,22.141769",
+      "adcode": "820007",
+      "pname": "澳门特别行政区",
+      "biz_type": "diner",
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "安德鲁饼店及咖啡店(伦敦人)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "51.00",
+        "opentime2": "周一至周日 10:00-22:00",
+        "rating": "4.6",
+        "open_time": "10:00-22:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313147501",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-05 11:44:37",
+      "website": [],
+      "address": "澳门伦敦人L2-2113",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.570136,22.141722",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B073D0M5VY",
+      "pcode": "820000",
+      "keytag": "蛋糕店",
+      "type": "餐饮服务;咖啡厅;咖啡厅|餐饮服务;糕饼店;糕饼店",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFHKCRCG/comment/dd487d9581b38c61749262e8ab51f979_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFHKCRCG/comment/BD6074ED_9075_4BEA_BDBD_ACB6B0F45D10_L0_001_2000_150_1759297463626_28190679.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFHKCRCG/comment/fdfe20ae4d1a1d0a5fe6b9b7d08d06a7_2048_2048_80.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "050500|050800",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "路氹填海区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "+853 2886 6889",
+      "id": "B0FFHKCRCG",
+      "tag": "葡式蛋挞,葡挞,蛋挞,奶茶,柠檬茶,牛角面包,橙皮天使蛋糕,咖啡,蓝莓优格,手工曲奇,酸奶,安德鲁葡挞,冰啡,各式蛋糕,木糠布丁",
+      "entr_location": [],
+      "adcode": "820007",
+      "pname": "澳门特别行政区",
+      "biz_type": "diner",
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "201",
+      "atag": "葡式蛋挞,葡挞,蛋挞,奶茶,柠檬茶,牛角面包,橙皮天使蛋糕,咖啡,蓝莓优格,手工曲奇,酸奶,安德鲁葡挞,冰啡,各式蛋糕,木糠布丁",
+      "name": "安德鲁饼店及咖啡室(威尼斯人购物中心)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "19.00",
+        "opentime2": "周一至周日 10:00-22:00",
+        "rating": "4.6",
+        "open_time": "10:00-22:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313147511",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "1",
+      "email": [],
+      "timestamp": "2026-09-06 18:28:12",
+      "website": [],
+      "address": "望德圣母湾大马路威尼斯人购物中心大运河购物中心脸谱街870号3楼",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": "CG0003780210300308",
+        "truefloor": "L3",
+        "cpid": "B073D0M5VY",
+        "floor": "3"
+      },
+      "exit_location": [],
+      "location": "113.567010,22.145553",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "820000",
+      "keytag": "蛋挞",
+      "type": "餐饮服务;糕饼店;糕饼店",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0L1MAGG6D/comment/content_media_external_file_185332_ss__1757388912538_17932884.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0L1MAGG6D/comment/3EF74B97_70BD_4991_8012_CF7EC3E62481_L0_001_1500_200_1770006480998_69598434.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0L1MAGG6D/comment/18E2228B_ABCE_4682_8223_8BAC6E1D11BE_L0_001_4032_2268_1766398348488_78164761.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "050800",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "圣方济各堂区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "+853-28882046",
+      "id": "B0L1MAGG6D",
+      "tag": "蛋挞,低卡覆盆子沙冰,鸡肉千层阔面",
+      "entr_location": "113.55616555882364,22.115178811886917",
+      "adcode": "820008",
+      "pname": "澳门特别行政区",
+      "biz_type": "diner",
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": "蛋挞,低卡覆盆子沙冰,鸡肉千层阔面",
+      "name": "澳门安德鲁饼店",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "25.00",
+        "opentime2": "周一至周日 07:00-21:00",
+        "rating": "4.7",
+        "open_time": "07:00-21:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313143421",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 01:32:56",
+      "website": [],
+      "address": "戴绅礼街1号地下",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.556395,22.115244",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "820000",
+      "keytag": "咖啡",
+      "type": "餐饮服务;咖啡厅;咖啡厅",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B073D00I81/comment/6D3DB977_D430_4880_904B_35CFB862181E_L0_001_1206_160_1766047501847_51944867.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B073D00I81/comment/757E765D_2F4C_4353_9439_C330764A519F_L0_001_1500_200_1762907288479_19740004.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B073D00I81/comment/4162E6AF_A631_4ED0_85E6_41BD6AD79967_L0_001_1206_136_1766047501847_54540381.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "050500",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "圣方济各堂区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "+853 2888 1851",
+      "id": "B073D00I81",
+      "tag": "下午茶,蛋挞",
+      "entr_location": "113.556126,22.115357",
+      "adcode": "820008",
+      "pname": "澳门特别行政区",
+      "biz_type": "diner",
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": "下午茶,蛋挞",
+      "name": "安德鲁咖啡店",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F023045_537",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "73.00",
+        "opentime2": "周一至周五 09:00-18:00；周六至周日 08:00-18:00",
+        "rating": "4.7",
+        "open_time": "08:00-18:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313143421",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-05 23:48:05",
+      "website": [],
+      "address": "屠场前地9号地下",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.556198,22.115383",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

@@ -1,0 +1,52 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "丹姐农家院",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:45+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "1",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "内蒙菜",
+        "importance": [],
+        "biz_ext": [],
+        "type": "体育休闲服务;休闲场所;休闲场所",
+        "photos": [],
+        "building": [],
+        "typecode": "080500",
+        "shopinfo": "0",
+        "poiweight": [],
+        "adname": "额尔古纳市",
+        "featured_reviews_remake": [],
+        "tel": "15548003659",
+        "id": "B0JUZBU06B",
+        "address": "七卡主街西侧",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": [],
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": [],
+        "name": "丹姐农家院",
+        "location": "119.522370,50.748283",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

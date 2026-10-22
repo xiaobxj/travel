@@ -1,0 +1,20 @@
+# Local browser profiles contain login sessions and caches.
+edge-preview/
+xhs-cdp-profile/
+
+# Local tools and generated Python caches.
+.ui-tools/
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local credentials and operating system files.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+Thumbs.db
+.DS_Store

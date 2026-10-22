@@ -1,0 +1,61 @@
+{
+  "researchedAt": "2026-10-03T08:35:00+08:00",
+  "scope": "根河—得耳布尔—莫尔道嘎沿途游玩；莫尔道嘎森林公园及白鹿岛保留在次日",
+  "notesRead": 27,
+  "drivingPolicy": "所有驾驶时间使用当轮高德查询；游玩、用餐、停车及步行另计。不得用笔记车程替代高德。",
+  "recommendedOrder": ["根河市区", "觉乐驯鹿园", "根白公路沿途短停", "得耳布尔午餐", "得耳布尔站站前（可选）", "莫尔道嘎", "龙山公园（可选）"],
+  "decisions": [
+    {
+      "place": "兴安神鹿园",
+      "status": "暂不排入固定行程，确认恢复开放后再加入",
+      "reason": "9月26日与9月29日亲访记录分别反馈封路和当天闭园；近期发布好评中存在去年游览及9月28日游览，不能证明10月3日恢复。",
+      "sources": ["6ab7290d000000001b033dde", "6abb2b1b000000001c00d66e", "6abcdc4400000000120394bb", "6abfa16a00000000140003ef"],
+      "limits": "不推断今天必定关闭，不传播未经证实的关闭原因。"
+    },
+    {
+      "place": "觉乐驯鹿园",
+      "status": "推荐替代；若已在敖鲁古雅完成喂鹿则可跳过",
+      "visitMinutesEstimate": [60, 90],
+      "sources": ["6abfd4b100000000180154a8", "6aaa6dfa000000002601ce9b", "6ab2d042000000000b0078b2", "68d0a86a000000001202e576"],
+      "priceEvidence": "10月2日笔记记录门票35元、苔藓20元，非景区当前报价保证。",
+      "limits": "有近期到访自述，未电话确认10月3日营业；注意鹿角，跟随工作人员指引互动。高德仅核到景区POI，未核到独立停车入口。",
+      "amapEvidence": "../juele-reindeer-driving-20261003-083330.json"
+    },
+    {
+      "place": "根白公路",
+      "status": "沿途主要风景",
+      "stopMinutesEstimate": [45, 75],
+      "sources": ["6ab14fb50000000031000ad9", "6abfc384000000001403932d", "6abcf5190000000013019618"],
+      "limits": "仅在允许停车处短停；未核实独立收费景点或观景停车场。最新笔记提落叶与初雪，不能保证完整金色长廊；不在铁路上拍照。"
+    },
+    {
+      "place": "得耳布尔午餐及站前",
+      "mealMinutesEstimate": [45, 60],
+      "stationMinutesEstimate": [10, 15],
+      "status": "午餐补给；车站外观可选",
+      "sources": ["6ab79e38000000000a02514d", "6a7b23840000000022032455"],
+      "limits": "站前外观与公共街道散步，不承诺进入站台或铁路作业区域。"
+    },
+    {
+      "place": "莫尔道嘎龙山公园",
+      "status": "到镇后按天气体力选步行登高",
+      "shortWalkMinutesEstimate": [45, 75],
+      "summitRoundTripMinutesEstimate": [90, 120],
+      "sources": ["6abcf5190000000013019618", "6aaf4129000000002a006b29", "6ab4b79f0000000018028366", "6ab6565b000000000b007b40"],
+      "limits": "高德公园POI非已核实独立步行入口；只导航至公园附近，不照搬后山开车登顶路线。"
+    }
+  ],
+  "driving": {
+    "queriedAt": "2026-10-03T08:35:01+08:00",
+    "evidence": "../genhe-juele-station-longshan-final-driving-20261003-083501.json",
+    "origin": "根河市人民政府（市区参考点，非酒店）",
+    "basic": {"meters": 123794, "seconds": 7805, "via": ["觉乐驯鹿园", "得耳布尔镇"], "destination": "莫尔道嘎镇人民政府"},
+    "withStation": {"meters": 126710, "seconds": 8374},
+    "withStationAndLongshan": {"meters": 128694, "seconds": 8613},
+    "stationIncrement": {"meters": 2916, "seconds": 569},
+    "townToLongshan": {"meters": 1273, "seconds": 197},
+    "method": "完整途经路线独立查询；不将独立分段相加冒充完整路线。"
+  },
+  "dayBudgetHoursEstimate": [6, 8],
+  "dayBudgetScope": "含驾驶、觉乐、根白线短停、午餐、车站及龙山短步行；不含敖鲁古雅完整游览。"
+}

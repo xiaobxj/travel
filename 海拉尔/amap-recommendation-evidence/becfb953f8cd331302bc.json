@@ -1,0 +1,52 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "兴乐烧麦",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:24+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "1",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "烧麦",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "photos": [],
+        "building": [],
+        "typecode": "050100",
+        "shopinfo": "0",
+        "poiweight": [],
+        "adname": "额尔古纳市",
+        "featured_reviews_remake": [],
+        "tel": "13134911968",
+        "id": "B0FFKUX31D",
+        "address": "鸿雁街219-5号",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": "烧麦",
+        "name": "兴乐烧麦馆",
+        "location": "120.176222,50.244206",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

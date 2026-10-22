@@ -1,0 +1,282 @@
+{
+  "bailudao-new-linxi": {
+    "status": "verified",
+    "poi": {
+      "id": "B0FFHE1DSE",
+      "name": "额尔古纳市莫尔道嘎太平林曦农家菜",
+      "location": "120.285873,51.501007",
+      "address": "莫尔道嘎镇太平林场桥头",
+      "adname": "额尔古纳市",
+      "cityname": "呼伦贝尔市",
+      "type": "餐饮服务;餐饮相关场所;餐饮相关",
+      "typecode": "050000"
+    },
+    "cityId": "bailudao",
+    "matchReason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact",
+    "queriedAt": "2026-09-18T01:54:38+08:00",
+    "poiEvidenceFiles": [
+      "amap-recommendation-evidence\\1704f557df89397cbccd.json",
+      "amap-recommendation-evidence\\48e121f8309698bd52d4.json"
+    ],
+    "anchorName": "白鹿岛酒店停车场",
+    "anchorStraightMeters": 62790,
+    "routeOffsetMeters": 18,
+    "segmentIndex": 7,
+    "day": 4,
+    "from": "白鹿岛酒店停车场",
+    "to": "临江",
+    "mandatoryVia": [],
+    "fromAnchor": {
+      "meters": 95247,
+      "seconds": 5264,
+      "evidenceFile": "amap-recommendation-evidence\\57a01a449dea933e2cf7.json",
+      "queriedAt": "2026-09-18T01:56:40+08:00",
+      "roads": [
+        "未命名路",
+        "331国道",
+        "325县道"
+      ]
+    },
+    "baseline": {
+      "meters": 126304,
+      "seconds": 8191,
+      "evidenceFile": "amap-recommendation-evidence\\3e8f675545a0e9f311b9.json",
+      "queriedAt": "2026-09-18T01:56:40+08:00",
+      "roads": [
+        "未命名路",
+        "331国道",
+        "325县道"
+      ]
+    },
+    "withStop": {
+      "meters": 126304,
+      "seconds": 8191,
+      "evidenceFile": "amap-recommendation-evidence\\438f65b76b412bd42461.json",
+      "queriedAt": "2026-09-18T01:56:41+08:00",
+      "roads": [
+        "未命名路",
+        "331国道",
+        "325县道"
+      ]
+    },
+    "orderedVia": [
+      "额尔古纳市莫尔道嘎太平林曦农家菜"
+    ],
+    "addedMeters": 0,
+    "addedSeconds": 0,
+    "rawDeltaMeters": 0,
+    "rawDeltaSeconds": 0,
+    "comparisonStatus": "ready",
+    "comparisonNote": "同策略同批次重算；差值不包含用餐、游玩、停车与步行。"
+  },
+  "mordaga-hongjie": {
+    "status": "verified",
+    "poi": {
+      "id": "B0KU37EUGG",
+      "name": "奥莉希亚红姐特色砂锅",
+      "location": "120.780226,51.266377",
+      "address": "额尔古纳国家级自然保护区管理局东南侧50米",
+      "adname": "额尔古纳市",
+      "cityname": "呼伦贝尔市",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "typecode": "050100"
+    },
+    "cityId": "mordaga",
+    "matchReason": "新增到店笔记写出“奥莉希亚红姐特色砂锅”全称，与高德莫尔道嘎店匹配，另有两篇实吃砂锅反馈。",
+    "kind": "exact",
+    "queriedAt": "2026-09-18T01:54:34+08:00",
+    "poiEvidenceFiles": [
+      "amap-recommendation-evidence\\8606d654a5abfcc44850.json"
+    ],
+    "anchorName": "莫尔道嘎",
+    "anchorStraightMeters": 1239,
+    "routeOffsetMeters": 203,
+    "segmentIndex": 5,
+    "day": 3,
+    "from": "莫尔道嘎",
+    "to": "森林公园停车场",
+    "mandatoryVia": [],
+    "fromAnchor": {
+      "meters": 1624,
+      "seconds": 244,
+      "evidenceFile": "amap-recommendation-evidence\\670c98cc5aa66ced8f19.json",
+      "queriedAt": "2026-09-18T02:07:28+08:00",
+      "roads": [
+        "未命名路",
+        "325县道",
+        "302省道"
+      ]
+    },
+    "baseline": {
+      "meters": 12719,
+      "seconds": 1049,
+      "evidenceFile": "amap-recommendation-evidence\\2070b2d3bd8156d83539.json",
+      "queriedAt": "2026-09-18T01:56:38+08:00",
+      "roads": [
+        "未命名路",
+        "325县道",
+        "302省道"
+      ]
+    },
+    "withStop": {
+      "meters": 13128,
+      "seconds": 1137,
+      "evidenceFile": "amap-recommendation-evidence\\65ee8e7173bc3558787a.json",
+      "queriedAt": "2026-09-18T02:07:28+08:00",
+      "roads": [
+        "未命名路",
+        "325县道",
+        "302省道"
+      ]
+    },
+    "orderedVia": [
+      "奥莉希亚红姐特色砂锅"
+    ],
+    "addedMeters": 409,
+    "addedSeconds": 88,
+    "rawDeltaMeters": 409,
+    "rawDeltaSeconds": 88,
+    "comparisonStatus": "ready",
+    "comparisonNote": "同策略同批次重算；差值不包含用餐、游玩、停车与步行。"
+  },
+  "mordaga-new-jiemei": {
+    "status": "verified",
+    "poi": {
+      "id": "B0FFFGP0DC",
+      "name": "姐妹酒家(河东一道街店)",
+      "location": "120.778982,51.260249",
+      "address": "莫尔道嘎镇河东一道街02-412",
+      "adname": "额尔古纳市",
+      "cityname": "呼伦贝尔市",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "typecode": "050100"
+    },
+    "cityId": "mordaga",
+    "matchReason": "本轮已读笔记明确写出店名和小镇，高德返回同名镇内商铺；检查行政区及地址，并排除远处同名分店。",
+    "kind": "exact",
+    "queriedAt": "2026-09-18T02:04:00+08:00",
+    "poiEvidenceFiles": [
+      "amap-recommendation-evidence\\9e51fef7293ebef9ec7c.json"
+    ],
+    "anchorName": "莫尔道嘎",
+    "anchorStraightMeters": 684,
+    "routeOffsetMeters": 20,
+    "segmentIndex": 5,
+    "day": 3,
+    "from": "莫尔道嘎",
+    "to": "森林公园停车场",
+    "mandatoryVia": [],
+    "fromAnchor": {
+      "meters": 709,
+      "seconds": 120,
+      "evidenceFile": "amap-recommendation-evidence\\9d21a67ab88eb11db8c5.json",
+      "queriedAt": "2026-09-18T02:07:30+08:00",
+      "roads": [
+        "未命名路",
+        "325县道"
+      ]
+    },
+    "baseline": {
+      "meters": 12719,
+      "seconds": 1049,
+      "evidenceFile": "amap-recommendation-evidence\\2070b2d3bd8156d83539.json",
+      "queriedAt": "2026-09-18T01:56:38+08:00",
+      "roads": [
+        "未命名路",
+        "325县道",
+        "302省道"
+      ]
+    },
+    "withStop": {
+      "meters": 12720,
+      "seconds": 1087,
+      "evidenceFile": "amap-recommendation-evidence\\db10c56404ce3a245f85.json",
+      "queriedAt": "2026-09-18T02:07:30+08:00",
+      "roads": [
+        "未命名路",
+        "325县道",
+        "302省道"
+      ]
+    },
+    "orderedVia": [
+      "姐妹酒家(河东一道街店)"
+    ],
+    "addedMeters": 1,
+    "addedSeconds": 38,
+    "rawDeltaMeters": 1,
+    "rawDeltaSeconds": 38,
+    "comparisonStatus": "ready",
+    "comparisonNote": "同策略同批次重算；差值不包含用餐、游玩、停车与步行。"
+  },
+  "mordaga-new-yajuan": {
+    "status": "verified",
+    "poi": {
+      "id": "B0H1X430OA",
+      "name": "雅娟家常菜",
+      "location": "120.782224,51.266662",
+      "address": "莫尔道嘎镇飞马东侧100米处",
+      "adname": "额尔古纳市",
+      "cityname": "呼伦贝尔市",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "typecode": "050100"
+    },
+    "cityId": "mordaga",
+    "matchReason": "本轮已读笔记明确写出店名和小镇，高德返回同名镇内商铺；检查行政区及地址，并排除远处同名分店。",
+    "kind": "exact",
+    "queriedAt": "2026-09-18T02:04:01+08:00",
+    "poiEvidenceFiles": [
+      "amap-recommendation-evidence\\7f28ffd4f9bd8a19f9d0.json"
+    ],
+    "anchorName": "莫尔道嘎",
+    "anchorStraightMeters": 1234,
+    "routeOffsetMeters": 343,
+    "segmentIndex": 5,
+    "day": 3,
+    "from": "莫尔道嘎",
+    "to": "森林公园停车场",
+    "mandatoryVia": [],
+    "fromAnchor": {
+      "meters": 1765,
+      "seconds": 267,
+      "evidenceFile": "amap-recommendation-evidence\\0ee2bf7995c7d7910607.json",
+      "queriedAt": "2026-09-18T02:07:30+08:00",
+      "roads": [
+        "未命名路",
+        "325县道",
+        "302省道"
+      ]
+    },
+    "baseline": {
+      "meters": 12719,
+      "seconds": 1049,
+      "evidenceFile": "amap-recommendation-evidence\\2070b2d3bd8156d83539.json",
+      "queriedAt": "2026-09-18T01:56:38+08:00",
+      "roads": [
+        "未命名路",
+        "325县道",
+        "302省道"
+      ]
+    },
+    "withStop": {
+      "meters": 13626,
+      "seconds": 1178,
+      "evidenceFile": "amap-recommendation-evidence\\459be61ca468d9ffb7f3.json",
+      "queriedAt": "2026-09-18T02:07:31+08:00",
+      "roads": [
+        "未命名路",
+        "325县道",
+        "302省道"
+      ]
+    },
+    "orderedVia": [
+      "雅娟家常菜"
+    ],
+    "addedMeters": 907,
+    "addedSeconds": 129,
+    "rawDeltaMeters": 907,
+    "rawDeltaSeconds": 129,
+    "comparisonStatus": "ready",
+    "comparisonNote": "同策略同批次重算；差值不包含用餐、游玩、停车与步行。"
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "93",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": [],
+      "pcode": "820000",
+      "keytag": "文物古迹",
+      "type": "风景名胜;风景名胜;世界遗产",
+      "photos": [
+        {
+          "provider": [],
+          "title": [],
+          "url": "http://aos-cdn-image.amap.com/sns/ugccomment/b8c3041b-5856-4f8c-be94-bd6e39072008.jpg"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/d19111b5b06a496334e2418433cf648d"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/c31f5014e6fa98c24129c263726229df"
+        }
+      ],
+      "building": [],
+      "typecode": "110201",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "花王堂区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B073D00ASB",
+      "tag": [],
+      "entr_location": "113.546139,22.194443",
+      "adcode": "820002",
+      "pname": "澳门特别行政区",
+      "biz_type": "tour",
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": "澳门半岛",
+      "childtype": [],
+      "atag": [],
+      "name": "大三巴牌坊",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F022045_732",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 09:00-18:00 最晚进入17:30",
+        "rating": "4.9",
+        "open_time": "09:00-18:00",
+        "ticket_ordering": "0"
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313243312",
+      "shopinfo": "2",
+      "alias": "Ruins of St Paul",
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 07:50:55",
+      "website": [],
+      "address": "炮台山下",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.545883,22.194627",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "820000",
+      "keytag": "购物服务,购物相关场所,购物相关场所",
+      "type": "购物服务;购物相关场所;购物相关场所",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/9675c14bfa959cbe0dd58d38a21a1aa7"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/8e60f3f2b0cd84f10000003254136362?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/9dc6047c54c6195c0000003254148087?type=pic"
+        }
+      ],
+      "building": [],
+      "typecode": "060000",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "花王堂区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0K0KC6K29",
+      "tag": [],
+      "entr_location": "113.546208,22.193615",
+      "adcode": "820002",
+      "pname": "澳门特别行政区",
+      "biz_type": [],
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": "澳门半岛",
+      "childtype": [],
+      "atag": [],
+      "name": "大三巴壹号手信坊",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 09:00-20:00",
+        "rating": "4.1",
+        "open_time": "09:00-20:00"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313243302",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 13:28:32",
+      "website": [],
+      "address": "大三巴巷1-a号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.546260,22.193621",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "820000",
+      "keytag": "道路",
+      "type": "地名地址信息;交通地名;道路名",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/BZ7FP900TY/comment/0419e369f2fe15028e3bdc06a353fc42_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/BZ7FP900TY/comment/6e1d19b6ad201b5a7a169423270ccecd_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/BZ7FP900TY/comment/76cdb06abf1ffd666ca9b16d7df9b09d_2048_2048_80.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "190301",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "花王堂区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "BZ7FP900TY",
+      "tag": [],
+      "entr_location": [],
+      "adcode": "820002",
+      "pname": "澳门特别行政区",
+      "biz_type": [],
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "大三巴街",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": [],
+        "rating": [],
+        "open_time": []
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313243301",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-02-10 14:01:08",
+      "website": [],
+      "address": "花王堂区",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.545826,22.193182",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "820000",
+      "keytag": "小吃快餐",
+      "type": "购物服务;专卖店;专营店",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/d1518627178e55e28e0ca25af2d9adfb"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0JGVM2JB6/comment/8a84d73a41d069431705199684b3e083_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0HUBUFNTN/comment/73bea3b78b01274af0c0142f0e0a0204_2048_2048_80.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "061200",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "花王堂区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "+853-28362387",
+      "id": "B0HUBUFNTN",
+      "tag": "胡椒饼",
+      "entr_location": "113.545775,22.192972",
+      "adcode": "820002",
+      "pname": "澳门特别行政区",
+      "biz_type": [],
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": "澳门半岛",
+      "childtype": [],
+      "atag": "胡椒饼",
+      "name": "大三巴胡椒饼",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "18.00",
+        "opentime2": "周一至周日 11:00-20:00",
+        "rating": "4.1",
+        "open_time": "11:00-20:00"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313243302",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-05 18:53:50",
+      "website": [],
+      "address": "大三巴街19-23号国汇大厦地下D座",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.545901,22.193280",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "820000",
+      "keytag": "药店",
+      "type": "医疗保健服务;医药保健销售店;药房",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/c63478561ded18b70000000644748601"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/549e70bf42807655f62400f503750c6e"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/4a45403609637afa281cec891a9412b3"
+        }
+      ],
+      "building": [],
+      "typecode": "090601",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "花王堂区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "+853 2835 8102",
+      "id": "B0MGMH9O9U",
+      "tag": [],
+      "entr_location": [],
+      "adcode": "820002",
+      "pname": "澳门特别行政区",
+      "biz_type": [],
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": "澳门半岛",
+      "childtype": [],
+      "atag": [],
+      "name": "仁济药房(大三巴店)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F022045_35926",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 08:00-22:00",
+        "rating": [],
+        "open_time": "08:00-22:00"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313243301",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-04 02:41:51",
+      "website": [],
+      "address": "大三巴街28号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.545710,22.193354",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

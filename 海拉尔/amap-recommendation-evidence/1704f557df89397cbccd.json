@@ -1,0 +1,52 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "林曦农家菜",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:37+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "1",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "农家菜",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "photos": [],
+        "building": [],
+        "typecode": "050000",
+        "shopinfo": "0",
+        "poiweight": [],
+        "adname": "额尔古纳市",
+        "featured_reviews_remake": [],
+        "tel": "13394817825;15374622489",
+        "id": "B0FFHE1DSE",
+        "address": "莫尔道嘎镇太平林场桥头",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": "农家菜",
+        "name": "额尔古纳市莫尔道嘎太平林曦农家菜",
+        "location": "120.285873,51.501007",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

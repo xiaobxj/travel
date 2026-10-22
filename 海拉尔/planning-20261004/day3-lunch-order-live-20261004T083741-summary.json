@@ -1,0 +1,497 @@
+{
+  "source": "AMap live API; no local cache",
+  "coordinateSystem": "GCJ-02",
+  "queriedAtStart": "2026-10-04T08:37:41+08:00",
+  "pois": {
+    "森林公园停车场": {
+      "id": "B0FFM0VY4Z",
+      "name": "莫尔道嘎国家森林公园停车场",
+      "location": "120.673708,51.331505",
+      "address": "莫尔道嘎镇11公里处莫尔道嘎国家森林公园",
+      "adname": "额尔古纳市",
+      "type": "交通设施服务;停车场;公共停车场"
+    },
+    "红豆坡": {
+      "parent": "B01D600X4B",
+      "distance": [],
+      "keytag": "自然风光",
+      "importance": [],
+      "biz_ext": [],
+      "type": "风景名胜;风景名胜相关;旅游景点",
+      "photos": [],
+      "building": [],
+      "typecode": "110000",
+      "shopinfo": "2",
+      "poiweight": [],
+      "adname": "额尔古纳市",
+      "featured_reviews_remake": [],
+      "tel": "0470-2963410",
+      "id": "B0FFFGOZZK",
+      "address": "莫尔道嘎镇11公里处莫尔道嘎国家森林公园",
+      "space_num": [],
+      "pname": "内蒙古自治区",
+      "biz_type": "tour",
+      "cityname": "呼伦贝尔市",
+      "childtype": "301",
+      "atag": [],
+      "name": "红豆坡",
+      "location": "120.807667,51.351633",
+      "shopid": [],
+      "favorite_num": [],
+      "featured_reviews": []
+    },
+    "一目九岭": {
+      "id": "B0FFFGOZZU",
+      "name": "一目九岭",
+      "location": "120.820550,51.379818",
+      "anchorNote": "景点整体POI，独立停车入口未核实。"
+    },
+    "莫尔道嘎": {
+      "id": "B01D601JZN",
+      "name": "莫尔道嘎镇人民政府",
+      "location": "120.785747,51.255782",
+      "address": "莫尔道嘎镇",
+      "adname": "额尔古纳市",
+      "type": "政府机构及社会团体;政府机关;乡镇级政府及事业单位"
+    },
+    "白鹿岛酒店停车场": {
+      "id": "B0MUPXG1QE",
+      "name": "额尔古纳白鹿岛酒店地上停车场",
+      "location": "120.858340,51.940445",
+      "address": "白鹿岛酒店东侧",
+      "adname": "额尔古纳市",
+      "type": "交通设施服务;停车场;公共停车场"
+    },
+    "白鹿岛漂流": {
+      "parent": [],
+      "distance": [],
+      "keytag": "湖泊河流",
+      "importance": [],
+      "biz_ext": [],
+      "type": "体育休闲服务;休闲场所;水上活动中心",
+      "photos": [],
+      "building": [],
+      "typecode": "080505",
+      "shopinfo": "0",
+      "poiweight": [],
+      "adname": "额尔古纳市",
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0KDXULSM1",
+      "address": "331国道",
+      "space_num": [],
+      "pname": "内蒙古自治区",
+      "biz_type": [],
+      "cityname": "呼伦贝尔市",
+      "childtype": [],
+      "atag": [],
+      "name": "白鹿岛漂流",
+      "location": "120.868620,51.946861",
+      "shopid": [],
+      "favorite_num": [],
+      "featured_reviews": []
+    },
+    "森林餐厅": {
+      "parent": "B01D600X4B",
+      "pcode": "150000",
+      "keytag": "中餐",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [],
+      "building": [],
+      "typecode": "050100",
+      "poiweight": [],
+      "citycode": "0470",
+      "adname": "额尔古纳市",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0FFKV59WO",
+      "tag": [],
+      "entr_location": [],
+      "adcode": "150784",
+      "pname": "内蒙古自治区",
+      "biz_type": "diner",
+      "cityname": "呼伦贝尔市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "302",
+      "atag": [],
+      "name": "森林餐厅",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "86.00",
+        "opentime2": "08:00-22:00",
+        "rating": "2.9",
+        "open_time": "08:00-22:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "7620759421",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-07-09 21:24:59",
+      "website": [],
+      "address": "森林公园小火车站南侧240米",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "120.680323,51.333143",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    "云树里餐厅": {
+      "parent": "B01D600X4B",
+      "pcode": "150000",
+      "keytag": "中餐",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/9349d490ab433c906a9dd679642f10fd"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/c49a6798531257870000007843380864?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/d00a463e8050e3320000006131940271?type=pic"
+        }
+      ],
+      "building": [],
+      "typecode": "050100",
+      "poiweight": [],
+      "citycode": "0470",
+      "adname": "额尔古纳市",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "18947006225",
+      "id": "B0MRNZ73TP",
+      "tag": [],
+      "entr_location": [],
+      "adcode": "150784",
+      "pname": "内蒙古自治区",
+      "biz_type": "diner",
+      "cityname": "呼伦贝尔市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "302",
+      "atag": [],
+      "name": "云树里餐厅",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "44.00",
+        "opentime2": "周一至周日 07:00-23:00",
+        "rating": "3.7",
+        "open_time": "07:00-23:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "7620759421",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-10-01 11:14:33",
+      "website": [],
+      "address": "美人湖东侧50米",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "120.680425,51.332525",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  },
+  "routes": [
+    {
+      "id": "morning_baseline",
+      "from": "森林公园停车场",
+      "to": "一目九岭",
+      "via": [
+        "红豆坡"
+      ],
+      "params": {
+        "origin": "120.673708,51.331505",
+        "destination": "120.820550,51.379818",
+        "strategy": 32,
+        "show_fields": "cost,polyline",
+        "waypoints": "120.807667,51.351633"
+      },
+      "queriedAtStart": "2026-10-04T08:37:41+08:00",
+      "queriedAt": "2026-10-04T08:37:41+08:00",
+      "meters": 16895,
+      "seconds": 1549,
+      "roads": [
+        "拉一莫线"
+      ]
+    },
+    {
+      "id": "full_day3_baseline",
+      "from": "莫尔道嘎",
+      "to": "白鹿岛酒店停车场",
+      "via": [
+        "森林公园停车场",
+        "红豆坡",
+        "一目九岭"
+      ],
+      "params": {
+        "origin": "120.785747,51.255782",
+        "destination": "120.858340,51.940445",
+        "strategy": 32,
+        "show_fields": "cost,polyline",
+        "waypoints": "120.673708,51.331505;120.807667,51.351633;120.820550,51.379818"
+      },
+      "queriedAtStart": "2026-10-04T08:37:42+08:00",
+      "queriedAt": "2026-10-04T08:37:42+08:00",
+      "meters": 109477,
+      "seconds": 7467,
+      "roads": [
+        "325县道",
+        "302省道",
+        "拉一莫线",
+        "901县道"
+      ]
+    },
+    {
+      "id": "town_to_park",
+      "from": "莫尔道嘎",
+      "to": "森林公园停车场",
+      "via": [],
+      "params": {
+        "origin": "120.785747,51.255782",
+        "destination": "120.673708,51.331505",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:37:43+08:00",
+      "queriedAt": "2026-10-04T08:37:43+08:00",
+      "meters": 12721,
+      "seconds": 1069,
+      "roads": [
+        "325县道",
+        "302省道"
+      ]
+    },
+    {
+      "id": "jiuling_to_bailudao",
+      "from": "一目九岭",
+      "to": "白鹿岛酒店停车场",
+      "via": [],
+      "params": {
+        "origin": "120.820550,51.379818",
+        "destination": "120.858340,51.940445",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:37:44+08:00",
+      "queriedAt": "2026-10-04T08:37:44+08:00",
+      "meters": 79805,
+      "seconds": 4692,
+      "roads": [
+        "901县道"
+      ]
+    },
+    {
+      "id": "bailudao_to_rafting",
+      "from": "白鹿岛酒店停车场",
+      "to": "白鹿岛漂流",
+      "via": [],
+      "params": {
+        "origin": "120.858340,51.940445",
+        "destination": "120.868620,51.946861",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:37:44+08:00",
+      "queriedAt": "2026-10-04T08:37:45+08:00",
+      "meters": 1638,
+      "seconds": 283,
+      "roads": [
+        "331国道"
+      ]
+    },
+    {
+      "id": "park_via_forest_hongdou_to_jiuling",
+      "from": "森林公园停车场",
+      "to": "一目九岭",
+      "via": [
+        "森林餐厅",
+        "红豆坡"
+      ],
+      "params": {
+        "origin": "120.673708,51.331505",
+        "destination": "120.820550,51.379818",
+        "strategy": 32,
+        "show_fields": "cost,polyline",
+        "waypoints": "120.680323,51.333143;120.807667,51.351633"
+      },
+      "queriedAtStart": "2026-10-04T08:37:45+08:00",
+      "queriedAt": "2026-10-04T08:37:46+08:00",
+      "meters": 16894,
+      "seconds": 1559,
+      "roads": [
+        "拉一莫线"
+      ]
+    },
+    {
+      "id": "park_to_forest",
+      "from": "森林公园停车场",
+      "to": "森林餐厅",
+      "via": [],
+      "params": {
+        "origin": "120.673708,51.331505",
+        "destination": "120.680323,51.333143",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:37:46+08:00",
+      "queriedAt": "2026-10-04T08:37:47+08:00",
+      "meters": 606,
+      "seconds": 104,
+      "roads": [
+        "拉一莫线"
+      ]
+    },
+    {
+      "id": "forest_to_hongdou",
+      "from": "森林餐厅",
+      "to": "红豆坡",
+      "via": [],
+      "params": {
+        "origin": "120.680323,51.333143",
+        "destination": "120.807667,51.351633",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:37:47+08:00",
+      "queriedAt": "2026-10-04T08:37:47+08:00",
+      "meters": 9605,
+      "seconds": 867,
+      "roads": []
+    },
+    {
+      "id": "park_via_yunshuli_hongdou_to_jiuling",
+      "from": "森林公园停车场",
+      "to": "一目九岭",
+      "via": [
+        "云树里餐厅",
+        "红豆坡"
+      ],
+      "params": {
+        "origin": "120.673708,51.331505",
+        "destination": "120.820550,51.379818",
+        "strategy": 32,
+        "show_fields": "cost,polyline",
+        "waypoints": "120.680425,51.332525;120.807667,51.351633"
+      },
+      "queriedAtStart": "2026-10-04T08:37:48+08:00",
+      "queriedAt": "2026-10-04T08:37:48+08:00",
+      "meters": 16893,
+      "seconds": 1559,
+      "roads": [
+        "拉一莫线"
+      ]
+    },
+    {
+      "id": "park_to_yunshuli",
+      "from": "森林公园停车场",
+      "to": "云树里餐厅",
+      "via": [],
+      "params": {
+        "origin": "120.673708,51.331505",
+        "destination": "120.680425,51.332525",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:37:49+08:00",
+      "queriedAt": "2026-10-04T08:37:49+08:00",
+      "meters": 561,
+      "seconds": 98,
+      "roads": [
+        "拉一莫线"
+      ]
+    },
+    {
+      "id": "yunshuli_to_hongdou",
+      "from": "云树里餐厅",
+      "to": "红豆坡",
+      "via": [],
+      "params": {
+        "origin": "120.680425,51.332525",
+        "destination": "120.807667,51.351633",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:37:50+08:00",
+      "queriedAt": "2026-10-04T08:37:50+08:00",
+      "meters": 9649,
+      "seconds": 867,
+      "roads": []
+    },
+    {
+      "id": "hongdou_to_jiuling",
+      "from": "红豆坡",
+      "to": "一目九岭",
+      "via": [],
+      "params": {
+        "origin": "120.807667,51.351633",
+        "destination": "120.820550,51.379818",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:37:51+08:00",
+      "queriedAt": "2026-10-04T08:37:51+08:00",
+      "meters": 6683,
+      "seconds": 637,
+      "roads": []
+    }
+  ],
+  "notes": [
+    "当天早午餐时段及营业尚未电话确认，驾车路线不表示餐厅营业。",
+    "园内道路允许私家车通行以景区入口当日答复为准。",
+    "酒店停车场不代表酒店餐厅入口；漂流为整体POI，不保证为当日报到或上船点。",
+    "比较完整途经路线；不将分段累加成总时间。"
+  ],
+  "comparisons": {
+    "forest": {
+      "baselineId": "morning_baseline",
+      "withStopId": "park_via_forest_hongdou_to_jiuling",
+      "addedMeters": -1,
+      "addedSeconds": 10
+    },
+    "yunshuli": {
+      "baselineId": "morning_baseline",
+      "withStopId": "park_via_yunshuli_hongdou_to_jiuling",
+      "addedMeters": -2,
+      "addedSeconds": 10
+    }
+  },
+  "queriedAtEnd": "2026-10-04T08:37:52+08:00"
+}

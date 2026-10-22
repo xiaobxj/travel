@@ -1,0 +1,52 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "鑫鼎园铜锅",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T02:03:59+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "1",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "B0K0RCI4PR",
+        "distance": [],
+        "keytag": "炭火锅/铜锅",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "photos": [],
+        "building": [],
+        "typecode": "050100",
+        "shopinfo": "1",
+        "poiweight": [],
+        "adname": "根河市",
+        "featured_reviews_remake": [],
+        "tel": "0470-5227710",
+        "id": "B0FFFGOPDH",
+        "address": "新华街新华家园小区1号楼",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": "320",
+        "atag": "牛羊肉,羊排",
+        "name": "鑫鼎园大铜锅",
+        "location": "121.528129,50.781669",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

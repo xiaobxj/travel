@@ -1,0 +1,385 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "96",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": [],
+      "pcode": "820000",
+      "keytag": "美食街",
+      "type": "地名地址信息;热点地名;热点地名|购物服务;特色商业街;特色商业街",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/076c2c04620ee2a90000002986302430?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/aac9570e0aa1fffb0000002994742392?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/2202eaf41366e1510000003573218306?type=pic"
+        }
+      ],
+      "building": [],
+      "typecode": "190700|061000",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "嘉模堂区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B073D0ME04",
+      "tag": [],
+      "entr_location": "113.562062,22.150582",
+      "adcode": "820006",
+      "pname": "澳门特别行政区",
+      "biz_type": [],
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "官也街",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 00:00-24:00",
+        "rating": "4.8",
+        "open_time": "24小时营业"
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313148402",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 07:42:59",
+      "website": [],
+      "address": "官也街21号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.562072,22.150743",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "820000",
+      "keytag": "公交站",
+      "type": "交通设施服务;公交车站;公交车站相关",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/BV10821245/comment/9E322F15_D2BF_4B4A_B659_6A24BECF3AC1_L0_001_1500_2000_1756197626026_33963597.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/BV10821245/comment/179ef3b8e89a0674ed0232285fd49b35_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/BV10821245/comment/2CE514B6_FA9F_4F6E_A738_B7F6CA4EFFBB_L0_001_1500_200_1770295709404_69000576.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "150700",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "嘉模堂区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "BV10821245",
+      "tag": [],
+      "entr_location": [],
+      "adcode": "820006",
+      "pname": "澳门特别行政区",
+      "biz_type": [],
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "氹仔官也街(公交站)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": [],
+        "rating": [],
+        "open_time": []
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313148402",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-01 17:55:25",
+      "website": [],
+      "address": "11路;15路;22路;28A路;30路;33路;34路",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.562215,22.150111",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B073D00IJP",
+      "pcode": "820000",
+      "keytag": "雪糕",
+      "type": "餐饮服务;中餐厅;广东菜(粤菜)",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/9ddcc93b377f3613ec33bda6eb85a084"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/91e156afba0bfc210000003096534863?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/b8cbb6d054a603d8e4e018b09c05fae8"
+        }
+      ],
+      "building": [],
+      "typecode": "050103",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "嘉模堂区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "+853-66695194",
+      "id": "B0FFGUFX79",
+      "tag": "木糠布丁,芒果雪糕,大菜糕,猫山王榴莲雪糕,鲜炸虾片,罗汉果茶,杨枝甘露,牛杂,柠檬茶",
+      "entr_location": "113.56211734384311,22.15048336962094",
+      "adcode": "820006",
+      "pname": "澳门特别行政区",
+      "biz_type": "diner",
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "320",
+      "atag": "木糠布丁,芒果雪糕,大菜糕,猫山王榴莲雪糕,鲜炸虾片,罗汉果茶,杨枝甘露,牛杂,柠檬茶",
+      "name": "莫义记猫山王榴莲雪糕",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "39.00",
+        "opentime2": "周一至周日 09:00-23:00",
+        "rating": "4.6",
+        "open_time": "09:00-23:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313148402",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 13:27:18",
+      "website": [],
+      "address": "官也街9A",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.562217,22.150530",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B073D00IJP",
+      "pcode": "820000",
+      "keytag": "特产",
+      "type": "购物服务;购物相关场所;购物相关场所|餐饮服务;餐饮相关场所;餐饮相关",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/comment/content_service__1771725522713_46390939_1771725562558_85515351.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/f0da40abcb04afdb0000003312396910?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFJKWRYW/comment/%5B2026-02-07-09-44-33%5DF42B06AE-17E5-42B2-AEA3-3125B5605DF_1770428680856_62664154.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "060000|050000",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "嘉模堂区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "+853 2882 7839",
+      "id": "B0FFJKWRYW",
+      "tag": [],
+      "entr_location": "113.561806,22.151045",
+      "adcode": "820006",
+      "pname": "澳门特别行政区",
+      "biz_type": [],
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "320",
+      "atag": [],
+      "name": "钜记手信(第十三分店)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 09:30-22:00",
+        "rating": "4.5",
+        "open_time": "09:30-22:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313148402",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 15:43:05",
+      "website": [],
+      "address": "凼仔官也街46-50号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.561741,22.151006",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "820000",
+      "keytag": "餐饮服务,餐饮相关场所,餐饮相关",
+      "type": "餐饮服务;餐饮相关场所;餐饮相关",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/843df87308b9036ea7de77e57b8484c8"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/comment/content_service__1772208844004_55254558_1772208845226_74305495.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/comment/content_service__1772208843994_12295141_1772208845224_62159471.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "050000",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "嘉模堂区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0L6GCGKZ1",
+      "tag": [],
+      "entr_location": "113.562147,22.150434",
+      "adcode": "820006",
+      "pname": "澳门特别行政区",
+      "biz_type": "diner",
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "官也妈妈(氹仔官也街店)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 11:00-21:00",
+        "rating": "3.8",
+        "open_time": "11:00-21:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313148402",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-07-04 11:31:48",
+      "website": [],
+      "address": "官也街22号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.562077,22.150400",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

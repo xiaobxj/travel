@@ -1,0 +1,81 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "铁山冷饮",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:25+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "2",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "B0FFF9322U",
+        "distance": [],
+        "keytag": "饮品",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;冷饮店;冷饮店",
+        "photos": [],
+        "building": [],
+        "typecode": "050700",
+        "shopinfo": "1",
+        "poiweight": [],
+        "adname": "海拉尔区",
+        "featured_reviews_remake": [],
+        "tel": "15947109709",
+        "id": "B0FFK60664",
+        "address": "东大街天润花园小区1号楼1-2门市",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": "202",
+        "atag": "甜筒",
+        "name": "铁山冷饮",
+        "location": "119.749344,49.211941",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      },
+      {
+        "parent": "B0FFGYZCKI",
+        "distance": [],
+        "keytag": "饮品",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;冷饮店;冷饮店",
+        "photos": [],
+        "building": [],
+        "typecode": "050700",
+        "shopinfo": "0",
+        "poiweight": [],
+        "adname": "额尔古纳市",
+        "featured_reviews_remake": [],
+        "tel": "0470-6821129;15694701688",
+        "id": "B0FFFA62TL",
+        "address": "拉布达林街道人事局档案楼2号门市",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": "320",
+        "atag": "牛奶冰淇淋,蓝莓酱冰激凌,甜筒,蘑菇,菠萝包",
+        "name": "铁山冷饮(百合小区店)",
+        "location": "120.171820,50.241223",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

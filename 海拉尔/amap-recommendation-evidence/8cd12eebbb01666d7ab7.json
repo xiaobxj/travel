@@ -1,0 +1,52 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "植GoGo",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:18+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "1",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "B0FFL54SZW",
+        "distance": [],
+        "keytag": "花卉",
+        "importance": [],
+        "biz_ext": [],
+        "type": "购物服务;专卖店;专营店",
+        "photos": [],
+        "building": [],
+        "typecode": "061200",
+        "shopinfo": "0",
+        "poiweight": [],
+        "adname": "海拉尔区",
+        "featured_reviews_remake": [],
+        "tel": "15204969376;17647413721",
+        "id": "B0K66MQXRC",
+        "address": "万豪国际花园106",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": [],
+        "cityname": "呼伦贝尔市",
+        "childtype": "320",
+        "atag": [],
+        "name": "植GoGo植物园",
+        "location": "119.758844,49.191054",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

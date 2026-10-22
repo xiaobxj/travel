@@ -1,0 +1,179 @@
+{
+  "endpoint": "v5/direction/driving",
+  "params": {
+    "origin": "121.479287,50.775955",
+    "destination": "121.473707,50.778067",
+    "origin_id": "B0FFFGOOS1",
+    "destination_id": "B01D601K21",
+    "strategy": 32,
+    "show_fields": "cost,polyline"
+  },
+  "queriedAt": "2026-09-18T01:56:36+08:00",
+  "response": {
+    "status": "1",
+    "info": "OK",
+    "infocode": "10000",
+    "count": "2",
+    "route": {
+      "origin": "121.479287,50.775955",
+      "destination": "121.473707,50.778067",
+      "taxi_cost": "6",
+      "paths": [
+        {
+          "distance": "556",
+          "restriction": "0",
+          "cost": {
+            "duration": "144",
+            "tolls": "0",
+            "toll_distance": "0",
+            "traffic_lights": "0"
+          },
+          "steps": [
+            {
+              "instruction": "向西北行驶36米左转",
+              "orientation": "西北",
+              "step_distance": "36",
+              "cost": {
+                "duration": "27",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "121.479349,50.77585;121.47929,50.775836;121.47922,50.775836;121.479145,50.775874;121.479048,50.77604"
+            },
+            {
+              "instruction": "向西行驶27米右转",
+              "orientation": "西",
+              "step_distance": "27",
+              "cost": {
+                "duration": "14",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "121.479048,50.77604;121.47885,50.775986;121.478716,50.775911"
+            },
+            {
+              "instruction": "向西北行驶12米靠右",
+              "orientation": "西北",
+              "step_distance": "12",
+              "cost": {
+                "duration": "13",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "121.478716,50.775911;121.478598,50.775992"
+            },
+            {
+              "instruction": "向西北行驶223米左转",
+              "orientation": "西北",
+              "step_distance": "223",
+              "cost": {
+                "duration": "45",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "121.478598,50.775992;121.478361,50.776276;121.477991,50.776721;121.477895,50.776898;121.477852,50.777006;121.477825,50.777102;121.477653,50.777901"
+            },
+            {
+              "instruction": "向西行驶211米右转",
+              "orientation": "西",
+              "step_distance": "211",
+              "cost": {
+                "duration": "36",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "121.477653,50.777901;121.476414,50.777832;121.476173,50.777832;121.475298,50.777767;121.474655,50.777719"
+            },
+            {
+              "instruction": "向北行驶47米到达目的地",
+              "orientation": "北",
+              "step_distance": "47",
+              "cost": {
+                "duration": "9",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "121.474655,50.777719;121.47458,50.778127;121.474575,50.778148"
+            }
+          ]
+        },
+        {
+          "distance": "518",
+          "restriction": "0",
+          "cost": {
+            "duration": "102",
+            "tolls": "0",
+            "toll_distance": "0",
+            "traffic_lights": "0"
+          },
+          "steps": [
+            {
+              "instruction": "向西北行驶36米左转",
+              "orientation": "西北",
+              "step_distance": "36",
+              "cost": {
+                "duration": "27",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "121.479349,50.77585;121.47929,50.775836;121.47922,50.775836;121.479145,50.775874;121.479048,50.77604"
+            },
+            {
+              "instruction": "向西行驶27米右转",
+              "orientation": "西",
+              "step_distance": "27",
+              "cost": {
+                "duration": "14",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "121.479048,50.77604;121.47885,50.775986;121.478716,50.775911"
+            },
+            {
+              "instruction": "向西行驶292米右转",
+              "orientation": "西",
+              "step_distance": "292",
+              "cost": {
+                "duration": "32",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "121.478716,50.775911;121.478598,50.775992;121.478179,50.776201;121.477836,50.776324;121.47746,50.776421;121.476865,50.776501;121.474842,50.776678"
+            },
+            {
+              "instruction": "向北行驶163米到达目的地",
+              "orientation": "北",
+              "step_distance": "163",
+              "cost": {
+                "duration": "29",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "121.474842,50.776678;121.474794,50.776952;121.474719,50.77737;121.474655,50.777719;121.47458,50.778127;121.474575,50.778148"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

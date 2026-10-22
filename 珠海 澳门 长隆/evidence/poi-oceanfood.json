@@ -1,0 +1,60 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "1",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": "B02F40RARV",
+      "distance": [],
+      "keytag": "中餐",
+      "importance": [],
+      "biz_ext": {
+        "cost": "65.00",
+        "opentime2": "周一至周日 11:00-19:30",
+        "rating": "4.0",
+        "open_time": "11:00-19:30",
+        "meal_ordering": "0"
+      },
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFG35JLK/comment/a40b57e281aa0c32b25eb3b7f3cff6e6_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/1cc739a1b577b02faf8fb0164d4ecbfe"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFG35JLK/comment/0fd2ee57afa596a9dbab7f967732a83f_2048_2048_80.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "050100",
+      "shopinfo": "1",
+      "poiweight": [],
+      "adname": "香洲区",
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0FFG35JLK",
+      "address": "横琴长隆大道环岛东路89号",
+      "space_num": [],
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "childtype": "302",
+      "atag": "素菜",
+      "name": "城堡餐厅",
+      "location": "113.536814,22.099605",
+      "shopid": [],
+      "favorite_num": [],
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

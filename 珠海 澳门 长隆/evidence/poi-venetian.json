@@ -1,0 +1,390 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "127",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": [],
+      "pcode": "820000",
+      "keytag": "豪华型",
+      "type": "住宿服务;宾馆酒店;五星级宾馆",
+      "photos": [
+        {
+          "provider": [],
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/19cd6166aab6d58d5b92a4fed664f8bc"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/f09ad732638530274b67f4e7db2b133c"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/f2b4d813273b47a70000003468842504?type=pic"
+        }
+      ],
+      "building": [],
+      "typecode": "100102",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "路氹填海区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "00853-28828888",
+      "id": "B073D0M4FP",
+      "tag": [],
+      "entr_location": "113.567729,22.144602",
+      "adcode": "820007",
+      "pname": "澳门特别行政区",
+      "biz_type": "hotel",
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "澳门威尼斯人",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F023045_792;12957",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "star": [],
+        "opentime2": [],
+        "rating": "4.7",
+        "lowest_price": [],
+        "hotel_ordering": "1",
+        "open_time": []
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313147510",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 15:05:13",
+      "website": [],
+      "address": "望德圣母湾大马路s/n号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.565505,22.144416",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "820000",
+      "keytag": "商场",
+      "type": "购物服务;商场;购物中心",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/3b8357e8196565130000001151162205?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B073D0M5VY/comment/content_media_external_file_8499_ss__1768430365200_95582983.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/49bc20e4275611a60000004271978820?type=pic"
+        }
+      ],
+      "building": [],
+      "typecode": "060101",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "路氹填海区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "+853-81177841",
+      "id": "B073D0M5VY",
+      "tag": [],
+      "entr_location": "113.568412,22.144202",
+      "adcode": "820007",
+      "pname": "澳门特别行政区",
+      "biz_type": [],
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "威尼斯人购物中心",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F023045_13927",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周四,周日 10:00-23:00；周五至周六 10:00-24:00",
+        "rating": "4.8",
+        "open_time": "10:00-23:00"
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313147500",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "1",
+      "email": [],
+      "timestamp": "2026-09-06 15:43:05",
+      "website": [],
+      "address": "望德圣母湾大马路澳门威尼斯人",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": "CG000378",
+        "truefloor": [],
+        "cpid": "B073D0M5VY",
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.565506,22.144386",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B073D0M5VY",
+      "pcode": "820000",
+      "keytag": "剧院",
+      "type": "体育休闲服务;影剧院;剧场",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/d866a763f13009930000002889932979?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/dbf9cc5777f7ad490000002379658704"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/6fa0a78b4b4d63ed0000002890014130?type=pic"
+        }
+      ],
+      "building": [],
+      "typecode": "080603",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "路氹填海区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "+853-28828888",
+      "id": "B0IRFM85WK",
+      "tag": [],
+      "entr_location": "113.564099,22.145527",
+      "adcode": "820007",
+      "pname": "澳门特别行政区",
+      "biz_type": [],
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "201",
+      "atag": [],
+      "name": "威尼斯人综艺馆",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 00:00-24:00",
+        "seat_ordering": "0",
+        "rating": "4.8",
+        "open_time": "24小时营业"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313147510",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "1",
+      "email": [],
+      "timestamp": "2026-09-06 00:41:43",
+      "website": [],
+      "address": "望德圣母湾大马路澳门威尼斯人1层",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": "CG0003780210100005",
+        "truefloor": "L1",
+        "cpid": "B073D0M5VY",
+        "floor": "1"
+      },
+      "exit_location": [],
+      "location": "113.564265,22.144920",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B073D0M5VY",
+      "pcode": "820000",
+      "keytag": "电影院",
+      "type": "体育休闲服务;影剧院;剧场",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/0719f5e0c7751fa7a009aa8a63fc279e"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/b9962086e32c0afa0000004572390535"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/a037e92f5795267a9db6946afd10965d"
+        }
+      ],
+      "building": [],
+      "typecode": "080603",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "路氹填海区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "+853-28828888",
+      "id": "B0J26ZX192",
+      "tag": [],
+      "entr_location": [],
+      "adcode": "820007",
+      "pname": "澳门特别行政区",
+      "biz_type": [],
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "201",
+      "atag": [],
+      "name": "威尼斯人剧场",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F023045_13909",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "559.00",
+        "opentime2": "以具体演出时间为准",
+        "seat_ordering": "0",
+        "rating": "4.4",
+        "open_time": []
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313147500",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "1",
+      "email": [],
+      "timestamp": "2026-09-04 00:59:11",
+      "website": [],
+      "address": "望德圣母湾大马路澳门威尼斯人1层",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": "CG0003780210100015",
+        "truefloor": "L1",
+        "cpid": "B073D0M5VY",
+        "floor": "1"
+      },
+      "exit_location": [],
+      "location": "113.565165,22.143792",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B073D0M5VY",
+      "pcode": "820000",
+      "keytag": "化妆品",
+      "type": "购物服务;个人用品/化妆品店;莎莎",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/449a6b5816113f4a0000003455396929?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0K22CBUPC/comment/content_media_external_file_3164_1769245383532_53395352.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/1f461b65c039b1030000003021130074?type=pic"
+        }
+      ],
+      "building": [],
+      "typecode": "061401",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "路氹填海区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "+853-28866820",
+      "id": "B0K22CBUPC",
+      "tag": [],
+      "entr_location": "113.568415,22.144192",
+      "adcode": "820007",
+      "pname": "澳门特别行政区",
+      "biz_type": [],
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "201",
+      "atag": [],
+      "name": "莎莎(威尼斯人店)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F023045_13194",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 10:00-23:00",
+        "rating": "4.6",
+        "open_time": "10:00-23:00"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313147510",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "1",
+      "email": [],
+      "timestamp": "2026-09-04 01:24:12",
+      "website": [],
+      "address": "望德圣母湾大马路威尼斯人购物中心L3层",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": "CG0003780210300118",
+        "truefloor": "L3",
+        "cpid": "B073D0M5VY",
+        "floor": "3"
+      },
+      "exit_location": [],
+      "location": "113.564819,22.146205",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

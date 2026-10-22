@@ -1,0 +1,79 @@
+{
+  "endpoint": "v5/direction/driving",
+  "params": {
+    "origin": "120.180153,50.243426",
+    "destination": "120.180138,50.245044",
+    "origin_id": "B01D600JCZ",
+    "destination_id": "B0FFFGOZ1L",
+    "strategy": 32,
+    "show_fields": "cost,polyline"
+  },
+  "queriedAt": "2026-09-18T01:56:23+08:00",
+  "response": {
+    "status": "1",
+    "info": "OK",
+    "infocode": "10000",
+    "count": "1",
+    "route": {
+      "origin": "120.180153,50.243426",
+      "destination": "120.180138,50.245044",
+      "taxi_cost": "6",
+      "paths": [
+        {
+          "distance": "566",
+          "restriction": "0",
+          "cost": {
+            "duration": "87",
+            "tolls": "0",
+            "toll_distance": "0",
+            "traffic_lights": "1"
+          },
+          "steps": [
+            {
+              "instruction": "沿额尔古纳大街向西行驶159米右转",
+              "orientation": "西",
+              "road_name": "额尔古纳大街",
+              "step_distance": "159",
+              "cost": {
+                "duration": "25",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "1"
+              },
+              "polyline": "120.180304,50.242892;120.1797,50.242822;120.178107,50.24265"
+            },
+            {
+              "instruction": "沿哈撒尔路向北行驶221米右转",
+              "orientation": "北",
+              "road_name": "哈撒尔路",
+              "step_distance": "221",
+              "cost": {
+                "duration": "21",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "120.178107,50.24265;120.177984,50.243192;120.17778,50.243933;120.177662,50.244383;120.177597,50.244625"
+            },
+            {
+              "instruction": "沿鸿雁街向东行驶186米到达目的地",
+              "orientation": "东",
+              "road_name": "鸿雁街",
+              "step_distance": "186",
+              "cost": {
+                "duration": "41",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "120.177597,50.244625;120.178842,50.24477;120.17911,50.244796;120.180173,50.244913"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

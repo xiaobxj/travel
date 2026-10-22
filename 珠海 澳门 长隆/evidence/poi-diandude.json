@@ -1,0 +1,162 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "3",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": "B0FFFAGM3M",
+      "pcode": "440000",
+      "keytag": "粤菜",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/e6964d04de88470a00d9694a035b7fbb"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/8158bf102edb3665d8640d833c313948"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/585a7f66b33f59d539477070ce1d7688"
+        }
+      ],
+      "building": [],
+      "typecode": "050100",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "0756-8336983;4001382828",
+      "id": "B0FFK16UYE",
+      "tag": "金牌虾饺皇,泰式冰榴莲,金莎海虾红米肠,豉油皇三丝炒面,五色蔬果捞,雪花牛肉饺,麻香无骨鸭掌,香芒夹心椰汁糕,招牌虾饺皇,招牌烧卖,乳鸽,招牌靓油条,荔湾艇仔粥,松化鸡蛋挞,蜜汁叉烧包,明虾蟹子烧卖,凤凰流沙包,特色蒸排骨,生煎韭菜饺,原只椰子炖竹丝鸡汤,焦糖冰豆花,凉拌爽口黑木耳,灌汤姜汁小笼包,沙爹金钱肚,潮州蒸粉果,紫薯菓,避风塘芋头糕,柠香牛肉球,招牌陈醋浸凤爪,金腿咸水角,鸡油马拉糕,状元及第粥,上汤富村菜心,沙爹蒸金钱肚,青芥炸虾球,金莎红米肠,百合酱蒸凤爪,芫茜牛肉肠,鼓油皇三丝炒面,金牌靓油条,百合酱蒸风爪,金枕榴莲酥,安格斯黑椒牛仔骨,凤爪,双人餐,杨枝甘露,油条,点心,虾仁,早茶",
+      "entr_location": [],
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": "北岭",
+      "childtype": "202",
+      "atag": "金牌虾饺皇,泰式冰榴莲,金莎海虾红米肠,豉油皇三丝炒面,五色蔬果捞,雪花牛肉饺,麻香无骨鸭掌,香芒夹心椰汁糕,招牌虾饺皇,招牌烧卖,乳鸽,招牌靓油条,荔湾艇仔粥,松化鸡蛋挞,蜜汁叉烧包,明虾蟹子烧卖,凤凰流沙包,特色蒸排骨,生煎韭菜饺,原只椰子炖竹丝鸡汤,焦糖冰豆花,凉拌爽口黑木耳,灌汤姜汁小笼包,沙爹金钱肚,潮州蒸粉果,紫薯菓,避风塘芋头糕,柠香牛肉球,招牌陈醋浸凤爪,金腿咸水角,鸡油马拉糕,状元及第粥,上汤富村菜心,沙爹蒸金钱肚,青芥炸虾球,金莎红米肠,百合酱蒸凤爪,芫茜牛肉肠,鼓油皇三丝炒面,金牌靓油条,百合酱蒸风爪,金枕榴莲酥,安格斯黑椒牛仔骨,凤爪,双人餐,杨枝甘露,油条,点心,虾仁,早茶",
+      "name": "点都德(摩尔广场店)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "86.00",
+        "opentime2": "周一至周日 09:00-16:00,17:00-22:00",
+        "rating": "4.7",
+        "open_time": "09:00-16:00 17:00-22:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313247420",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 15:13:43",
+      "website": [],
+      "address": "迎宾南路2095号摩尔广场三楼",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.551046,22.232810",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B0FFFOUTZD",
+      "pcode": "440000",
+      "keytag": "粤菜",
+      "type": "餐饮服务;快餐厅;快餐厅",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFKTS5TX/comment/3977701df3ad99b22852d1cc03281e1f_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/28377dc406ea20e40000002495516367?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/d2cd2b5c581071f9542a251099f0f2f6"
+        }
+      ],
+      "building": [],
+      "typecode": "050300",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "0756-8336813",
+      "id": "B0FFKTS5TX",
+      "tag": "金牌靓油条,百合酱蒸风爪,安格斯黑椒牛仔骨,金枕榴莲酥,焦糖冰豆花,凉拌爽口黑木耳,灌汤姜汁小笼包,沙爹金钱肚,潮州蒸粉果,金牌虾饺皇,豉油皇三丝炒面,金莎海虾红米肠,五色蔬果捞,雪花牛肉饺,麻香无骨鸭掌,香芒夹心椰汁糕,乳鸽,荔湾艇仔粥,招牌虾饺皇,招牌烧卖,招牌靓油条,紫薯菓,避风塘芋头糕,柠香牛肉球,招牌陈醋浸凤爪,金腿咸水角,松化鸡蛋挞,蜜汁叉烧包,明虾蟹子烧卖,凤凰流沙包,生煎韭菜饺,原只椰子炖竹丝鸡汤,特色蒸排骨,鸡油马拉糕,状元及第粥,上汤富村菜心,沙爹蒸金钱肚,青芥炸虾球,芫茜牛肉肠,鼓油皇三丝炒面,金莎红米肠,百合酱蒸凤爪,双人餐,点心",
+      "entr_location": "113.513464,22.225742",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": "南屏",
+      "childtype": "202",
+      "atag": "金牌靓油条,百合酱蒸风爪,安格斯黑椒牛仔骨,金枕榴莲酥,焦糖冰豆花,凉拌爽口黑木耳,灌汤姜汁小笼包,沙爹金钱肚,潮州蒸粉果,金牌虾饺皇,豉油皇三丝炒面,金莎海虾红米肠,五色蔬果捞,雪花牛肉饺,麻香无骨鸭掌,香芒夹心椰汁糕,乳鸽,荔湾艇仔粥,招牌虾饺皇,招牌烧卖,招牌靓油条,紫薯菓,避风塘芋头糕,柠香牛肉球,招牌陈醋浸凤爪,金腿咸水角,松化鸡蛋挞,蜜汁叉烧包,明虾蟹子烧卖,凤凰流沙包,生煎韭菜饺,原只椰子炖竹丝鸡汤,特色蒸排骨,鸡油马拉糕,状元及第粥,上汤富村菜心,沙爹蒸金钱肚,青芥炸虾球,芫茜牛肉肠,鼓油皇三丝炒面,金莎红米肠,百合酱蒸凤爪,双人餐,点心",
+      "name": "点都德(华发商都店)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "66.00",
+        "opentime2": "周一至周日 10:00-16:00,17:00-21:30",
+        "rating": "4.7",
+        "open_time": "10:00-16:00 17:00-21:30",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313247100",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 15:15:29",
+      "website": [],
+      "address": "珠海大道8号华发商都C栋2楼",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.513314,22.225736",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

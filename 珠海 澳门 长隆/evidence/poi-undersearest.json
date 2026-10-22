@@ -1,0 +1,237 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "4",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": "B0FFFFZ2VB",
+      "pcode": "440000",
+      "keytag": "湘菜",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/query_pic?id=ste8c7f2fa-74aa-4a5d-8520-512f7286ae04&user=search&operate=original"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/6df2184617b990ea0000003137792788?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFHEQ4RO/comment/0c5db31e1c2c60d51a87769f49a75611_2048_2048_80.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "050100",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "0756-8810006",
+      "id": "B0FFHEQ4RO",
+      "tag": "青椒紫苏锅,蒜香味牛蛙,芥末花螺,烤牛蛙,烤蛙,变态辣蛙,糖油粑粑,古镇酸梅汤,青椒紫苏味蛙,爽口鱼皮,芥末海螺,清爽薄荷冷饮,竹筒腊味饭,酸菜锅,甜心水果茶,双人餐,柠檬茶",
+      "entr_location": [],
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": "南屏",
+      "childtype": "202",
+      "atag": "青椒紫苏锅,蒜香味牛蛙,芥末花螺,烤牛蛙,烤蛙,变态辣蛙,糖油粑粑,古镇酸梅汤,青椒紫苏味蛙,爽口鱼皮,芥末海螺,清爽薄荷冷饮,竹筒腊味饭,酸菜锅,甜心水果茶,双人餐,柠檬茶",
+      "name": "蛙小侠(华发商都店)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "69.00",
+        "opentime2": "周一至周日 11:00-21:30",
+        "rating": "4.3",
+        "open_time": "11:00-21:30",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313246022",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 17:31:50",
+      "website": [],
+      "address": "珠海大道8号珠海华发商都F2层",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.510920,22.224611",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B02F40RARV",
+      "pcode": "440000",
+      "keytag": "中餐",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFG35JLK/comment/a40b57e281aa0c32b25eb3b7f3cff6e6_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/1cc739a1b577b02faf8fb0164d4ecbfe"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFG35JLK/comment/0fd2ee57afa596a9dbab7f967732a83f_2048_2048_80.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "050100",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0FFG35JLK",
+      "tag": "素菜",
+      "entr_location": "113.53694,22.099631",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "302",
+      "atag": "素菜",
+      "name": "城堡餐厅",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "65.00",
+        "opentime2": "周一至周日 11:00-19:30",
+        "rating": "4.0",
+        "open_time": "11:00-19:30",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313141222",
+      "shopinfo": "1",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-05 18:55:23",
+      "website": [],
+      "address": "横琴长隆大道环岛东路89号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.536814,22.099605",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B0FFG45772",
+      "pcode": "440000",
+      "keytag": "湘菜",
+      "type": "餐饮服务;中餐厅;湖南菜(湘菜)",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/7ad52e9b5c8c0b6e962e200c43d321f3"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFJ21KYC/headerImg/354c8818a0530f7b379ce1fa50330767_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/cbbbb7d9e4521e79d575c8524e916654"
+        }
+      ],
+      "building": [],
+      "typecode": "050108",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "15916249283;18400767116",
+      "id": "B0FFJ21KYC",
+      "tag": "干煸四季豆,双人餐",
+      "entr_location": "113.578973,22.250236",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": "吉大",
+      "childtype": "324",
+      "atag": "干煸四季豆,双人餐",
+      "name": "剁椒湘菜馆(景乐路店)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "54.00",
+        "opentime2": "周一至周日 09:00-24:00",
+        "rating": "4.5",
+        "open_time": "09:00-24:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313340600",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-05 08:11:15",
+      "website": [],
+      "address": "景林街8号首层",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.578850,22.250180",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

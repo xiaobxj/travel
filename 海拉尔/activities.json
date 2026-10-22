@@ -1,0 +1,655 @@
+{
+  "updated": "2026-10-04",
+  "basis": "按森林体验、景观差异和现有路线的顺路程度排序，属于本次行程的推荐优先级，不是平台评分榜。",
+  "ranking": [
+    "根白公路沿途森林",
+    "白鹿岛河湾与林间步行",
+    "莫尔道嘎森林公园",
+    "觉乐驯鹿（敖鲁古雅文化为替换）",
+    "临江村与界河短逛",
+    "室韦至黑山头卡线",
+    "莫日格勒河曲水观景"
+  ],
+  "sources": {
+    "video1": {
+      "name": "用户视频1：阿眯sn呼伦贝尔秋景攻略（路线与字幕关键帧）",
+      "url": "https://www.bilibili.com/video/BV1u8pHzQErb/"
+    },
+    "video2": {
+      "name": "用户视频2：烩饭在路上（约6–9分钟，使鹿文化、界河与家庭体验）",
+      "url": "",
+      "file": "D:/Explorer Download/41064861100-1-192.mp4"
+    },
+    "xhs": {
+      "name": "用户小红书帖子：大兴安岭北线5天省钱路线（2025-09-29）",
+      "url": "https://www.xiaohongshu.com/explore/68daa25f000000001003def6"
+    },
+    "bailu": {
+      "name": "国家林草局：激流河的臂弯里，白鹿岛静卧如画",
+      "url": "https://www.forestry.gov.cn/c/www/dfdt/685433.jhtml"
+    },
+    "forest": {
+      "name": "国家林草局：国有林区生态旅游红火之道（2026-04-28）",
+      "url": "https://www.forestry.gov.cn/lyj/1/lcstly/20260428/669006.html"
+    },
+    "culture": {
+      "name": "根河市政府：敖鲁古雅鄂温克民俗风情园（历史文化介绍）",
+      "url": "https://www.genhe.gov.cn/News/show/596298.html"
+    },
+    "park": {
+      "name": "内蒙古森工集团：莫尔道嘎国家级森林公园",
+      "url": "https://www.nmgsg.com.cn/v2/protectarea/padetail.html?id=7106808598486847488"
+    },
+    "bridge": {
+      "name": "去哪儿：根河守望桥及市区游览体验",
+      "url": "https://travelnews.qunar.com/ugc/genhe-cold-city-taxi"
+    },
+    "longshan": {
+      "name": "旅客体验：根河晨景与莫尔道嘎龙山公园",
+      "url": "https://tw.trip.com/moments/poi-city-150437425/"
+    },
+    "qika-food": {
+      "name": "高德：七卡餐饮落点及商户资料（2026-09-06）",
+      "url": "qika-food-pois.json"
+    },
+    "qika-stay": {
+      "name": "卡伦小院：住客餐饮与住宿反馈",
+      "url": "https://jp.trip.com/hotels/eerguna-hotel-detail-110599512/ka-lun-xiao-yuan/"
+    },
+    "day2-juele": {
+      "name": "小红书 · 10月2日觉乐亲访：喂鹿约1小时",
+      "url": "https://www.xiaohongshu.com/explore/6abfd4b100000000180154a8?xsec_token=ABN8gVlRGLyHYuXGtjbVp_P7L2FUL5IzHOLWwHoPV1q3A=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "day2-juele-guide": {
+      "name": "小红书 · 9月16日觉乐游玩记录",
+      "url": "https://www.xiaohongshu.com/explore/6aaa6dfa000000002601ce9b?xsec_token=ABMmeh5fIk8POFqoOMPzCw5zxrFyqybs-tZa7KYt2FL5g=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "day2-road": {
+      "name": "小红书 · 近期根白线：落叶与初雪提醒",
+      "url": "https://www.xiaohongshu.com/explore/6abfc384000000001403932d?xsec_token=ABN8gVlRGLyHYuXGtjbVp_P5uALRKn4yeoLScUM1fuJ-I=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "day2-road-walk": {
+      "name": "小红书 · 9月27日根白公路与龙山实走",
+      "url": "https://www.xiaohongshu.com/explore/6abcf5190000000013019618?xsec_token=ABwaPigCDU2FTZX446opBDs38bs1KWFAMOc-zoF6rFqdY=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "day2-station": {
+      "name": "小红书 · 9月26日得耳布尔小镇与车站",
+      "url": "https://www.xiaohongshu.com/explore/6ab79e38000000000a02514d?xsec_token=ABp2j4hvSAHaiZ-_cl32Etlrhpey5kbsXac2RrGvDEz8g=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "day2-meal": {
+      "name": "小红书 · 8月得耳布尔用餐记录（历史体验）",
+      "url": "https://www.xiaohongshu.com/explore/6a7b23840000000022032455?xsec_token=ABoHnISL6KI94QvwlPnsJy5-Q5rBxN0Hqri9tTTQ93FMk=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "day2-longshan": {
+      "name": "小红书 · 9月24日龙山登高计时记录",
+      "url": "https://www.xiaohongshu.com/explore/6ab4b79f0000000018028366?xsec_token=ABVSr4wm7eYRtORsu30YTta04QoA8ajEncs-Ib_9jwAu8=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "day2-longshan-road": {
+      "name": "小红书 · 9月25日龙山后山驾车路况",
+      "url": "https://www.xiaohongshu.com/explore/6ab6565b000000000b007b40?xsec_token=ABL_BmNHH37PeNGzmUGYxd7EG4BX_UFnwi-T3EvVF3LjY=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "day2-deer-closed": {
+      "name": "小红书 · 9月29日神鹿园现场未能进入",
+      "url": "https://www.xiaohongshu.com/explore/6abb2b1b000000001c00d66e?xsec_token=AB5FjfHQgIucOtYwEEmHZSmHo4HlClqZt1mPaghGdlWvI=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "day2-deer-road": {
+      "name": "小红书 · 9月26日神鹿园道路受阻",
+      "url": "https://www.xiaohongshu.com/explore/6ab7290d000000001b033dde?xsec_token=ABp2j4hvSAHaiZ-_cl32EtlsSw9Y7XRUmxFSIe8Holly4=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "day3-selfdrive": {
+      "name": "小红书 · 9月27日公园自驾：红豆坡与一目九岭",
+      "url": "https://www.xiaohongshu.com/explore/6ab928f0000000000a020cd0?xsec_token=ABlDLvjoxWr7ua2yZPOJ6heOJ795xIdmPb27qSj5hZoDQ=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "day3-rafting-short": {
+      "name": "小红书 · 9月30日发布：白鹿岛短线漂流体验",
+      "url": "https://www.xiaohongshu.com/explore/6abd1b580000000012034cc9?xsec_token=ABQ4JDxbDcaXozAH5wAetPlI4g_29omspilDYf-zFPVi0=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "day3-rafting-long": {
+      "name": "小红书 · 9月28日发布：漂流长短线与等候体验",
+      "url": "https://www.xiaohongshu.com/explore/6aba1746000000001403af31?xsec_token=ABJFIa9684vIrVWicxVBn6GaQFwGQjM1fBrD2OQHXPBIg=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "day3-train-stops": {
+      "name": "小红书 · 9月27日小火车：每站下车约4小时",
+      "url": "https://www.xiaohongshu.com/explore/6ab78d3600000000140390ab?xsec_token=ABp2j4hvSAHaiZ-_cl32EtlhhM1bmUIfF29E1il1BL3ys=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "oct4-white-food": {
+      "name": "小红书 · 呼伦贝尔｜美食记录（仅代表个人口味）",
+      "url": "https://www.xiaohongshu.com/explore/6ac030d3000000001402de3a?xsec_token=ABcSfT170kCach6lfK2_Av5AFFL-QeKsT_l_InduUtc2w=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "oct4-white-bill": {
+      "name": "小红书 · 額爾古納白鹿島酒店餐廳",
+      "url": "https://www.xiaohongshu.com/explore/6abe55060000000012035ff0?xsec_token=ABYG57TGlrMf-WJRlJgYk3klhVfeHe5hixzTLZB1VwpLU=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "oct4-white-supply": {
+      "name": "小红书 · 来白鹿岛住之前一定要买吃的！",
+      "url": "https://www.xiaohongshu.com/explore/6abdf4b9000000001b02dbb5?xsec_token=ABQ4JDxbDcaXozAH5wAetPlBWZT--U5adUjCHndORyLYM=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "oct4-yajuan": {
+      "name": "小红书 · 莫尔道嘎吃点啥",
+      "url": "https://www.xiaohongshu.com/explore/6a735797000000003300aed8?xsec_token=ABatAr-cTTcdXOGvX6hnEYKXs7BFObmB7Jno4SjQHMwZc=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "oct4-hongjie": {
+      "name": "小红书 · 关于大兴安岭途中我吃了啥比较美味的店",
+      "url": "https://www.xiaohongshu.com/explore/6aab9cd40000000011038482?xsec_token=AB4gdyWHNdwNF3FhkXkHxqlqDgneUZz75HZ0suZuAIiwk=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "oct4-hongjie-caution": {
+      "name": "小红书 · 莫尔道嘎避雷！",
+      "url": "https://www.xiaohongshu.com/explore/6aafcc2e00000000280303d6?xsec_token=ABN9X68lO_zESUedI8O1bUQpl7UeXBOT3sXwSqFvaXuhI=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "oct4-shilu": {
+      "name": "小红书 · 不止林海秋色，大兴安岭自驾食记",
+      "url": "https://www.xiaohongshu.com/explore/6abfda6e000000000a024be7?xsec_token=ABN8gVlRGLyHYuXGtjbVp_P_VL76nwVUgIJHmt-3p6GLE=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "oct4-shilu-recent": {
+      "name": "小红书 · Day5 奇乾-临江-室韦",
+      "url": "https://www.xiaohongshu.com/explore/6abf7e02000000001802f74e?xsec_token=ABN8gVlRGLyHYuXGtjbVp_P4PdKhRv0P6zbL06o8ATHTo=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "oct4-shiwei": {
+      "name": "小红书 · 奇乾-太平村-老鹰嘴-临江村-室韦",
+      "url": "https://www.xiaohongshu.com/explore/6ac0bdd20000000012034392?xsec_token=ABcSfT170kCach6lfK2_Av5AQS55MgZ7MiiWDCVF3Prqs=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "oct4-square": {
+      "name": "小红书 · 室韦自驾恩和｜九卡八卡沿途点位及避坑干货",
+      "url": "https://www.xiaohongshu.com/explore/6abe84e000000000020112e6?xsec_token=ABYG57TGlrMf-WJRlJgYk3kvJDwqEGLV1hA0zMh0Fqh1g=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "oct4-road": {
+      "name": "小红书 · 10.2从室韦出发的卡线😍",
+      "url": "https://www.xiaohongshu.com/explore/6abf6a99000000001301b90a?xsec_token=ABN8gVlRGLyHYuXGtjbVp_Px-eam0aTFc-f4zkNdtd8E8=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "oct4-road-leaves": {
+      "name": "小红书 · 10.2 没走卡线的都别走了，拉完了",
+      "url": "https://www.xiaohongshu.com/explore/6abf3bdc0000000012037481?xsec_token=ABN8gVlRGLyHYuXGtjbVp_P3yTZyOO8F9AIqSagD1RMZk=&xsec_source=pc_search&source=web_explore_feed"
+    },
+    "oct4-linxi": {
+      "name": "小红书 · 白鹿岛↔️临江途中的太平村林曦农家菜",
+      "url": "https://www.xiaohongshu.com/explore/68d95f900000000012023085?xsec_token=AB1Y6caotpfpmZtD90gOc22-BI72BUoyCxarPoPgOxXA8=&xsec_source=pc_feed"
+    },
+    "oct4-lanni": {
+      "name": "小红书 · 种草七卡一家农家院，这里是兰妮农家院呀～",
+      "url": "https://www.xiaohongshu.com/explore/68df890700000000050106d0?xsec_token=ABcDugUavjvwAnX9cjjO7kjF5xxC7qT4muNd8dNwpfG0w=&xsec_source=pc_feed"
+    },
+    "oct4-eagle": {
+      "name": "小红书 · 临江，老鹰嘴，轿车随便去",
+      "url": "https://www.xiaohongshu.com/explore/6abdfce40000000015003129?xsec_token=ABQ4JDxbDcaXozAH5wAetPlGJRNkRNfkiYderHSkWW5kw=&xsec_source=pc_search&source=web_explore_feed"
+    }
+  },
+  "days": [
+    {
+      "day": 1,
+      "date": "10/2",
+      "theme": "草原曲水 → 林区小城",
+      "priority": "莫日格勒河 > 根河市区短逛；额尔古纳湿地仅作替换。",
+      "schedule": "07:30出发；上午曲水观景；额尔古纳午餐；下午到根河，入住后按精力短逛。",
+      "items": [
+        {
+          "order": 1,
+          "level": "优先",
+          "name": "莫日格勒河曲水观景",
+          "time": "2–2.5小时",
+          "detail": "选择一个主观景区域，看河流弯道和草原层次。南游客中心方案与曲水云天方案二选一；入口、停车方式临行确认。拍照可先拍曲水全景，再拍河流与草原细节。",
+          "sources": [
+            "video1",
+            "xhs"
+          ],
+          "drive": "原高德表仅到南游客中心；若改曲水云天，首日转场约291.9公里、4小时14分，另加游览。"
+        },
+        {
+          "order": 2,
+          "level": "用餐",
+          "name": "额尔古纳午餐",
+          "time": "45–60分钟",
+          "detail": "安排正常午餐及休息，可选列巴、汤或当地家常菜；不为特定网红店绕路排队。",
+          "sources": [],
+          "drive": "原路线已途经额尔古纳，具体餐厅接驳另计。"
+        },
+        {
+          "order": 3,
+          "level": "可选",
+          "name": "根河冷极广场／市区短逛",
+          "time": "20–30分钟",
+          "detail": "到达根河后再决定，感受林区小城；不要专门绕去远处冷极村。晚餐可安排铁锅炖。",
+          "sources": [
+            "video1",
+            "bridge"
+          ],
+          "drive": "市区接驳未计入原高德表。"
+        },
+        {
+          "order": 4,
+          "level": "替换",
+          "name": "额尔古纳湿地景区",
+          "time": "约2小时",
+          "detail": "只有更想看湿地、愿意明显缩短或替换莫日格勒河时才加入；不要把完整湿地游叠加在转场日。不是另一个更远的国家湿地公园。",
+          "sources": [
+            "video1",
+            "xhs"
+          ],
+          "drive": "景区支线未核查；加入需重新调整首日时间。"
+        }
+      ],
+      "cut": "时间紧时先取消根河市区短逛；首日不再增加兴安神鹿园。"
+    },
+    {
+      "day": 2,
+      "date": "10/3",
+      "theme": "觉乐驯鹿 → 根白森林 → 莫尔道嘎",
+      "priority": "觉乐与根白公路为重点；得耳布尔午餐，车站和龙山按兴趣增减。敖鲁古雅是觉乐的替换方案。",
+      "schedule": "早餐后从根河出发，觉乐喂鹿 → 根白公路短停 → 得耳布尔午餐 → 车站（可选）→ 莫尔道嘎 → 龙山（可选）。含车站和龙山短走，全日建议6–8小时；登顶或改敖鲁古雅需重新取舍。",
+      "notice": "兴安神鹿园暂不排入固定行程：9月26日和29日亲访记录反馈道路受阻／未能进入，尚无可靠的恢复开放证明。不是认定今天必定关闭；确认开放后再考虑。",
+      "noticeSources": [
+        "day2-deer-road",
+        "day2-deer-closed"
+      ],
+      "items": [
+        {
+          "name": "觉乐驯鹿园：林间喂鹿",
+          "level": "优先",
+          "time": "60–90分钟",
+          "detail": "建议把这里作为当天的喂鹿点，与敖鲁古雅二选一。10月2日亲访笔记记录游玩约1小时、门票35元、苔藓20元，价格和营业以现场为准。按工作人员指引互动，留意鹿角。若已在敖鲁古雅完成喂鹿，可直接跳过。",
+          "drive": "高德10/3 08:33：根河市政府 → 觉乐16.0公里，18分41秒（约19分钟）。本次核到园区POI，未核实独立停车入口。",
+          "sources": [
+            "day2-juele",
+            "day2-juele-guide"
+          ],
+          "poi": "觉乐驯鹿园",
+          "order": 1
+        },
+        {
+          "name": "根白公路：森林沿途短停",
+          "level": "优先",
+          "time": "合计45–75分钟",
+          "detail": "把风景留给行车途中，在允许停车的位置挑2–3处短停。近期笔记已有落叶与初雪，现场可能是疏林秋色，不保证整片金黄。未核实独立观景停车场，不在行车道或铁路上拍照。这里的时长仅为下车停留。",
+          "drive": "高德10/3 08:33：觉乐 → 得耳布尔镇政府63.0公里，1小时02分03秒；得耳布尔 → 莫尔道嘎镇政府44.7公里，48分37秒。拍照停留另加。",
+          "sources": [
+            "day2-road",
+            "day2-road-walk"
+          ],
+          "poi": "得耳布尔",
+          "order": 2
+        },
+        {
+          "name": "得耳布尔镇：午餐与补给",
+          "level": "用餐",
+          "time": "45–60分钟",
+          "detail": "在镇上吃午餐、休息，再继续去莫尔道嘎。旧笔记提到姗姗馅饼，可作现场找店线索；具体餐厅还未确定，按当天营业和停车方便程度选择。",
+          "drive": "路线途经点采用得耳布尔镇政府。具体餐厅接驳未核查，不计入已核主线驾驶时间。",
+          "sources": [
+            "day2-meal"
+          ],
+          "poi": "得耳布尔",
+          "order": 3
+        },
+        {
+          "name": "得耳布尔站：站前外观",
+          "level": "可选",
+          "time": "10–15分钟",
+          "detail": "对林区铁路感兴趣时，顺路看站房外观、在允许通行的站前街道散步。不承诺进入站台，也不安排铁轨拍照。没有兴趣可跳过。",
+          "drive": "高德10/3 08:30：镇政府 → 车站1.1公里，2分42秒；08:35车站 → 莫尔道嘎45.6公里，51分52秒。整线加车站比基础方案多2.9公里、9分29秒驾驶，连停留共多留20–25分钟。",
+          "sources": [
+            "day2-station"
+          ],
+          "poi": "得耳布尔站",
+          "order": 4
+        },
+        {
+          "name": "龙山公园：抵达后步行登高",
+          "level": "可选",
+          "time": "短走45–75分／登顶往返90–120分",
+          "detail": "到莫尔道嘎后看天气与体力决定。时间充裕可走完整登高路线，时间少就短走后折返；两种时长不叠加。近期实走笔记支持完整往返约1.5–2小时。建议步行，不照搬后山驾车登顶路线。",
+          "drive": "高德10/3 08:35：莫尔道嘎镇政府 → 龙山公园POI 1.3公里，3分17秒，仅到公园导航点，不含上山。独立步行入口尚未核实。",
+          "sources": [
+            "day2-longshan",
+            "day2-road-walk",
+            "day2-longshan-road"
+          ],
+          "poi": "龙山公园",
+          "order": 5
+        },
+        {
+          "order": 6,
+          "level": "替换",
+          "name": "敖鲁古雅：文化参观＋驯鹿",
+          "time": "2.5–3小时",
+          "detail": "更想了解使鹿文化时，用敖鲁古雅替换觉乐，建议文化展陈、鹿苑与园内接驳共留2.5–3小时。两处喂鹿不必都去；选此方案时缩减龙山或沿途停留。博物馆与鹿苑入口、票务以现场为准。",
+          "sources": [
+            "video1",
+            "video2",
+            "culture"
+          ],
+          "drive": "高德10/3 08:30：根河市政府 → 敖鲁古雅停车场3.9公里，6分41秒；敖鲁古雅 → 得耳布尔81.2公里，1小时20分19秒。经敖鲁古雅、得耳布尔到莫尔道嘎整线130.0公里、2小时16分23秒，不含游览。",
+          "poi": "敖鲁古雅停车场"
+        },
+        {
+          "order": 7,
+          "level": "可选",
+          "name": "守望桥晨景",
+          "time": "30–45分钟",
+          "detail": "若住宿近、天气合适，到允许步行的位置看河流和晨光。晨雾不保证出现，不照搬帖子5点到场的时间。",
+          "sources": [
+            "xhs",
+            "bridge"
+          ],
+          "drive": "仅在住宿附近、方便步行时安排；酒店到桥的驾车接驳尚未核查，未给出车程。",
+          "poi": null
+        }
+      ],
+      "cut": "先取消站前和龙山；已喂过鹿则跳过觉乐。保留根白公路与正常午餐，森林公园和白鹿岛仍放在次日。"
+    },
+    {
+      "day": 3,
+      "date": "10/4",
+      "theme": "红豆坡 · 一目九岭 → 白鹿岛",
+      "priority": "上午保留红豆坡＋一目九岭；中午优先白鹿岛酒店餐厅，下午到现场确认短线漂流。小火车仍是上午自驾的替换，不能整套叠加。",
+      "schedule": "早餐后08:30–09:00出发，上午红豆坡＋一目九岭，抵达白鹿岛酒店后吃午餐。饭后先询问短线漂流是否开行、末班及接驳，再决定是否参加；若不开，改河湾观景和林间短走。",
+      "items": [
+        {
+          "order": 1,
+          "level": "优先",
+          "name": "公园自驾：红豆坡＋一目九岭",
+          "time": "含两段园内转场约2–2.5小时",
+          "detail": "先在红豆坡落叶松林步道慢走拍照，建议30–45分钟；再到一目九岭步行登观景台，看层叠林海，建议45–60分钟。这些停留时间是规划预算。时间紧不走需折返停车点的猎人之路；到入口先确认当天自驾开放线路。两处都已标在地图上，可点击各点查看。",
+          "sources": [
+            "day3-selfdrive",
+            "park"
+          ],
+          "drive": "高德10/4 08:37：莫尔道嘎镇政府→公园停车场12.7公里、17分49秒；红豆坡→一目九岭6.7公里、10分37秒。停车场→红豆坡保留10/3独立查询10.2公里、16分55秒。两段园内驾驶已纳入主线，不重复相加。",
+          "poi": "红豆坡"
+        },
+        {
+          "order": 2,
+          "level": "替换",
+          "name": "森林小火车：替换上午自驾",
+          "time": "选站预留2–3小时；全站可达4小时",
+          "detail": "喜欢火车或不想多走路时，用小火车替换红豆坡＋一目九岭自驾两站。可重点选择第一站登高、第三站溪畔；近期亲历帖每站都下用了约4小时，排队也可能挤占白鹿岛下午时间。车次、站点和末班以现场为准，不去铁轨拍照。",
+          "sources": [
+            "day3-train-stops",
+            "forest"
+          ],
+          "drive": "高德10/3 08:53：采用小火车方案时，从森林公园停车场 → 白鹿岛酒店停车场89.8公里、1小时24分。镇区经公园停车场到白鹿岛的完整路线102.6公里、1小时44分06秒，不含乘车和等候。",
+          "poi": "森林公园停车场"
+        },
+        {
+          "order": 3,
+          "level": "优先",
+          "name": "白鹿岛河湾观景",
+          "time": "45–60分钟",
+          "detail": "午餐后或漂流前后，在开放观景处看河湾。若工作人员确认短线即将发船，先按报到时间安排漂流，再短看河湾；无需追求航拍才有的完整双岛视角。",
+          "sources": [
+            "video1",
+            "bailu"
+          ],
+          "drive": "高德10/4 08:37：一目九岭→白鹿岛酒店停车场79.8公里、1小时18分12秒。抵达后先问午餐；停车场不是观景台，到观景处接驳未核。",
+          "poi": "白鹿岛酒店停车场"
+        },
+        {
+          "order": 4,
+          "level": "可选",
+          "name": "白鹿岛林间／河畔短步行",
+          "time": "45–60分钟",
+          "detail": "作为漂流不开或不参加时的替代，沿开放步道慢走。若已经参加短漂，可缩短或取消本项，保留用餐与休息时间。",
+          "sources": [
+            "bailu"
+          ],
+          "drive": "仅安排停车后在开放区域步行；未给出酒店到独立步道入口的驾车时间。",
+          "poi": "白鹿岛酒店停车场"
+        },
+        {
+          "order": 5,
+          "level": "推荐",
+          "name": "白鹿岛短线漂流：先到场问开行",
+          "time": "开行后连准备预留1.5–2小时",
+          "poi": "白鹿岛漂流",
+          "detail": "下午先向景区确认当天短线是否开行、末班、报到入口、下船点和返程接驳。确认合适再参加；近期亲历记录短线船上约1小时，连准备等候预留1.5–2小时。是否开行及实际发船时间，以当天景区答复为准。按工作人员要求穿救生衣，注意保暖。",
+          "drive": "高德10/4 08:37：白鹿岛酒店停车场→白鹿岛漂流POI 1.6公里、4分43秒，仅为单程导航点接入；未计入主线总里程，实际登船和回程接驳另确认。",
+          "sources": [
+            "day3-rafting-short",
+            "day3-rafting-long"
+          ]
+        }
+      ],
+      "cut": "先保证午餐和下午询问漂流。入园或道路延误时，缩短一处步行；漂流不开或天气不合适，就改河湾观景与短走。",
+      "notice": "午餐不是必须靠干粮：今日高德主线纯驾驶约2小时04分。加两处游玩75–105分钟、入园停车缓冲20–30分钟，08:30出发预计12:10–12:50到白鹿岛，09:00出发约12:40–13:20到。酒店当天供餐时段尚未确认，简餐只作兜底。",
+      "noticeSources": [
+        "oct4-white-food",
+        "oct4-white-bill"
+      ],
+      "meals": [
+        {
+          "name": "午餐首选 · 白鹿岛酒店中餐厅",
+          "time": "抵达后用餐45–60分钟",
+          "detail": "出发前或抵达时确认午餐供餐、是否接待外来客和最后点菜时间。近期亲历记录提到菌菇汤、豆角排骨、土豆南瓜等菜品；先看当天菜单。白鹿岛餐厅选择少，带少量简餐和水备用。",
+          "sources": [
+            "oct4-white-food",
+            "oct4-white-bill",
+            "oct4-white-supply"
+          ]
+        },
+        {
+          "name": "入园前段备选 · 森林餐厅／云树里餐厅",
+          "time": "只有当时供餐才停，避免餐后折返",
+          "detail": "两家高德登记在公园内，放在红豆坡之前基本顺路；从公园停车场分别约606米、104秒与561米、98秒（10/4 08:37查验）。但早餐／早午餐是否供应未核实。走完一目九岭后不要为它们回头：再去白鹿岛会多绕约54.6公里、59分钟。只有高德地点线索，没有足够实吃评价。",
+          "sources": []
+        },
+        {
+          "name": "镇内正餐备选 · 雅娟家常菜／红姐砂锅",
+          "time": "适合尚未出镇时，45–60分钟",
+          "detail": "雅娟可参考排骨炖豆角、野菜煎蛋；红姐可参考砂锅，既有好评也有服务及等位反馈。今日营业时段未确认。高德10/4 08:28：镇政府到雅娟1.8公里约7分、到红姐1.6公里约5分，两店至公园停车场均约14分；已进园不为这两家折返。",
+          "sources": [
+            "oct4-yajuan",
+            "oct4-hongjie",
+            "oct4-hongjie-caution"
+          ]
+        },
+        {
+          "name": "晚餐 · 白鹿岛酒店餐厅",
+          "time": "游玩结束后45–60分钟",
+          "detail": "午餐时顺便问晚餐和次日早餐时段，避免玩完漂流再临时找店；也可按当天住宿方安排用餐。从酒店停车场到餐厅的具体入口，请向酒店确认。",
+          "sources": [
+            "oct4-white-food"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "date": "10/5",
+      "theme": "临江俄餐 → 室韦界河 → 七卡过夜",
+      "priority": "临江午餐与村落、室韦团结广场、九卡至七卡河谷为重点；仍住七卡。太平午餐为替换，老鹰嘴仅可选。",
+      "schedule": "08:30–09:00左右离开白鹿岛，临江吃俄餐、逛村落；室韦看团结广场并买列巴，再沿九卡到七卡入住。全日建议7–8小时（不含晚餐），排队或天气变化另留余量。",
+      "items": [
+        {
+          "order": 1,
+          "level": "可选",
+          "name": "白鹿岛晨景",
+          "time": "20–30分钟，可删",
+          "detail": "早餐前后在住宿附近开放区域看晨光，不等待不确定的晨雾；建议08:30–09:00左右离开白鹿岛。",
+          "sources": [
+            "video1",
+            "bailu"
+          ],
+          "drive": "白鹿岛至临江等各段车程见“分段车程”，已于10/4用高德查验。",
+          "poi": "白鹿岛酒店停车场"
+        },
+        {
+          "order": 2,
+          "level": "优先",
+          "name": "临江：驶路部落俄餐＋村落短逛",
+          "time": "午餐60–75分；短逛30–45分",
+          "detail": "在驶路部落花园俄餐厅吃午餐，可参考鸡肉串、焖罐牛肉、红菜汤，先看当天菜单。近期两篇明确实吃支持；高德采用民宿整体定位，实际餐厅入口与营业再确认。饭后看木刻楞、村落和开放河岸，不把晨雾、日落写成午间必得体验。",
+          "sources": [
+            "oct4-shilu",
+            "oct4-shilu-recent"
+          ],
+          "drive": "高德10/4 08:32：白鹿岛酒店停车场→驶路民宿整体126.6公里、1小时54分59秒。参考点不等于独立餐厅入口。",
+          "poi": "驶路部落民宿（餐厅整体参考点）"
+        },
+        {
+          "order": 3,
+          "level": "推荐",
+          "name": "室韦：团结广场＋奥利亚列巴房",
+          "time": "合计25–40分钟",
+          "detail": "先在团结广场看界河，再买列巴作为沿途补给。排队明显就只逛广场；不叠加整套口岸参观或界河游船。广场与列巴房都已核到高德点位。",
+          "sources": [
+            "oct4-square",
+            "oct4-shiwei"
+          ],
+          "drive": "高德10/4：驶路参考点→团结广场11.6公里约23分；团结广场→奥利亚列巴房690米约3分（两段查询时刻不同，详见分段车程）。",
+          "poi": "团结广场"
+        },
+        {
+          "order": 4,
+          "level": "优先",
+          "name": "九卡—七卡北段卡线观景",
+          "time": "停车合计30–45分钟",
+          "detail": "选2–3处允许停车的开阔位置看界河与河谷。只在开放区域停车，不攀越围栏或进入农田草垛；树叶状态依现场，不以夏季麦田照片承诺十月景观。",
+          "sources": [
+            "oct4-road",
+            "oct4-road-leaves",
+            "oct4-square"
+          ],
+          "drive": "按奥利亚列巴房→九卡→七卡逐段导航，采用10/4高德查验。完整路线与分段分别查询，不直接相加替代整线。",
+          "poi": "九卡观景点"
+        },
+        {
+          "order": 5,
+          "level": "推荐",
+          "name": "七卡入住、村内散步与晚餐",
+          "time": "入住休息约30分；晚餐约60分",
+          "detail": "仍住七卡。先入住，再按住宿方供餐安排吃晚饭；兰妮农家院是村内另一候选，可问现包饺子和当季蔬菜。实吃依据为2025年国庆记录，出发前请向店家确认是否供餐。",
+          "sources": [
+            "oct4-lanni",
+            "qika-food",
+            "qika-stay"
+          ],
+          "drive": "主线终点仍用七卡戍边食府作村内参考，保持次日路线衔接；具体民宿与兰妮餐厅间的接驳另核。",
+          "poi": "七卡"
+        },
+        {
+          "order": 6,
+          "level": "可选",
+          "name": "老鹰嘴：额外河谷观景",
+          "time": "20–30分钟；连额外驾驶约多1小时",
+          "detail": "仅在开放与停车条件合适、时间充裕时加入；不采用旧帖车速或未经允许的入口。若加入，缩减室韦和卡线停车。",
+          "sources": [
+            "oct4-eagle",
+            "oct4-shiwei"
+          ],
+          "drive": "高德已分别查询带老鹰嘴与不带老鹰嘴的完整路线，新增驾驶约27分钟；精确整线差值见分段车程。",
+          "poi": "老鹰嘴"
+        },
+        {
+          "order": 7,
+          "level": "替换",
+          "name": "太平林场：林曦农家菜午餐",
+          "time": "60–75分钟，替换临江午餐",
+          "detail": "提前饿了或临江餐厅不开时，改在太平吃东北家常菜、当季蔬菜。旧亲历有实吃支持，当前营业先确认；两顿完整午餐不叠加。",
+          "sources": [
+            "oct4-linxi"
+          ],
+          "drive": "高德10/4 08:28：白鹿岛停车场→林曦95.2公里、1小时19分26秒；林曦→临江31.0公里、33分37秒，基本沿白鹿岛到临江的路线。",
+          "poi": "林曦农家菜"
+        }
+      ],
+      "cut": "时间紧先取消白鹿岛晨景和老鹰嘴，再缩短室韦列巴排队及卡线停车；保留正常午餐与七卡入住。临时封路时按现场允许的路线重算，不强行穿行。",
+      "notice": "已按你确认保留七卡住宿、临江午餐；老鹰嘴只列可选。10月2日有卡线实走记录，也有落叶明显的反馈；以河谷与开阔景色为主，是否放行按当天现场指示。",
+      "noticeSources": [
+        "oct4-road",
+        "oct4-road-leaves"
+      ]
+    },
+    {
+      "day": 5,
+      "date": "10/6",
+      "theme": "七卡南段观景 → 黑山头 → 额尔古纳",
+      "priority": "南段卡线慢看为重点；乌兰山观景与黑山头骑马二选一，下午回额尔古纳休息。",
+      "schedule": "早餐后09:00左右从七卡出发；沿南段卡线观景，黑山头午餐；乌兰山与骑马最多选一项，15:00–15:30左右离开黑山头，争取16:30前到额尔古纳。",
+      "items": [
+        {
+          "order": 1,
+          "level": "优先",
+          "name": "七卡早餐＋南段卡线观景",
+          "time": "早餐30–45分钟；停车观景45–60分钟",
+          "detail": "早餐优先住宿自带餐食或二姐面馆，营业时间提前问清。沿七卡至黑山头方向行驶，挑开放停车区看河谷与草原，不再折返九卡和室韦。",
+          "sources": [
+            "video1",
+            "xhs",
+            "qika-food"
+          ],
+          "drive": "七卡至黑山头基础1小时19分；当天全程130.3公里、2小时04分，观景与用餐另计。"
+        },
+        {
+          "order": 2,
+          "level": "二选一",
+          "name": "乌兰山河湾观景",
+          "time": "45–60分钟",
+          "detail": "偏爱风景摄影时考虑，先确认当日开放和入口。加入这一项就不安排骑马，避免重新把一天排满。",
+          "sources": [
+            "video1"
+          ],
+          "drive": "景区入口支线和内部接驳未计入主线；实际选定入口后再导航。"
+        },
+        {
+          "order": 3,
+          "level": "二选一",
+          "name": "黑山头正规马场短体验",
+          "time": "连准备约60分钟",
+          "detail": "偏爱参与式体验时选择这一项，提前约短时段，确认头盔、教练和实际骑乘时长。天气不适合则取消，午餐后从容返城。",
+          "sources": [
+            "video1",
+            "video2"
+          ],
+          "drive": "具体马场待选，支线另计；不安排2–3小时长线骑行。"
+        },
+        {
+          "order": 4,
+          "level": "推荐",
+          "name": "黑山头午餐＋额尔古纳入住休息",
+          "time": "午餐45–60分钟；入住后自由安排",
+          "detail": "在黑山头正常吃午餐，按预约把骑马放在午餐前或后。下午到额尔古纳，散步、晚餐并整理行李，确认次日还车门店。当天不追黑山头日落。",
+          "sources": [],
+          "drive": "黑山头至额尔古纳0小时46分；市区餐厅与酒店接驳另计。"
+        }
+      ],
+      "cut": "有延误先取消乌兰山／骑马，再缩短观景停车；保留午餐和下午返城，不追加完整湿地游。"
+    },
+    {
+      "day": 6,
+      "date": "10/7",
+      "theme": "早餐 → 海拉尔还车",
+      "priority": "按时返程 > 市内短逛；不安排城外景区。",
+      "schedule": "早餐后09:00左右离开额尔古纳；计划中午抵达海拉尔；午餐、加油后14:00左右到还车点，15:00前完成。",
+      "items": [
+        {
+          "order": 1,
+          "level": "优先",
+          "name": "额尔古纳早餐与返程",
+          "time": "早餐30–45分钟；驾驶留2.5–3小时",
+          "detail": "整理行李，检查还车要求后出发。高德复查至海拉尔站约1小时34分，机场停车场约1小时40分；实际还车门店尚未提供，仍按09:00出发、14:00到店预留时间。",
+          "sources": [],
+          "drive": "基准车程已核查，天气及门店位置仍可能改变实际耗时。"
+        },
+        {
+          "order": 2,
+          "level": "可选",
+          "name": "海拉尔午餐／附近短逛",
+          "time": "30–60分钟",
+          "detail": "仅在已经到海拉尔、加油和门店安排都清楚时进行。可选一顿蒙古奶茶或当地家常菜，不为热门店长时间排队。",
+          "sources": [
+            "video1"
+          ],
+          "drive": "仅选还车点附近；市内额外接驳未计入原高德表。"
+        },
+        {
+          "order": 3,
+          "level": "优先",
+          "name": "加油、验车、还车",
+          "time": "预留约1小时",
+          "detail": "14:00左右到门店，留出加油核对、行李清点和车辆检查时间；15:00前完成。",
+          "sources": [],
+          "drive": "不要用高德基础1.5小时车程反推到中午才出发。"
+        }
+      ],
+      "cut": "有延误就取消海拉尔短逛；不安排湿地、博物馆或远郊景点。"
+    }
+  ]
+}

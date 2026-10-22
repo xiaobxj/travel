@@ -1,0 +1,63 @@
+{
+  "endpoint": "v5/direction/driving",
+  "params": {
+    "origin": "119.906516,51.337778",
+    "destination": "119.905589,51.339580",
+    "origin_id": "B0K1GUUKAX",
+    "destination_id": "B0K1XK2GQY",
+    "strategy": 32,
+    "show_fields": "cost,polyline"
+  },
+  "queriedAt": "2026-09-18T02:07:32+08:00",
+  "response": {
+    "status": "1",
+    "info": "OK",
+    "infocode": "10000",
+    "count": "1",
+    "route": {
+      "origin": "119.906516,51.337778",
+      "destination": "119.905589,51.339580",
+      "taxi_cost": "6",
+      "paths": [
+        {
+          "distance": "224",
+          "restriction": "0",
+          "cost": {
+            "duration": "73",
+            "tolls": "0",
+            "toll_distance": "0",
+            "traffic_lights": "0"
+          },
+          "steps": [
+            {
+              "instruction": "向西行驶14米右转",
+              "orientation": "西",
+              "step_distance": "14",
+              "cost": {
+                "duration": "11",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.906548,51.337698;119.906356,51.337667"
+            },
+            {
+              "instruction": "向西北行驶210米到达目的地",
+              "orientation": "西北",
+              "step_distance": "210",
+              "cost": {
+                "duration": "62",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.906356,51.337668;119.906238,51.337931;119.905949,51.338585;119.905718,51.339111;119.905547,51.339497"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "queriedAt": "2026-10-03T08:56:40+08:00",
+  "coordinateSystem": "GCJ-02",
+  "strategy": 32,
+  "source": "2026年10月3日高德地点检索与单程驾车原始响应；只核对地点及指定单程，不据此计算独立绕行增量或确认营业。",
+  "places": {
+    "mordaga-new-hongdoupo": {
+      "status": "verified",
+      "currentRouteLegOnly": true,
+      "poi": {
+        "id": "B0FFFGOZZK",
+        "name": "红豆坡",
+        "location": "120.807667,51.351633",
+        "address": "莫尔道嘎镇11公里处莫尔道嘎国家森林公园",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "typecode": "110000"
+      },
+      "cityId": "mordaga",
+      "kind": "exact",
+      "day": 3,
+      "queriedAt": "2026-10-03T08:56:40+08:00",
+      "poiEvidenceFiles": [
+        "moerdaoga-extra-pois-20261003-085628.json"
+      ],
+      "matchReason": "全名、额尔古纳市行政区、国家森林公园内地址及父级景区ID一致，使用该景点导航POI；未将父级森林公园代替该具体景点。",
+      "anchorName": "森林公园停车场",
+      "fromAnchor": {
+        "meters": 10212,
+        "seconds": 1015,
+        "queriedAt": "2026-10-03T08:56:40+08:00",
+        "evidenceFile": "moerdaoga-extra-driving-20261003-085640.json",
+        "evidenceRouteIndex": 0,
+        "roads": [
+          "未命名路"
+        ],
+        "origin": "森林公园停车场",
+        "destination": "红豆坡",
+        "via": []
+      },
+      "comparisonStatus": "unavailable",
+      "comparisonNote": "已核对从森林公园停车场至红豆坡的高德单程驾车；不是相对主线的独立绕行增量，不含返程、停车、游玩或步行；POI与可算路不代表当天营业或园内自驾开放。"
+    },
+    "mordaga-new-yimujiuling": {
+      "status": "verified",
+      "currentRouteLegOnly": true,
+      "poi": {
+        "id": "B0FFFGOZZU",
+        "name": "一目九岭",
+        "location": "120.820550,51.379818",
+        "address": "莫尔道嘎镇11公里处莫尔道嘎国家森林公园",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;风景名胜",
+        "typecode": "110200"
+      },
+      "cityId": "mordaga",
+      "kind": "exact",
+      "day": 3,
+      "queriedAt": "2026-10-03T08:56:40+08:00",
+      "poiEvidenceFiles": [
+        "moerdaoga-extra-pois-20261003-085628.json"
+      ],
+      "matchReason": "全名、额尔古纳市行政区、国家森林公园内地址及父级景区ID一致，使用该景点导航POI；未将父级森林公园代替该具体景点。",
+      "anchorName": "红豆坡",
+      "fromAnchor": {
+        "meters": 6683,
+        "seconds": 642,
+        "queriedAt": "2026-10-03T08:56:40+08:00",
+        "evidenceFile": "moerdaoga-extra-driving-20261003-085640.json",
+        "evidenceRouteIndex": 1,
+        "roads": [
+          "未命名路"
+        ],
+        "origin": "红豆坡",
+        "destination": "一目九岭",
+        "via": []
+      },
+      "comparisonStatus": "unavailable",
+      "comparisonNote": "已核对从红豆坡至一目九岭的高德单程驾车；不是相对主线的独立绕行增量，不含返程、停车、游玩或步行；POI与可算路不代表当天营业或园内自驾开放。"
+    },
+    "bailudao-new-rafting": {
+      "status": "verified",
+      "currentRouteLegOnly": true,
+      "poi": {
+        "id": "B0KDXULSM1",
+        "name": "白鹿岛漂流",
+        "location": "120.868620,51.946861",
+        "address": "331国道",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;休闲场所;水上活动中心",
+        "typecode": "080505"
+      },
+      "cityId": "bailudao",
+      "kind": "exact",
+      "day": 3,
+      "queriedAt": "2026-10-03T08:56:40+08:00",
+      "poiEvidenceFiles": [
+        "moerdaoga-extra-pois-20261003-085628.json"
+      ],
+      "matchReason": "全名、额尔古纳市行政区、331国道地址及水上活动中心类型一致，使用白鹿岛漂流POI；未将白鹿岛河湾POI代替漂流点。",
+      "anchorName": "白鹿岛酒店停车场",
+      "fromAnchor": {
+        "meters": 1638,
+        "seconds": 281,
+        "queriedAt": "2026-10-03T08:56:40+08:00",
+        "evidenceFile": "moerdaoga-extra-driving-20261003-085640.json",
+        "evidenceRouteIndex": 3,
+        "roads": [
+          "未命名路"
+        ],
+        "origin": "白鹿岛酒店停车场",
+        "destination": "白鹿岛漂流",
+        "via": []
+      },
+      "comparisonStatus": "unavailable",
+      "comparisonNote": "已核对从白鹿岛酒店停车场至白鹿岛漂流的高德单程驾车；不是相对主线的独立绕行增量，不含返程、停车、游玩或步行；POI与可算路不代表当天营业或园内自驾开放。"
+    }
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "45",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": [],
+      "distance": [],
+      "keytag": "洗车店",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 00:00-24:00",
+        "rating": "4.5",
+        "open_time": "24小时营业"
+      },
+      "type": "汽车服务;洗车场;洗车场",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0IR3CH3QU/comment/13A58C0A_F55A_48B8_ADD0_7CA6ECB85A36_L0_001_IMG_5709.JPG"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0IR3CH3QU/comment/225E5F38_E2BB_4C1A_AEB2_BCB129307E32_L0_001_IMG_5707.JPG"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/08fa62997b43297d15a832eb32d9719c"
+        }
+      ],
+      "building": [],
+      "typecode": "010500",
+      "shopinfo": "0",
+      "poiweight": [],
+      "adname": "香洲区",
+      "featured_reviews_remake": [],
+      "tel": "15626275854;19925535141",
+      "id": "B0IR3CH3QU",
+      "address": "港昌路256号",
+      "space_num": [],
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "childtype": [],
+      "atag": [],
+      "name": "车海洋智能自助洗车站(1986夏湾里站)",
+      "location": "113.533952,22.229069",
+      "shopid": [],
+      "favorite_num": [],
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "distance": [],
+      "keytag": "洗车店",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": [],
+        "rating": "4.5",
+        "open_time": []
+      },
+      "type": "汽车服务;洗车场;洗车场",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/39d24075da1d1d35bcefc568d5ff6fab"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/f09669a6b2ade14ef3225b01b83cc458"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/f5a54d70aded90192de48bc3098ede2d"
+        }
+      ],
+      "building": [],
+      "typecode": "010500",
+      "shopinfo": "0",
+      "poiweight": [],
+      "adname": "香洲区",
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0KR95BYO7",
+      "address": "兴华路107号",
+      "space_num": [],
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "childtype": [],
+      "atag": [],
+      "name": "车海洋自助洗车站(888商业街店)",
+      "location": "113.562644,22.280560",
+      "shopid": [],
+      "favorite_num": [],
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "distance": [],
+      "keytag": "洗车店",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": [],
+        "rating": "3.5",
+        "open_time": []
+      },
+      "type": "汽车服务;洗车场;洗车场",
+      "photos": [],
+      "building": [],
+      "typecode": "010500",
+      "shopinfo": "0",
+      "poiweight": [],
+      "adname": "香洲区",
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0LDC481X6",
+      "address": "翠屏路与翠微西路交叉口南220米",
+      "space_num": [],
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "childtype": [],
+      "atag": [],
+      "name": "车海洋自助洗车站(珠海新天大店)",
+      "location": "113.514375,22.252125",
+      "shopid": [],
+      "favorite_num": [],
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "distance": [],
+      "keytag": "洗车店",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 00:00-24:00",
+        "rating": "4.5",
+        "open_time": "24小时营业"
+      },
+      "type": "汽车服务;洗车场;洗车场",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/8708a2396101be41e1f908cddaa8c138"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/81e53e0b530d91de8d0bd2df3aac069b"
+        }
+      ],
+      "building": [],
+      "typecode": "010500",
+      "shopinfo": "0",
+      "poiweight": [],
+      "adname": "香洲区",
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0KRFHNH81",
+      "address": "九洲大道西与竹石巷交叉口西120米",
+      "space_num": [],
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "childtype": [],
+      "atag": [],
+      "name": "兰埔1046车海洋自助洗车",
+      "location": "113.546475,22.237475",
+      "shopid": [],
+      "favorite_num": [],
+      "featured_reviews": []
+    },
+    {
+      "parent": "B02F40RARV",
+      "distance": [],
+      "keytag": "出租车",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": [],
+        "rating": [],
+        "open_time": []
+      },
+      "type": "交通设施服务;上下客区;上下客区",
+      "photos": [],
+      "building": [],
+      "typecode": "151400",
+      "shopinfo": "0",
+      "poiweight": [],
+      "adname": "香洲区",
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0LKLR8R75",
+      "address": "长隆大道长隆海洋王国",
+      "space_num": [],
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "childtype": "302",
+      "atag": [],
+      "name": "海洋王国出租车网约车上车点",
+      "location": "113.541171,22.096454",
+      "shopid": [],
+      "favorite_num": [],
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

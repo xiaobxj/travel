@@ -1,0 +1,81 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "源玺源",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:16+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "2",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "小吃快餐",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "photos": [],
+        "building": [],
+        "typecode": "050100",
+        "shopinfo": "1",
+        "poiweight": [],
+        "adname": "海拉尔区",
+        "featured_reviews_remake": [],
+        "tel": "0470-3192565",
+        "id": "B0FFIQSRS4",
+        "address": "满洲里路种子公司6号",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": "牛肉,羊肉",
+        "name": "源玺源烧麦馆(满洲里中路店)",
+        "location": "119.763769,49.204013",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      },
+      {
+        "parent": "B0FFI6U25O",
+        "distance": [],
+        "keytag": "烧麦",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "photos": [],
+        "building": [],
+        "typecode": "050100",
+        "shopinfo": "0",
+        "poiweight": [],
+        "adname": "陈巴尔虎旗",
+        "featured_reviews_remake": [],
+        "tel": [],
+        "id": "B0G10XI7KA",
+        "address": "巴音佳园小区",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": "320",
+        "atag": [],
+        "name": "源玺源烧麦馆(陈巴尔虎旗巴音佳园小区店)",
+        "location": "119.438727,49.331188",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

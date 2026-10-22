@@ -1,0 +1,41 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "1",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": [],
+      "distance": [],
+      "keytag": "小吃快餐",
+      "importance": [],
+      "biz_ext": [],
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [],
+      "building": [],
+      "typecode": "050100",
+      "shopinfo": "0",
+      "poiweight": [],
+      "adname": "风顺堂区",
+      "featured_reviews_remake": [],
+      "tel": "+853 2857 4310",
+      "id": "B0FFGF5HPK",
+      "address": "福隆新街68号",
+      "space_num": [],
+      "pname": "澳门特别行政区",
+      "biz_type": "diner",
+      "cityname": "澳门特别行政区",
+      "childtype": [],
+      "atag": "招牌虾子捞面,鲜虾云吞,姜葱灼鱼皮,猪手捞面,桑寄生蛋茶,金沙炸鲮鱼球,牛腩面,虾子,竹升面,一碗面,竹笋",
+      "name": "祥记面家",
+      "location": "113.542714,22.191948",
+      "shopid": [],
+      "favorite_num": [],
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

@@ -1,0 +1,32 @@
+{
+  "eerguna-new-fuji": {
+    "id": "B0JRJHBKLS",
+    "name": "福记列巴坊",
+    "location": "120.173330,50.245967",
+    "address": "金鹊街与丁香路交叉口西南60米",
+    "adname": "额尔古纳市",
+    "cityname": "呼伦贝尔市",
+    "type": "餐饮服务;餐饮相关场所;餐饮相关",
+    "typecode": "050000"
+  },
+  "shiwei-taliya": {
+    "id": "B0KRP7LJ49",
+    "name": "塔莉娅咖啡列巴屋",
+    "location": "119.905267,51.338311",
+    "address": "蒙兀室韦苏木文化街B33号",
+    "adname": "额尔古纳市",
+    "cityname": "呼伦贝尔市",
+    "type": "餐饮服务;咖啡厅;咖啡厅",
+    "typecode": "050500"
+  },
+  "qika-lanni": {
+    "id": "B0JUVD9NJ0",
+    "name": "兰妮农家院",
+    "location": "119.535796,50.743351",
+    "address": "恩和七卡",
+    "adname": "额尔古纳市",
+    "cityname": "呼伦贝尔市",
+    "type": "体育休闲服务;休闲场所;休闲场所",
+    "typecode": "080500"
+  }
+}

@@ -1,0 +1,11 @@
+小红书浏览器启动说明
+
+1. 打开 Windows PowerShell。
+2. 复制下面整行命令，粘贴到 PowerShell 中，按回车运行：
+
+& 'C:\Program Files\Google\Chrome\Application\chrome.exe' --remote-debugging-port=9222 --remote-debugging-address=127.0.0.1 --user-data-dir="$env:LOCALAPPDATA\CodexXhsBrowser" --no-first-run --new-window 'https://www.xiaohongshu.com'
+
+3. 在新打开的独立 Chrome 窗口中登录小红书。
+4. 保持该窗口打开，回到对话告诉我“已登录”。
+
+随后我会尝试通过 CDP 连接该窗口。连接成功后，搜索枸杞岛民宿海钓帖子，整理轮渡终点码头接送、海钓装备是否提供、住宿和海钓价格等信息。

@@ -1,0 +1,52 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "室韦河畔牧场酸奶屋",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T02:04:01+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "1",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "B0IK3CUHLM",
+        "distance": [],
+        "keytag": "酸奶",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "photos": [],
+        "building": [],
+        "typecode": "050000",
+        "shopinfo": "0",
+        "poiweight": [],
+        "adname": "额尔古纳市",
+        "featured_reviews_remake": [],
+        "tel": "18614708596",
+        "id": "B0K1XK2GQY",
+        "address": "室韦苏木协荣街",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": "302",
+        "atag": [],
+        "name": "河畔牧场酸奶屋",
+        "location": "119.905589,51.339580",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

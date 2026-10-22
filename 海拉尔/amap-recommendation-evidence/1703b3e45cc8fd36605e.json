@@ -1,0 +1,52 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "驴友小酒馆",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:42+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "1",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "B0IK3CUHLM",
+        "distance": [],
+        "keytag": "中餐",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "photos": [],
+        "building": [],
+        "typecode": "050100",
+        "shopinfo": "0",
+        "poiweight": [],
+        "adname": "额尔古纳市",
+        "featured_reviews_remake": [],
+        "tel": "15230636318",
+        "id": "B0FFG63UGN",
+        "address": "室韦协荣街B37号",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": "302",
+        "atag": "白鱼,柳干,鱼锅,韭菜花炒蛋,鲤鱼,狗鱼,鲶鱼,酸黄瓜炒肉,华子鱼,鱼子炒蛋,山蘑菇,家常菜,特色菜,羊肉串",
+        "name": "驴友小酒馆",
+        "location": "119.901983,51.338918",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

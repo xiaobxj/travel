@@ -1,0 +1,45 @@
+{
+  "targetDate": "2026-10-06",
+  "researchedDate": "2026-10-04",
+  "status": "awaiting_itinerary_confirmation",
+  "published": false,
+  "userPreference": "以看风景为主，乌兰山优先，并明确要玩滑草；当晚仍按原计划住额尔古纳",
+  "route": ["七卡", "卡线南段", "乌兰山入口旁停车场", "黑山头一品香家常菜馆", "额尔古纳市区"],
+  "wholeRoute": {
+    "meters": 131661,
+    "seconds": 7282,
+    "evidenceFile": "day5-lunch-driving-20261004-201340.json",
+    "note": "高德10/4晚查询，为10/6规划参考；酒店与景区内部接驳另计。完整路线与分段分别查询，不能以分段和替换完整路线。"
+  },
+  "legs": [
+    {"from":"七卡村内参考点","to":"乌兰山入口旁停车场","meters":23346,"seconds":1609,"evidenceFile":"day5-core-driving-20261004-201157.json","routeIndex":2},
+    {"from":"乌兰山入口旁停车场","to":"一品香家常菜馆","meters":60279,"seconds":3325,"evidenceFile":"day5-lunch-driving-20261004-201340.json","routeIndex":3},
+    {"from":"一品香家常菜馆","to":"额尔古纳市区参考点","meters":47849,"seconds":2598,"evidenceFile":"day5-lunch-driving-20261004-201340.json","routeIndex":4}
+  ],
+  "scheduleEstimates": [
+    {"time":"08:00–09:00","activity":"早餐、退房，09:00左右出发","detail":"优先住宿方早餐，前一晚确认供餐。"},
+    {"time":"09:00–10:00","activity":"七卡南段卡线至乌兰山","detail":"高德纯驾驶约27分钟，开放停车点短停合计20–30分钟。"},
+    {"time":"10:00–12:00/12:30","activity":"乌兰山太极湾观景＋滑草","detail":"连园内接驳、观景、滑草准备及排队，共预留2–2.5小时；到场先确认滑草开行和排队，按工作人员安排调整先后。这是规划预算，不是项目运行时长。"},
+    {"time":"12:00/12:30–13:00/13:30","activity":"前往黑山头一品香","detail":"高德纯驾驶约55分钟；园内游玩增加不改变公路路线。"},
+    {"time":"13:00/13:30–14:00/14:30","activity":"黑山头午餐","detail":"一品香家常菜馆首选，云汐小馆备选；用餐45–60分钟为规划估时，确认午后供餐；早餐后备些列巴或零食。"},
+    {"time":"午餐后，预计15:00–16:00入城","activity":"前往额尔古纳、入住休息","detail":"至市区高德纯驾驶约43分钟；到达窗口含慢行、等菜及停车弹性，酒店接驳另计。"},
+    {"time":"晚上","activity":"额尔古纳晚餐","detail":"顺成红焖羊肉（盛大家园店）或铭源特色餐厅，按住宿位置再选。"}
+  ],
+  "activityEvidence": [
+    {"file":"xiaohongshu/6ac2308d000000000b00633b.json","finding":"10/4新发布乌兰山登高观河正面记录；未明确承诺10/6开放。"},
+    {"file":"xiaohongshu/6abe38e1000000001a022c61.json","finding":"近期实际游玩太极湾观景及游乐项目记录，票价仅为作者当时经历。"},
+    {"file":"xiaohongshu/6abc968a000000001403824e.json","finding":"近期游客对乌兰山餐厅、接驳与滑草性价比的负面个人体验；午餐安排黑山头。"},
+    {"file":"xiaohongshu/6ac11f40000000001a0331ef.json","finding":"明确10/3卡线实走；内部行程叙述矛盾，不引用其车程或点位次序。"}
+  ],
+  "foodResearchFile":"food-activities-research.json",
+  "wulanContact":{"phone":"0470-2385880","source":"https://you.ctrip.com/sight/ergun2026/5711188.html","note":"平台公布景区咨询电话；10/6开放、上山接驳及餐厅供餐尚未直接联系确认。"},
+  "grassSliding": {
+    "priority":"用户明确要求，列入主计划，是否开行以10/6现场为准",
+    "combinedVisitBudgetMinutesEstimate":[120,150],
+    "priceReference":{"yuanPerPerson":100,"sourceFile":"xiaohongshu/6abe38e1000000001a022c61.json","note":"近期作者经历中的滑草价格；同帖另列门票60元，不视作本次报价或打包总价，购票时确认门票、接驳及项目包含内容。"},
+    "sourcePublicationDate":"2026-10-01",
+    "operatingOn20261006":"尚未向景区直接确认",
+    "fallback":"天气或项目停运时保留太极湾观景，午餐与返城相应提前"
+  },
+  "optional":"骑马仅作临时改变意愿时的备选，不加入本次主线或估时。"
+}

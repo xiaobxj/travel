@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "detectedAt": "2026-10-03T08:46:46+08:00",
+  "reason": "两份按请求参数命名的缓存原响应在 2026-10-03 被刷新；历史汇总仍记录 2026-09-18 的数值，未找到对应原响应备份。",
+  "recoverySearch": {
+    "searched": [
+      "工作区根目录 JSON",
+      "amap-recommendation-evidence",
+      "archive-before-qika",
+      "qika-amap-evidence"
+    ],
+    "result": "未找到 113934 米 / 7622 秒或 3827 米 / 671 秒的历史原路径响应；工作区无 .git。"
+  },
+  "policy": "保留历史汇总与当前原响应，不伪造历史原响应，不将当前基线与历史插点混算；受影响条目停止参与额外驾车时间比较。",
+  "places": {
+    "genhe-new-shouwang": {
+      "fields": {
+        "baseline": {
+          "evidenceFile": "amap-recommendation-evidence\\893082ef6b9d97a43892.json",
+          "historical": {
+            "meters": 113934,
+            "seconds": 7622,
+            "queriedAt": "2026-09-18T01:56:35+08:00"
+          },
+          "current": {
+            "meters": 126014,
+            "seconds": 7831,
+            "queriedAt": "2026-10-03T08:23:58+08:00"
+          }
+        }
+      },
+      "overlay": {
+        "comparisonStatus": "unavailable",
+        "historicalEvidenceIssue": true,
+        "comparisonNote": "历史原响应缓存已刷新，无法复核原批次驾驶数值；历史汇总保留作记录，当前不参与绕路排名。出发前请按新路线导航。"
+      }
+    },
+    "deerbur-guangyuan": {
+      "fields": {
+        "baseline": {
+          "evidenceFile": "amap-recommendation-evidence\\893082ef6b9d97a43892.json",
+          "historical": {
+            "meters": 113934,
+            "seconds": 7622,
+            "queriedAt": "2026-09-18T01:56:35+08:00"
+          },
+          "current": {
+            "meters": 126014,
+            "seconds": 7831,
+            "queriedAt": "2026-10-03T08:23:58+08:00"
+          }
+        }
+      },
+      "overlay": {
+        "comparisonStatus": "unavailable",
+        "historicalEvidenceIssue": true,
+        "comparisonNote": "历史原响应缓存已刷新，无法复核原批次驾驶数值；历史汇总保留作记录，当前不参与绕路排名。出发前请按新路线导航。"
+      }
+    },
+    "aoluguya-reindeer": {
+      "fields": {
+        "baseline": {
+          "evidenceFile": "amap-recommendation-evidence\\893082ef6b9d97a43892.json",
+          "historical": {
+            "meters": 113934,
+            "seconds": 7622,
+            "queriedAt": "2026-09-18T01:56:35+08:00"
+          },
+          "current": {
+            "meters": 126014,
+            "seconds": 7831,
+            "queriedAt": "2026-10-03T08:23:58+08:00"
+          }
+        }
+      },
+      "overlay": {
+        "comparisonStatus": "unavailable",
+        "historicalEvidenceIssue": true,
+        "comparisonNote": "历史原响应缓存已刷新，无法复核原批次驾驶数值；历史汇总保留作记录，当前不参与绕路排名。出发前请按新路线导航。"
+      }
+    },
+    "deerbur-deer": {
+      "fields": {
+        "baseline": {
+          "evidenceFile": "amap-recommendation-evidence\\893082ef6b9d97a43892.json",
+          "historical": {
+            "meters": 113934,
+            "seconds": 7622,
+            "queriedAt": "2026-09-18T01:56:35+08:00"
+          },
+          "current": {
+            "meters": 126014,
+            "seconds": 7831,
+            "queriedAt": "2026-10-03T08:23:58+08:00"
+          }
+        },
+        "fromAnchor": {
+          "evidenceFile": "amap-recommendation-evidence\\8430ac9a3ac1f45647a3.json",
+          "historical": {
+            "meters": 3827,
+            "seconds": 671,
+            "queriedAt": "2026-09-18T01:56:57+08:00"
+          },
+          "current": {
+            "meters": 3827,
+            "seconds": 674,
+            "queriedAt": "2026-10-03T08:24:03+08:00"
+          }
+        }
+      },
+      "overlay": {
+        "comparisonStatus": "unavailable",
+        "historicalEvidenceIssue": true,
+        "comparisonNote": "历史原响应缓存已刷新，无法复核原批次驾驶数值；历史汇总保留作记录，当前不参与绕路排名。出发前请按新路线导航。"
+      }
+    },
+    "deerbur-new-shanshan": {
+      "fields": {
+        "baseline": {
+          "evidenceFile": "amap-recommendation-evidence\\893082ef6b9d97a43892.json",
+          "historical": {
+            "meters": 113934,
+            "seconds": 7622,
+            "queriedAt": "2026-09-18T01:56:35+08:00"
+          },
+          "current": {
+            "meters": 126014,
+            "seconds": 7831,
+            "queriedAt": "2026-10-03T08:23:58+08:00"
+          }
+        }
+      },
+      "overlay": {
+        "comparisonStatus": "unavailable",
+        "historicalEvidenceIssue": true,
+        "comparisonNote": "历史原响应缓存已刷新，无法复核原批次驾驶数值；历史汇总保留作记录，当前不参与绕路排名。出发前请按新路线导航。"
+      }
+    }
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "zhuhai_station": {
+    "id": "B0FFF2UNCN",
+    "name": "珠海站",
+    "address": "昌盛路5号",
+    "location": "113.549572,22.215378",
+    "type": "交通设施服务;火车站;火车站",
+    "business_area": []
+  },
+  "gongbei": {
+    "id": "B02F402F5M",
+    "name": "珠海拱北口岸",
+    "address": "拱北侨光路3号",
+    "location": "113.553982,22.215876",
+    "type": "交通设施服务;过境口岸;过境口岸",
+    "business_area": []
+  },
+  "postoffice": {
+    "id": "B0FFHFANNQ",
+    "name": "爱情邮局",
+    "address": "情侣中路88号",
+    "location": "113.590590,22.256618",
+    "type": "风景名胜;风景名胜相关;旅游景点",
+    "business_area": "吉大"
+  },
+  "fishergirl": {
+    "id": "B02F400189",
+    "name": "珠海渔女",
+    "address": "情侣中路香炉湾",
+    "location": "113.588277,22.261417",
+    "type": "风景名胜;风景名胜;省级景点",
+    "business_area": "吉大"
+  },
+  "xianglu": {
+    "id": "B0FFHFAMEL",
+    "name": "香炉湾沙滩",
+    "address": "香湾街道情侣中路",
+    "location": "113.582404,22.265289",
+    "type": "风景名胜;风景名胜;海滩",
+    "business_area": "吉大"
+  },
+  "opera": {
+    "id": "B0LKBDT6LJ",
+    "name": "珠海日月贝",
+    "address": "环岛路3号",
+    "location": "113.588908,22.284695",
+    "type": "风景名胜;风景名胜;风景名胜"
+  },
+  "hotpot": {
+    "id": "B0LRHD7H03",
+    "name": "十六潮大排档·潮汕牛肉·海鲜火锅(拱北店)",
+    "address": "情侣南路259号",
+    "location": "113.561905,22.224243",
+    "type": "餐饮服务;中餐厅;火锅店",
+    "business_area": []
+  },
+  "diandude": {
+    "id": "B0FFK16UYE",
+    "name": "点都德(摩尔广场店)",
+    "address": "迎宾南路2095号摩尔广场三楼",
+    "location": "113.551046,22.232810",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "business_area": "北岭"
+  },
+  "xinhaili": {
+    "id": "B0FFIWPGNT",
+    "name": "新海利海鲜城(夏湾店)",
+    "address": "粤华路271-275号",
+    "location": "113.546601,22.221822",
+    "type": "餐饮服务;中餐厅;海鲜酒楼|生活服务;生活服务场所;生活服务场所",
+    "business_area": "拱北"
+  },
+  "barrier": {
+    "id": "B073D00BJM",
+    "name": "关闸边检大楼",
+    "address": "港珠澳大桥珠海连接线南100米",
+    "location": "113.554346,22.213468",
+    "type": "商务住宅;楼宇;商务写字楼",
+    "business_area": []
+  },
+  "senado": {
+    "id": "B0FFIPIKST",
+    "name": "议事亭前地广场",
+    "address": "澳门半岛中区",
+    "location": "113.545322,22.191104",
+    "type": "风景名胜;公园广场;城市广场",
+    "business_area": "澳门半岛"
+  },
+  "rosary": {
+    "id": "B073D00AS5",
+    "name": "玫瑰圣母堂(暂停开放)",
+    "address": "板樟堂街",
+    "location": "113.545515,22.191844",
+    "type": "风景名胜;风景名胜;教堂",
+    "business_area": "澳门半岛"
+  },
+  "stpaul": {
+    "id": "B073D00ASB",
+    "name": "大三巴牌坊",
+    "address": "炮台山下",
+    "location": "113.545883,22.194627",
+    "type": "风景名胜;风景名胜;世界遗产",
+    "business_area": "澳门半岛"
+  },
+  "cunha": {
+    "id": "B073D0ME04",
+    "name": "官也街",
+    "address": "官也街21号",
+    "location": "113.562072,22.150743",
+    "type": "地名地址信息;热点地名;热点地名|购物服务;特色商业街;特色商业街",
+    "business_area": []
+  },
+  "venetian": {
+    "id": "B073D0M4FP",
+    "name": "澳门威尼斯人",
+    "address": "望德圣母湾大马路s/n号",
+    "location": "113.565505,22.144416",
+    "type": "住宿服务;宾馆酒店;五星级宾馆",
+    "business_area": []
+  },
+  "londoner": {
+    "id": "B073D0M5O3",
+    "name": "澳门伦敦人",
+    "address": "澳门路氹连贯公路",
+    "location": "113.570366,22.142878",
+    "type": "商务住宅;楼宇;商务写字楼",
+    "business_area": "澳门"
+  },
+  "galorest": {
+    "id": "B073D00DSL",
+    "name": "海湾餐厅(新福花园店)",
+    "address": "河边新街261-A地下(近妈阁庙)",
+    "location": "113.537021,22.185055",
+    "type": "餐饮服务;外国餐厅;葡国菜",
+    "business_area": []
+  },
+  "lordstow": {
+    "id": "B0J1HHC1XQ",
+    "name": "安德鲁饼店(官也街店)",
+    "address": "官也街9号地下D铺",
+    "location": "113.562129,22.150555",
+    "type": "餐饮服务;糕饼店;糕饼店",
+    "business_area": []
+  },
+  "ocean": {
+    "id": "B02F40RARV",
+    "name": "长隆海洋王国",
+    "address": "长隆大道",
+    "location": "113.538507,22.098750",
+    "type": "体育休闲服务;休闲场所;游乐场|风景名胜;风景名胜相关;旅游景点",
+    "business_area": []
+  },
+  "spaceship": {
+    "id": "B0FFJFNV9P",
+    "name": "长隆飞船乐园",
+    "address": "横琴镇环岛路长隆大道1号珠海横琴长隆国际海洋度假区",
+    "location": "113.539033,22.093207",
+    "type": "体育休闲服务;休闲场所;游乐场",
+    "business_area": []
+  },
+  "penguinhotel": {
+    "id": "B0FFFEYQZJ",
+    "name": "长隆企鹅酒店",
+    "address": "环岛东路89号",
+    "location": "113.538893,22.100976",
+    "type": "住宿服务;宾馆酒店;宾馆酒店",
+    "business_area": []
+  },
+  "spaceshiphotel": {
+    "id": "B0FFKU1N8A",
+    "name": "珠海长隆飞船酒店",
+    "address": "横琴新区富祥湾1号",
+    "location": "113.534841,22.091096",
+    "type": "住宿服务;宾馆酒店;宾馆酒店",
+    "business_area": []
+  },
+  "circushotel": {
+    "id": "B0FFFA7VC4",
+    "name": "长隆马戏酒店",
+    "address": "富祥湾珠海长隆国际马戏城旁",
+    "location": "113.542668,22.098849",
+    "type": "住宿服务;宾馆酒店;宾馆酒店",
+    "business_area": []
+  },
+  "hengqinbayhotel": {
+    "id": "B0FFFD4B7J",
+    "name": "长隆横琴湾酒店(珠海长隆旗舰店)",
+    "address": "横琴新区富祥湾(环岛东路与长隆大道交汇处)",
+    "location": "113.547235,22.099083",
+    "type": "住宿服务;宾馆酒店;五星级宾馆",
+    "business_area": []
+  },
+  "yinghaihotel": {
+    "id": "B0FFH0GDQH",
+    "name": "长隆迎海酒店公寓(珠海海洋王国店)",
+    "address": "横琴粤澳深度合作区七色彩虹路1号",
+    "location": "113.543393,22.125303",
+    "type": "住宿服务;宾馆酒店;宾馆酒店",
+    "business_area": "横琴"
+  },
+  "miaojirest": {
+    "id": "B0LBD9YR5Y",
+    "name": "妙记•潮菜•潮汕家乡味(横琴中央汇店)",
+    "address": "香江路10号",
+    "location": "113.543354,22.129529",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "business_area": "横琴"
+  },
+  "whaleshark": {
+    "id": "B0FFF5EE31",
+    "name": "鲸鲨馆",
+    "address": "富祥湾长隆海洋王国内",
+    "location": "113.532898,22.096692",
+    "type": "风景名胜;公园广场;水族馆",
+    "business_area": []
+  },
+  "penguinhall": {
+    "id": "B0FFF56V5O",
+    "name": "企鹅馆",
+    "address": "富祥湾长隆度假区内珠海长隆海洋王国",
+    "location": "113.535966,22.096023",
+    "type": "风景名胜;公园广场;水族馆"
+  },
+  "parrotcoaster": {
+    "id": "B0FFI7UOF2",
+    "name": "鹦鹉过山车",
+    "address": "富祥湾长隆海洋王国内",
+    "location": "113.533412,22.098722",
+    "type": "体育休闲服务;休闲场所;游乐场",
+    "business_area": []
+  },
+  "belugatheater": {
+    "id": "B0FFF5E1KC",
+    "name": "珠海长隆海洋王国-白鲸剧场",
+    "address": "富祥湾长隆海洋王国内",
+    "location": "113.534134,22.095709",
+    "type": "体育休闲服务;影剧院;剧场",
+    "business_area": []
+  },
+  "undersearest": {
+    "id": "B0FFHEQ4RO",
+    "name": "蛙小侠(华发商都店)",
+    "address": "珠海大道8号珠海华发商都F2层",
+    "location": "113.510920,22.224611",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "business_area": "南屏"
+  },
+  "spaceshipfood": {
+    "id": "B0J1915DWW",
+    "name": "长隆飞船酒店·珊瑚餐厅",
+    "address": "长隆飞船乐园一楼(长隆飞船乐园一楼美食广场)",
+    "location": "113.537690,22.093260",
+    "type": "餐饮服务;餐饮相关场所;餐饮相关",
+    "business_area": []
+  },
+  "opera2": {
+    "id": "BV11276318",
+    "name": "日月贝(公交站)",
+    "address": "(停运)上冲线;(停运)悠游山海观光线;Z11A路;Z11路;吉大总站-日月贝接驳专线;市民服务中心总站-日月贝接驳专线;情侣路观光南线;浪漫香洲观光线",
+    "location": "113.589689,22.280922",
+    "type": "交通设施服务;公交车站;公交车站相关"
+  },
+  "hyatt": {
+    "id": "B0L3XD0JYY",
+    "name": "珠海拱北凯悦酒店",
+    "address": "迎宾南路1019号",
+    "location": "113.552671,22.220350",
+    "type": "住宿服务;宾馆酒店;宾馆酒店"
+  },
+  "longzhuda": {
+    "id": "B0FFGAHY7I",
+    "name": "珠海龙珠达国际酒店(拱北口岸高铁站店)",
+    "address": "拱北昌盛路66号",
+    "location": "113.550142,22.216796",
+    "type": "住宿服务;宾馆酒店;五星级宾馆"
+  },
+  "liyuan": {
+    "id": "B02F400JMU",
+    "name": "吉莲利苑海鲜酒家(珠光花园店)",
+    "address": "桂花北路56号",
+    "location": "113.548037,22.228831",
+    "type": "餐饮服务;中餐厅;中餐厅"
+  },
+  "xiangji": {
+    "id": "B0FFGF5HPK",
+    "name": "祥记面家",
+    "address": "福隆新街68号",
+    "location": "113.542714,22.191948",
+    "type": "餐饮服务;中餐厅;中餐厅"
+  },
+  "j Cheng": {
+    "id": "B0FFK9L4Q6",
+    "name": "金城二食店",
+    "address": "哪咤庙斜巷18-a号",
+    "location": "113.547545,22.193257",
+    "type": "餐饮服务;中餐厅;中餐厅"
+  },
+  "laoday": {
+    "id": "B0FFHZZJ43",
+    "name": "老Day牛杂(官也街总店)",
+    "address": "澳门特别行政区嘉模堂区澳门特别行政区嘉模堂区氹仔官也街8号地下",
+    "location": "113.562092,22.150403",
+    "type": "餐饮服务;餐饮相关场所;餐饮相关"
+  },
+  "zeixian": {
+    "id": "B0JBOZN8FE",
+    "name": "泽贤记蛋球仔专门店(寰宇天下店)",
+    "address": "东方明珠街91号寰宇天下第一座AK铺",
+    "location": "113.562290,22.208130",
+    "type": "餐饮服务;餐饮相关场所;餐饮相关"
+  },
+  "penguinhall2": {
+    "id": "B0FFF56V5O",
+    "name": "企鹅馆",
+    "address": "富祥湾长隆度假区内珠海长隆海洋王国",
+    "location": "113.535966,22.096023",
+    "type": "风景名胜;公园广场;水族馆"
+  },
+  "spaceship2": {
+    "id": "B0FFJFNV9P",
+    "name": "长隆飞船乐园",
+    "address": "横琴镇环岛路长隆大道1号珠海横琴长隆国际海洋度假区",
+    "location": "113.539033,22.093207",
+    "type": "体育休闲服务;休闲场所;游乐场"
+  },
+  "jinyue": {
+    "id": "B02F402MO1",
+    "name": "金悦轩海鲜酒家(珠海总店)",
+    "address": "拱北情侣南路265号日华商业广场B区1-3层",
+    "location": "113.562337,22.224935",
+    "type": "餐饮服务;中餐厅;火锅店"
+  },
+  "bermuda": {
+    "id": "B0L6MMSYX9",
+    "name": "百慕大历险",
+    "address": "鲸生鲸世西侧80米",
+    "location": "113.537956,22.092536",
+    "type": "体育休闲服务;休闲场所;游乐场"
+  },
+  "submarine": {
+    "id": "B0FFLKZX76",
+    "name": "深海鱼档(香洲店)",
+    "address": "胡湾里四街58号1单元102房之三",
+    "location": "113.570954,22.268907",
+    "type": "餐饮服务;中餐厅;中餐厅"
+  },
+  "monorail": {
+    "id": "B0IR3CH3QU",
+    "name": "车海洋智能自助洗车站(1986夏湾里站)",
+    "address": "港昌路256号",
+    "location": "113.533952,22.229069",
+    "type": "汽车服务;洗车场;洗车场"
+  },
+  "orcafood": {
+    "id": "B0MBTRD29J",
+    "name": "鲸生鲸世餐厅(长隆飞船乐园店)",
+    "address": "长隆飞船乐园1层鲸奇宇宙区",
+    "location": "113.538825,22.092375",
+    "type": "餐饮服务;餐饮相关场所;餐饮相关"
+  },
+  "partyfood": {
+    "id": "B02F40PDD2",
+    "name": "为食厨房(北岭店)",
+    "address": "岭南路68号岭秀城2s1-1139",
+    "location": "113.549318,22.232088",
+    "type": "餐饮服务;快餐厅;快餐厅"
+  },
+  "coralfood": {
+    "id": "B0J1915DWW",
+    "name": "长隆飞船酒店·珊瑚餐厅",
+    "address": "长隆飞船乐园一楼(长隆飞船乐园一楼美食广场)",
+    "location": "113.537690,22.093260",
+    "type": "餐饮服务;餐饮相关场所;餐饮相关"
+  },
+  "oceanfood": {
+    "id": "B0FFG35JLK",
+    "name": "城堡餐厅",
+    "address": "横琴长隆大道环岛东路89号",
+    "location": "113.536814,22.099605",
+    "type": "餐饮服务;中餐厅;中餐厅"
+  },
+  "spaceshipgate": {
+    "id": "B0KDM77ROT",
+    "name": "长隆飞船乐园售票处",
+    "address": "长隆飞船乐园",
+    "location": "113.542757,22.095465",
+    "type": "生活服务;售票处;公园景点售票处"
+  },
+  "jincheng": {
+    "id": "B0FFK9L4Q6",
+    "name": "金城二食店",
+    "address": "哪咤庙斜巷18-a号",
+    "location": "113.547545,22.193257",
+    "type": "餐饮服务;中餐厅;中餐厅"
+  }
+}

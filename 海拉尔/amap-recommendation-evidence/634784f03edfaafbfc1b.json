@@ -1,0 +1,76 @@
+{
+  "endpoint": "v5/direction/driving",
+  "params": {
+    "origin": "119.980752,51.412703",
+    "destination": "119.997240,51.411277",
+    "origin_id": "B0FFJE09RB",
+    "destination_id": "B0K2XZ7N9F",
+    "strategy": 32,
+    "show_fields": "cost,polyline"
+  },
+  "queriedAt": "2026-09-18T01:56:41+08:00",
+  "response": {
+    "status": "1",
+    "info": "OK",
+    "infocode": "10000",
+    "count": "1",
+    "route": {
+      "origin": "119.980752,51.412703",
+      "destination": "119.997240,51.411277",
+      "taxi_cost": "6",
+      "paths": [
+        {
+          "distance": "1178",
+          "restriction": "0",
+          "cost": {
+            "duration": "288",
+            "tolls": "0",
+            "toll_distance": "0",
+            "traffic_lights": "0"
+          },
+          "steps": [
+            {
+              "instruction": "向东南行驶12米左转",
+              "orientation": "东南",
+              "step_distance": "12",
+              "cost": {
+                "duration": "19",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.980916,51.412736;119.98097,51.412635"
+            },
+            {
+              "instruction": "向东行驶954米左转",
+              "orientation": "东",
+              "step_distance": "954",
+              "cost": {
+                "duration": "188",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.98097,51.412635;119.982569,51.412748;119.984269,51.412732;119.985573,51.412705;119.98605,51.412711;119.986973,51.412695;119.987799,51.412657;119.9909,51.412324;119.99135,51.41226;119.991785,51.412201;119.992675,51.412072;119.993383,51.411825;119.994006,51.411541;119.994236,51.411364"
+            },
+            {
+              "instruction": "向东行驶212米到达目的地",
+              "orientation": "东",
+              "step_distance": "212",
+              "cost": {
+                "duration": "81",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.994236,51.411364;119.994365,51.411396;119.994649,51.411407;119.995846,51.411305;119.996017,51.411316;119.996275,51.411353;119.996463,51.41137;119.996656,51.411343;119.997111,51.411219;119.997211,51.411204"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

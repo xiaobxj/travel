@@ -1,0 +1,387 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "20",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": "B0FFFFLAX5",
+      "pcode": "440000",
+      "keytag": "剧院",
+      "type": "体育休闲服务;影剧院;剧场",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://img.alicdn.com/imgextra/i1/O1CN01YhAmdM1Wdwqldq7ar_!!6000000002812-2-tps-808-816.png"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFGV5QSF/comment/content_media_external_images_media_17542_ss__1743656076262_00858992.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/9de96025ce10b8f59ddba280c6646058"
+        }
+      ],
+      "building": [],
+      "typecode": "080603",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "0756-8688888",
+      "id": "B0FFGV5QSF",
+      "tag": [],
+      "entr_location": "113.545695,22.103938",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "601",
+      "atag": [],
+      "name": "长隆剧院",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F023045_14064",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "303.00",
+        "opentime2": "15:30-18:30,常规开演时间:17:00；入园时间、表演时间、节目有变动以官网为准",
+        "seat_ordering": "0",
+        "rating": "4.8",
+        "open_time": "15:30-18:30"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313142301",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 17:00:45",
+      "website": [],
+      "address": "环岛路(长隆大道附近)富祥湾珠海长隆度假区内",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.543843,22.102041",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "440000",
+      "keytag": "剧院",
+      "type": "体育休闲服务;影剧院;剧场",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFFFWF4G/comment/24a4b5ce4ea850b0168f6bbeeece330f_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFFFWF4G/comment/content_media_external_file_84684_ss__1761416049262_24979741.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFFFWF4G/comment/content_media_external_images_media_1000054309_ss__1760241562033_17149154.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "080603",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "0756-6805522;4009301218",
+      "id": "B0FFFFWF4G",
+      "tag": [],
+      "entr_location": "113.526604,22.172974",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "珠海华发中演大剧院",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "182.00",
+        "opentime2": "周一至周日 09:00-17:30",
+        "seat_ordering": "0",
+        "rating": "4.7",
+        "open_time": "09:00-17:30"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313240220",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 10:52:59",
+      "website": [],
+      "address": "南湾大道十字门中央商务区银湾路1663号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.526389,22.173163",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B0FFFFLAX5",
+      "pcode": "440000",
+      "keytag": "体育休闲服务,影剧院,剧场",
+      "type": "体育休闲服务;影剧院;剧场",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/51eafb8ea8c97ed2640d157c6536f653"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/905025158958a3315010a8b5cff80a76"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/4e9144ab896bd248b9462a47526a3764"
+        }
+      ],
+      "building": [],
+      "typecode": "080603",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "0756-2993388;0756-8688888;4006040609",
+      "id": "B0FFFGTAXZ",
+      "tag": [],
+      "entr_location": "113.542927,22.096657",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "601",
+      "atag": [],
+      "name": "长隆卡卡剧场",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 09:30-12:00",
+        "seat_ordering": "0",
+        "rating": "4.6",
+        "open_time": "09:30-12:00"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313141321",
+      "shopinfo": "0",
+      "alias": "珠海长隆国际马戏城",
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 17:00:28",
+      "website": [],
+      "address": "富祥湾珠海长隆度假区内(长隆横琴湾酒店对面)",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.543676,22.099308",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "440000",
+      "keytag": "剧院",
+      "type": "体育休闲服务;影剧院;剧场",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/9f8fe2b69d7d8ab3c0ea34094d15ddbb"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0KK9HS6RG/comment/451AA1B6_05B0_4658_B410_164A9B8A55AE_L0_001_1284_134_1765358705233_78174301.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0KK9HS6RG/comment/AC192559_55EC_46A0_AB86_8313820663B9_L0_001_1284_149_1765358705232_58293998.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "080603",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "13168655768",
+      "id": "B0KK9HS6RG",
+      "tag": [],
+      "entr_location": [],
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "开心麻花剧场(横琴店)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "384.00",
+        "opentime2": "周一至周日 09:00-21:00",
+        "seat_ordering": "0",
+        "rating": "4.5",
+        "open_time": "09:00-21:00"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313146202",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 08:04:27",
+      "website": [],
+      "address": "琴朗道151号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.534668,22.135982",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "440000",
+      "keytag": "剧院",
+      "type": "体育休闲服务;影剧院;剧场",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0J0GN7KZQ/comment/29c706f7f76ca5d4ac09c4188dfde5db_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0J0GN7KZQ/comment/content_media_external_file_931_1772778032508_92151942.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0J0GN7KZQ/comment/E8F8C9E4_68B9_475B_8B66_834C1205923E_L0_001_2000_150_1762096098073_45727895.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "080603",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "金湾区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "0756-6378888",
+      "id": "B0J0GN7KZQ",
+      "tag": [],
+      "entr_location": "113.362799,22.116641",
+      "adcode": "440404",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "珠海金湾艺术中心·大剧院A馆",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 09:00-17:30",
+        "seat_ordering": "0",
+        "rating": "4.6",
+        "open_time": "09:00-17:30"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313124900",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 17:54:49",
+      "website": [],
+      "address": "金帆路与金泓路交叉口东300米",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.362575,22.116675",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

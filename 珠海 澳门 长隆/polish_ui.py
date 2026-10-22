@@ -1,0 +1,15 @@
+from pathlib import Path
+R=Path(__file__).parent
+p=R/'template.html';s=p.read_text(encoding='utf-8')
+s=s.replace("&&((tab!=='food'&&tab!=='stay')||i.cat===tab)","")
+s=s.replace("if(t==='food'||t==='stay')filters.add(t);","filters=t==='food'||t==='stay'?new Set([t]):new Set(Object.keys(cats));")
+s=s.replace("const all=D.routes.filter(r=>r.day===day&&r.status==='amap');","const all=(tab==='food'||tab==='stay')?[]:D.routes.filter(r=>r.day===day&&r.status==='amap');")
+s=s.replace("mapId==='resort'?'横琴 · 住宿与两园':daily().city","mapId==='resort'?'横琴 · 住宿与两园':mapId==='transfer'?'拱北 ⇄ 横琴长隆':daily().city")
+s=s.replace('查看 18 篇小红书原文','查看 ${Object.keys(D.sources).length} 篇小红书原文')
+s=s.replace('cy-h/2)),w,h];setView()}',"cy-h/2)),w,h];setView();if(isSmall()&&selected&&!$('#popup').classList.contains('hidden'))focusSelected()}")
+s=s.replace("$('#fit').onclick=()=>{routeSelected=null;", "$('#fit').onclick=()=>{selected=null;routeSelected=null;")
+p.write_text(s,encoding='utf-8')
+p=R/'build_trip.py';s=p.read_text(encoding='utf-8')
+s=s.replace("'https://www.chimelong.com/zh/traffic/'","'https://www.chimelong.com/zh/traffic/type_7.html'")
+s=s.replace("('余力','monorail','有空再玩'),('离园后','penguinhotel'","('余力','monorail','有空再玩'),('离园时','spaceshipgate','从主入口离开'),('离园后','penguinhotel'")
+p.write_text(s,encoding='utf-8')

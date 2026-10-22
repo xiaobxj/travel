@@ -1,0 +1,400 @@
+{
+  "source": "AMap live API; no local cache",
+  "planningDate": "2026-10-06",
+  "queriedAtStart": "2026-10-04T20:11:27+08:00",
+  "coordinateSystem": "GCJ-02",
+  "queries": [
+    {
+      "kind": "detail",
+      "label": "乌兰山入口附近独立停车场",
+      "endpoint": "v3/place/detail",
+      "params": {
+        "id": "B0H2B7MAOU",
+        "extensions": "all"
+      },
+      "queriedAtStart": "2026-10-04T20:11:27+08:00",
+      "response": {
+        "count": "1",
+        "infocode": "10000",
+        "pois": [
+          {
+            "parent": "B0FFM3EAVX",
+            "pcode": "150000",
+            "keytag": "地面停车场",
+            "type": "交通设施服务;停车场;公共停车场",
+            "photos": [
+              {
+                "title": [],
+                "url": "https://aos-comment.amap.com/B0H2B7MAOU/comment/325d806f0afb2f70a43e2c1eae1b4cdd_2048_2048_80.jpg"
+              },
+              {
+                "title": [],
+                "url": "https://aos-comment.amap.com/B0H2B7MAOU/comment/062b827e7183bbefc59f68cc9cf3e340_2048_2048_80.jpg"
+              }
+            ],
+            "building": [],
+            "typecode": "150904",
+            "poiweight": [],
+            "citycode": "0470",
+            "adname": "额尔古纳市",
+            "children": [],
+            "featured_reviews_remake": [],
+            "tel": [],
+            "id": "B0H2B7MAOU",
+            "tag": [],
+            "entr_location": "119.357401,50.617147",
+            "adcode": "150784",
+            "pname": "内蒙古自治区",
+            "biz_type": [],
+            "cityname": "呼伦贝尔市",
+            "postcode": [],
+            "business_area": [],
+            "childtype": "3",
+            "atag": "地面停车场",
+            "name": "额尔古纳河乌兰山景区停车场",
+            "shopid": [],
+            "favorite_num": [],
+            "navi_poiid": [],
+            "distance": [],
+            "importance": [],
+            "biz_ext": {
+              "cost": [],
+              "opentime2": [],
+              "rating": [],
+              "open_time": []
+            },
+            "recommend": "0",
+            "parking_type": "地面",
+            "discount_num": "0",
+            "gridcode": "7519723821",
+            "shopinfo": "2",
+            "updateflag": "0",
+            "alias": [],
+            "event": [],
+            "indoor_map": "0",
+            "email": [],
+            "timestamp": "2026-09-20 13:20:24",
+            "website": [],
+            "address": [],
+            "space_num": [],
+            "match": "0",
+            "indoor_data": {
+              "cmsid": [],
+              "truefloor": [],
+              "cpid": [],
+              "floor": []
+            },
+            "exit_location": [],
+            "location": "119.357728,50.616547",
+            "groupbuy_num": "0",
+            "featured_reviews": []
+          }
+        ],
+        "status": "1",
+        "info": "OK"
+      },
+      "queriedAt": "2026-10-04T20:11:27+08:00"
+    },
+    {
+      "kind": "detail",
+      "label": "黑山头哈撒尔马场",
+      "endpoint": "v3/place/detail",
+      "params": {
+        "id": "B0FFKLDULO",
+        "extensions": "all"
+      },
+      "queriedAtStart": "2026-10-04T20:11:28+08:00",
+      "response": {
+        "count": "1",
+        "infocode": "10000",
+        "pois": [
+          {
+            "parent": [],
+            "pcode": "150000",
+            "keytag": "马术",
+            "type": "体育休闲服务;体育休闲服务场所;体育休闲服务场所",
+            "photos": [
+              {
+                "title": [],
+                "url": "https://store.is.autonavi.com/showpic/0ff0b949ac9e0c226b257a85bb9f0162"
+              },
+              {
+                "title": [],
+                "url": "https://aos-comment.amap.com/B0FFKLDULO/comment/BC201A02_5953_4CB0_9876_81BA9B4B76FC_L0_001_2000_150_1751777239382_30688836.jpg"
+              },
+              {
+                "title": [],
+                "url": "https://store.is.autonavi.com/showpic/034f066c869d12090000003572562715?type=pic"
+              }
+            ],
+            "building": [],
+            "typecode": "080000",
+            "poiweight": [],
+            "citycode": "0470",
+            "adname": "额尔古纳市",
+            "children": [],
+            "featured_reviews_remake": [],
+            "tel": "13722002270",
+            "id": "B0FFKLDULO",
+            "tag": [],
+            "entr_location": "119.554682,50.209427",
+            "adcode": "150784",
+            "pname": "内蒙古自治区",
+            "biz_type": [],
+            "cityname": "呼伦贝尔市",
+            "postcode": [],
+            "business_area": [],
+            "childtype": [],
+            "atag": "马术",
+            "name": "黑山头哈撒尔马场",
+            "shopid": [],
+            "favorite_num": [],
+            "navi_poiid": [],
+            "distance": [],
+            "importance": [],
+            "biz_ext": {
+              "cost": [],
+              "opentime2": "7月至10月 周一至周日 07:30-20:30 04-22至06-30 周一至周日 08:30-19:30",
+              "rating": "4.6",
+              "open_time": []
+            },
+            "recommend": "0",
+            "discount_num": "0",
+            "gridcode": "7519245401",
+            "shopinfo": "0",
+            "updateflag": "0",
+            "alias": [],
+            "event": [],
+            "indoor_map": "0",
+            "email": [],
+            "timestamp": "2026-10-04 08:54:46",
+            "website": [],
+            "address": "331国道52号",
+            "space_num": [],
+            "match": "0",
+            "indoor_data": {
+              "cmsid": [],
+              "truefloor": [],
+              "cpid": [],
+              "floor": []
+            },
+            "exit_location": [],
+            "location": "119.554701,50.209482",
+            "groupbuy_num": "0",
+            "featured_reviews": []
+          }
+        ],
+        "status": "1",
+        "info": "OK"
+      },
+      "queriedAt": "2026-10-04T20:11:28+08:00"
+    },
+    {
+      "kind": "text",
+      "label": "黑山头一品香",
+      "endpoint": "v3/place/text",
+      "params": {
+        "keywords": "黑山头 一品香",
+        "city": "150700",
+        "citylimit": "true",
+        "offset": 20,
+        "extensions": "all"
+      },
+      "queriedAtStart": "2026-10-04T20:11:28+08:00",
+      "response": {
+        "suggestion": {
+          "keywords": [],
+          "cities": []
+        },
+        "count": "1",
+        "infocode": "10000",
+        "pois": [
+          {
+            "parent": [],
+            "pcode": "150000",
+            "keytag": "家常菜",
+            "type": "餐饮服务;中餐厅;中餐厅",
+            "photos": [
+              {
+                "title": [],
+                "url": "https://store.is.autonavi.com/showpic/8d2a612d50b837c20000002992480785?type=pic"
+              },
+              {
+                "title": [],
+                "url": "https://store.is.autonavi.com/showpic/4faa491e612d443cd039c8c0466e6a92"
+              },
+              {
+                "title": [],
+                "url": "https://store.is.autonavi.com/showpic/93dc192a888e12d10000005096392887?type=pic"
+              }
+            ],
+            "building": [],
+            "typecode": "050100",
+            "poiweight": [],
+            "citycode": "0470",
+            "adname": "额尔古纳市",
+            "children": [],
+            "featured_reviews_remake": [],
+            "tel": "17614976837",
+            "id": "B0FFI1N1ZR",
+            "tag": "家常菜,双人餐",
+            "entr_location": [],
+            "adcode": "150784",
+            "pname": "内蒙古自治区",
+            "biz_type": "diner",
+            "cityname": "呼伦贝尔市",
+            "postcode": [],
+            "business_area": [],
+            "childtype": [],
+            "atag": "家常菜,双人餐",
+            "name": "一品香家常菜馆",
+            "shopid": [],
+            "favorite_num": [],
+            "navi_poiid": [],
+            "distance": [],
+            "importance": [],
+            "biz_ext": {
+              "cost": "66.00",
+              "opentime2": "周一至周日 09:00-22:00",
+              "rating": "4.6",
+              "open_time": "09:00-22:00",
+              "meal_ordering": "0"
+            },
+            "recommend": "0",
+            "discount_num": "0",
+            "gridcode": "7519245522",
+            "shopinfo": "0",
+            "alias": [],
+            "event": [],
+            "indoor_map": "0",
+            "email": [],
+            "timestamp": "2026-09-26 03:07:26",
+            "website": [],
+            "address": "蜜雪冰城(黑山头店)西侧70米",
+            "space_num": [],
+            "match": "0",
+            "indoor_data": {
+              "cmsid": [],
+              "truefloor": [],
+              "cpid": [],
+              "floor": []
+            },
+            "exit_location": [],
+            "location": "119.574453,50.215050",
+            "groupbuy_num": "0",
+            "featured_reviews": []
+          }
+        ],
+        "status": "1",
+        "info": "OK"
+      },
+      "queriedAt": "2026-10-04T20:11:29+08:00"
+    },
+    {
+      "kind": "text",
+      "label": "黑山头云汐小馆",
+      "endpoint": "v3/place/text",
+      "params": {
+        "keywords": "黑山头 云汐小馆",
+        "city": "150700",
+        "citylimit": "true",
+        "offset": 20,
+        "extensions": "all"
+      },
+      "queriedAtStart": "2026-10-04T20:11:29+08:00",
+      "response": {
+        "suggestion": {
+          "keywords": [],
+          "cities": []
+        },
+        "count": "1",
+        "infocode": "10000",
+        "pois": [
+          {
+            "parent": [],
+            "pcode": "150000",
+            "keytag": "中餐",
+            "type": "餐饮服务;中餐厅;中餐厅",
+            "photos": [
+              {
+                "title": [],
+                "url": "https://aos-comment.amap.com/B0KU9CINYC/comment/B1992129_E7E5_4823_B97F_E9DB5A9FB241_L0_001_1500_200_1761315772084_44109044.jpg"
+              },
+              {
+                "title": [],
+                "url": "https://aos-comment.amap.com/B0KU9CINYC/comment/DAE1DEFE_50B8_41CC_9FFB_379915133FC1_L0_001_1500_200_1761315772057_96394006.jpg"
+              },
+              {
+                "title": [],
+                "url": "https://aos-comment.amap.com/B0KU9CINYC/comment/7067486B_A12D_4B7D_86FA_AF4BD1ACA506_L0_001_1500_200_1761315772084_00175571.jpg"
+              }
+            ],
+            "building": [],
+            "typecode": "050100",
+            "poiweight": [],
+            "citycode": "0470",
+            "adname": "额尔古纳市",
+            "children": [],
+            "featured_reviews_remake": [],
+            "tel": [],
+            "id": "B0KU9CINYC",
+            "tag": [],
+            "entr_location": [],
+            "adcode": "150784",
+            "pname": "内蒙古自治区",
+            "biz_type": "diner",
+            "cityname": "呼伦贝尔市",
+            "postcode": [],
+            "business_area": [],
+            "childtype": [],
+            "atag": [],
+            "name": "云汐小馆",
+            "shopid": [],
+            "favorite_num": [],
+            "navi_poiid": [],
+            "distance": [],
+            "importance": [],
+            "biz_ext": {
+              "cost": "70.00",
+              "opentime2": "周一至周日 09:30-22:30",
+              "rating": "4.4",
+              "open_time": "09:30-22:30",
+              "meal_ordering": "0"
+            },
+            "recommend": "0",
+            "discount_num": "0",
+            "gridcode": "7519245521",
+            "shopinfo": "0",
+            "alias": [],
+            "event": [],
+            "indoor_map": "0",
+            "email": [],
+            "timestamp": "2026-09-26 10:23:49",
+            "website": [],
+            "address": "中国石油黑山头加油站西侧60米",
+            "space_num": [],
+            "match": "0",
+            "indoor_data": {
+              "cmsid": [],
+              "truefloor": [],
+              "cpid": [],
+              "floor": []
+            },
+            "exit_location": [],
+            "location": "119.570785,50.214162",
+            "groupbuy_num": "0",
+            "featured_reviews": []
+          }
+        ],
+        "status": "1",
+        "info": "OK"
+      },
+      "queriedAt": "2026-10-04T20:11:30+08:00"
+    }
+  ],
+  "notes": [
+    "地图登记不表示当日开放、接待或已核实口碑。",
+    "乌兰山选用与景区父POI一致且邻近其entr_location的独立停车场；不是把景区中心当停车入口。"
+  ],
+  "queriedAtEnd": "2026-10-04T20:11:30+08:00"
+}

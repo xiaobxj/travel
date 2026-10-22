@@ -1,0 +1,81 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "德利烧烤",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:25+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "2",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "B0FFL14HK4",
+        "distance": [],
+        "keytag": "烤串",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;中餐厅;特色/地方风味餐厅",
+        "photos": [],
+        "building": [],
+        "typecode": "050118",
+        "shopinfo": "0",
+        "poiweight": [],
+        "adname": "额尔古纳市",
+        "featured_reviews_remake": [],
+        "tel": "15144701118",
+        "id": "B0FFKYW1J6",
+        "address": "兴华小区5号楼4号门市",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": "202",
+        "atag": "素菜",
+        "name": "德利烧烤(兴华小区店)",
+        "location": "120.173971,50.246598",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      },
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "烧烤",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;中餐厅;东北菜",
+        "photos": [],
+        "building": [],
+        "typecode": "050113",
+        "shopinfo": "1",
+        "poiweight": [],
+        "adname": "牙克石市",
+        "featured_reviews_remake": [],
+        "tel": "15148495235;15734841440",
+        "id": "B0JK1HFUMP",
+        "address": "牙伊线惠民小区46号",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": [],
+        "name": "德利饭店",
+        "location": "121.410044,49.588020",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

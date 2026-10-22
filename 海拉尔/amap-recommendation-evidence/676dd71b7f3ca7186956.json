@@ -1,0 +1,52 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "赵师傅原味烤肉",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:17+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "1",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "烤肉",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;中餐厅;清真菜馆|餐饮服务;中餐厅;综合酒楼",
+        "photos": [],
+        "building": [],
+        "typecode": "050121|050101",
+        "shopinfo": "1",
+        "poiweight": [],
+        "adname": "海拉尔区",
+        "featured_reviews_remake": [],
+        "tel": "15104925888",
+        "id": "B0GRRAJ1DZ",
+        "address": "仁德里街1008号门市",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": "原味烤肉",
+        "name": "清真赵师傅原味烤肉坊(当地人常去店)",
+        "location": "119.738805,49.222836",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

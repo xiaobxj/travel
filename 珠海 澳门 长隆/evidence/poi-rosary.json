@@ -1,0 +1,165 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "3",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": [],
+      "pcode": "820000",
+      "keytag": "教堂",
+      "type": "风景名胜;风景名胜;教堂",
+      "photos": [
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://aos-comment.amap.com/B073D00AS5/comment/94B35490_6D66_450C_A349_859C1AA3E2F1_L0_001_860_152_1773247405713_37121304.jpg"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/b8f7270a6b1fd7200000003410714948?type=pic"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://aos-comment.amap.com/B073D00AS5/comment/20260316-d23884de8028e2b266f0eae4-13d8g7YomoWAI4iJEfE5JZ.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "110206",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "大堂区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "+853-28367706",
+      "id": "B073D00AS5",
+      "tag": [],
+      "entr_location": "113.545562,22.191577",
+      "adcode": "820004",
+      "pname": "澳门特别行政区",
+      "biz_type": "tour",
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": "澳门半岛",
+      "childtype": [],
+      "atag": [],
+      "name": "玫瑰圣母堂(暂停开放)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F022045_726",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 10:00-18:00",
+        "rating": "4.8",
+        "open_time": "10:00-18:00",
+        "ticket_ordering": "0"
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313243301",
+      "shopinfo": "2",
+      "alias": "多明我堂",
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 20:40:21",
+      "website": [],
+      "address": "板樟堂街",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.545515,22.191844",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "820000",
+      "keytag": "咖啡",
+      "type": "餐饮服务;餐饮相关场所;餐饮相关",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0J0O79HGY/headerImg/70425a2beb0b2ac27089fa0aeedda360_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0J0O79HGY/comment/c26832e1b33c2c7a0ffa2470bb376a6c_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0J0O79HGY/comment/31446fab61be78bb7f54a88c114be942_2048_2048_80.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "050000",
+      "poiweight": [],
+      "citycode": "1853",
+      "adname": "花王堂区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "+853-63289986",
+      "id": "B0J0O79HGY",
+      "tag": [],
+      "entr_location": "113.546180,22.192498",
+      "adcode": "820002",
+      "pname": "澳门特别行政区",
+      "biz_type": "diner",
+      "cityname": "澳门特别行政区",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "HALO Cafe",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "52.00",
+        "opentime2": "周一至周日 09:30-18:15",
+        "rating": "3.1",
+        "open_time": "09:30-18:15",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313243302",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-08-25 21:28:28",
+      "website": [],
+      "address": "玫瑰圣母堂附近",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.546128,22.192560",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

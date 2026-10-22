@@ -1,0 +1,846 @@
+[
+  {
+    "id": "hailaer-new-yexue",
+    "cityId": "hailaer",
+    "category": "fun",
+    "name": "野雪艺术空间",
+    "summary": "从古城文创组合中单独落实到一家可导航的店，毛毡和地域手作为主要看点。",
+    "experience": "小羊造型、毛毡、手工小物。",
+    "caution": "按喜好和预算选择，手作品库存随时变化。",
+    "routeFit": "D1 或 D6 城区用餐后合并短逛。",
+    "reviews": [
+      {
+        "noteId": "68fca5e70000000004023628",
+        "basis": "实逛野雪家，认可原创毛毡物品。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "68d816bd000000000e026bcc",
+        "basis": "古城文创购物中点名野雪的小羊。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "hailaer-new-yuanfang",
+    "cityId": "hailaer",
+    "category": "fun",
+    "name": "远方来信文创店",
+    "summary": "两篇实逛游记点名，适合与野雪比较后再选纪念品。",
+    "experience": "毛毡类小物与地域文创。",
+    "caution": "同一次逛街不必把每家都买一遍。",
+    "routeFit": "D6 短逛备选，提前留足还车时间。",
+    "reviews": [
+      {
+        "noteId": "68fca5e70000000004023628",
+        "basis": "认可远方来信文创品类。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "68d816bd000000000e026bcc",
+        "basis": "实逛远方来信，点名毛毡瑞士卷。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "hailaer-new-petersburg",
+    "cityId": "hailaer",
+    "category": "eat",
+    "name": "彼得堡餐厅",
+    "summary": "一篇实吃游记认可环境、份量和味道，可与卢布里二选一。",
+    "experience": "俄餐；依据正文没有编造具体招牌菜。",
+    "caution": "菜量较大，先问份量；目前只有单篇支持。",
+    "routeFit": "D1 或 D6 城区正餐备选。",
+    "reviews": [
+      {
+        "noteId": "68d816bd000000000e026bcc",
+        "basis": "实际用餐后认为环境好、菜量大，是该次海拉尔饮食体验中较喜欢的一家。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "morigle-new-qushui",
+    "cityId": "morigle",
+    "category": "play",
+    "name": "曲水云天",
+    "summary": "从北线组合里落实到明确的观景点，多篇实走反馈支持河曲全景。",
+    "experience": "在开放观景范围内看曲流。",
+    "caution": "高德显示它偏离目前的游客中心主线，不能把整个北线当零绕路；入场安排需当日确认。",
+    "routeFit": "D1 需在南线与北线玩法之间取舍，页面距离是保留现有途经点再加入本点。",
+    "reviews": [
+      {
+        "noteId": "6a86d86f000000003301180b",
+        "basis": "推荐北线曲水云天的高处视角。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "6890bf6500000000030268f4",
+        "basis": "明确建议到图嘎和曲水一带。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "68c2f86f000000001c0054a1",
+        "basis": "实走图嘎到曲水观景区，认可河曲视野。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "6a2ebdf20000000006032672",
+        "basis": "实到曲水云天，认可登高后河道全景。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "morigle-new-tuga",
+    "cityId": "morigle",
+    "category": "drink",
+    "name": "图嘎营地 · 固定补给点",
+    "summary": "核到固定营地，可休息或购买饮品；口味证据仍不足。",
+    "experience": "点饮品前问清和观景入场的关系。",
+    "caution": "两篇重点在消费与观景便利，未给明确好喝评价，所以推荐票保持 0。",
+    "routeFit": "D1 仅在选择北线时考虑；不为一杯饮品专门绕路。",
+    "reviews": [
+      {
+        "noteId": "68c2f86f000000001c0054a1",
+        "basis": "记录图嘎营地喝茶与观景消费安排，未评价茶味。",
+        "stance": "mention"
+      },
+      {
+        "noteId": "6a2ebdf20000000006032672",
+        "basis": "记录在图嘎买奶茶和点心，重点是观景便利。",
+        "stance": "mention"
+      }
+    ]
+  },
+  {
+    "id": "morigle-new-mabeishan",
+    "cityId": "morigle",
+    "category": "play",
+    "name": "马背山",
+    "summary": "从北线线路中拆出的具体高处视角，但不是顺手几分钟的小停靠。",
+    "experience": "按开放道路到观景位置看草原与曲水。",
+    "caution": "加入现有 D1 主线所需驾驶明显增加；天气、路况与开放规则决定是否值得去。",
+    "routeFit": "D1 还要前往根河，优先选少量核心点。",
+    "reviews": [
+      {
+        "noteId": "6a86d86f000000003301180b",
+        "basis": "明确推荐马背山附近的北线视角。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "68c8c01a000000001b02184b",
+        "basis": "认可马背山草原与落日。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "68c2f86f000000001c0054a1",
+        "basis": "实际到马背山一带，认可景色层次。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "eerguna-new-fuji",
+    "cityId": "eerguna",
+    "category": "eat",
+    "name": "福记列巴坊",
+    "summary": "有实际购买记录，适合买少量列巴作为路上补给。",
+    "experience": "脆皮列巴或带果干的列巴。",
+    "caution": "另一位作者对冰淇淋没有很高评价，别把列巴好评扩大到所有产品；出炉批次现场问。",
+    "routeFit": "D5 回城或 D6 出发前。",
+    "reviews": [
+      {
+        "noteId": "6a56326e000000001102c5d9",
+        "basis": "实际购买热脆皮列巴，认可外酥里软。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "6a368941000000000702e473",
+        "basis": "实吃后喜欢带果干的列巴，冰淇淋未达到预期。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "eerguna-new-mingyuan",
+    "cityId": "eerguna",
+    "category": "eat",
+    "name": "铭源特色餐厅",
+    "summary": "有详细实吃反馈的手把肉备选，适合喜欢清水煮羊肉的人。",
+    "experience": "手把肉，原帖具体点了羊排。",
+    "caution": "肥瘦、嚼劲因部位与个人口味而异，点菜前说明偏好。",
+    "routeFit": "D5 晚餐备选；D1 赶路先问出菜时间。",
+    "reviews": [
+      {
+        "noteId": "6a414d20000000001101e77c",
+        "basis": "实吃清水手把羊排，评价好、份量足。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "eerguna-new-baohualin",
+    "cityId": "eerguna",
+    "category": "play",
+    "name": "白桦林景区 · 停车场入口",
+    "summary": "具体景区有亲访支持，但高德对照显示偏离当前额尔古纳主线，需要额外留时间。",
+    "experience": "到入口后按当天开放安排林间步行和观景。",
+    "caution": "来源是夏季体验，十月树叶与项目开放不能保证；已安排鹿园时不必重复喂鹿。",
+    "routeFit": "D1／D5／D6 都有后续任务，属于可放弃的支线。",
+    "reviews": [
+      {
+        "noteId": "68878a440000000013011a1f",
+        "basis": "实际乘景交进入白桦林，认可拍照和亲子游玩。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "genhe-new-shouwang",
+    "cityId": "genhe",
+    "category": "play",
+    "name": "守望桥",
+    "summary": "把原来泛指河畔的一项落实到桥这一固定地标。",
+    "experience": "在开放桥面与步道看河流、夕照。",
+    "caution": "不同笔记季节不同，晨雾和日落不是必得效果。",
+    "routeFit": "D1 晚到则略过；D2 早起按路况短停。",
+    "reviews": [
+      {
+        "noteId": "68b3cd1c000000001c012b73",
+        "basis": "明确推荐守望桥看日落与附近步道。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "68d00669000000001101fbcb",
+        "basis": "追秋游记点名守望桥。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "68745ff8000000002201fea5",
+        "basis": "实到守望桥，认为桥上视角看根河很美。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "aoluguya-new-museum",
+    "cityId": "aoluguya",
+    "category": "play",
+    "name": "敖鲁古雅鄂温克族驯鹿文化博物馆",
+    "summary": "高德核到具体文化场馆，现有笔记只是提及，尚不足以评价展览。",
+    "experience": "有兴趣可先询问开放与参观安排。",
+    "caution": "不把使鹿部落整体好评自动记给博物馆。",
+    "routeFit": "D2 原景区附近，适合不想重复动物互动的人比较。",
+    "reviews": [
+      {
+        "noteId": "69216be7000000001e026619",
+        "basis": "正文末列出博物馆，没有实际展陈评价。",
+        "stance": "mention"
+      }
+    ]
+  },
+  {
+    "id": "mordaga-new-longshan",
+    "cityId": "mordaga",
+    "category": "play",
+    "name": "龙山公园 · 步行看镇景与林海",
+    "summary": "新增 9 月亲访记录认可小镇与林海视野，适合抵达后按体力选择步行深度。",
+    "experience": "短走看镇景规划 45–75 分钟；完整登顶往返规划 90–120 分钟。9 月 24 日作者约 6:10 开始爬、8:00 回到山门，含山顶停留，支持给完整往返留足时间。",
+    "caution": "高德仅核到公园 POI，未核独立步行入口；导航到附近后问清开放步道。有 9 月 25 日作者反馈后山驾车道路坑洼、狭窄，不照搬驾车登顶路线；天黑前下山。",
+    "routeFit": "D2 到镇较早、天气和步道允许时选短走；完整登顶需另留 1.5–2 小时，不为日落赶山路。",
+    "reviews": [
+      {
+        "noteId": "6a7adc7a0000000025002da9",
+        "basis": "旧帖建议天气好可去，但作者因雪未去，只保留行程提及。",
+        "stance": "mention"
+      },
+      {
+        "noteId": "6abcf5190000000013019618",
+        "basis": "9 月 27 日亲访龙山，认可安静看小镇的体验，记录为免费景点。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "6aaf4129000000002a006b29",
+        "basis": "9 月 20 日发布的实走记录明确推荐最高观景台及林海视野。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "6ab4b79f0000000018028366",
+        "basis": "9 月 24 日记录步行上下山与山顶停留时间，认可镇景和周围森林全景。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "6ab6565b000000000b007b40",
+        "basis": "9 月 25 日亲自驾车上山后强烈不建议开车登顶，反馈坑洼窄路与会车困难；只针对这条驾车方式，非步行景观差评。",
+        "stance": "mixed"
+      }
+    ]
+  },
+  {
+    "id": "genhe-new-juele",
+    "cityId": "genhe",
+    "category": "fun",
+    "name": "觉乐驯鹿园 · 喂鹿替代",
+    "summary": "有 10 月 2 日到访自述及其他亲访支持，推荐作为神鹿园恢复未核实时的替代；若已在敖鲁古雅喂鹿可跳过。",
+    "experience": "规划停留 60–90 分钟。10 月 2 日笔记记录停留约 1 小时、门票 35 元、苔藓 20 元，均为该次体验信息，非当前报价保证。",
+    "caution": "未电话确认 10 月 3 日营业，高德只核到景区 POI，未核独立停车入口。2025 年 9 月有单篇自述被鹿角碰伤的负反馈，未独立核实；注意鹿角并按工作人员指引互动，不据此断定当前普遍情况。",
+    "routeFit": "D2 放在根河出发端，与敖鲁古雅喂鹿二选一；驾驶增量看本轮高德证据，不套用笔记出租车里程。",
+    "reviews": [
+      {
+        "noteId": "6abfd4b100000000180154a8",
+        "basis": "10 月 2 日行程自述在觉乐停留 1 小时，认可少人、互动与拍照体验；价格只作到访记录。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "6ab2d042000000000b0078b2",
+        "basis": "实际在觉乐互动后明确喜欢驯鹿，描述喂食和观察反刍的体验。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "6aaa6dfa000000002601ce9b",
+        "basis": "9 月 16 日实访记录票价、喂食和时段差异，包含鹿角提醒；主要提供实用信息，不额外计推荐票。",
+        "stance": "mention"
+      },
+      {
+        "noteId": "6abb9f49000000001802d826",
+        "basis": "实到觉乐，记录园子小、鹿活泼及位置，明确好评的是园旁湿地白桦林；不把周边风景好评计作鹿园推荐。",
+        "stance": "mention"
+      },
+      {
+        "noteId": "68d0a86a000000001202e576",
+        "basis": "2025 年 9 月 22 日单篇自述喂鹿时被鹿角碰伤及处理体验不佳；历史个人经历，未独立核实。",
+        "stance": "negative"
+      }
+    ]
+  },
+  {
+    "id": "deerbur-new-station",
+    "cityId": "deerbur",
+    "category": "play",
+    "name": "得耳布尔站 · 站前外观",
+    "summary": "近期作者实际步行到车站并欣赏林区小镇景观，可作午餐后的小停靠。",
+    "experience": "规划 10–15 分钟看站房外观与周边公共街道，感受林区小镇的老建筑。",
+    "caution": "仅安排站前外观，不承诺进入站台或铁路作业区域；不在轨道拍照。原帖历史与列车信息未单独核验，不作为乘车指南。",
+    "routeFit": "D2 得耳布尔午餐后有余量再加；导航驾驶增量与步行停留分别计算。",
+    "reviews": [
+      {
+        "noteId": "6ab79e38000000000a02514d",
+        "basis": "作者实地步行到得耳布尔站，认可沿途林业遗存和小镇晚霞，支持站前周边短走。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "bailudao-new-linxi",
+    "cityId": "bailudao",
+    "category": "eat",
+    "name": "太平林场 · 林曦农家菜",
+    "summary": "有详细实吃记录，高德核到太平林场桥头；是白鹿岛去临江途中的餐厅，不在白鹿岛本岛。",
+    "experience": "当地蔬菜、家常东北菜，按当天菜单点。",
+    "caution": "一篇明确支持，菜量大；不要把另一篇未具名的太平私房饭算给这家。",
+    "routeFit": "D4 白鹿岛→临江路段途中午餐备选，可与临江午餐二选一。",
+    "reviews": [
+      {
+        "noteId": "68d95f900000000012023085",
+        "basis": "实际在太平林曦农家菜用餐，认可食材、锅气和份量。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "linjiang-new-northhill",
+    "cityId": "linjiang",
+    "category": "play",
+    "name": "临江村晨雾观景点",
+    "summary": "核到独立观景 POI，和神仙坡分开比较，避免把两个坡当同一处。",
+    "experience": "在开放路径看临江村落和河谷。",
+    "caution": "晨雾看天气；不依据车辙上陡坡。你的 D4 是白天途经，不能承诺看到晨雾。",
+    "routeFit": "D4 中午有余量可看村落全景，不为清晨照片改变行程。",
+    "reviews": [
+      {
+        "noteId": "68cbcc2a000000001203cf03",
+        "basis": "实际登北坡看村庄与晨雾。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "6aa81f2a00000000260319da",
+        "basis": "记录北坡清晨景色，天空颜色与晨雾随天气变化。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "linjiang-new-shenxian",
+    "cityId": "linjiang",
+    "category": "play",
+    "name": "界河观景点（神仙坡）",
+    "summary": "三篇有明确日落或界河观景体验，高德落点可与当前过境线路对照。",
+    "experience": "从开放位置看界河河曲，白天也可短看。",
+    "caution": "不穿越围栏；页面只计算到高德落点的驾驶，不包含登坡。",
+    "routeFit": "D4 白天经过，不等日落，以免耽误七卡。",
+    "reviews": [
+      {
+        "noteId": "6aa81f2a00000000260319da",
+        "basis": "实际到神仙坡，认可日落光线照在界河上。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "68920228000000002501933f",
+        "basis": "明确导航神仙坡并登高看日落。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "66eab14a000000001e018a4c",
+        "basis": "行程中实际到临江神仙坡看日落。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "shiwei-new-lvyou",
+    "cityId": "shiwei",
+    "category": "eat",
+    "name": "驴友小酒馆",
+    "summary": "明确实吃菜名，也有可核对的高德店铺。",
+    "experience": "蘑菇炒肉、发面饼、葱爆羊肉或杂鱼。",
+    "caution": "只有单篇支持，现有菜单和口味可能变化。",
+    "routeFit": "D4 室韦短停需要正餐时，和临江用餐二选一。",
+    "reviews": [
+      {
+        "noteId": "68878a440000000013011a1f",
+        "basis": "实际在驴友小酒馆午餐，推荐东北菜与具体菜品。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "shiwei-new-mumin",
+    "cityId": "shiwei",
+    "category": "eat",
+    "name": "牧民的日常蒙古茶餐厅",
+    "summary": "有实到等位记录，高德店名和室韦地址相符；正文未给口味评价。",
+    "experience": "先看菜单与排号进度再决定。",
+    "caution": "来源只提供到店和等位信息，推荐数为 0；不能把未具名冰煮羊好评自动归给它。",
+    "routeFit": "D4 只停较短时间，排队长可换店。",
+    "reviews": [
+      {
+        "noteId": "6aa7dd49000000002601f768",
+        "basis": "明确到牧民的日常取号就餐，未评价菜品味道。",
+        "stance": "mention"
+      }
+    ]
+  },
+  {
+    "id": "shiwei-new-aoluoqi",
+    "cityId": "shiwei",
+    "category": "fun",
+    "name": "奥洛契庄园 · 游客中心",
+    "summary": "有亲子游玩与拍照的实访记录，用游客中心停车场作为固定接入点。",
+    "experience": "了解当天开放项目后，再决定是否入园。",
+    "caution": "原帖为夏天，花海和活动不能外推到十月；八卦田航拍视角不等于地面效果。",
+    "routeFit": "D4 临江到室韦之间可选，入园游玩时间另留。",
+    "reviews": [
+      {
+        "noteId": "68878a440000000013011a1f",
+        "basis": "实际游玩庄园，认为适合亲子，也提醒八卦田难拍完整。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "qika-new-shubian",
+    "cityId": "qika",
+    "category": "eat",
+    "name": "七卡戍边食府 · 固定补给候选",
+    "summary": "已核到当前行程采用的七卡锚点餐厅，尚缺可归属此店的实吃笔记。",
+    "experience": "到店看当日菜单，先确认营业和等菜。",
+    "caution": "高德登记能定位，不等于口味得到验证；不将七卡未具名饭店的好评套到本店。",
+    "routeFit": "D4 晚餐或 D5 出发前的待考察选项。",
+    "reviews": []
+  },
+  {
+    "id": "qika-new-caoyuan",
+    "cityId": "qika",
+    "category": "eat",
+    "name": "草原美食餐厅 · 七卡",
+    "summary": "高德核到七卡主街附近的具体餐厅，作为补给线索保留。",
+    "experience": "现场问营业与当日热菜。",
+    "caution": "尚无可明确归属的实吃证据，暂不推荐招牌菜。",
+    "routeFit": "D4／D5 村内用餐候选。",
+    "reviews": []
+  },
+  {
+    "id": "heishantou-new-laogao",
+    "cityId": "heishantou",
+    "category": "fun",
+    "name": "老高马场 · 黑山头店",
+    "summary": "高德核到具体马场，解决泛指“去骑马”无法导航的问题；服务质量仍缺独立笔记支持。",
+    "experience": "到场前询问路线、时长、适合的骑乘经验及当天安排。",
+    "caution": "未把黑山头骑马总体好评计给老高马场；该项是固定地点线索。",
+    "routeFit": "D5 按新增车程与活动时长取舍，之后仍要回额尔古纳。",
+    "reviews": []
+  },
+  {
+    "id": "deerbur-new-shanshan",
+    "cityId": "deerbur",
+    "category": "eat",
+    "name": "清真姗姗馅饼店",
+    "summary": "两位作者有具体实吃好评，高德核到得耳布尔镇内固定商铺。",
+    "experience": "牛肉馅饼、牛肉汤、砂锅；另一作者喜欢蘑菇口味，具体菜名和馅料到店问。",
+    "caution": "供应和营业以现场为准；“鲜采”只是一位作者描述，未独立核验食材来源。",
+    "routeFit": "D2 得耳布尔午餐与广源饭店择一，规划预留 45–60 分钟。",
+    "reviews": [
+      {
+        "noteId": "6a83e89800000000280331f5",
+        "basis": "标题点名得耳布尔姗姗馅饼，正文明确夸蘑菇好吃。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "6a7b23840000000022032455",
+        "basis": "8 月 11 日发布的实吃记录明确推荐姗姗馅饼、砂锅，认可牛肉馅饼和牛肉汤。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "genhe-new-linzhongxian",
+    "cityId": "genhe",
+    "category": "eat",
+    "name": "林中鲜小串 · 幸福家园店",
+    "summary": "新帖写出“小串”店名，与高德一致；实吃反馈认可烤串，也有菜品偏咸的保留意见。",
+    "experience": "羊肉串、肉筋、拌鸡架，按人数少量加点。",
+    "caution": "一位作者觉得盐焗鸡爪太咸，整体只给中等评价；不把个别烤串好评扩大到全菜单。",
+    "routeFit": "D1 根河晚餐备选；D2 出发前不专门等烧烤营业。",
+    "reviews": [
+      {
+        "noteId": "6a58d6120000000011017afe",
+        "basis": "根河餐厅清单点名林中鲜烧烤。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "6a810e8200000000050310be",
+        "basis": "明确写林中鲜小串，认可肉筋羊肉，但鸡爪偏咸，整体三分评价。",
+        "stance": "mixed"
+      },
+      {
+        "noteId": "6aab9cd40000000011038482",
+        "basis": "实吃林中鲜烧烤，认可口味、性价比与拌鸡架。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "genhe-new-xindingyuan",
+    "cityId": "genhe",
+    "category": "eat",
+    "name": "鑫鼎园大铜锅",
+    "summary": "两篇不同作者的实吃记录支持，适合希望吃清涮羊肉的正餐。",
+    "experience": "铜锅涮羊肉，先问肉品部位与份量。",
+    "caution": "一篇是冬季游记，营业时间和当日供应需现问；份量按同行人数调整。",
+    "routeFit": "D1 到根河后，与酸菜排骨锅或烧烤二选一。",
+    "reviews": [
+      {
+        "noteId": "68b3cd1c000000001c012b73",
+        "basis": "根河游记明确推荐鑫鼎园铜锅火锅。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "6aa96a1a00000000110357c9",
+        "basis": "实际吃鑫鼎园大铜锅，认为羊肉好吃。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "mordaga-new-jiemei",
+    "cityId": "mordaga",
+    "category": "eat",
+    "name": "姐妹酒家 · 河东一道街店",
+    "summary": "既有实吃好评，也有近期对点单价格与服务不满的反馈；虽靠近路线，仍按有分歧处理。",
+    "experience": "好评作者点锅包肉、地三鲜，建议少点避免浪费。",
+    "caution": "差评作者反映未看清菜单、鱼价和服务体验不佳；这是个人经历，未独立核实。点单前确认菜单、份量和总价。",
+    "routeFit": "D2／D3 镇上备选，优先和红姐砂锅、雅娟比较。",
+    "reviews": [
+      {
+        "noteId": "68d818ae000000001003ce84",
+        "basis": "实吃认可东北菜、老式锅包肉和地三鲜，提醒份量大。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "6aaa3594000000002601af37",
+        "basis": "亲测合集列出河东一道街店，但没有单店详细口味描述。",
+        "stance": "mention"
+      },
+      {
+        "noteId": "6aabd79100000000260385b5",
+        "basis": "近期实吃对菜单展示、鱼价及服务体验强烈不满；作为负面反馈保留，不据此断定违规事实。",
+        "stance": "negative"
+      }
+    ]
+  },
+  {
+    "id": "mordaga-new-yajuan",
+    "cityId": "mordaga",
+    "category": "eat",
+    "name": "雅娟家常菜",
+    "summary": "作者晚饭临时换店后的实际反馈，几道家常菜评价积极，可作镇上正餐备选。",
+    "experience": "排骨炖豆角、野菜煎蛋、鱼香茄子。",
+    "caution": "目前单篇参考，作者提到鱼香茄子偏酸甜；镇上晚饭尽量别拖太晚。",
+    "routeFit": "D2 抵达后用餐；D3 离镇前先确认开门。",
+    "reviews": [
+      {
+        "noteId": "6a735797000000003300aed8",
+        "basis": "实际在雅娟吃饭，认可排骨炖豆角与野菜煎蛋，茄子是酸甜口。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "mordaga-new-jihe",
+    "cityId": "mordaga",
+    "category": "drink",
+    "name": "几何精品咖啡与茶",
+    "summary": "新帖给出镇内明确店名，高德核到店铺；现有文字不足以判断咖啡品质。",
+    "experience": "按当天菜单挑咖啡或茶，先问营业。",
+    "caution": "来源仅列店名，没有具体饮品实喝评价，推荐作者数保持 0。",
+    "routeFit": "D2／D3 镇内短休候选，不必为此专程绕行。",
+    "reviews": [
+      {
+        "noteId": "6aaa3594000000002601af37",
+        "basis": "合集点名几何精品咖啡与茶，没有单独饮品描述。",
+        "stance": "mention"
+      }
+    ]
+  },
+  {
+    "id": "mordaga-new-hulaoda",
+    "cityId": "mordaga",
+    "category": "eat",
+    "name": "胡老大铁锅炖 · 地点待核对",
+    "summary": "三位作者写到同名餐厅，尤其认可大鹅和贴饼；高德暂未返回该店独立 POI，严格核点筛选下隐藏。",
+    "experience": "大鹅锅、玉米饼；同行人数少时先问小份。",
+    "caution": "菜量偏大，炖制需要时间；一位作者认为牛肉一般。不能用隔壁咖啡馆的坐标代替餐厅。",
+    "routeFit": "D2 晚餐线索，先确认餐厅位置和等菜时间再安排。",
+    "reviews": [
+      {
+        "noteId": "6a810e8200000000050310be",
+        "basis": "认可大鹅与玉米饼，建议提前炖、多人分享。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "6aa96a1a00000000110357c9",
+        "basis": "认可贴饼与白菜，牛肉表现一般。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "68e09d2400000000070392a9",
+        "basis": "明确在莫尔道嘎胡老大吃炖大鹅，认为嫩、香且份量大。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "shiwei-new-yogurt",
+    "cityId": "shiwei",
+    "category": "drink",
+    "name": "河畔牧场酸奶屋",
+    "summary": "一篇实际购买记录给出清晰品种，可作为室韦停靠时的奶食补给。",
+    "experience": "咸炒米酸奶、奶皮子酸奶，奶豆可少量试口味。",
+    "caution": "目前单篇支持；咸酸奶和炒米口感有个人偏好，带走需考虑保存条件。",
+    "routeFit": "D4 室韦短停顺带购买，比再安排一顿正餐轻便。",
+    "reviews": [
+      {
+        "noteId": "6aab9cd40000000011038482",
+        "basis": "实际购买并明确推荐咸炒米酸奶、奶皮子酸奶和奶豆。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "shiwei-new-mumin-tea",
+    "cityId": "shiwei",
+    "category": "drink",
+    "name": "牧民的日常 · 甜奶茶",
+    "summary": "把饮品和正餐分开判断：同一作者不喜欢冰煮羊，但明确喜欢甜奶茶。",
+    "experience": "甜奶茶；奶皮卷可按口味少量尝试。",
+    "caution": "单篇饮品支持，不能理解为整店菜品都好；到店若排队长就换补给。",
+    "routeFit": "D4 室韦短停，先问能否只点饮品。",
+    "reviews": [
+      {
+        "noteId": "6a6f0482000000002403f9af",
+        "basis": "明确觉得甜奶茶好喝，奶皮卷也不错；未把正餐的负评归到饮品。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "heishantou-new-yunxi",
+    "cityId": "heishantou",
+    "category": "eat",
+    "name": "云汐小馆",
+    "summary": "一篇跨城实吃游记认可菜品和份量，高德核到镇内明确商铺。",
+    "experience": "按当天菜单点家常热菜；正文未写具体菜名，不虚构招牌。",
+    "caution": "单篇支持，份量较大，先问出菜速度。",
+    "routeFit": "D5 黑山头活动前后用餐，留足回额尔古纳车程。",
+    "reviews": [
+      {
+        "noteId": "6aa96a1a00000000110357c9",
+        "basis": "实吃认为云汐小馆菜好、量大，也喜欢锅茶。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "heishantou-new-yunxi-tea",
+    "cityId": "heishantou",
+    "category": "drink",
+    "name": "云汐小馆 · 锅茶",
+    "summary": "同一实吃作者明确夸锅茶，作为正餐一起点的热饮选择。",
+    "experience": "锅茶，点之前问一锅份量。",
+    "caution": "单篇支持，与餐厅卡片是同一家店，不重复计作两个固定地点。",
+    "routeFit": "D5 若在本店吃饭可合并体验。",
+    "reviews": [
+      {
+        "noteId": "6aa96a1a00000000110357c9",
+        "basis": "实际点锅茶，明确评价好喝。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "heishantou-new-ziyu",
+    "cityId": "heishantou",
+    "category": "eat",
+    "name": "子昱饭店 · 黑山头新镇",
+    "summary": "作者尤其喜欢炒羊杂，但觉得羊排性价比不高，适合有选择地点菜。",
+    "experience": "炒羊杂，其他菜先看菜单。",
+    "caution": "同一作者对茶香羊排有保留，不把炒羊杂的好评扩大到羊排；仅一篇来源。",
+    "routeFit": "D5 镇内正餐备选，与一品香、云汐择一。",
+    "reviews": [
+      {
+        "noteId": "68cf980d000000001202ebe0",
+        "basis": "炒羊杂评价积极，但茶香羊排的性价比不符预期。",
+        "stance": "mixed"
+      }
+    ]
+  },
+  {
+    "id": "heishantou-new-mengniu",
+    "cityId": "heishantou",
+    "category": "eat",
+    "name": "蒙妞图娅 · 奶食购买",
+    "summary": "两位作者对不同奶食品种的喜好有差异，更适合顺路少量试吃。",
+    "experience": "烤奶皮配蓝莓酱、奶豆腐，能试吃再选。",
+    "caution": "一位喜欢烤奶皮但不喜欢牛奶，另一位认可奶豆腐却认为不值得专程来；不按必买店推荐。",
+    "routeFit": "D5 路过且营业时短停，别挤占草原活动时间。",
+    "reviews": [
+      {
+        "noteId": "68cf980d000000001202ebe0",
+        "basis": "喜欢烤奶皮加蓝莓酱，但牛奶不合口味。",
+        "stance": "mixed"
+      },
+      {
+        "noteId": "6a810e8200000000050310be",
+        "basis": "奶豆腐尚可，整体认为无需特意前往。",
+        "stance": "mixed"
+      }
+    ]
+  },
+  {
+    "id": "mordaga-new-hongdoupo",
+    "cityId": "mordaga",
+    "category": "play",
+    "name": "红豆坡 · 落叶松林间步道",
+    "summary": "近期自驾笔记认可高大落叶松与林间步道，适合慢走拍照。",
+    "experience": "规划停留 30–45 分钟；这是行程估时，原帖未给单点耗时。",
+    "caution": "园内道路能否自驾通行和步道开放以入口当天确认为准；十月叶色与天气变化快，不承诺满林金黄。",
+    "routeFit": "D3 上午与一目九岭合并作为园内自驾方案，可替换小火车；停车、步行与驾驶分别计时。",
+    "reviews": [
+      {
+        "noteId": "6ab928f0000000000a020cd0",
+        "basis": "作者自驾园内，明确认可红豆坡高大落叶松与林间步道体验。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "mordaga-new-yimujiuling",
+    "cityId": "mordaga",
+    "category": "play",
+    "name": "一目九岭 · 林海观景台",
+    "summary": "近期自驾作者特别推荐登高看层叠林海，适合与红豆坡一起安排。",
+    "experience": "规划停留 45–60 分钟，按开放步道登观景台；这是计划估时，非景区保证时长。",
+    "caution": "原帖提醒猎人之路出口在公路、需折返停车场；时间紧可不走这条延伸步道。登高视野受天气及当日开放影响。",
+    "routeFit": "D3 红豆坡后登高，再转往白鹿岛；和小火车完整游览择一。",
+    "reviews": [
+      {
+        "noteId": "6ab928f0000000000a020cd0",
+        "basis": "作者登观景台，明确推荐层叠林海视野，并提醒猎人之路折返耗时。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "bailudao-new-rafting",
+    "cityId": "bailudao",
+    "category": "fun",
+    "name": "白鹿岛短线漂流",
+    "summary": "两篇近期亲历都提到短线约 1 小时，适合当天开行时从水上看森林。",
+    "experience": "漂流本身参考约 1 小时，连购票、准备与接驳规划预留 1.5–2 小时；出发前确认返程安排。",
+    "caution": "是否开行、末班、天气及接驳需当天确认；有作者午间等了约 1 小时，不能保证随到随漂。原帖价格仅属到访记录，不作为当前报价。",
+    "routeFit": "D3 下午与河湾观景搭配；时间不足或停航时改为开放步道短走。近期另有长线约 2.5 小时的体验，不混作短线时长。",
+    "reviews": [
+      {
+        "noteId": "6abd1b580000000012034cc9",
+        "basis": "亲自体验短线约 1 小时，认可沿河森林景色和下船后林荫路。",
+        "stance": "positive"
+      },
+      {
+        "noteId": "6aba1746000000001403af31",
+        "basis": "实漂长线约 2.5 小时，途经短线终点约 1 小时；认可悠闲观景，也记录午间等待约 1 小时。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "shiwei-new-tuanjie",
+    "cityId": "shiwei",
+    "category": "play",
+    "name": "室韦团结广场 · 界河短停",
+    "summary": "近期自驾亲历认可广场看界河、对岸及蒙兀室韦地标的视角，适合作为室韦短停。",
+    "experience": "在开放公共观景区看界河，计划预留 20–30 分钟；这是游览估时，非原帖实测。",
+    "caution": "停车与开放区域以现场为准；不沿围栏缺口进入封闭河岸。能看到游船不等于包含乘船体验。",
+    "routeFit": "10 月 5 日临江午餐后途经室韦，和主街列巴采购合并，再往九卡、七卡。",
+    "reviews": [
+      {
+        "noteId": "6abe84e000000000020112e6",
+        "basis": "作者实际停靠室韦团结广场，推荐界河视野与蒙兀室韦地标，并提醒卡线规范停车。",
+        "stance": "positive"
+      }
+    ]
+  },
+  {
+    "id": "shiwei-new-aoliya",
+    "cityId": "shiwei",
+    "category": "eat",
+    "name": "奥利亚列巴房 · 少量补给",
+    "summary": "有实际购买经典大列巴的好评；不同产品与服务体验有分歧，适合少量采购路上补给。",
+    "experience": "可先看经典大列巴；新帖作者认为好吃且个头大，人数少时少买。",
+    "caution": "新作者觉得服务态度平淡，另一篇对千层和华夫饼评价一般；不把大列巴好评扩大到全部产品。营业、排队与出炉时段未确认。",
+    "routeFit": "10 月 5 日室韦短停时与团结广场合并，控制采购时间，避免挤占九卡至七卡的白天行程。",
+    "reviews": [
+      {
+        "noteId": "6ac0bdd20000000012034392",
+        "basis": "作者 9 月 25 日实际购买经典大列巴，认可口味与份量，同时觉得营业态度平淡；按产品和服务分歧保留。",
+        "stance": "mixed"
+      },
+      {
+        "noteId": "6aab9cd40000000011038482",
+        "basis": "实际买过奥利亚千层和华夫饼，认为千层未达预期、华夫饼一般；不将其他店酸奶好评计入本店。",
+        "stance": "mixed"
+      }
+    ]
+  }
+]

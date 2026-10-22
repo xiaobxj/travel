@@ -1,0 +1,326 @@
+{
+  "planningDate": "2026-10-06",
+  "queriedAt": "2026-10-04T20:13:40+08:00",
+  "queryWindow": {
+    "start": "2026-10-04T20:11:57+08:00",
+    "end": "2026-10-04T20:13:46+08:00"
+  },
+  "coordinateSystem": "GCJ-02",
+  "selectedPois": {
+    "七卡": {
+      "id": "B0JDN56M8O",
+      "name": "七卡戍边食府",
+      "location": "119.536672,50.742951",
+      "address": "恩和民族乡七卡村",
+      "adname": "额尔古纳市",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "parent": null,
+      "entr_location": null,
+      "anchorNote": "原七卡村内参考点，不代表已订住宿"
+    },
+    "乌兰山景区停车场": {
+      "id": "B0H2B7MAOU",
+      "name": "额尔古纳河乌兰山景区停车场",
+      "location": "119.357728,50.616547",
+      "address": [],
+      "adname": "额尔古纳市",
+      "type": "交通设施服务;停车场;公共停车场",
+      "parent": "B0FFM3EAVX",
+      "entr_location": "119.357401,50.617147",
+      "anchorNote": "景区父POI B0FFM3EAVX 的入口附近独立停车场；没有将景区整体中心作为自驾入口"
+    },
+    "一品香家常菜馆": {
+      "id": "B0FFI1N1ZR",
+      "name": "一品香家常菜馆",
+      "location": "119.574453,50.215050",
+      "address": "蜜雪冰城(黑山头店)西侧70米",
+      "adname": "额尔古纳市",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "parent": [],
+      "entr_location": [],
+      "anchorNote": "黑山头新镇午餐首选，餐馆整体POI，不代表独立停车入口或营业确认"
+    },
+    "额尔古纳": {
+      "id": "B01D600JCZ",
+      "name": "额尔古纳市人民政府",
+      "location": "120.180153,50.243426",
+      "address": "额尔古纳大街281号",
+      "adname": "额尔古纳市",
+      "type": "政府机构及社会团体;政府机关;区县级政府及事业单位",
+      "parent": null,
+      "entr_location": null,
+      "anchorNote": "原市政府参考点，不代表已订住宿"
+    },
+    "云汐小馆": {
+      "id": "B0KU9CINYC",
+      "name": "云汐小馆",
+      "location": "119.570785,50.214162",
+      "address": "中国石油黑山头加油站西侧60米",
+      "adname": "额尔古纳市",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "parent": [],
+      "entr_location": [],
+      "anchorNote": "同镇午餐备选，营业仍需确认"
+    }
+  },
+  "main": {
+    "id": "mainYipinxiang",
+    "from": "七卡",
+    "to": "额尔古纳",
+    "via": [
+      "乌兰山景区停车场",
+      "一品香家常菜馆"
+    ],
+    "meters": 131661,
+    "seconds": 7282,
+    "queriedAt": "2026-10-04T20:13:40+08:00",
+    "roads": [
+      "904县道",
+      "乌兰山驿站",
+      "331国道",
+      "301省道",
+      "额尔古纳大街"
+    ],
+    "km": 131.661,
+    "minutes": 121.37,
+    "evidenceFile": "planning-20261006-review/day5-lunch-driving-20261004-201340.json",
+    "evidenceRouteIndex": 0,
+    "navigationUrl": null,
+    "navigationLegIds": [
+      "qikaToWulan",
+      "wulanToYipinxiang",
+      "yipinxiangToErguna"
+    ]
+  },
+  "legs": [
+    {
+      "id": "qikaToWulan",
+      "from": "七卡",
+      "to": "乌兰山景区停车场",
+      "via": [],
+      "meters": 23346,
+      "seconds": 1609,
+      "queriedAt": "2026-10-04T20:11:59+08:00",
+      "roads": [
+        "904县道",
+        "乌兰山驿站"
+      ],
+      "km": 23.346,
+      "minutes": 26.82,
+      "evidenceFile": "planning-20261006-review/day5-core-driving-20261004-201157.json",
+      "evidenceRouteIndex": 2,
+      "navigationUrl": "https://uri.amap.com/navigation?from=119.536672,50.742951,%E4%B8%83%E5%8D%A1&to=119.357728,50.616547,%E4%B9%8C%E5%85%B0%E5%B1%B1%E6%99%AF%E5%8C%BA%E5%81%9C%E8%BD%A6%E5%9C%BA&mode=car&policy=0&src=hailar_erguna_itinerary&callnative=1"
+    },
+    {
+      "id": "wulanToYipinxiang",
+      "from": "乌兰山景区停车场",
+      "to": "一品香家常菜馆",
+      "via": [],
+      "meters": 60279,
+      "seconds": 3325,
+      "queriedAt": "2026-10-04T20:13:43+08:00",
+      "roads": [
+        "904县道"
+      ],
+      "km": 60.279,
+      "minutes": 55.42,
+      "evidenceFile": "planning-20261006-review/day5-lunch-driving-20261004-201340.json",
+      "evidenceRouteIndex": 3,
+      "navigationUrl": "https://uri.amap.com/navigation?from=119.357728,50.616547,%E4%B9%8C%E5%85%B0%E5%B1%B1%E6%99%AF%E5%8C%BA%E5%81%9C%E8%BD%A6%E5%9C%BA&to=119.574453,50.215050,%E4%B8%80%E5%93%81%E9%A6%99%E5%AE%B6%E5%B8%B8%E8%8F%9C%E9%A6%86&mode=car&policy=0&src=hailar_erguna_itinerary&callnative=1"
+    },
+    {
+      "id": "yipinxiangToErguna",
+      "from": "一品香家常菜馆",
+      "to": "额尔古纳",
+      "via": [],
+      "meters": 47849,
+      "seconds": 2598,
+      "queriedAt": "2026-10-04T20:13:44+08:00",
+      "roads": [
+        "331国道",
+        "301省道",
+        "额尔古纳大街"
+      ],
+      "km": 47.849,
+      "minutes": 43.3,
+      "evidenceFile": "planning-20261006-review/day5-lunch-driving-20261004-201340.json",
+      "evidenceRouteIndex": 4,
+      "navigationUrl": "https://uri.amap.com/navigation?from=119.574453,50.215050,%E4%B8%80%E5%93%81%E9%A6%99%E5%AE%B6%E5%B8%B8%E8%8F%9C%E9%A6%86&to=120.180153,50.243426,%E9%A2%9D%E5%B0%94%E5%8F%A4%E7%BA%B3&mode=car&policy=0&src=hailar_erguna_itinerary&callnative=1"
+    }
+  ],
+  "backup": {
+    "whole": {
+      "id": "backupYunxi",
+      "from": "七卡",
+      "to": "额尔古纳",
+      "via": [
+        "乌兰山景区停车场",
+        "云汐小馆"
+      ],
+      "meters": 131929,
+      "seconds": 7353,
+      "queriedAt": "2026-10-04T20:13:41+08:00",
+      "roads": [
+        "904县道",
+        "乌兰山驿站",
+        "331国道",
+        "301省道",
+        "额尔古纳大街"
+      ],
+      "km": 131.929,
+      "minutes": 122.55,
+      "evidenceFile": "planning-20261006-review/day5-lunch-driving-20261004-201340.json",
+      "evidenceRouteIndex": 1,
+      "navigationUrl": null
+    },
+    "legs": [
+      {
+        "id": "qikaToWulan",
+        "from": "七卡",
+        "to": "乌兰山景区停车场",
+        "via": [],
+        "meters": 23346,
+        "seconds": 1609,
+        "queriedAt": "2026-10-04T20:11:59+08:00",
+        "roads": [
+          "904县道",
+          "乌兰山驿站"
+        ],
+        "km": 23.346,
+        "minutes": 26.82,
+        "evidenceFile": "planning-20261006-review/day5-core-driving-20261004-201157.json",
+        "evidenceRouteIndex": 2,
+        "navigationUrl": "https://uri.amap.com/navigation?from=119.536672,50.742951,%E4%B8%83%E5%8D%A1&to=119.357728,50.616547,%E4%B9%8C%E5%85%B0%E5%B1%B1%E6%99%AF%E5%8C%BA%E5%81%9C%E8%BD%A6%E5%9C%BA&mode=car&policy=0&src=hailar_erguna_itinerary&callnative=1"
+      },
+      {
+        "id": "wulanToYunxi",
+        "from": "乌兰山景区停车场",
+        "to": "云汐小馆",
+        "via": [],
+        "meters": 60116,
+        "seconds": 3290,
+        "queriedAt": "2026-10-04T20:13:45+08:00",
+        "roads": [
+          "904县道"
+        ],
+        "km": 60.116,
+        "minutes": 54.83,
+        "evidenceFile": "planning-20261006-review/day5-lunch-driving-20261004-201340.json",
+        "evidenceRouteIndex": 6,
+        "navigationUrl": "https://uri.amap.com/navigation?from=119.357728,50.616547,%E4%B9%8C%E5%85%B0%E5%B1%B1%E6%99%AF%E5%8C%BA%E5%81%9C%E8%BD%A6%E5%9C%BA&to=119.570785,50.214162,%E4%BA%91%E6%B1%90%E5%B0%8F%E9%A6%86&mode=car&policy=0&src=hailar_erguna_itinerary&callnative=1"
+      },
+      {
+        "id": "yunxiToErguna",
+        "from": "云汐小馆",
+        "to": "额尔古纳",
+        "via": [],
+        "meters": 48186,
+        "seconds": 2691,
+        "queriedAt": "2026-10-04T20:13:46+08:00",
+        "roads": [
+          "331国道",
+          "301省道",
+          "额尔古纳大街"
+        ],
+        "km": 48.186,
+        "minutes": 44.85,
+        "evidenceFile": "planning-20261006-review/day5-lunch-driving-20261004-201340.json",
+        "evidenceRouteIndex": 7,
+        "navigationUrl": "https://uri.amap.com/navigation?from=119.570785,50.214162,%E4%BA%91%E6%B1%90%E5%B0%8F%E9%A6%86&to=120.180153,50.243426,%E9%A2%9D%E5%B0%94%E5%8F%A4%E7%BA%B3&mode=car&policy=0&src=hailar_erguna_itinerary&callnative=1"
+      }
+    ]
+  },
+  "withoutWulan": {
+    "id": "baselineYipinxiang",
+    "from": "七卡",
+    "to": "额尔古纳",
+    "via": [
+      "一品香家常菜馆"
+    ],
+    "meters": 130268,
+    "seconds": 7010,
+    "queriedAt": "2026-10-04T20:13:42+08:00",
+    "roads": [
+      "904县道",
+      "331国道",
+      "301省道",
+      "额尔古纳大街"
+    ],
+    "km": 130.268,
+    "minutes": 116.83,
+    "evidenceFile": "planning-20261006-review/day5-lunch-driving-20261004-201340.json",
+    "evidenceRouteIndex": 2,
+    "navigationUrl": null
+  },
+  "lunchConnectionFromTownReference": {
+    "id": "heishantouToYipinxiang",
+    "from": "黑山头",
+    "to": "一品香家常菜馆",
+    "via": [],
+    "meters": 327,
+    "seconds": 60,
+    "queriedAt": "2026-10-04T20:13:44+08:00",
+    "roads": [
+      "331国道"
+    ],
+    "km": 0.327,
+    "minutes": 1.0,
+    "evidenceFile": "planning-20261006-review/day5-lunch-driving-20261004-201340.json",
+    "evidenceRouteIndex": 5,
+    "navigationUrl": "https://uri.amap.com/navigation?from=119.578229,50.215675,%E9%BB%91%E5%B1%B1%E5%A4%B4&to=119.574453,50.215050,%E4%B8%80%E5%93%81%E9%A6%99%E5%AE%B6%E5%B8%B8%E8%8F%9C%E9%A6%86&mode=car&policy=0&src=hailar_erguna_itinerary&callnative=1"
+  },
+  "comparisons": {
+    "wulan": {
+      "baselineId": "baselineYipinxiang",
+      "withStopId": "mainYipinxiang",
+      "addedMeters": 1393,
+      "addedSeconds": 272
+    },
+    "lunchAlternative": {
+      "baselineId": "mainYipinxiang",
+      "alternativeId": "backupYunxi",
+      "differenceMeters": 268,
+      "differenceSeconds": 71
+    }
+  },
+  "evidenceFiles": [
+    "planning-20261006-review/day5-core-driving-20261004-201157.json",
+    "planning-20261006-review/day5-lunch-driving-20261004-201340.json",
+    "planning-20261006-review/poi-live-20261004-201038.json",
+    "planning-20261006-review/poi-extra-20261004-201127.json"
+  ],
+  "navigationDocumentationUrl": "https://lbs.amap.com/api/uri-api/guide/travel/route",
+  "notes": [
+    "查询于10月4日晚，未设置10月6日出发时间，不能称10月6日实时路况预测。",
+    "完整主线131661米/7282秒来自一次完整请求；三腿各自查询，不能用腿合计改写整线。",
+    "URI路径规划最多支持一个途经点；本方案有两个途经点，按三段导航保留全部停靠，不生成漏掉景点的假整线链接。",
+    "导航链接打开时将重新规划，不冻结快照路线或时长。",
+    "POI可定位不等于10月6日餐厅营业、景区开放、停车入口实际可进。",
+    "骑马不纳入选定方案。"
+  ],
+  "timingBudget": {
+    "departureLocal": "09:00",
+    "roadsideStopMinutes": [
+      20,
+      30
+    ],
+    "wulanVisitMinutes": [
+      75,
+      90
+    ],
+    "lunchMinutes": [
+      45,
+      60
+    ],
+    "pureDrivingSeconds": 7282,
+    "unbufferedArrivalFromWhole": [
+      "13:21",
+      "14:01"
+    ],
+    "suggestedArrivalWindow": [
+      "14:00",
+      "15:00"
+    ],
+    "note": "停留为规划预算；14–15点到达预留停车、慢行与等菜弹性，不是高德到达时间承诺。"
+  }
+}

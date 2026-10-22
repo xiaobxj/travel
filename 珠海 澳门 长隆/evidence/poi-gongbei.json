@@ -1,0 +1,382 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "100",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": [],
+      "pcode": "440000",
+      "keytag": "过境口岸",
+      "type": "交通设施服务;过境口岸;过境口岸",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/1a89441bf8c5d0800000004102436965?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/97eb1d8b9e93cbc40000003175274222?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/28a31ed8aabd21896b5e416e6b711f46"
+        }
+      ],
+      "building": [],
+      "typecode": "151000",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B02F402F5M",
+      "tag": [],
+      "entr_location": "113.551842,22.216493",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "珠海拱北口岸",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "F49F022045_28361",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 06:00-01:00；具体营业状态以当天开放情况为准",
+        "rating": [],
+        "open_time": "06:00-01:00"
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313245420",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 08:58:46",
+      "website": [],
+      "address": "拱北侨光路3号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.553982,22.215876",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B02F402F5M",
+      "pcode": "440000",
+      "keytag": "交通设施服务,过境口岸,出境",
+      "type": "交通设施服务;过境口岸;出境",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0L2AZ1FTR/comment/20260315-b58d92ff39da4aa1205c1a1d-4K26XuP29RH6UQP67PWJ5h.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0L2AZ1FTR/comment/f5c6827c9964189e20b5be2a05526315_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0L2AZ1FTR/comment/content_media_external_file_1000005346_ss__1760353803084_25779006.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "151002",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0L2AZ1FTR",
+      "tag": [],
+      "entr_location": "113.551848,22.21649",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "115",
+      "atag": [],
+      "name": "珠海拱北口岸(出境)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": [],
+        "rating": [],
+        "open_time": []
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313245420",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-01 18:23:50",
+      "website": [],
+      "address": "昌盛路与友谊路交叉口西南160米",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.553874,22.216023",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B02F402F5M",
+      "pcode": "440000",
+      "keytag": "交通设施服务,过境口岸,旅检楼",
+      "type": "交通设施服务;过境口岸;旅检楼",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFF50N6Q/comment/%5B2025-12-31-19-58-56%5DBC0BF06F-7C31-41AD-A8A1-E8A7BAFF9C8_1767182337312_07801466.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFF50N6Q/comment/content_media_external_file_100005693_1759105537350_68727708.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/5b626d14d18dd4c60000003563492091?type=pic"
+        }
+      ],
+      "building": [],
+      "typecode": "151001",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0FFF50N6Q",
+      "tag": [],
+      "entr_location": "113.554232,22.216563",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "316",
+      "atag": [],
+      "name": "珠海拱北口岸海关联检大楼",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": [],
+        "rating": [],
+        "open_time": []
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313245420",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-05 05:43:28",
+      "website": [],
+      "address": "拱北侨光路3号珠海拱北口岸",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.554013,22.215636",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B02F402F5M",
+      "pcode": "440000",
+      "keytag": "交通设施服务,过境口岸,入境",
+      "type": "交通设施服务;过境口岸;入境",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/37c49b4b9257d3270000002241298299?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0HRUAEBDP/comment/content_media_external_file_48335_ss__1755753449443_10483801.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0HRUAEBDP/comment/c3edfcb5-8b49-419e-8eb0-ddaaca25b20f.png"
+        }
+      ],
+      "building": [],
+      "typecode": "151003",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0HRUAEBDP",
+      "tag": [],
+      "entr_location": "113.554714,22.217079",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": "迎宾",
+      "childtype": "116",
+      "atag": [],
+      "name": "珠海拱北口岸出入境大厅(北侧)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": [],
+        "rating": [],
+        "open_time": []
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313246401",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-01 06:58:00",
+      "website": [],
+      "address": "拱北迎宾南路1003路珠海口岸购物广场B2及B3层T区号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.554531,22.217224",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "440000",
+      "keytag": "公交站",
+      "type": "交通设施服务;公交车站;公交车站相关",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/d8d72a78f75614ac2ff4ed179a771628"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/BV10250136/comment/content_media_external_file_100000692_1745132421206_70717449.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/BV10250136/comment/content_media_external_file_1000104184_ss__1766302430075_36972807.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "150700",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "BV10250136",
+      "tag": [],
+      "entr_location": [],
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "拱北口岸(公交站)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": [],
+        "rating": [],
+        "open_time": []
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313246400",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-05 10:10:04",
+      "website": [],
+      "address": "(停运)香洲乐GO文旅专线4号线;001线/坦洲-拱北(南屏线);101路(环线);11路;1路;2路;30路;32路;33路;34路;826-2路;B10路;D2路专线;D3路;G80路;K10路;K10路高峰区间线;全球通大厦-大桥口岸枢纽专线;全球通大厦专线(7点全球通大厦发车);广州至珠海;拱北专线;机场大巴拱北线;珠海至广州",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.553742,22.216814",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

@@ -1,0 +1,322 @@
+{
+  "source": "AMap live API; no local cache",
+  "pois": {
+    "森林餐厅": {
+      "parent": "B01D600X4B",
+      "pcode": "150000",
+      "keytag": "中餐",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [],
+      "building": [],
+      "typecode": "050100",
+      "poiweight": [],
+      "citycode": "0470",
+      "adname": "额尔古纳市",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0FFKV59WO",
+      "tag": [],
+      "entr_location": [],
+      "adcode": "150784",
+      "pname": "内蒙古自治区",
+      "biz_type": "diner",
+      "cityname": "呼伦贝尔市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "302",
+      "atag": [],
+      "name": "森林餐厅",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "86.00",
+        "opentime2": "08:00-22:00",
+        "rating": "2.9",
+        "open_time": "08:00-22:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "7620759421",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-07-09 21:24:59",
+      "website": [],
+      "address": "森林公园小火车站南侧240米",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "120.680323,51.333143",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    "云树里餐厅": {
+      "parent": "B01D600X4B",
+      "pcode": "150000",
+      "keytag": "中餐",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/9349d490ab433c906a9dd679642f10fd"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/c49a6798531257870000007843380864?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/d00a463e8050e3320000006131940271?type=pic"
+        }
+      ],
+      "building": [],
+      "typecode": "050100",
+      "poiweight": [],
+      "citycode": "0470",
+      "adname": "额尔古纳市",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "18947006225",
+      "id": "B0MRNZ73TP",
+      "tag": [],
+      "entr_location": [],
+      "adcode": "150784",
+      "pname": "内蒙古自治区",
+      "biz_type": "diner",
+      "cityname": "呼伦贝尔市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "302",
+      "atag": [],
+      "name": "云树里餐厅",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "44.00",
+        "opentime2": "周一至周日 07:00-23:00",
+        "rating": "3.7",
+        "open_time": "07:00-23:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "7620759421",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-10-01 11:14:33",
+      "website": [],
+      "address": "美人湖东侧50米",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "120.680425,51.332525",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    "白鹿岛酒店停车场": {
+      "id": "B0MUPXG1QE",
+      "name": "额尔古纳白鹿岛酒店地上停车场",
+      "location": "120.858340,51.940445",
+      "address": "白鹿岛酒店东侧",
+      "adname": "额尔古纳市",
+      "type": "交通设施服务;停车场;公共停车场"
+    },
+    "一目九岭": {
+      "id": "B0FFFGOZZU",
+      "name": "一目九岭",
+      "location": "120.820550,51.379818",
+      "anchorNote": "景点整体POI，独立停车入口未核实。"
+    }
+  },
+  "routes": [
+    {
+      "id": "baseline_jiuling_to_bailudao",
+      "from": "一目九岭",
+      "to": "白鹿岛酒店停车场",
+      "via": [],
+      "params": {
+        "origin": "120.820550,51.379818",
+        "destination": "120.858340,51.940445",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:31:23+08:00",
+      "queriedAt": "2026-10-04T08:31:23+08:00",
+      "meters": 79805,
+      "seconds": 4777,
+      "roads": [
+        "901县道"
+      ]
+    },
+    {
+      "id": "jiuling_to_forest",
+      "from": "一目九岭",
+      "to": "森林餐厅",
+      "via": [],
+      "params": {
+        "origin": "120.820550,51.379818",
+        "destination": "120.680323,51.333143",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:31:23+08:00",
+      "queriedAt": "2026-10-04T08:31:24+08:00",
+      "meters": 44049,
+      "seconds": 3341,
+      "roads": [
+        "901县道"
+      ]
+    },
+    {
+      "id": "forest_to_bailudao",
+      "from": "森林餐厅",
+      "to": "白鹿岛酒店停车场",
+      "via": [],
+      "params": {
+        "origin": "120.680323,51.333143",
+        "destination": "120.858340,51.940445",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:31:24+08:00",
+      "queriedAt": "2026-10-04T08:31:25+08:00",
+      "meters": 90262,
+      "seconds": 5023,
+      "roads": [
+        "302省道",
+        "325县道"
+      ]
+    },
+    {
+      "id": "jiuling_via_forest_bailudao",
+      "from": "一目九岭",
+      "to": "白鹿岛酒店停车场",
+      "via": [
+        "森林餐厅"
+      ],
+      "params": {
+        "origin": "120.820550,51.379818",
+        "destination": "120.858340,51.940445",
+        "strategy": 32,
+        "show_fields": "cost,polyline",
+        "waypoints": "120.680323,51.333143"
+      },
+      "queriedAtStart": "2026-10-04T08:31:25+08:00",
+      "queriedAt": "2026-10-04T08:31:25+08:00",
+      "meters": 134380,
+      "seconds": 8339,
+      "roads": [
+        "901县道",
+        "302省道",
+        "325县道"
+      ]
+    },
+    {
+      "id": "jiuling_to_yunshuli",
+      "from": "一目九岭",
+      "to": "云树里餐厅",
+      "via": [],
+      "params": {
+        "origin": "120.820550,51.379818",
+        "destination": "120.680425,51.332525",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:31:26+08:00",
+      "queriedAt": "2026-10-04T08:31:26+08:00",
+      "meters": 44004,
+      "seconds": 3336,
+      "roads": [
+        "901县道"
+      ]
+    },
+    {
+      "id": "yunshuli_to_bailudao",
+      "from": "云树里餐厅",
+      "to": "白鹿岛酒店停车场",
+      "via": [],
+      "params": {
+        "origin": "120.680425,51.332525",
+        "destination": "120.858340,51.940445",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:31:27+08:00",
+      "queriedAt": "2026-10-04T08:31:27+08:00",
+      "meters": 90217,
+      "seconds": 5020,
+      "roads": [
+        "302省道",
+        "325县道"
+      ]
+    },
+    {
+      "id": "jiuling_via_yunshuli_bailudao",
+      "from": "一目九岭",
+      "to": "白鹿岛酒店停车场",
+      "via": [
+        "云树里餐厅"
+      ],
+      "params": {
+        "origin": "120.820550,51.379818",
+        "destination": "120.858340,51.940445",
+        "strategy": 32,
+        "show_fields": "cost,polyline",
+        "waypoints": "120.680425,51.332525"
+      },
+      "queriedAtStart": "2026-10-04T08:31:28+08:00",
+      "queriedAt": "2026-10-04T08:31:28+08:00",
+      "meters": 134379,
+      "seconds": 8338,
+      "roads": [
+        "901县道",
+        "302省道",
+        "325县道"
+      ]
+    }
+  ],
+  "notes": [
+    "只比较同批驾车路线；开车可规划不等于园内允许通行。",
+    "餐厅为父级森林公园的餐饮POI，未证实当天营业，也无实吃品质来源。",
+    "总绕行只以完整途经路线减去直达基线；不拼接分段估算。"
+  ],
+  "comparisons": {
+    "forest": {
+      "baselineId": "baseline_jiuling_to_bailudao",
+      "withStopId": "jiuling_via_forest_bailudao",
+      "addedMeters": 54575,
+      "addedSeconds": 3562
+    },
+    "yunshuli": {
+      "baselineId": "baseline_jiuling_to_bailudao",
+      "withStopId": "jiuling_via_yunshuli_bailudao",
+      "addedMeters": 54574,
+      "addedSeconds": 3561
+    }
+  }
+}

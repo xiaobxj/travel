@@ -1,0 +1,617 @@
+{
+  "source": "AMap live; no local cache",
+  "coordinateSystem": "GCJ-02",
+  "pois": {
+    "临江": {
+      "id": "B0FFJE09RB",
+      "name": "额尔古纳临江贝加尔驿站",
+      "location": "119.980752,51.412703",
+      "address": "临江村017号",
+      "adname": "额尔古纳市",
+      "type": "住宿服务;旅馆招待所;旅馆招待所|餐饮服务;餐饮相关场所;餐饮相关"
+    },
+    "驶路部落民宿（餐厅整体参考点）": {
+      "parent": [],
+      "pcode": "150000",
+      "keytag": "民宿",
+      "type": "餐饮服务;中餐厅;中餐厅|体育休闲服务;休闲场所;休闲场所",
+      "photos": [
+        {
+          "title": "外观",
+          "url": "https://store.is.autonavi.com/showpic/fd96fd30441f90532ba81c8e7fa4b650"
+        },
+        {
+          "title": "公共区域",
+          "url": "https://store.is.autonavi.com/showpic/f7ad6b86717db3aa2dd8f4ee8bc1a5c8"
+        },
+        {
+          "title": "独栋木屋",
+          "url": "https://store.is.autonavi.com/showpic/c97ca8a8fe401964792b30db175094f6"
+        }
+      ],
+      "building": [],
+      "typecode": "050100|080500",
+      "poiweight": [],
+      "citycode": "0470",
+      "adname": "额尔古纳市",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "021-26137886,118178",
+      "id": "B0MUZ98SOR",
+      "tag": [],
+      "entr_location": "119.98411997366351,51.411497983603724",
+      "adcode": "150784",
+      "pname": "内蒙古自治区",
+      "biz_type": "diner",
+      "cityname": "呼伦贝尔市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "驶路部落精品民宿(额尔古纳室韦店)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": [],
+        "rating": "4.7",
+        "open_time": [],
+        "meal_ordering": "0"
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "7719079812",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-10-03 03:34:06",
+      "website": [],
+      "address": "临江村一道街61号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "119.984107,51.411223",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    "室韦": {
+      "id": "B0K1GUUKAX",
+      "name": "室韦小镇",
+      "location": "119.906516,51.337778",
+      "address": "室韦魅力名镇旅游区",
+      "adname": "额尔古纳市",
+      "type": "风景名胜;风景名胜;风景名胜"
+    },
+    "团结广场": {
+      "parent": "B0IK3CUHLM",
+      "pcode": "150000",
+      "keytag": "风景名胜,公园广场,城市广场",
+      "type": "风景名胜;公园广场;城市广场",
+      "photos": [
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/107e9ffd5cd89af00000003115236262?type=pic"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/65a60828f8772e8791111b2e71bf8718"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/0e37953492cc48b09131bed7c6b33db5"
+        }
+      ],
+      "building": [],
+      "typecode": "110105",
+      "poiweight": [],
+      "citycode": "0470",
+      "adname": "额尔古纳市",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0J1K7C284",
+      "tag": [],
+      "entr_location": "119.90441,51.342163",
+      "adcode": "150784",
+      "pname": "内蒙古自治区",
+      "biz_type": "tour",
+      "cityname": "呼伦贝尔市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "301",
+      "atag": [],
+      "name": "团结广场",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": [],
+        "rating": "4.4",
+        "open_time": [],
+        "ticket_ordering": "0"
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "7719071201",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-23 11:32:29",
+      "website": [],
+      "address": "201省道",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "119.904230,51.342471",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    "奥利亚列巴房": {
+      "parent": "B0IK3CUHLM",
+      "pcode": "150000",
+      "keytag": "面包",
+      "type": "餐饮服务;糕饼店;糕饼店",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/046e92599fcc37e2771e43bf5763a6f2"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/b3aa955c3f31bc250000003000812180?type=pic"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/a301b2f9723808e4ede93c8f73bc3ebf"
+        }
+      ],
+      "building": [],
+      "typecode": "050800",
+      "poiweight": [],
+      "citycode": "0470",
+      "adname": "额尔古纳市",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "13191301357",
+      "id": "B0LRGRTQRM",
+      "tag": "大列巴,列巴",
+      "entr_location": "119.906899,51.336476",
+      "adcode": "150784",
+      "pname": "内蒙古自治区",
+      "biz_type": "diner",
+      "cityname": "呼伦贝尔市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "302",
+      "atag": "大列巴,列巴",
+      "name": "奥利亚列巴房",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": "M50F008048_214",
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "31.00",
+        "opentime2": "周一至周日 07:00-23:00",
+        "rating": "4.4",
+        "open_time": "07:00-23:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "7719070211",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-26 03:09:00",
+      "website": [],
+      "address": "界河山庄西北门东300米",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "119.907088,51.336453",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    "九卡观景点": {
+      "id": "B0L367A2EJ",
+      "name": "九卡落日最佳拍摄点",
+      "location": "119.749176,51.056132",
+      "address": [],
+      "adname": "额尔古纳市",
+      "type": "风景名胜;风景名胜相关;旅游景点"
+    },
+    "七卡": {
+      "id": "B0JDN56M8O",
+      "name": "七卡戍边食府",
+      "location": "119.536672,50.742951",
+      "address": "恩和民族乡七卡村",
+      "adname": "额尔古纳市",
+      "type": "餐饮服务;中餐厅;中餐厅"
+    },
+    "兰妮农家院": {
+      "parent": [],
+      "pcode": "150000",
+      "keytag": "特色菜系",
+      "type": "体育休闲服务;休闲场所;休闲场所",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0JUVD9NJ0/comment/6e6410315ff85824f5ad4607d8b064d8_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0JUVD9NJ0/comment/2247dcd62271113a397ee2c45947151b_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0JUVD9NJ0/comment/fbdd3fcadb2ffd88d8cdb24e86e71c9f_2048_2048_80.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "080500",
+      "poiweight": [],
+      "citycode": "0470",
+      "adname": "额尔古纳市",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0JUVD9NJ0",
+      "tag": [],
+      "entr_location": "119.535857,50.743535",
+      "adcode": "150784",
+      "pname": "内蒙古自治区",
+      "biz_type": [],
+      "cityname": "呼伦贝尔市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": [],
+      "name": "兰妮农家院",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 08:00-21:00",
+        "rating": "4.1",
+        "open_time": "08:00-21:00"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "7619049202",
+      "shopinfo": "1",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-23 05:21:32",
+      "website": [],
+      "address": "恩和七卡",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "119.535796,50.743351",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    "森林公园停车场": {
+      "id": "B0FFM0VY4Z",
+      "name": "莫尔道嘎国家森林公园停车场",
+      "location": "120.673708,51.331505",
+      "address": "莫尔道嘎镇11公里处莫尔道嘎国家森林公园",
+      "adname": "额尔古纳市",
+      "type": "交通设施服务;停车场;公共停车场"
+    },
+    "森林餐厅": {
+      "parent": "B01D600X4B",
+      "pcode": "150000",
+      "keytag": "中餐",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [],
+      "building": [],
+      "typecode": "050100",
+      "poiweight": [],
+      "citycode": "0470",
+      "adname": "额尔古纳市",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0FFKV59WO",
+      "tag": [],
+      "entr_location": [],
+      "adcode": "150784",
+      "pname": "内蒙古自治区",
+      "biz_type": "diner",
+      "cityname": "呼伦贝尔市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "302",
+      "atag": [],
+      "name": "森林餐厅",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "86.00",
+        "opentime2": "08:00-22:00",
+        "rating": "2.9",
+        "open_time": "08:00-22:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "7620759421",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-07-09 21:24:59",
+      "website": [],
+      "address": "森林公园小火车站南侧240米",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "120.680323,51.333143",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    "云树里餐厅": {
+      "parent": "B01D600X4B",
+      "pcode": "150000",
+      "keytag": "中餐",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/9349d490ab433c906a9dd679642f10fd"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/c49a6798531257870000007843380864?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/d00a463e8050e3320000006131940271?type=pic"
+        }
+      ],
+      "building": [],
+      "typecode": "050100",
+      "poiweight": [],
+      "citycode": "0470",
+      "adname": "额尔古纳市",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "18947006225",
+      "id": "B0MRNZ73TP",
+      "tag": [],
+      "entr_location": [],
+      "adcode": "150784",
+      "pname": "内蒙古自治区",
+      "biz_type": "diner",
+      "cityname": "呼伦贝尔市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "302",
+      "atag": [],
+      "name": "云树里餐厅",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "44.00",
+        "opentime2": "周一至周日 07:00-23:00",
+        "rating": "3.7",
+        "open_time": "07:00-23:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "7620759421",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-10-01 11:14:33",
+      "website": [],
+      "address": "美人湖东侧50米",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "120.680425,51.332525",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  },
+  "routes": [
+    {
+      "id": "linjiang_to_shilu",
+      "from": "临江",
+      "to": "驶路部落民宿（餐厅整体参考点）",
+      "via": [],
+      "params": {
+        "origin": "119.980752,51.412703",
+        "destination": "119.984107,51.411223",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:30:50+08:00",
+      "queriedAt": "2026-10-04T08:30:50+08:00",
+      "meters": 325,
+      "seconds": 94,
+      "roads": []
+    },
+    {
+      "id": "shiwei_to_square",
+      "from": "室韦",
+      "to": "团结广场",
+      "via": [],
+      "params": {
+        "origin": "119.906516,51.337778",
+        "destination": "119.904230,51.342471",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:30:51+08:00",
+      "queriedAt": "2026-10-04T08:30:51+08:00",
+      "meters": 561,
+      "seconds": 238,
+      "roads": []
+    },
+    {
+      "id": "square_to_oliya",
+      "from": "团结广场",
+      "to": "奥利亚列巴房",
+      "via": [],
+      "params": {
+        "origin": "119.904230,51.342471",
+        "destination": "119.907088,51.336453",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:30:52+08:00",
+      "queriedAt": "2026-10-04T08:30:53+08:00",
+      "meters": 690,
+      "seconds": 165,
+      "roads": []
+    },
+    {
+      "id": "oliya_to_jiuka",
+      "from": "奥利亚列巴房",
+      "to": "九卡观景点",
+      "via": [],
+      "params": {
+        "origin": "119.907088,51.336453",
+        "destination": "119.749176,51.056132",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:30:53+08:00",
+      "queriedAt": "2026-10-04T08:30:55+08:00",
+      "meters": 36029,
+      "seconds": 2598,
+      "roads": [
+        "团结街"
+      ]
+    },
+    {
+      "id": "qika_to_lanni",
+      "from": "七卡",
+      "to": "兰妮农家院",
+      "via": [],
+      "params": {
+        "origin": "119.536672,50.742951",
+        "destination": "119.535796,50.743351",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:30:56+08:00",
+      "queriedAt": "2026-10-04T08:30:56+08:00",
+      "meters": 76,
+      "seconds": 6,
+      "roads": []
+    },
+    {
+      "id": "park_to_forest_restaurant",
+      "from": "森林公园停车场",
+      "to": "森林餐厅",
+      "via": [],
+      "params": {
+        "origin": "120.673708,51.331505",
+        "destination": "120.680323,51.333143",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:30:56+08:00",
+      "queriedAt": "2026-10-04T08:30:57+08:00",
+      "meters": 606,
+      "seconds": 121,
+      "roads": [
+        "拉一莫线"
+      ]
+    },
+    {
+      "id": "park_to_yunshuli",
+      "from": "森林公园停车场",
+      "to": "云树里餐厅",
+      "via": [],
+      "params": {
+        "origin": "120.673708,51.331505",
+        "destination": "120.680425,51.332525",
+        "strategy": 32,
+        "show_fields": "cost,polyline"
+      },
+      "queriedAtStart": "2026-10-04T08:30:57+08:00",
+      "queriedAt": "2026-10-04T08:30:57+08:00",
+      "meters": 561,
+      "seconds": 116,
+      "roads": [
+        "拉一莫线"
+      ]
+    }
+  ],
+  "notes": [
+    "驶路花园餐厅没有单独核实入口，以分类含餐饮的驶路部落民宿整体POI为参考；不视为停车入口。",
+    "森林餐厅、云树里餐厅高德父级为森林公园，仅地图线索；无实吃或当日营业证明。",
+    "驾车路线可计算不表示园内车辆通行获准。团结广场、列巴店、兰妮均为整体POI，不保证停车位置。"
+  ]
+}

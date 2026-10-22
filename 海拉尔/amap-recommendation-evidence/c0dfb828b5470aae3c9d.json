@@ -1,0 +1,77 @@
+{
+  "endpoint": "v5/direction/driving",
+  "params": {
+    "origin": "119.743707,49.229736",
+    "destination": "119.738805,49.222836",
+    "origin_id": "B01D600D0E",
+    "destination_id": "B0GRRAJ1DZ",
+    "strategy": 32,
+    "show_fields": "cost,polyline"
+  },
+  "queriedAt": "2026-09-18T01:56:10+08:00",
+  "response": {
+    "status": "1",
+    "info": "OK",
+    "infocode": "10000",
+    "count": "1",
+    "route": {
+      "origin": "119.743707,49.229736",
+      "destination": "119.738805,49.222836",
+      "taxi_cost": "6",
+      "paths": [
+        {
+          "distance": "886",
+          "restriction": "0",
+          "cost": {
+            "duration": "207",
+            "tolls": "0",
+            "toll_distance": "0",
+            "traffic_lights": "0"
+          },
+          "steps": [
+            {
+              "instruction": "向西行驶15米左转",
+              "orientation": "西",
+              "step_distance": "15",
+              "cost": {
+                "duration": "20",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.743367,49.229344;119.743192,49.229408"
+            },
+            {
+              "instruction": "向南行驶336米右转",
+              "orientation": "南",
+              "step_distance": "336",
+              "cost": {
+                "duration": "106",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.743192,49.229408;119.741755,49.227799;119.741738,49.227703;119.741867,49.227552;119.74206,49.227429;119.742082,49.227359;119.742076,49.227284;119.742103,49.227247;119.742361,49.227096;119.742548,49.226995;119.742629,49.226973;119.742768,49.22692"
+            },
+            {
+              "instruction": "沿仁德礼路向西南行驶535米到达目的地",
+              "orientation": "西南",
+              "road_name": "仁德礼路",
+              "step_distance": "535",
+              "cost": {
+                "duration": "81",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.742768,49.22692;119.742479,49.22663;119.742076,49.226201;119.74191,49.226018;119.740875,49.224876;119.740773,49.224768;119.740108,49.224033;119.739957,49.223867;119.739652,49.223486;119.739593,49.223427;119.738942,49.222777"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

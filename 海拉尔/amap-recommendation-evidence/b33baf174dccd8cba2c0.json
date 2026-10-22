@@ -1,0 +1,52 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "曲水云天",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:22+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "2",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "B0JDZ5C6RX",
+        "distance": [],
+        "keytag": "风景名胜,风景名胜,风景名胜",
+        "importance": [],
+        "biz_ext": [],
+        "type": "风景名胜;风景名胜;风景名胜",
+        "photos": [],
+        "building": [],
+        "typecode": "110200",
+        "shopinfo": "2",
+        "poiweight": [],
+        "adname": "陈巴尔虎旗",
+        "featured_reviews_remake": [],
+        "tel": "13190999909",
+        "id": "B0JRFUNGC1",
+        "address": "图嘎营地向东2.8公里",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "tour",
+        "cityname": "呼伦贝尔市",
+        "childtype": "301",
+        "atag": [],
+        "name": "曲水云天",
+        "location": "119.843207,49.568089",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

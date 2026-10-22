@@ -1,0 +1,271 @@
+{
+  "source": "AMap live API; no local cache",
+  "queries": [
+    {
+      "label": "红姐饭店",
+      "params": {
+        "id": "B0KU37EUGG",
+        "extensions": "all"
+      },
+      "queriedAtStart": "2026-10-04T08:28:02+08:00",
+      "queriedAt": "2026-10-04T08:28:02+08:00",
+      "response": {
+        "count": "1",
+        "infocode": "10000",
+        "pois": [
+          {
+            "parent": [],
+            "pcode": "150000",
+            "keytag": "砂锅",
+            "type": "餐饮服务;中餐厅;中餐厅",
+            "photos": [
+              {
+                "title": [],
+                "url": "https://store.is.autonavi.com/showpic/9c7aec6f34ddaf960000007902858779?type=pic"
+              },
+              {
+                "title": [],
+                "url": "https://aos-comment.amap.com/B0KU37EUGG/comment/a9dca07a6d09914f9a30ea8ed6616e41_2048_2048_80.jpg"
+              },
+              {
+                "title": [],
+                "url": "https://aos-comment.amap.com/B0KU37EUGG/comment/file_media_Photo_18363_IMG_1754139805_24955_image_1754139705831_jpg_ss_2.jpg"
+              }
+            ],
+            "building": [],
+            "typecode": "050100",
+            "poiweight": [],
+            "citycode": "0470",
+            "adname": "额尔古纳市",
+            "children": [],
+            "featured_reviews_remake": [],
+            "tel": "13204707113;13514801670",
+            "id": "B0KU37EUGG",
+            "tag": [],
+            "entr_location": "120.780208,51.266489",
+            "adcode": "150784",
+            "pname": "内蒙古自治区",
+            "biz_type": "diner",
+            "cityname": "呼伦贝尔市",
+            "postcode": [],
+            "business_area": [],
+            "childtype": [],
+            "atag": "砂锅",
+            "name": "奥莉希亚红姐特色砂锅",
+            "shopid": [],
+            "favorite_num": [],
+            "navi_poiid": [],
+            "distance": [],
+            "importance": [],
+            "biz_ext": {
+              "cost": "31.00",
+              "opentime2": "周一至周日 10:00-21:00",
+              "rating": "4.4",
+              "open_time": "10:00-21:00",
+              "meal_ordering": "0"
+            },
+            "recommend": "0",
+            "discount_num": "0",
+            "gridcode": "7620761221",
+            "shopinfo": "0",
+            "updateflag": "0",
+            "alias": [],
+            "event": [],
+            "indoor_map": "0",
+            "email": [],
+            "timestamp": "2026-09-26 10:26:20",
+            "website": [],
+            "address": "额尔古纳国家级自然保护区管理局东南侧50米",
+            "space_num": [],
+            "match": "0",
+            "indoor_data": {
+              "cmsid": [],
+              "truefloor": [],
+              "cpid": [],
+              "floor": []
+            },
+            "exit_location": [],
+            "location": "120.780226,51.266377",
+            "groupbuy_num": "0",
+            "featured_reviews": []
+          }
+        ],
+        "status": "1",
+        "info": "OK"
+      }
+    },
+    {
+      "label": "雅娟饭店",
+      "params": {
+        "id": "B0H1X430OA",
+        "extensions": "all"
+      },
+      "queriedAtStart": "2026-10-04T08:28:02+08:00",
+      "queriedAt": "2026-10-04T08:28:03+08:00",
+      "response": {
+        "count": "1",
+        "infocode": "10000",
+        "pois": [
+          {
+            "parent": [],
+            "pcode": "150000",
+            "keytag": "家常菜",
+            "type": "餐饮服务;中餐厅;中餐厅",
+            "photos": [],
+            "building": [],
+            "typecode": "050100",
+            "poiweight": [],
+            "citycode": "0470",
+            "adname": "额尔古纳市",
+            "children": [],
+            "featured_reviews_remake": [],
+            "tel": "13347003568;18347016661",
+            "id": "B0H1X430OA",
+            "tag": "家常菜",
+            "entr_location": [],
+            "adcode": "150784",
+            "pname": "内蒙古自治区",
+            "biz_type": "diner",
+            "cityname": "呼伦贝尔市",
+            "postcode": [],
+            "business_area": [],
+            "childtype": [],
+            "atag": "家常菜",
+            "name": "雅娟家常菜",
+            "shopid": [],
+            "favorite_num": [],
+            "navi_poiid": [],
+            "distance": [],
+            "importance": [],
+            "biz_ext": {
+              "cost": "68.00",
+              "opentime2": "周一至周日 08:00-23:00",
+              "rating": "4.0",
+              "open_time": "08:00-23:00",
+              "meal_ordering": "0"
+            },
+            "recommend": "0",
+            "discount_num": "0",
+            "gridcode": "7620761221",
+            "shopinfo": "0",
+            "updateflag": "0",
+            "alias": [],
+            "event": [],
+            "indoor_map": "0",
+            "email": [],
+            "timestamp": "2026-09-26 13:36:28",
+            "website": [],
+            "address": "莫尔道嘎镇飞马东侧100米处",
+            "space_num": [],
+            "match": "0",
+            "indoor_data": {
+              "cmsid": [],
+              "truefloor": [],
+              "cpid": [],
+              "floor": []
+            },
+            "exit_location": [],
+            "location": "120.782224,51.266662",
+            "groupbuy_num": "0",
+            "featured_reviews": []
+          }
+        ],
+        "status": "1",
+        "info": "OK"
+      }
+    },
+    {
+      "label": "姐妹饭店",
+      "params": {
+        "id": "B0FFFGP0DC",
+        "extensions": "all"
+      },
+      "queriedAtStart": "2026-10-04T08:28:03+08:00",
+      "queriedAt": "2026-10-04T08:28:03+08:00",
+      "response": {
+        "count": "1",
+        "infocode": "10000",
+        "pois": [
+          {
+            "parent": [],
+            "pcode": "150000",
+            "keytag": "中餐",
+            "type": "餐饮服务;中餐厅;中餐厅",
+            "photos": [
+              {
+                "title": [],
+                "url": "https://aos-comment.amap.com/B0FFFGP0DC/comment/C04EDE77_B3B5_40AE_BD23_70D7059BAECB_L0_001_2016_151_1759391066966_82881668.jpg"
+              },
+              {
+                "title": [],
+                "url": "https://aos-comment.amap.com/B0FFFGP0DC/comment/BA9C8830_966A_49C2_B325_BE40CB9ECECC_L0_001_1500_200_1748523745519_48510198.jpg"
+              },
+              {
+                "title": [],
+                "url": "https://aos-comment.amap.com/B0FFFGP0DC/comment/EECF4395_5A9B_40D7_A84C_5538C0534AFC_L0_001_1500_200_1748523745518_77492613.jpg"
+              }
+            ],
+            "building": [],
+            "typecode": "050100",
+            "poiweight": [],
+            "citycode": "0470",
+            "adname": "额尔古纳市",
+            "children": [],
+            "featured_reviews_remake": [],
+            "tel": [],
+            "id": "B0FFFGP0DC",
+            "tag": [],
+            "entr_location": [],
+            "adcode": "150784",
+            "pname": "内蒙古自治区",
+            "biz_type": "diner",
+            "cityname": "呼伦贝尔市",
+            "postcode": [],
+            "business_area": [],
+            "childtype": [],
+            "atag": "中餐",
+            "name": "姐妹酒家(河东一道街店)",
+            "shopid": [],
+            "favorite_num": [],
+            "navi_poiid": "M51F009007_318",
+            "distance": [],
+            "importance": [],
+            "biz_ext": {
+              "cost": "58.00",
+              "opentime2": "周一至周日 08:00-21:30",
+              "rating": "4.5",
+              "open_time": "08:00-21:30",
+              "meal_ordering": "0"
+            },
+            "recommend": "0",
+            "discount_num": "0",
+            "gridcode": "7620761200",
+            "shopinfo": "0",
+            "updateflag": "0",
+            "alias": [],
+            "event": [],
+            "indoor_map": "0",
+            "email": [],
+            "timestamp": "2026-09-26 15:13:40",
+            "website": [],
+            "address": "莫尔道嘎镇河东一道街02-412",
+            "space_num": [],
+            "match": "0",
+            "indoor_data": {
+              "cmsid": [],
+              "truefloor": [],
+              "cpid": [],
+              "floor": []
+            },
+            "exit_location": [],
+            "location": "120.778982,51.260249",
+            "groupbuy_num": "0",
+            "featured_reviews": []
+          }
+        ],
+        "status": "1",
+        "info": "OK"
+      }
+    }
+  ]
+}

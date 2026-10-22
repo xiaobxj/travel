@@ -1,0 +1,240 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "4",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": "B02F40RARV",
+      "pcode": "440000",
+      "keytag": "剧场",
+      "type": "体育休闲服务;影剧院;剧场",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/9f5a28a390107c000000000720930675?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFF5E1KC/comment/content_media_external_file_65519_ss__1768359305015_37373112.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/f78a350ccdcc386e0000003949722002?type=pic"
+        }
+      ],
+      "building": [],
+      "typecode": "080603",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "0756-2993333",
+      "id": "B0FFF5E1KC",
+      "tag": [],
+      "entr_location": "113.534145,22.095729",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "302",
+      "atag": [],
+      "name": "珠海长隆海洋王国-白鲸剧场",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "400.00",
+        "opentime2": "周一至周日 10:00-21:00",
+        "seat_ordering": "0",
+        "rating": "4.7",
+        "open_time": "10:00-21:00"
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313141212",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-04 08:08:11",
+      "website": [],
+      "address": "富祥湾长隆海洋王国内",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.534134,22.095709",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B02F40RARV",
+      "pcode": "440000",
+      "keytag": "风景名胜,风景名胜,风景名胜",
+      "type": "风景名胜;风景名胜;风景名胜",
+      "photos": [
+        {
+          "provider": [],
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/a2497123fd096c0d2053f0b1e1ad8589"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0KRYUXGWZ/comment/content_media_external_file_65588_ss__1768361482075_95800342.jpg"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0KRYUXGWZ/comment/A0D7E3DE_43E6_4DEB_A98D_73CAE79593B8_L0_001_1500_200_1762221100413_91505183.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "110200",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0KRYUXGWZ",
+      "tag": [],
+      "entr_location": [],
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": "tour",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "301",
+      "atag": [],
+      "name": "长隆海洋王国-白鲸馆",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 10:00-21:00",
+        "rating": "4.3",
+        "open_time": "10:00-21:00",
+        "ticket_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313141212",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-05 00:46:14",
+      "website": [],
+      "address": "环岛东路89号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.533641,22.095870",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B02F40RARV",
+      "pcode": "440000",
+      "keytag": "中餐",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0L6LSC05W/comment/D5946DF8_64A1_48E5_9A8C_D423576C7798_L0_001_1206_113_1768145488008_52359191.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0L6LSC05W/comment/content_media_external_file_1000018011_ss__1766643900370_18422233.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0L6LSC05W/comment/content_media_external_file_1000025947_ss__1754127738255_94198279.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "050100",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "18229168173",
+      "id": "B0L6LSC05W",
+      "tag": "牛肉",
+      "entr_location": "113.534615,22.096480",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "302",
+      "atag": "牛肉",
+      "name": "横琴湾畔餐厅(长隆海洋王国白鲸剧场店)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "60.00",
+        "opentime2": "周一至周日 09:00-21:00",
+        "rating": "4.2",
+        "open_time": "09:00-21:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313141212",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-05 16:56:03",
+      "website": [],
+      "address": "富祥湾长隆海洋王国内",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.534620,22.096441",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

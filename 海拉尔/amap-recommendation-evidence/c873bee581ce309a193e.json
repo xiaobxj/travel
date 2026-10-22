@@ -1,0 +1,52 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "牧民的日常",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:43+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "1",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "B0IK3CUHLM",
+        "distance": [],
+        "keytag": "内蒙菜",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;快餐厅;茶餐厅",
+        "photos": [],
+        "building": [],
+        "typecode": "050305",
+        "shopinfo": "0",
+        "poiweight": [],
+        "adname": "额尔古纳市",
+        "featured_reviews_remake": [],
+        "tel": "14747018880",
+        "id": "B0KUSYLAUV",
+        "address": "蒙兀室韦苏木幸福路B4号",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": "302",
+        "atag": "双人餐,单人餐",
+        "name": "牧民的日常蒙古茶餐厅",
+        "location": "119.907450,51.335356",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

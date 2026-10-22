@@ -1,0 +1,60 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "1",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": [],
+      "distance": [],
+      "keytag": "中餐",
+      "importance": [],
+      "biz_ext": {
+        "cost": "148.00",
+        "opentime2": "周一至周日 11:30-18:00",
+        "rating": "3.8",
+        "open_time": "11:30-18:00",
+        "meal_ordering": "0"
+      },
+      "type": "餐饮服务;餐饮相关场所;餐饮相关",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/f2431dc6c045eb110000003103994770?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/06c47c234e77e4120000003103998797?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/7147fc499a04abcd0000002880686173?type=pic"
+        }
+      ],
+      "building": [],
+      "typecode": "050000",
+      "shopinfo": "0",
+      "poiweight": [],
+      "adname": "香洲区",
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0MBTRD29J",
+      "address": "长隆飞船乐园1层鲸奇宇宙区",
+      "space_num": [],
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "childtype": [],
+      "atag": [],
+      "name": "鲸生鲸世餐厅(长隆飞船乐园店)",
+      "location": "113.538825,22.092375",
+      "shopid": [],
+      "favorite_num": [],
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

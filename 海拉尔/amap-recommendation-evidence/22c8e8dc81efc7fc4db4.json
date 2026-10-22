@@ -1,0 +1,77 @@
+{
+  "endpoint": "v5/direction/driving",
+  "params": {
+    "origin": "119.906516,51.337778",
+    "destination": "119.906662,51.335350",
+    "origin_id": "B0K1GUUKAX",
+    "destination_id": "B0LR3CDKRV",
+    "strategy": 32,
+    "show_fields": "cost,polyline"
+  },
+  "queriedAt": "2026-09-18T01:56:43+08:00",
+  "response": {
+    "status": "1",
+    "info": "OK",
+    "infocode": "10000",
+    "count": "1",
+    "route": {
+      "origin": "119.906516,51.337778",
+      "destination": "119.906662,51.335350",
+      "taxi_cost": "6",
+      "paths": [
+        {
+          "distance": "334",
+          "restriction": "0",
+          "cost": {
+            "duration": "88",
+            "tolls": "0",
+            "toll_distance": "0",
+            "traffic_lights": "0"
+          },
+          "steps": [
+            {
+              "instruction": "向西行驶14米左转",
+              "orientation": "西",
+              "step_distance": "14",
+              "cost": {
+                "duration": "22",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.906548,51.337698;119.906356,51.337667"
+            },
+            {
+              "instruction": "向东南行驶271米右转",
+              "orientation": "东南",
+              "step_distance": "271",
+              "cost": {
+                "duration": "58",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.906356,51.337668;119.906528,51.337276;119.906861,51.336546;119.907408,51.335313"
+            },
+            {
+              "instruction": "沿健康街向西行驶49米到达目的地",
+              "orientation": "西",
+              "road_name": "健康街",
+              "step_distance": "49",
+              "cost": {
+                "duration": "8",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "119.907408,51.335312;119.906723,51.335201"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

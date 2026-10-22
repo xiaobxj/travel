@@ -1,0 +1,517 @@
+[
+  {
+    "id": "hailaer-lublu",
+    "poiId": "B0FFGC4212",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "hailaer-shaomai",
+    "poiId": "B0FFIQSRS4",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "hailaer-laoyang",
+    "poiId": "B0K65RH9CV",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "hailaer-zhao",
+    "poiId": "B0GRRAJ1DZ",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "hailaer-bread",
+    "poiId": "B0FFKT53GY",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "hailaer-nogoon",
+    "poiId": "B0J3HZNFNB",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "hailaer-gogo",
+    "poiId": "B0K66MQXRC",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "hailaer-shenzaki",
+    "poiId": "B0JUCRCPJQ",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "hailaer-cliff",
+    "poiId": "B0KRTLT57J",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "hailaer-museum",
+    "poiId": "B0HK9D2MNE",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "hailaer-new-yexue",
+    "poiId": "B0J33UUWU3",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "hailaer-new-yuanfang",
+    "poiId": "B0K6U7WM7R",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "hailaer-new-petersburg",
+    "poiId": "B0FFH0CJ5O",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "morigle-new-qushui",
+    "poiId": "B0JRFUNGC1",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "morigle-new-tuga",
+    "poiId": "B0FFKV4E41",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "morigle-new-mabeishan",
+    "poiId": "B0J1JCY3KN",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "eerguna-shuncheng",
+    "poiId": "B0FFGP0R0B",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "eerguna-xing le",
+    "poiId": "B0FFKUX31D",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "eerguna-kerulen",
+    "poiId": "B0FFFGOZ1L",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "eerguna-mengguyuan",
+    "poiId": "B01D600J5B",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "eerguna-deli",
+    "poiId": "B0FFKYW1J6",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "eerguna-tieshan",
+    "poiId": "B0FFFA62TL",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "eerguna-xiaoguo",
+    "poiId": "B0HDMPSVBX",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "eerguna-hedian",
+    "poiId": "B0KKO130FW",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "eerguna-new-fuji",
+    "poiId": "B0JRJHBKLS",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "eerguna-new-mingyuan",
+    "poiId": "B0FFG7D3VM",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "genhe-kaimenhong",
+    "poiId": "B0FFIH7SU0",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "genhe-shourong",
+    "poiId": "B0FFHEF0TK",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "genhe-yijiaren",
+    "poiId": "B0JRGZZD3R",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "genhe-zhengyi",
+    "poiId": "B0GRMC0Y1G",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "genhe-market",
+    "poiId": "B0FFHEZLBV",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "genhe-new-shouwang",
+    "poiId": "B0K2OO88X3",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "aoluguya-new-museum",
+    "poiId": "B01D601K21",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "deerbur-guangyuan",
+    "poiId": "B0FFKVX1PO",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "mordaga-new-longshan",
+    "poiId": "B0FFG8YHW4",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "bailudao-view",
+    "poiId": "B0FFH04Q7P",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "bailudao-new-linxi",
+    "poiId": "B0FFHE1DSE",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "linjiang-new-northhill",
+    "poiId": "B0K2XZ7N9F",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "linjiang-new-shenxian",
+    "poiId": "B0FFJACTYG",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "shiwei-two lambs",
+    "poiId": "B0LR3CDKRV",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "shiwei-taliya",
+    "poiId": "B0KRP7LJ49",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "shiwei-new-lvyou",
+    "poiId": "B0FFG63UGN",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "shiwei-new-mumin",
+    "poiId": "B0KUSYLAUV",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "jiuka-view",
+    "poiId": "B0L367A2EJ",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "qika-lanni",
+    "poiId": "B0JUVD9NJ0",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "qika-danjie",
+    "poiId": "B0JUZBU06B",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "qika-laowu",
+    "poiId": "B0KU3AGQAQ",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "qika-new-shubian",
+    "poiId": "B0JDN56M8O",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "qika-new-caoyuan",
+    "poiId": "B0FFKUKKZ1",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "heishantou-yipinxiang",
+    "poiId": "B0FFI1N1ZR",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "heishantou-lamb ranch",
+    "poiId": "B0JRZZ1EE9",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "heishantou-gushan",
+    "poiId": "B01D6004QM",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "heishantou-new-laogao",
+    "poiId": "B0HULZ3FCR",
+    "reason": "人工对照高德返回名称、行政区、地址及行程位置，排除同名异地、周边误匹配和住宿类结果。",
+    "kind": "exact"
+  },
+  {
+    "id": "eerguna-new-baohualin",
+    "poiId": "B0FFL1UK69",
+    "reason": "选定白桦林景区停车场入口作为驾车终点，园内游览另计。",
+    "kind": "entrance"
+  },
+  {
+    "id": "aoluguya-reindeer",
+    "poiId": "B0FFFGOOS1",
+    "reason": "明确使用原行程已采用的景区南门停车场，喂鹿与景区内接驳不计入驾车。",
+    "kind": "entrance"
+  },
+  {
+    "id": "deerbur-deer",
+    "poiId": "B0HR9U6CCO",
+    "reason": "对应得耳布尓兴安神鹿园停车点，距离计算到停车点，入园步行另计。",
+    "kind": "entrance"
+  },
+  {
+    "id": "mordaga-forest",
+    "poiId": "B0FFM0VY4Z",
+    "reason": "沿用原行程森林公园停车场，园内道路与小火车不是本次道路距离。",
+    "kind": "entrance"
+  },
+  {
+    "id": "shiwei-new-aoluoqi",
+    "poiId": "B0K1TSUGUV",
+    "reason": "采用奥洛契庄园游客中心西停车场作为驾车接入点。",
+    "kind": "entrance"
+  },
+  {
+    "id": "qika-wulan",
+    "poiId": "B0H2B7KSB8",
+    "reason": "使用乌兰山景区游客中心作为驾车接入点，山顶观景仍需园内接驳或步行。",
+    "kind": "entrance"
+  },
+  {
+    "id": "hailaer-nomintala",
+    "poiId": null,
+    "reason": "高德在海拉尔返回西大街、锦都会等分店，原帖未明确分店，暂不将品牌评价归给其中一家。"
+  },
+  {
+    "id": "hailaer-new-menggen",
+    "poiId": null,
+    "reason": "海拉尔有多家孟根楚鲁／孟根础鲁同名或近名茶食店，原帖缺少能确认分店的地址。"
+  },
+  {
+    "id": "genhe-chuantianjiao",
+    "poiId": null,
+    "reason": "未获得与正文“红招牌店”可明确对应的根河 POI。"
+  },
+  {
+    "id": "genhe-shengxianghe",
+    "poiId": null,
+    "reason": "高德为“鑫盛祥和”，原帖为“盛祥和”，地址未交叉确认，不自动当作同一家。"
+  },
+  {
+    "id": "genhe-new-kefir",
+    "poiId": null,
+    "reason": "高德为“开菲尔饮吧”，正文只写开菲尔酸奶，不能仅凭品类词认定商铺。"
+  },
+  {
+    "id": "genhe-new-linzhongxian",
+    "poiId": "B0FFH22ITR",
+    "reason": "新增实吃笔记明确写“根河林中鲜小串”，与高德幸福家园店名称及城市对应；其他简称烧烤的记录作为辅助证据。",
+    "kind": "exact"
+  },
+  {
+    "id": "deerbur-memorial",
+    "poiId": null,
+    "reason": "返回的卡鲁奔营地、山、公园距小镇 40 公里以上，与原帖小镇饭馆内的纪念馆不符。"
+  },
+  {
+    "id": "mordaga-hongjie",
+    "poiId": "B0KU37EUGG",
+    "reason": "新增到店笔记写出“奥莉希亚红姐特色砂锅”全称，与高德莫尔道嘎店匹配，另有两篇实吃砂锅反馈。",
+    "kind": "exact"
+  },
+  {
+    "id": "mordaga-hongzeyuan",
+    "poiId": null,
+    "reason": "本轮关键词查询未返回可对应的固定餐厅。"
+  },
+  {
+    "id": "mordaga-new-bawang",
+    "poiId": null,
+    "reason": "高德有多家铁锅炖，但原帖未给店名，不能从附近结果任挑一家套上好评。"
+  },
+  {
+    "id": "bailudao-restaurant",
+    "poiId": null,
+    "reason": "高德只查到白鹿岛酒店及停车场，没有独立餐厅 POI；餐厅证据保留但不纳入严格核点列表。"
+  },
+  {
+    "id": "linjiang-shilu",
+    "poiId": null,
+    "reason": "高德返回驶路部落精品民宿，地址在临江，可确认场所但未返回花园餐厅独立 POI；不以民宿坐标冒充餐厅入口。"
+  },
+  {
+    "id": "shiwei-tara",
+    "poiId": null,
+    "reason": "本轮查询未找到可对应室韦塔拉牧场餐厅的 POI。"
+  },
+  {
+    "id": "shiwei-mengwu",
+    "poiId": null,
+    "reason": "返回室韦蒙兀部落，未返回能核对到“蒙兀奶茶”的独立商铺。"
+  },
+  {
+    "id": "heishantou-risheng",
+    "poiId": null,
+    "reason": "高德名称为“日晟烤吧有间烤肉店”，与原帖冰煮羊火锅的经营内容不同，暂待核对。"
+  },
+  {
+    "id": "heishantou-sunset",
+    "poiId": null,
+    "reason": "有多个日落点和接驳入口，原帖混合免费点与收费点，尚不能把全部好评归到同一 POI。"
+  },
+  {
+    "id": "heishantou-bonfire",
+    "poiId": null,
+    "reason": "同名篝火搜索结果距黑山头约 106 公里，排除异地匹配。"
+  },
+  {
+    "id": "heishantou-new-youmu",
+    "poiId": null,
+    "reason": "高德明确标注“暂停营业”，不纳入当前推荐。"
+  },
+  {
+    "id": "heishantou-new-mazhi",
+    "poiId": null,
+    "reason": "返回其他马场和周边民宿，没有确切对应马之舞的结果。"
+  },
+  {
+    "id": "deerbur-new-shanshan",
+    "poiId": "B0IGCOJFO0",
+    "reason": "新帖明确得耳布尔姗姗馅饼，高德返回镇内清真姗姗馅饼店，名称、类型和所在小镇对应。",
+    "kind": "exact"
+  },
+  {
+    "id": "deerbur-new-cold",
+    "poiId": null,
+    "reason": "“中国冷极碑”搜索结果与小镇地标的描述尚不能唯一对应，不把附近其他冷极地标代替原帖落点。"
+  },
+  {
+    "id": "genhe-new-xindingyuan",
+    "poiId": "B0FFFGOPDH",
+    "reason": "本轮已读笔记明确写出店名和小镇，高德返回同名镇内商铺；检查行政区及地址，并排除远处同名分店。",
+    "kind": "exact"
+  },
+  {
+    "id": "mordaga-new-jiemei",
+    "poiId": "B0FFFGP0DC",
+    "reason": "本轮已读笔记明确写出店名和小镇，高德返回同名镇内商铺；检查行政区及地址，并排除远处同名分店。",
+    "kind": "exact"
+  },
+  {
+    "id": "mordaga-new-yajuan",
+    "poiId": "B0H1X430OA",
+    "reason": "本轮已读笔记明确写出店名和小镇，高德返回同名镇内商铺；检查行政区及地址，并排除远处同名分店。",
+    "kind": "exact"
+  },
+  {
+    "id": "mordaga-new-jihe",
+    "poiId": "B0IUCUZO3H",
+    "reason": "本轮已读笔记明确写出店名和小镇，高德返回同名镇内商铺；检查行政区及地址，并排除远处同名分店。",
+    "kind": "exact"
+  },
+  {
+    "id": "shiwei-new-yogurt",
+    "poiId": "B0K1XK2GQY",
+    "reason": "本轮已读笔记明确写出店名和小镇，高德返回同名镇内商铺；检查行政区及地址，并排除远处同名分店。",
+    "kind": "exact"
+  },
+  {
+    "id": "heishantou-new-yunxi",
+    "poiId": "B0KU9CINYC",
+    "reason": "本轮已读笔记明确写出店名和小镇，高德返回同名镇内商铺；检查行政区及地址，并排除远处同名分店。",
+    "kind": "exact"
+  },
+  {
+    "id": "heishantou-new-ziyu",
+    "poiId": "B0FFFGOC7I",
+    "reason": "本轮已读笔记明确写出店名和小镇，高德返回同名镇内商铺；检查行政区及地址，并排除远处同名分店。",
+    "kind": "exact"
+  },
+  {
+    "id": "heishantou-new-mengniu",
+    "poiId": "B0HUP5ODFY",
+    "reason": "本轮已读笔记明确写出店名和小镇，高德返回同名镇内商铺；检查行政区及地址，并排除远处同名分店。",
+    "kind": "exact"
+  },
+  {
+    "id": "mordaga-new-hulaoda",
+    "poiId": null,
+    "reason": "高德仅在相邻咖啡馆与住宿的地址中提及胡老大，没有返回其独立餐厅 POI；不能用邻店坐标代替餐厅。"
+  }
+]

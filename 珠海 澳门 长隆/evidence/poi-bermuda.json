@@ -1,0 +1,99 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "3",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": [],
+      "distance": [],
+      "keytag": "游乐园",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "06月30日至08月31日 10:00-18:00",
+        "rating": "4.0",
+        "open_time": []
+      },
+      "type": "体育休闲服务;休闲场所;游乐场",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/2e5b3af3a80090a85c6fe6be4ed2c2ef"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0L6MMSYX9/comment/file_media_Photo_12428_IMG_1772597497_11175_IMG_20260304_120957_jpg_ss__1772600085621_64789386.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0L6MMSYX9/comment/file_media_Photo_12429_IMG_1772597506_11176_IMG_20260304_121006_jpg_ss__1772600085624_03265747.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "080501",
+      "shopinfo": "0",
+      "poiweight": [],
+      "adname": "香洲区",
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0L6MMSYX9",
+      "address": "鲸生鲸世西侧80米",
+      "space_num": [],
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "childtype": [],
+      "atag": [],
+      "name": "百慕大历险",
+      "location": "113.537956,22.092536",
+      "shopid": [],
+      "favorite_num": [],
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "distance": [],
+      "keytag": "香港菜",
+      "importance": [],
+      "biz_ext": {
+        "cost": "71.00",
+        "opentime2": "周一至周日 12:00-17:00",
+        "rating": "3.6",
+        "open_time": "12:00-17:00",
+        "meal_ordering": "0"
+      },
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/8ad82fc9ce965e8143434b6d38d7f880"
+        }
+      ],
+      "building": [],
+      "typecode": "050100",
+      "shopinfo": "0",
+      "poiweight": [],
+      "adname": "香洲区",
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0M6TR6G5Z",
+      "address": "百慕大历险东北侧50米",
+      "space_num": [],
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "childtype": [],
+      "atag": [],
+      "name": "筷食荟·园区美食·粥粉面饭·港式风味",
+      "location": "113.538275,22.092875",
+      "shopid": [],
+      "favorite_num": [],
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

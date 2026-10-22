@@ -1,0 +1,81 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "卡鲁奔湿地",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-10-03T08:23:33+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "2",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "湿地公园",
+        "importance": [],
+        "biz_ext": [],
+        "type": "风景名胜;公园广场;公园",
+        "photos": [],
+        "building": [],
+        "typecode": "110101",
+        "shopinfo": "2",
+        "poiweight": [],
+        "adname": "根河市",
+        "featured_reviews_remake": [],
+        "tel": [],
+        "id": "B0J1BLQUJU",
+        "address": "得耳布尔镇得耳布尔林业局康达岭林场施业区三干线45公里处",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "tour",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": [],
+        "name": "卡鲁奔国家湿地公园",
+        "location": "120.516874,50.710592",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      },
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "自然风光",
+        "importance": [],
+        "biz_ext": [],
+        "type": "风景名胜;风景名胜;风景名胜",
+        "photos": [],
+        "building": [],
+        "typecode": "110200",
+        "shopinfo": "2",
+        "poiweight": [],
+        "adname": "根河市",
+        "featured_reviews_remake": [],
+        "tel": [],
+        "id": "B0L3H78ZJP",
+        "address": [],
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "tour",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": [],
+        "name": "卡鲁奔山",
+        "location": "120.555138,50.727019",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "attempt": {
+    "at": "2026-09-18T01:56:30+08:00",
+    "status": "blocked",
+    "message": "搜索需要登录；请在采集浏览器中完成登录。",
+    "method": "CDP public note content",
+    "code": "login_required",
+    "finishedAt": "2026-09-18T01:56:37+08:00"
+  },
+  "coverage": [
+    {
+      "cityId": "hailaer",
+      "city": "海拉尔",
+      "at": "2026-09-17T21:51:05+08:00",
+      "queries": [
+        {
+          "query": "海拉尔 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "海拉尔 咖啡奶茶",
+          "visibleCards": 27
+        },
+        {
+          "query": "海拉尔 体验 游玩",
+          "visibleCards": 27
+        }
+      ],
+      "read": 4,
+      "errors": [],
+      "filtered": [
+        {
+          "id": "6a4666b3000000001603fced",
+          "title": "海拉尔",
+          "reason": "可提取的正文信息过少，未作为文字推荐收录"
+        },
+        {
+          "id": "6a7deb6e0000000022014130",
+          "title": "帮我看一下海拉尔这个路线行不行",
+          "reason": "求助型笔记，未作为体验推荐收录"
+        }
+      ]
+    },
+    {
+      "cityId": "morigle",
+      "city": "莫日格勒",
+      "at": "2026-09-17T21:52:21+08:00",
+      "queries": [
+        {
+          "query": "莫日格勒 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "莫日格勒 咖啡奶茶",
+          "visibleCards": 30
+        },
+        {
+          "query": "莫日格勒 体验 游玩",
+          "visibleCards": 27
+        }
+      ],
+      "read": 6,
+      "errors": [],
+      "filtered": []
+    },
+    {
+      "cityId": "eerguna",
+      "city": "额尔古纳",
+      "at": "2026-09-17T21:53:22+08:00",
+      "queries": [
+        {
+          "query": "额尔古纳 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "额尔古纳 咖啡奶茶",
+          "visibleCards": 27
+        },
+        {
+          "query": "额尔古纳 体验 游玩",
+          "visibleCards": 27
+        }
+      ],
+      "read": 6,
+      "errors": [],
+      "filtered": []
+    },
+    {
+      "cityId": "genhe",
+      "city": "根河",
+      "at": "2026-09-17T21:54:27+08:00",
+      "queries": [
+        {
+          "query": "根河 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "根河 咖啡奶茶",
+          "visibleCards": 30
+        },
+        {
+          "query": "根河 体验 游玩",
+          "visibleCards": 27
+        }
+      ],
+      "read": 6,
+      "errors": [],
+      "filtered": []
+    },
+    {
+      "cityId": "aoluguya",
+      "city": "敖鲁古雅",
+      "at": "2026-09-17T21:55:51+08:00",
+      "queries": [
+        {
+          "query": "敖鲁古雅 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "敖鲁古雅 咖啡奶茶",
+          "visibleCards": 28
+        },
+        {
+          "query": "敖鲁古雅 体验 游玩",
+          "visibleCards": 27
+        }
+      ],
+      "read": 5,
+      "errors": [],
+      "filtered": [
+        {
+          "id": "68de7b5e0000000005033874",
+          "title": "谁懂敖鲁古雅里面这个鹿奶列巴的含金量！",
+          "reason": "可提取的正文信息过少，未作为文字推荐收录"
+        }
+      ]
+    },
+    {
+      "cityId": "bailudao",
+      "city": "白鹿岛",
+      "at": "2026-09-17T21:59:00+08:00",
+      "queries": [
+        {
+          "query": "莫尔道嘎 白鹿岛 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "莫尔道嘎 白鹿岛 咖啡奶茶",
+          "visibleCards": 27
+        },
+        {
+          "query": "莫尔道嘎 白鹿岛 体验 游玩",
+          "visibleCards": 27
+        }
+      ],
+      "read": 6,
+      "errors": [],
+      "filtered": []
+    },
+    {
+      "cityId": "linjiang",
+      "city": "临江",
+      "at": "2026-09-17T22:00:13+08:00",
+      "queries": [
+        {
+          "query": "额尔古纳 临江 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "额尔古纳 临江 咖啡奶茶",
+          "visibleCards": 27
+        },
+        {
+          "query": "额尔古纳 临江 体验 游玩",
+          "visibleCards": 27
+        }
+      ],
+      "read": 6,
+      "errors": [],
+      "filtered": []
+    },
+    {
+      "cityId": "shiwei",
+      "city": "室韦",
+      "at": "2026-09-17T22:01:11+08:00",
+      "queries": [
+        {
+          "query": "室韦 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "室韦 咖啡奶茶",
+          "visibleCards": 27
+        },
+        {
+          "query": "室韦 体验 游玩",
+          "visibleCards": 27
+        }
+      ],
+      "read": 5,
+      "errors": [],
+      "filtered": [
+        {
+          "id": "6a8ecd46000000001803fddb",
+          "title": "室韦的这家奶皮糕子很好吃！像雪糕～",
+          "reason": "可提取的正文信息过少，未作为文字推荐收录"
+        }
+      ]
+    },
+    {
+      "cityId": "jiuka",
+      "city": "九卡",
+      "at": "2026-09-17T22:02:13+08:00",
+      "queries": [
+        {
+          "query": "呼伦贝尔 九卡 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "呼伦贝尔 九卡 咖啡奶茶",
+          "visibleCards": 30
+        },
+        {
+          "query": "呼伦贝尔 九卡 体验 游玩",
+          "visibleCards": 27
+        }
+      ],
+      "read": 3,
+      "errors": [],
+      "filtered": [
+        {
+          "id": "68977e7100000000050061e2",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "6a1295d60000000006020501",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "6a126aa30000000036018f25",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        }
+      ]
+    },
+    {
+      "cityId": "qika",
+      "city": "七卡",
+      "at": "2026-09-17T22:03:09+08:00",
+      "queries": [
+        {
+          "query": "呼伦贝尔 七卡 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "呼伦贝尔 七卡 咖啡奶茶",
+          "visibleCards": 30
+        },
+        {
+          "query": "呼伦贝尔 七卡 体验 游玩",
+          "visibleCards": 27
+        }
+      ],
+      "read": 4,
+      "errors": [],
+      "filtered": [
+        {
+          "id": "6a717995000000003301269e",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "6a126aa30000000036018f25",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        }
+      ]
+    },
+    {
+      "cityId": "heishantou",
+      "city": "黑山头",
+      "at": "2026-09-17T22:04:03+08:00",
+      "queries": [
+        {
+          "query": "黑山头 美食",
+          "visibleCards": 27
+        },
+        {
+          "query": "黑山头 咖啡奶茶",
+          "visibleCards": 27
+        },
+        {
+          "query": "黑山头 体验 游玩",
+          "visibleCards": 27
+        }
+      ],
+      "read": 4,
+      "errors": [],
+      "filtered": [
+        {
+          "id": "6a4f60550000000007024ef6",
+          "title": "黑山头有什么不吃就会死不瞑目的东西吗？",
+          "reason": "可提取的正文信息过少，未作为文字推荐收录"
+        },
+        {
+          "id": "6a7be1e70000000021022d89",
+          "title": "第一次发小红书，避雷额尔古纳黑山头，应该叫",
+          "reason": "可提取的正文信息过少，未作为文字推荐收录"
+        }
+      ]
+    },
+    {
+      "cityId": "deerbur",
+      "city": "得耳布尔",
+      "at": "2026-09-18T01:52:48+08:00",
+      "queries": [
+        {
+          "query": "得耳布尔 美食 店名",
+          "visibleCards": 29
+        },
+        {
+          "query": "得耳布尔 咖啡 奶茶 店",
+          "visibleCards": 30
+        }
+      ],
+      "read": 2,
+      "errors": [],
+      "filtered": [
+        {
+          "id": "68977e7100000000050061e2",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        },
+        {
+          "id": "68501888000000002001fc5b",
+          "title": "《得耳布尔》",
+          "reason": "可提取的正文信息过少，未作为文字推荐收录"
+        },
+        {
+          "id": "6a7ed00000000000320305ed",
+          "reason": "正文和标题未匹配目的地，已过滤"
+        }
+      ]
+    },
+    {
+      "cityId": "mordaga",
+      "city": "莫尔道嘎",
+      "at": "2026-09-18T01:56:31+08:00",
+      "queries": [
+        {
+          "query": "莫尔道嘎 美食 店名",
+          "visibleCards": 0
+        }
+      ],
+      "read": 0,
+      "errors": [],
+      "filtered": []
+    }
+  ]
+}

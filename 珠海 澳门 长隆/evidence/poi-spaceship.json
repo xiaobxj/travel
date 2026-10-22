@@ -1,0 +1,390 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "53",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": "B0FFFFLAX5",
+      "pcode": "440000",
+      "keytag": "游乐园",
+      "type": "体育休闲服务;休闲场所;游乐场",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/3f313880301e9466703eb22071124782"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/58ebf8005eb09831f5705a7a5edba560"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/45966d5891003c7226c74892580e7dd6"
+        }
+      ],
+      "building": [],
+      "typecode": "080501",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "4008830083",
+      "id": "B0FFJFNV9P",
+      "tag": [],
+      "entr_location": "113.542888,22.09662",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "601",
+      "atag": [],
+      "name": "长隆飞船乐园",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "9月1日-9月30日:10:00-18:00,注:营业时间与设施运营计划如有调整，请以官网/现场公示为准",
+        "rating": "4.7",
+        "open_time": []
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313141300",
+      "shopinfo": "0",
+      "alias": "珠海长隆宇宙飞船 |珠海长隆海洋科学乐园",
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 17:00:49",
+      "website": [],
+      "address": "横琴镇环岛路长隆大道1号珠海横琴长隆国际海洋度假区",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.539033,22.093207",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B0FFJFNV9P",
+      "pcode": "440000",
+      "keytag": "售票处",
+      "type": "生活服务;售票处;公园景点售票处",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0KDM77ROT/comment/b1f4c60ad94ac605b7a95f4baa0bbd31_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0KDM77ROT/comment/4c5010f0068d86d2d596ad88c5f14480_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0KDM77ROT/comment/00ea1959758878c751432e2a26b5980b_2048_2048_80.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "070306",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0KDM77ROT",
+      "tag": [],
+      "entr_location": "113.543174,22.095492",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "306",
+      "atag": [],
+      "name": "长隆飞船乐园售票处",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 09:00-21:00",
+        "rating": [],
+        "open_time": "09:00-21:00"
+      },
+      "recommend": "3",
+      "discount_num": "0",
+      "gridcode": "3313141311",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-04 18:38:26",
+      "website": [],
+      "address": "长隆飞船乐园",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.542757,22.095465",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "pcode": "440000",
+      "keytag": "主题餐厅",
+      "type": "餐饮服务;餐饮相关场所;餐饮相关",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/1c83f99b616d6ea2dca4b653c94d76dc"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/4c5b49591173bc7cc7f22bf41b63c464"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/4bd25ed23746cdbf58d867f359e0fda3"
+        }
+      ],
+      "building": [],
+      "typecode": "050000",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "13417739110",
+      "id": "B0J1915DWW",
+      "tag": "自助餐",
+      "entr_location": "113.537528,22.093538",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": [],
+      "atag": "自助餐",
+      "name": "长隆飞船酒店·珊瑚餐厅",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "123.00",
+        "opentime2": "周一至周日 07:30-19:30",
+        "rating": "4.0",
+        "open_time": "07:30-19:30",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313141300",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 20:09:08",
+      "website": [],
+      "address": "长隆飞船乐园一楼(长隆飞船乐园一楼美食广场)",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.537690,22.093260",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B0FFJFNV9P",
+      "pcode": "440000",
+      "keytag": "地面停车场",
+      "type": "交通设施服务;停车场;公共停车场",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/9931d9db0c0aeed751c0abbd50921d76"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/c3f2b593a2dba0618cbf82e0913b818d"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/cc74fc3af6438d49ac352aa3518eb3ae"
+        }
+      ],
+      "building": [],
+      "typecode": "150904",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": [],
+      "id": "B0J2Y7IKQO",
+      "tag": [],
+      "entr_location": "113.542425,22.095881",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": [],
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "3",
+      "atag": [],
+      "name": "长隆飞船乐园3号停车场",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": "周一至周日 09:00-20:00",
+        "rating": [],
+        "open_time": "09:00-20:00"
+      },
+      "recommend": "0",
+      "parking_type": "地面",
+      "discount_num": "0",
+      "gridcode": "3313141311",
+      "shopinfo": "2",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-08-07 03:56:09",
+      "website": [],
+      "address": "长隆马戏酒店南侧360米",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.543746,22.095744",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B0FFJFNV9P",
+      "pcode": "440000",
+      "keytag": "豪华型",
+      "type": "住宿服务;宾馆酒店;宾馆酒店",
+      "photos": [
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFKU1N8A/comment/content_media_external_file_1000139461_ss__1761985970527_50263298.jpg"
+        },
+        {
+          "provider": [],
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFKU1N8A/comment/75426B92_6AB2_463C_B79C_19528837B679_L0_001_2000_150_1763481623165_21627641.jpg"
+        },
+        {
+          "provider": [],
+          "title": "大堂/接待台",
+          "url": "https://store.is.autonavi.com/showpic/f4a72773c1a06ee1ffb1132df6ccffc3"
+        }
+      ],
+      "building": [],
+      "typecode": "100100",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "0756-2998666;0756-2998666,1",
+      "id": "B0FFKU1N8A",
+      "tag": [],
+      "entr_location": "113.534756,22.090929",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": "hotel",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "302",
+      "atag": [],
+      "name": "珠海长隆飞船酒店",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "star": [],
+        "opentime2": [],
+        "rating": "4.6",
+        "lowest_price": [],
+        "hotel_ordering": "1",
+        "open_time": []
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313140222",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 17:00:42",
+      "website": [],
+      "address": "横琴新区富祥湾1号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.534841,22.091096",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

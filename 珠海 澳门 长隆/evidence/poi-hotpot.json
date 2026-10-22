@@ -1,0 +1,162 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "2",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": "B02F40PTGR",
+      "pcode": "440000",
+      "keytag": "牛肉火锅",
+      "type": "餐饮服务;中餐厅;火锅店",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0LRHD7H03/comment/177098152246_1770981535038_45130909.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0LRHD7H03/comment/content_media_external_file_70454_ss__1766467737571_54548846.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/0c446ba7052ac9220000002974916564?type=pic"
+        }
+      ],
+      "building": [],
+      "typecode": "050117",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "18128128527;18169863203",
+      "id": "B0LRHD7H03",
+      "tag": "大排档",
+      "entr_location": "113.561951,22.224220",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": [],
+      "childtype": "320",
+      "atag": "大排档",
+      "name": "十六潮大排档·潮汕牛肉·海鲜火锅(拱北店)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "86.00",
+        "opentime2": "周一至周日 11:00-02:00 2026-02-14至2026-02-20 周一至周日 11:00-02:00",
+        "rating": "4.7",
+        "open_time": "11:00-02:00 11:00-02:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313246422",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-05 17:21:52",
+      "website": [],
+      "address": "情侣南路259号",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.561905,22.224243",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    },
+    {
+      "parent": "B0FFH27E1E",
+      "pcode": "440000",
+      "keytag": "火锅",
+      "type": "餐饮服务;中餐厅;火锅店",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0KRHGROZ8/comment/content_media_external_file_100000038_1752396466237_02905564.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/5eaabf15488464764863067a8f3ba9a9"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/3403c6da62b1cdf3c3a5d532a3554fab"
+        }
+      ],
+      "building": [],
+      "typecode": "050117",
+      "poiweight": [],
+      "citycode": "0756",
+      "adname": "香洲区",
+      "children": [],
+      "featured_reviews_remake": [],
+      "tel": "18169863203;18933212501",
+      "id": "B0KRHGROZ8",
+      "tag": "生腌皮皮虾,纯雪花豪华拼盘,Top5生腌三文鱼,肥牛,Top3现开横琴大生蚝,五花趾,Top1现切雪花牛肉,鲜牛百叶,雪花,生腌膏蟹,鲜活黑虎虾,Top2现挤爆汁牛筋丸,Top6生腌皮皮虾,胸口油,生腌三文鱼,Top7生腌鲜活膏蟹,Top4现穿鲜活黑虎虾,大排档,牛肉",
+      "entr_location": "113.548719,22.114398",
+      "adcode": "440402",
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "postcode": [],
+      "business_area": "横琴",
+      "childtype": "320",
+      "atag": "生腌皮皮虾,纯雪花豪华拼盘,Top5生腌三文鱼,肥牛,Top3现开横琴大生蚝,五花趾,Top1现切雪花牛肉,鲜牛百叶,雪花,生腌膏蟹,鲜活黑虎虾,Top2现挤爆汁牛筋丸,Top6生腌皮皮虾,胸口油,生腌三文鱼,Top7生腌鲜活膏蟹,Top4现穿鲜活黑虎虾,大排档,牛肉",
+      "name": "十六潮大排档·潮汕牛肉·海鲜火锅(长隆店)",
+      "shopid": [],
+      "favorite_num": [],
+      "navi_poiid": [],
+      "distance": [],
+      "importance": [],
+      "biz_ext": {
+        "cost": "123.00",
+        "opentime2": "周一至周日 11:00-01:00",
+        "rating": "4.7",
+        "open_time": "11:00-01:00",
+        "meal_ordering": "0"
+      },
+      "recommend": "0",
+      "discount_num": "0",
+      "gridcode": "3313143322",
+      "shopinfo": "0",
+      "alias": [],
+      "event": [],
+      "indoor_map": "0",
+      "email": [],
+      "timestamp": "2026-09-06 11:22:05",
+      "website": [],
+      "address": "横琴新区宝中路118号十六潮大排档·鲜活牛肉火锅",
+      "space_num": [],
+      "match": "0",
+      "indoor_data": {
+        "cmsid": [],
+        "truefloor": [],
+        "cpid": [],
+        "floor": []
+      },
+      "exit_location": [],
+      "location": "113.548815,22.114481",
+      "groupbuy_num": "0",
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

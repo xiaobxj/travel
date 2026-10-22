@@ -1,0 +1,229 @@
+{
+  "endpoint": "v5/direction/driving",
+  "params": {
+    "origin": "120.180153,50.243426",
+    "destination": "120.173971,50.246598",
+    "origin_id": "B01D600JCZ",
+    "destination_id": "B0FFKYW1J6",
+    "strategy": 32,
+    "show_fields": "cost,polyline"
+  },
+  "queriedAt": "2026-09-18T01:56:25+08:00",
+  "response": {
+    "status": "1",
+    "info": "OK",
+    "infocode": "10000",
+    "count": "3",
+    "route": {
+      "origin": "120.180153,50.243426",
+      "destination": "120.173971,50.246598",
+      "taxi_cost": "6",
+      "paths": [
+        {
+          "distance": "858",
+          "restriction": "0",
+          "cost": {
+            "duration": "161",
+            "tolls": "0",
+            "toll_distance": "0",
+            "traffic_lights": "2"
+          },
+          "steps": [
+            {
+              "instruction": "沿额尔古纳大街向西行驶159米右转",
+              "orientation": "西",
+              "road_name": "额尔古纳大街",
+              "step_distance": "159",
+              "cost": {
+                "duration": "25",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "1"
+              },
+              "polyline": "120.180304,50.242892;120.1797,50.242822;120.178107,50.24265"
+            },
+            {
+              "instruction": "沿哈撒尔路向北行驶442米左转",
+              "orientation": "北",
+              "road_name": "哈撒尔路",
+              "step_distance": "442",
+              "cost": {
+                "duration": "83",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "1"
+              },
+              "polyline": "120.178107,50.24265;120.177984,50.243192;120.17778,50.243933;120.177662,50.244383;120.177597,50.244625;120.177447,50.245209;120.177109,50.246411;120.177056,50.246588"
+            },
+            {
+              "instruction": "沿金鹊街向西行驶219米右转",
+              "orientation": "西",
+              "road_name": "金鹊街",
+              "step_distance": "219",
+              "cost": {
+                "duration": "44",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "120.176938,50.246577;120.175098,50.246373;120.173907,50.246245"
+            },
+            {
+              "instruction": "沿丁香路向北行驶38米到达目的地",
+              "orientation": "北",
+              "road_name": "丁香路",
+              "step_distance": "38",
+              "cost": {
+                "duration": "9",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "120.173907,50.246245;120.173818,50.246581"
+            }
+          ]
+        },
+        {
+          "distance": "855",
+          "restriction": "0",
+          "cost": {
+            "duration": "164",
+            "tolls": "0",
+            "toll_distance": "0",
+            "traffic_lights": "1"
+          },
+          "steps": [
+            {
+              "instruction": "沿额尔古纳大街向西行驶159米右转",
+              "orientation": "西",
+              "road_name": "额尔古纳大街",
+              "step_distance": "159",
+              "cost": {
+                "duration": "25",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "1"
+              },
+              "polyline": "120.180304,50.242892;120.1797,50.242822;120.178107,50.24265"
+            },
+            {
+              "instruction": "沿哈撒尔路向北行驶221米左转",
+              "orientation": "北",
+              "road_name": "哈撒尔路",
+              "step_distance": "221",
+              "cost": {
+                "duration": "33",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "120.178107,50.24265;120.177984,50.243192;120.17778,50.243933;120.177662,50.244383;120.177597,50.244625"
+            },
+            {
+              "instruction": "沿鸿雁街向西行驶219米右转",
+              "orientation": "西",
+              "road_name": "鸿雁街",
+              "step_distance": "219",
+              "cost": {
+                "duration": "47",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "120.177479,50.244619;120.175918,50.244453;120.174432,50.244292"
+            },
+            {
+              "instruction": "沿丁香路向北行驶256米到达目的地",
+              "orientation": "北",
+              "road_name": "丁香路",
+              "step_distance": "256",
+              "cost": {
+                "duration": "59",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "120.174432,50.244292;120.174298,50.244796;120.174191,50.245199;120.174126,50.245413;120.173907,50.246245;120.173818,50.246581"
+            }
+          ]
+        },
+        {
+          "distance": "1309",
+          "restriction": "0",
+          "cost": {
+            "duration": "227",
+            "tolls": "0",
+            "toll_distance": "0",
+            "traffic_lights": "2"
+          },
+          "steps": [
+            {
+              "instruction": "沿额尔古纳大街向西行驶606米右转",
+              "orientation": "西",
+              "road_name": "额尔古纳大街",
+              "step_distance": "606",
+              "cost": {
+                "duration": "79",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "2"
+              },
+              "polyline": "120.180304,50.242892;120.1797,50.242822;120.178107,50.24265;120.178026,50.242645;120.174969,50.242296;120.174722,50.24227;120.173853,50.242168;120.172126,50.24198;120.17189,50.241958"
+            },
+            {
+              "instruction": "沿云杉路向北行驶224米右转",
+              "orientation": "北",
+              "road_name": "云杉路",
+              "step_distance": "224",
+              "cost": {
+                "duration": "41",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "120.17189,50.241958;120.171648,50.242838;120.171445,50.243584;120.171343,50.243949"
+            },
+            {
+              "instruction": "沿鸿雁街向东行驶223米左转",
+              "orientation": "东",
+              "road_name": "鸿雁街",
+              "step_distance": "223",
+              "cost": {
+                "duration": "48",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "120.171343,50.243949;120.172211,50.244045;120.172946,50.244126;120.174432,50.244292"
+            },
+            {
+              "instruction": "沿丁香路向北行驶256米到达目的地",
+              "orientation": "北",
+              "road_name": "丁香路",
+              "step_distance": "256",
+              "cost": {
+                "duration": "59",
+                "tolls": "0",
+                "toll_distance": "0",
+                "toll_road": "",
+                "traffic_lights": "0"
+              },
+              "polyline": "120.174432,50.244292;120.174298,50.244796;120.174191,50.245199;120.174126,50.245413;120.173907,50.246245;120.173818,50.246581"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

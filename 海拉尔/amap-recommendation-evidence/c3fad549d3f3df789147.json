@@ -1,0 +1,81 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "郑姨馄饨",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:29+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "2",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "小吃快餐",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;中餐厅;特色/地方风味餐厅",
+        "photos": [],
+        "building": [],
+        "typecode": "050118",
+        "shopinfo": "0",
+        "poiweight": [],
+        "adname": "海拉尔区",
+        "featured_reviews_remake": [],
+        "tel": "17647009505",
+        "id": "B0J2C5A2PQ",
+        "address": "新民路统建5号楼102门市",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": [],
+        "name": "郑姨馄饨",
+        "location": "119.764883,49.215466",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      },
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "特色小吃",
+        "importance": [],
+        "biz_ext": [],
+        "type": "餐饮服务;快餐厅;快餐厅",
+        "photos": [],
+        "building": [],
+        "typecode": "050300",
+        "shopinfo": "0",
+        "poiweight": [],
+        "adname": "根河市",
+        "featured_reviews_remake": [],
+        "tel": "13604705346",
+        "id": "B0GRMC0Y1G",
+        "address": "龙凤市场北侧4号门市",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "diner",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": "砂锅馄饨",
+        "name": "郑姨砂锅馄饨店",
+        "location": "121.532998,50.782019",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

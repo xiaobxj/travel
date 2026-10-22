@@ -1,0 +1,305 @@
+{
+  "queriedAt": "2026-10-03T08:35:04+08:00",
+  "coordinateSystem": "GCJ-02",
+  "strategy": 32,
+  "source": "本轮直接实时请求高德，未使用本地缓存；与历史amap-place-audit.json分开保存。",
+  "places": {
+    "genhe-new-juele": {
+      "status": "verified",
+      "currentRouteEvidence": true,
+      "poi": {
+        "id": "B0KRFHS3OE",
+        "name": "觉乐驯鹿园",
+        "location": "121.451213,50.745168",
+        "address": "332国道",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;风景名胜",
+        "typecode": "110200"
+      },
+      "cityId": "genhe",
+      "matchReason": "人工核对全名、根河市行政区、332国道地址及好里堡附近位置；未找到独立相关停车入口。",
+      "kind": "exact",
+      "queriedAt": "2026-10-03T08:33:31+08:00",
+      "poiEvidenceFiles": [
+        "juele-reindeer-poi-20261003-083308.json"
+      ],
+      "anchorName": "根河",
+      "fromAnchor": {
+        "meters": 15968,
+        "seconds": 1121,
+        "queriedAt": "2026-10-03T08:33:32+08:00",
+        "evidenceFile": "juele-reindeer-driving-20261003-083330.json",
+        "evidenceRouteKey": "genhe_to_juele",
+        "roads": [
+          "未命名路",
+          "双拥街",
+          "迎宾路",
+          "防洪中路",
+          "332国道"
+        ],
+        "origin": "根河市人民政府",
+        "destination": "觉乐驯鹿园",
+        "via": []
+      },
+      "day": 2,
+      "from": "根河",
+      "to": "莫尔道嘎",
+      "mandatoryVia": [
+        "得耳布尔"
+      ],
+      "orderedVia": [
+        "觉乐驯鹿园",
+        "得耳布尔"
+      ],
+      "baseline": {
+        "meters": 123340,
+        "seconds": 7676,
+        "queriedAt": "2026-10-03T08:33:31+08:00",
+        "evidenceFile": "juele-reindeer-driving-20261003-083330.json",
+        "evidenceRouteKey": "baseline_genhe_derbur_moerdaoga",
+        "roads": [
+          "未命名路",
+          "双拥街",
+          "迎宾路",
+          "防洪中路",
+          "332国道",
+          "325县道"
+        ],
+        "origin": "根河市人民政府",
+        "destination": "莫尔道嘎镇人民政府",
+        "via": [
+          "得耳布尔镇人民政府"
+        ]
+      },
+      "withStop": {
+        "meters": 123794,
+        "seconds": 7821,
+        "queriedAt": "2026-10-03T08:33:31+08:00",
+        "evidenceFile": "juele-reindeer-driving-20261003-083330.json",
+        "evidenceRouteKey": "with_juele_genhe_juele_derbur_moerdaoga",
+        "roads": [
+          "未命名路",
+          "双拥街",
+          "迎宾路",
+          "防洪中路",
+          "332国道",
+          "325县道"
+        ],
+        "origin": "根河市人民政府",
+        "destination": "莫尔道嘎镇人民政府",
+        "via": [
+          "觉乐驯鹿园",
+          "得耳布尔镇人民政府"
+        ]
+      },
+      "addedMeters": 454,
+      "addedSeconds": 145,
+      "rawDeltaMeters": 454,
+      "rawDeltaSeconds": 145,
+      "comparisonStatus": "ready",
+      "comparisonKind": "via-insertion",
+      "comparisonNote": "同批次完整路线插点增454米/145秒，不含游玩、停车或步行。"
+    },
+    "deerbur-new-station": {
+      "status": "verified",
+      "currentRouteEvidence": true,
+      "poi": {
+        "id": "B01D601K04",
+        "name": "得耳布尔站",
+        "location": "121.078453,50.993063",
+        "address": "得耳布尔镇",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;火车站;火车站",
+        "typecode": "150200"
+      },
+      "cityId": "deerbur",
+      "matchReason": "人工核对火车站全名、根河市行政区、得耳布尔镇地址与交通设施类型；排除汽车站及同名河流，只作站前外观参考。",
+      "kind": "exact",
+      "queriedAt": "2026-10-03T08:35:02+08:00",
+      "poiEvidenceFiles": [
+        "genhe-moerdaoga-new-stops-poi-20261003-083005.json"
+      ],
+      "anchorName": "得耳布尔",
+      "fromAnchor": {
+        "meters": 1145,
+        "seconds": 162,
+        "queriedAt": "2026-10-03T08:30:39+08:00",
+        "evidenceFile": "genhe-moerdaoga-new-stops-driving-20261003-083036.json",
+        "evidenceRouteKey": "derbur_to_station",
+        "roads": [
+          "未命名路",
+          "325县道"
+        ],
+        "origin": "得耳布尔镇人民政府",
+        "destination": "得耳布尔站",
+        "via": []
+      },
+      "day": 2,
+      "from": "根河",
+      "to": "莫尔道嘎",
+      "mandatoryVia": [
+        "觉乐驯鹿园",
+        "得耳布尔"
+      ],
+      "orderedVia": [
+        "觉乐驯鹿园",
+        "得耳布尔",
+        "得耳布尔站"
+      ],
+      "baseline": {
+        "meters": 123794,
+        "seconds": 7805,
+        "queriedAt": "2026-10-03T08:35:02+08:00",
+        "evidenceFile": "genhe-juele-station-longshan-final-driving-20261003-083501.json",
+        "evidenceRouteKey": "A_genhe_juele_derbur_moerdaoga",
+        "roads": [
+          "未命名路",
+          "双拥街",
+          "迎宾路",
+          "防洪中路",
+          "332国道",
+          "325县道"
+        ],
+        "origin": "根河市人民政府",
+        "destination": "莫尔道嘎镇人民政府",
+        "via": [
+          "觉乐驯鹿园",
+          "得耳布尔镇人民政府"
+        ]
+      },
+      "withStop": {
+        "meters": 126710,
+        "seconds": 8374,
+        "queriedAt": "2026-10-03T08:35:02+08:00",
+        "evidenceFile": "genhe-juele-station-longshan-final-driving-20261003-083501.json",
+        "evidenceRouteKey": "B_genhe_juele_derbur_station_moerdaoga",
+        "roads": [
+          "未命名路",
+          "双拥街",
+          "迎宾路",
+          "防洪中路",
+          "332国道",
+          "325县道"
+        ],
+        "origin": "根河市人民政府",
+        "destination": "莫尔道嘎镇人民政府",
+        "via": [
+          "觉乐驯鹿园",
+          "得耳布尔镇人民政府",
+          "得耳布尔站"
+        ]
+      },
+      "addedMeters": 2916,
+      "addedSeconds": 569,
+      "rawDeltaMeters": 2916,
+      "rawDeltaSeconds": 569,
+      "comparisonStatus": "ready",
+      "comparisonKind": "via-insertion",
+      "comparisonNote": "08:35同批次完整A/B路线差值：增2916米/569秒；站前外观停留10至15分钟另计。"
+    },
+    "mordaga-new-longshan": {
+      "status": "verified",
+      "currentRouteEvidence": true,
+      "poi": {
+        "id": "B0FFG8YHW4",
+        "name": "龙山公园",
+        "location": "120.783028,51.262486",
+        "address": "美庐旅店向北150米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;公园广场;公园",
+        "typecode": "110101"
+      },
+      "cityId": "mordaga",
+      "matchReason": "本轮实时检索名称、额尔古纳市行政区、地址美庐旅店向北150米及位置与既有核点一致；入口检索未返回独立入口。",
+      "kind": "exact",
+      "queriedAt": "2026-10-03T08:35:03+08:00",
+      "poiEvidenceFiles": [
+        "genhe-moerdaoga-new-stops-poi-20261003-083005.json"
+      ],
+      "anchorName": "莫尔道嘎",
+      "fromAnchor": {
+        "meters": 1273,
+        "seconds": 197,
+        "queriedAt": "2026-10-03T08:35:04+08:00",
+        "evidenceFile": "genhe-juele-station-longshan-final-driving-20261003-083501.json",
+        "evidenceRouteKey": "moerdaoga_to_longshan",
+        "roads": [
+          "未命名路",
+          "325县道"
+        ],
+        "origin": "莫尔道嘎镇人民政府",
+        "destination": "龙山公园",
+        "via": []
+      },
+      "day": 2,
+      "from": "根河",
+      "to": "龙山公园",
+      "mandatoryVia": [
+        "觉乐驯鹿园",
+        "得耳布尔",
+        "得耳布尔站"
+      ],
+      "orderedVia": [
+        "觉乐驯鹿园",
+        "得耳布尔",
+        "得耳布尔站",
+        "莫尔道嘎"
+      ],
+      "baseline": {
+        "meters": 126710,
+        "seconds": 8374,
+        "queriedAt": "2026-10-03T08:35:02+08:00",
+        "evidenceFile": "genhe-juele-station-longshan-final-driving-20261003-083501.json",
+        "evidenceRouteKey": "B_genhe_juele_derbur_station_moerdaoga",
+        "roads": [
+          "未命名路",
+          "双拥街",
+          "迎宾路",
+          "防洪中路",
+          "332国道",
+          "325县道"
+        ],
+        "origin": "根河市人民政府",
+        "destination": "莫尔道嘎镇人民政府",
+        "via": [
+          "觉乐驯鹿园",
+          "得耳布尔镇人民政府",
+          "得耳布尔站"
+        ]
+      },
+      "withStop": {
+        "meters": 128694,
+        "seconds": 8613,
+        "queriedAt": "2026-10-03T08:35:03+08:00",
+        "evidenceFile": "genhe-juele-station-longshan-final-driving-20261003-083501.json",
+        "evidenceRouteKey": "C_genhe_juele_derbur_station_moerdaoga_longshan",
+        "roads": [
+          "未命名路",
+          "双拥街",
+          "迎宾路",
+          "防洪中路",
+          "332国道",
+          "325县道"
+        ],
+        "origin": "根河市人民政府",
+        "destination": "龙山公园",
+        "via": [
+          "觉乐驯鹿园",
+          "得耳布尔镇人民政府",
+          "得耳布尔站",
+          "莫尔道嘎镇人民政府"
+        ]
+      },
+      "addedMeters": 1984,
+      "addedSeconds": 239,
+      "rawDeltaMeters": 1984,
+      "rawDeltaSeconds": 239,
+      "comparisonStatus": "ready",
+      "comparisonKind": "endpoint-extension",
+      "comparisonNote": "B到C为延伸终点到龙山公园的整条路线比较：增1984米/239秒；莫尔道嘎镇参考点到公园独立导航1273米/197秒，二者定义不同。整体公园POI不代表已核实步行入口，登山时间另计。"
+    }
+  }
+}

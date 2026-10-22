@@ -1,0 +1,52 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "守望桥",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:31+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "1",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "桥",
+        "importance": [],
+        "biz_ext": [],
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "photos": [],
+        "building": [],
+        "typecode": "110000",
+        "shopinfo": "2",
+        "poiweight": [],
+        "adname": "根河市",
+        "featured_reviews_remake": [],
+        "tel": [],
+        "id": "B0K2OO88X3",
+        "address": "迎宾路与防洪中路交叉口西南280米",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "tour",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": [],
+        "name": "守望桥",
+        "location": "121.523590,50.771980",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

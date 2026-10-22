@@ -1,0 +1,99 @@
+"""Fixed-name POI candidates from the read travel notes; selection is separate."""
+import json
+from pathlib import Path
+entries=[]
+def city(cityid,lines):
+    for row in lines.strip().splitlines():
+        slug,query=row.split('|',1)
+        entries.append({'id':cityid+'-'+slug,'cityId':cityid,'queries':query.split(';')})
+city('hailaer','''lublu|卢布里西餐厅
+shaomai|源玺源
+laoyang|老杨扒拉锅
+zhao|赵师傅原味烤肉
+bread|蒙源俄式面包
+nogoon|诺古恩
+gogo|植GoGo
+shenzaki|神崎咖啡
+nomintala|诺敏塔拉
+cliff|哈克崖山;扎罗木得断崖
+museum|呼伦贝尔历史博物馆
+new-yexue|野雪
+new-yuanfang|远方来信
+new-petersburg|彼得堡餐厅
+new-menggen|孟根楚鲁''')
+city('morigle','''new-qushui|曲水云天
+new-tuga|图嘎营地
+new-mabeishan|马背山''')
+city('eerguna','''shuncheng|顺成红焖羊肉
+xing le|兴乐烧麦
+kerulen|克尔伦
+mengguyuan|蒙古缘蒙餐
+deli|德利烧烤
+tieshan|铁山冷饮
+xiaoguo|小郭烧烤
+hedian|喝点咖啡
+new-fuji|福记列巴
+new-mingyuan|铭源特色餐厅
+new-baohualin|额尔古纳白桦林''')
+city('genhe','''kaimenhong|开门红早餐
+shourong|守荣小吃
+yijiaren|壹家人铁锅炖
+chuantianjiao|川天椒麻辣烫
+zhengyi|郑姨馄饨
+shengxianghe|盛祥和
+market|龙凤大厦
+new-shouwang|守望桥
+new-kefir|开菲尔酸奶
+new-linzhongxian|林中鲜烧烤
+new-xindingyuan|鑫鼎园铜锅''')
+city('aoluguya','''new-museum|敖鲁古雅鄂温克族驯鹿文化博物馆
+reindeer|敖鲁古雅使鹿部落''')
+city('deerbur','''deer|兴安神鹿园
+guangyuan|得耳布尔广源饭店;广源饭店
+memorial|卡鲁奔
+new-shanshan|得耳布尔姗姗馅饼;姗姗馅饼
+new-cold|得耳布尔冷极碑''')
+city('mordaga','''hongjie|红姐砂锅
+hongzeyuan|鸿泽源
+forest|莫尔道嘎国家森林公园
+new-longshan|莫尔道嘎龙山公园
+new-bawang|莫尔道嘎铁锅炖
+new-jiemei|姐妹酒家
+new-hulaoda|胡老大铁锅炖
+new-yajuan|雅娟家常菜
+new-jihe|几何精品咖啡''')
+city('bailudao','''view|白鹿岛观景台;白鹿岛
+new-linxi|林曦农家菜;太平村
+restaurant|白鹿岛酒店中餐厅''')
+city('linjiang','''shilu|驶路部落
+new-northhill|临江北山坡;临江晨雾观景台
+new-shenxian|临江神仙坡;界河观景点''')
+city('shiwei','''tara|塔拉牧场
+two lambs|两只小绵羊
+mengwu|蒙兀奶茶
+taliya|塔莉娅
+new-lvyou|驴友小酒馆
+new-mumin|牧民的日常
+new-aoluoqi|奥洛契庄园
+new-yogurt|室韦河畔牧场酸奶屋''')
+city('jiuka','''view|九卡落日最佳拍摄点''')
+city('qika','''lanni|兰妮农家院;兰妮
+danjie|丹姐农家院
+laowu|七卡老伍;老伍农家乐
+wulan|乌兰山
+new-shubian|七卡戍边食府
+new-caoyuan|七卡草原美食''')
+city('heishantou','''yipinxiang|黑山头一品香
+risheng|日晟烤吧
+lamb ranch|小绵羊牧场餐厅
+gushan|黑山头孤山;孤山
+sunset|黑山头日落
+bonfire|牧马人篝火
+new-youmu|游牧之行庄园
+new-mazhi|黑山头马之舞
+new-laogao|老高马场
+new-yunxi|云汐小馆
+new-ziyu|子昱饭店
+new-mengniu|蒙妞图娅''')
+Path(__file__).with_name('amap-place-plan.json').write_text(json.dumps(entries,ensure_ascii=False,indent=2),encoding='utf-8')
+print(len(entries),'place searches planned')

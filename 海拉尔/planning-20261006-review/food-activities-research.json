@@ -1,0 +1,438 @@
+{
+  "researchedAt": "2026-10-04T20:12:49.803629+08:00",
+  "targetDate": "2026-10-06",
+  "scope": "七卡早餐、乌兰山、黑山头午餐与骑马、额尔古纳晚餐；只供确认前研究。",
+  "userPreference": "风景为主、乌兰山优先；骑马仅作备选，不继续扩查，不与完整乌兰山游玩强行叠加。",
+  "productModified": false,
+  "drivingPolicy": "本研究不新增或引用任何平台/笔记驾驶时间；交由当轮高德路线查验。",
+  "breakfast": {
+    "recommendedPlan": "先向七卡住宿方确认早餐供应与最早开餐；未确认前保留提前购置列巴、水等补给。",
+    "mealBudgetMinutesEstimate": [
+      30,
+      45
+    ],
+    "namedCandidate": {
+      "id": "qika-lanni",
+      "name": "兰妮农家院 · 农家菜",
+      "summary": "2025 年笔记有具体农家菜实吃好评，可作为七卡晚餐候选，尚无本轮新增实吃。",
+      "experience": "现包饺子、当季蔬菜，实际供应先问店家。",
+      "caution": "推荐依据为 2025 年历史体验，不证明 2026 年 10 月 5 日接待、营业或菜单。是否需提前订餐需向店家确认。",
+      "priority": "仅询问是否供早餐；不可直接当作已验证早餐店",
+      "mealBudgetMinutesEstimate": [
+        30,
+        45
+      ],
+      "budgetBasis": "本次安排估时，非原帖实测或餐厅出菜保证。",
+      "openingOn20261006": "未电话或店家官方确认",
+      "amapPoiHistorical": {
+        "id": "B0JUVD9NJ0",
+        "name": "兰妮农家院",
+        "location": "119.535796,50.743351",
+        "address": "恩和七卡",
+        "adname": "额尔古纳市",
+        "type": "体育休闲服务;休闲场所;休闲场所"
+      },
+      "sources": [
+        {
+          "id": "68df890700000000050106d0",
+          "title": "种草七卡一家农家院，这里是兰妮农家院呀～",
+          "author": "Zzzjx丶",
+          "publishedAt": "2025-10-03T16:27:51+08:00",
+          "url": "https://www.xiaohongshu.com/explore/68df890700000000050106d0?xsec_token=ABcDugUavjvwAnX9cjjO7kjF5xxC7qT4muNd8dNwpfG0w=&xsec_source=pc_feed",
+          "evidenceFile": "city-research/68df890700000000050106d0.json"
+        }
+      ],
+      "fullLocalEvidence": "existing-food-evidence.json#qika-lanni"
+    },
+    "evidenceLimit": "兰妮唯一实吃帖是2025-10-03的农家菜、现包饺子与蔬菜，没有早餐或晨间营业证据。戍边食府、草原美食餐厅只是历史高德落点，不能补造早餐菜单。"
+  },
+  "lunch": [
+    {
+      "id": "heishantou-yipinxiang",
+      "name": "一品香家常菜馆",
+      "summary": "两篇不同作者的实吃记录支持，排骨焖面与东北家常菜都有具体好评。",
+      "experience": "排骨焖面、东北大丰收，按人数点菜。",
+      "caution": "作者建议提前联系，减少等菜。",
+      "priority": "第一候选：排骨焖面/东北大丰收，两位2026作者明确支持",
+      "mealBudgetMinutesEstimate": [
+        45,
+        60
+      ],
+      "budgetBasis": "本次安排估时，非原帖实测或餐厅出菜保证。",
+      "openingOn20261006": "未电话或店家官方确认",
+      "amapPoiHistorical": {
+        "id": "B0FFI1N1ZR",
+        "name": "一品香家常菜馆",
+        "location": "119.574453,50.215050",
+        "address": "蜜雪冰城(黑山头店)西侧70米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100"
+      },
+      "sources": [
+        {
+          "id": "6a8b158a0000000028002fd1",
+          "title": "大兴安岭赏秋记得带两个胃",
+          "author": "大漠鸡蛋🥚",
+          "publishedAt": "2026-08-23T23:45:14+08:00",
+          "url": "https://www.xiaohongshu.com/explore/6a8b158a0000000028002fd1?xsec_token=ABsFagK9Jroeji9I_5ygtID4bs2Rsxf4oTmQqqmwoP0wI=&xsec_source=pc_feed",
+          "evidenceFile": "city-research/6a8b158a0000000028002fd1.json"
+        },
+        {
+          "id": "6a810e8200000000050310be",
+          "title": "游戏人间指南丨呼伦贝尔食宿测评",
+          "author": "打铁匠61",
+          "publishedAt": "2026-08-16T09:12:34+08:00",
+          "url": "https://www.xiaohongshu.com/explore/6a810e8200000000050310be?xsec_token=ABJYAX6At0i5JJUBn4L0A2alM0bctWNlpUW9ED0KN0LnA=&xsec_source=pc_search&source=web_explore_feed",
+          "evidenceFile": "city-research/6a810e8200000000050310be.json"
+        }
+      ],
+      "fullLocalEvidence": "existing-food-evidence.json#heishantou-yipinxiang"
+    },
+    {
+      "id": "heishantou-new-yunxi",
+      "name": "云汐小馆",
+      "summary": "一篇跨城实吃游记认可菜品和份量，高德核到镇内明确商铺。",
+      "experience": "按当天菜单点家常热菜；正文未写具体菜名，不虚构招牌。",
+      "caution": "单篇支持，份量较大，先问出菜速度。",
+      "priority": "第二候选：家常菜配锅茶，单篇2026-09-15实吃支持",
+      "mealBudgetMinutesEstimate": [
+        45,
+        60
+      ],
+      "budgetBasis": "本次安排估时，非原帖实测或餐厅出菜保证。",
+      "openingOn20261006": "未电话或店家官方确认",
+      "amapPoiHistorical": {
+        "id": "B0KU9CINYC",
+        "name": "云汐小馆",
+        "location": "119.570785,50.214162",
+        "address": "中国石油黑山头加油站西侧60米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100"
+      },
+      "sources": [
+        {
+          "id": "6aa96a1a00000000110357c9",
+          "title": "大兴安岭纯路人吃喝小结",
+          "author": "今天吃什么啊",
+          "publishedAt": "2026-09-15T23:54:02+08:00",
+          "url": "https://www.xiaohongshu.com/explore/6aa96a1a00000000110357c9?xsec_token=ABQWxwHcLbQWPOFrak9oiVCwuwBiBQ0tmJnacMq-Ku3c0=&xsec_source=pc_search&source=web_explore_feed",
+          "evidenceFile": "city-research/6aa96a1a00000000110357c9.json"
+        }
+      ],
+      "fullLocalEvidence": "existing-food-evidence.json#heishantou-new-yunxi"
+    }
+  ],
+  "dinner": [
+    {
+      "id": "eerguna-shuncheng",
+      "name": "顺成红焖羊肉",
+      "summary": "新增实吃反馈继续支持羊肉菜品，但高德插点后改选路线，驾驶增量暂不参与少绕路排名。",
+      "experience": "红焖羊肉；新帖也提到清汤涮羊肉，按实际菜单选择。",
+      "caution": "现点现焖需等待，赶路前问清出菜时间。",
+      "priority": "第一候选：顺成盛大家园店红焖羊肉，现做需要等候",
+      "mealBudgetMinutesEstimate": [
+        60,
+        90
+      ],
+      "budgetBasis": "本次安排估时，非原帖实测或餐厅出菜保证。",
+      "openingOn20261006": "未电话或店家官方确认",
+      "amapPoiHistorical": {
+        "id": "B0FFGP0R0B",
+        "name": "顺成红焖羊肉火锅店(盛大家园店)",
+        "location": "120.184487,50.235606",
+        "address": "拉布达林街道基督教堂对面",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;快餐厅;快餐厅",
+        "typecode": "050300"
+      },
+      "sources": [
+        {
+          "id": "6a673b11000000000101c331",
+          "title": "呼伦贝尔环线美食测评合集😋保姆级跟吃路线",
+          "author": "Zinnia在路上",
+          "publishedAt": "2026-07-27T19:03:45+08:00",
+          "url": "https://www.xiaohongshu.com/explore/6a673b11000000000101c331?xsec_token=AB5zSz3KIpB61C8ddK1JtCJaNBxrgHr2IMxKy9i2ZLpEs=&xsec_source=pc_feed",
+          "evidenceFile": "city-research/6a673b11000000000101c331.json"
+        },
+        {
+          "id": "6a414d20000000001101e77c",
+          "title": "额尔古纳 午饭+晚饭",
+          "author": "屿珘（哈尔滨版）",
+          "publishedAt": "2026-06-29T00:34:40+08:00",
+          "url": "https://www.xiaohongshu.com/explore/6a414d20000000001101e77c?xsec_token=AB-kdopTnK4k82XpaEeHDyiQKEb1_Gr4dagpcK3ohwHxc=&xsec_source=pc_feed",
+          "evidenceFile": "city-research/6a414d20000000001101e77c.json"
+        },
+        {
+          "id": "68cf980d000000001202ebe0",
+          "title": "我的呼伦贝尔北环线旅行美食红黑榜",
+          "author": "不可再生废物",
+          "publishedAt": "2025-09-21T14:15:41+08:00",
+          "url": "https://www.xiaohongshu.com/explore/68cf980d000000001202ebe0?xsec_token=AB0NKQYjBORwyt-xWU6CnY9xj2t4jgKmtVE3VoRAgaf38=&xsec_source=pc_search&source=web_explore_feed",
+          "evidenceFile": "city-research/68cf980d000000001202ebe0.json"
+        },
+        {
+          "id": "6aa96a1a00000000110357c9",
+          "title": "大兴安岭纯路人吃喝小结",
+          "author": "今天吃什么啊",
+          "publishedAt": "2026-09-15T23:54:02+08:00",
+          "url": "https://www.xiaohongshu.com/explore/6aa96a1a00000000110357c9?xsec_token=ABQWxwHcLbQWPOFrak9oiVCwuwBiBQ0tmJnacMq-Ku3c0=&xsec_source=pc_search&source=web_explore_feed",
+          "evidenceFile": "city-research/6aa96a1a00000000110357c9.json"
+        }
+      ],
+      "fullLocalEvidence": "existing-food-evidence.json#eerguna-shuncheng"
+    },
+    {
+      "id": "eerguna-new-mingyuan",
+      "name": "铭源特色餐厅",
+      "summary": "有详细实吃反馈的手把肉备选，适合喜欢清水煮羊肉的人。",
+      "experience": "手把肉，原帖具体点了羊排。",
+      "caution": "肥瘦、嚼劲因部位与个人口味而异，点菜前说明偏好。",
+      "priority": "第二候选：喜欢清水手把羊排时选铭源；肥瘦、嚼劲存在个人口味差异",
+      "mealBudgetMinutesEstimate": [
+        60,
+        90
+      ],
+      "budgetBasis": "本次安排估时，非原帖实测或餐厅出菜保证。",
+      "openingOn20261006": "未电话或店家官方确认",
+      "amapPoiHistorical": {
+        "id": "B0FFG7D3VM",
+        "name": "铭源特色餐厅",
+        "location": "120.180888,50.231010",
+        "address": "哈撒尔路214号附近",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;东北菜",
+        "typecode": "050113"
+      },
+      "sources": [
+        {
+          "id": "6a414d20000000001101e77c",
+          "title": "额尔古纳 午饭+晚饭",
+          "author": "屿珘（哈尔滨版）",
+          "publishedAt": "2026-06-29T00:34:40+08:00",
+          "url": "https://www.xiaohongshu.com/explore/6a414d20000000001101e77c?xsec_token=AB-kdopTnK4k82XpaEeHDyiQKEb1_Gr4dagpcK3ohwHxc=&xsec_source=pc_feed",
+          "evidenceFile": "city-research/6a414d20000000001101e77c.json"
+        }
+      ],
+      "fullLocalEvidence": "existing-food-evidence.json#eerguna-new-mingyuan"
+    }
+  ],
+  "horseCandidates": [
+    {
+      "name": "黑山头哈撒尔马场",
+      "priority": "可优先询问具体短线套餐",
+      "historicalAmapPoi": null,
+      "phone": "13722002270",
+      "webSources": [
+        "hasar-season",
+        "hasar-duration"
+      ],
+      "timeBudgetMinutesEstimate": [
+        90,
+        120
+      ],
+      "timeBasis": "参考平台场所1–3小时，按准备＋短程骑行安排90–120分钟；不是已确认套餐时长。",
+      "limitations": "未核新高德POI、当天开行、价格或接待名额；不能把平台评分当安全或服务保证。"
+    },
+    {
+      "name": "老高马场（额尔古纳市黑山头店）",
+      "priority": "沿用既有高德落点的备选询价",
+      "historicalAmapPoi": {
+        "id": "B0HULZ3FCR",
+        "name": "老高马场(额尔古纳市黑山头店)",
+        "location": "119.483576,50.209402",
+        "address": "老镇近马场活动区",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;运动场馆;赛马场",
+        "typecode": "080116"
+      },
+      "webSources": [
+        "laogao-season"
+      ],
+      "timeBudgetMinutesEstimate": [
+        90,
+        120
+      ],
+      "timeBasis": "仅本次骑马活动预算，需确认具体线路长度、准备时间和体验者适合程度。",
+      "limitations": "现有小红书无可明确归属该店的实骑好评，泛黑山头体验不得套用。"
+    }
+  ],
+  "horseGeneralXhsSources": [
+    {
+      "id": "6a81ab6900000000250029f3",
+      "title": "七卡➡️黑山头｜卡线下篇✅自驾收尾精华",
+      "author": "律途看风景",
+      "publishedAt": "2026-08-16T20:22:01+08:00",
+      "url": "https://www.xiaohongshu.com/explore/6a81ab6900000000250029f3?xsec_token=ABJYAX6At0i5JJUBn4L0A2anR3m8WWAmtRz8-_6GvvEeI=&xsec_source=pc_feed",
+      "evidenceFile": "city-research/6a81ab6900000000250029f3.json",
+      "visitPeriod": "2026年发布的七卡至黑山头实走记录，未给固定马场名",
+      "limit": "未具名马场，不记为老高或哈撒尔的推荐票。"
+    },
+    {
+      "id": "6a9a977d000000002902c6bd",
+      "title": "黑山头的日落",
+      "author": "郭婉瓢盆",
+      "publishedAt": "2026-09-04T18:03:42+08:00",
+      "url": "https://www.xiaohongshu.com/explore/6a9a977d000000002902c6bd?xsec_token=ABPVcvtbLuvNagz1eHa-sf0F2Tc9lrVroYWW0v-RKArMw=&xsec_source=pc_feed",
+      "evidenceFile": "city-research/6a9a977d000000002902c6bd.json",
+      "visitPeriod": "2025年国庆（正文明确去年国庆）",
+      "limit": "未具名马场，不记为老高或哈撒尔的推荐票。"
+    }
+  ],
+  "wulan": {
+    "name": "额尔古纳河·乌兰山景区",
+    "amapPoiHistorical": {
+      "id": "B0H2B7KSB8",
+      "name": "额尔古纳河乌兰山景区游客中心",
+      "location": "119.358468,50.615464",
+      "address": "黑山头镇X904额尔古纳河乌兰山景区内(西侧)",
+      "adname": "额尔古纳市",
+      "cityname": "呼伦贝尔市",
+      "type": "生活服务;信息咨询中心;服务中心",
+      "typecode": "070201"
+    },
+    "recommendedExperience": "以上山看界河太极湾为主，滑草作为有余量且当天开放时的附加项目。",
+    "viewOnlyBudgetMinutesEstimate": [
+      75,
+      90
+    ],
+    "viewAndOneRideBudgetMinutesEstimate": [
+      90,
+      120
+    ],
+    "timeEvidence": "2024年实走游记写1–2小时；旅行社自身产品安排60分钟。这里给出的75–90及90–120分钟是本次规划估时，排队长需增加或取消项目。",
+    "webSources": [
+      "wulan-season",
+      "wulan-duration-2024",
+      "wulan-duration-package"
+    ],
+    "xhsSources": [
+      {
+        "id": "6a81ab6900000000250029f3",
+        "title": "七卡➡️黑山头｜卡线下篇✅自驾收尾精华",
+        "author": "律途看风景",
+        "publishedAt": "2026-08-16T20:22:01+08:00",
+        "url": "https://www.xiaohongshu.com/explore/6a81ab6900000000250029f3?xsec_token=ABJYAX6At0i5JJUBn4L0A2anR3m8WWAmtRz8-_6GvvEeI=&xsec_source=pc_feed",
+        "evidenceFile": "city-research/6a81ab6900000000250029f3.json"
+      },
+      {
+        "id": "68d00669000000001101fbcb",
+        "title": "🍁大兴安岭追秋日记｜（悠闲版）",
+        "author": "怪怪静",
+        "publishedAt": "2025-09-21T22:06:33+08:00",
+        "url": "https://www.xiaohongshu.com/explore/68d00669000000001101fbcb?xsec_token=ABYo79pIh5-ZvsyJADE4Y437BjmaRZnQpqMLTFu_cs5zk=&xsec_source=pc_feed",
+        "evidenceFile": "city-research/68d00669000000001101fbcb.json"
+      },
+      {
+        "id": "6890bf6500000000030268f4",
+        "title": "满意得睡不着！呼伦贝尔自驾攻略（半松弛版）",
+        "author": "宝刀酱🌟",
+        "publishedAt": "2025-08-04T22:10:45+08:00",
+        "url": "https://www.xiaohongshu.com/explore/6890bf6500000000030268f4?xsec_token=AByAx-2nvuroolNf3_9JW0uaGrUiyTGC9ZYv-eMAeNNCo=&xsec_source=pc_feed",
+        "evidenceFile": "city-research/6890bf6500000000030268f4.json"
+      }
+    ],
+    "currentOpeningStatus": "仅第三方季节登记覆盖10月，未找到10月6日景区/项目逐项官方营业确认；咨询0470-2385880。",
+    "seasonalEvidenceLimit": "滑草正面小红书来源68d00669为2025年；2026年8月七卡线实走支持观景，但不能外推10月6日项目开放。"
+  },
+  "borderRoad": {
+    "status": "未找到2026-10-06 X904七卡→乌兰山→黑山头当日官方通行公告。",
+    "recentVisitSources": [
+      {
+        "id": "6abf6a99000000001301b90a",
+        "title": "10.2从室韦出发的卡线😍",
+        "url": "https://www.xiaohongshu.com/explore/6abf6a99000000001301b90a?xsec_token=ABN8gVlRGLyHYuXGtjbVp_Px-eam0aTFc-f4zkNdtd8E8=&xsec_source=pc_search&source=web_explore_feed",
+        "localEvidence": "../planning-20261004/xiaohongshu/6abf6a99000000001301b90a.json",
+        "visitDate": "2026-10-02",
+        "finding": "一篇喜欢开阔视野，另一篇认为叶落萧瑟；不承诺完整金秋景色。",
+        "limit": "只能支持10月2日个人经历，不构成10月6日全线放行或全天路况证明。"
+      },
+      {
+        "id": "6abf3bdc0000000012037481",
+        "title": "10.2 没走卡线的都别走了，拉完了",
+        "url": "https://www.xiaohongshu.com/explore/6abf3bdc0000000012037481?xsec_token=ABN8gVlRGLyHYuXGtjbVp_P3yTZyOO8F9AIqSagD1RMZk=&xsec_source=pc_search&source=web_explore_feed",
+        "localEvidence": "../planning-20261004/xiaohongshu/6abf3bdc0000000012037481.json",
+        "visitDate": "2026-10-02",
+        "finding": "一篇喜欢开阔视野，另一篇认为叶落萧瑟；不承诺完整金秋景色。",
+        "limit": "只能支持10月2日个人经历，不构成10月6日全线放行或全天路况证明。"
+      }
+    ],
+    "excludedHistoricalOfficialSource": "historical-road-official",
+    "decision": "高德可规划与笔记近期走过都不等于当天放行；以现场交通管理为准。"
+  },
+  "webSources": {
+    "wulan-season": {
+      "title": "携程：额尔古纳河·乌兰山景区",
+      "url": "https://you.ctrip.com/sight/ergun2026/5711188.html",
+      "kind": "第三方景点登记与旅客点评",
+      "finding": "页面列出5月1日至10月31日08:00–17:30，票务咨询0470-2385880。可观景，列有滑草、滑索和秋千。",
+      "limits": "实时开园字样来自平台，不等于10月6日项目逐项营业确认；附近推荐模块混有异地结果，不用于距离或导航。"
+    },
+    "wulan-duration-2024": {
+      "title": "青岛出发，呼伦贝尔自驾游攻略",
+      "url": "https://you.ctrip.com/travels/hulunbeier458/4144805.html",
+      "kind": "历史游客游记",
+      "publishedAt": "2024-08-26",
+      "visitDate": "2024-08-13",
+      "finding": "D6乌兰山条目写游览时长1–2小时，内容包括高处看河景及滑草、秋千。",
+      "limits": "这是2024年夏季行程记录，只作时长尺度；其中旧车程与价格不用于本次规划。"
+    },
+    "wulan-duration-package": {
+      "title": "长春康辉：额尔古纳、室韦、乌兰山、呼伦湖精品小包团",
+      "url": "https://www.kanghuilv.com/line/show.asp?id=133",
+      "kind": "旅行社自身产品行程",
+      "publishedAt": null,
+      "finding": "自身产品给乌兰山安排60分钟游览，电瓶车另计。",
+      "limits": "搜索索引可读、打开时超时；是团行程配额，非保证所有游客或项目能在60分钟完成。"
+    },
+    "hasar-season": {
+      "title": "携程：黑山头哈撒尔马场",
+      "url": "https://you.ctrip.com/sight/ergun2026/5712964.html",
+      "kind": "第三方景点登记",
+      "finding": "地址为黑山头新镇301省道路旁；7月1日至10月31日登记07:30–20:30；咨询13722002270。",
+      "limits": "属于季节营业线索，10月6日可骑路线、接待名额和营业须联系马场确认。"
+    },
+    "hasar-duration": {
+      "title": "Trip.com：Heishantou Hasar Horse Riding Field",
+      "url": "https://sg.trip.com/travel-guide/attraction/ergun/heishantou-hasar-horse-riding-field-98706683?curr=KWD&locale=en-SG",
+      "kind": "第三方游览时长建议",
+      "finding": "建议游览时间1–3小时。",
+      "limits": "是场所范围的游览参考，不代表已选骑马套餐的骑乘时长。"
+    },
+    "laogao-season": {
+      "title": "携程：老高马场（额尔古纳市黑山头店）",
+      "url": "https://gs.ctrip.com/html5/you/sight/ergun2026/4003138.html",
+      "kind": "第三方景点登记",
+      "finding": "页面登记07:30–19:30，地址301省道梁西村蒙园客栈南50米。",
+      "limits": "样本仅4条点评，现有小红书没有可归属本店的独立实骑证据；不能套用泛黑山头骑马好评。"
+    },
+    "official-grassland": {
+      "title": "额尔古纳市文化旅游体育局：草原在这里景区",
+      "url": "https://eegn.gov.cn/News/show/1367982.html",
+      "kind": "政府官方景区介绍",
+      "publishedAt": "2026-04-29",
+      "finding": "官方页面介绍黑山头镇东2公里处的草原在这里景区，含观光、餐饮与休闲功能。",
+      "limits": "可支持该景区存在与位置；没有10月开放时段、马场具体套餐或乌兰山当日开行结论。直接打开失败，搜索索引可读。"
+    },
+    "historical-road-official": {
+      "title": "呼伦贝尔市交通运输局：国省干线公路出行信息",
+      "url": "https://jtj.hlbe.gov.cn/News/show/1379193.html",
+      "kind": "2025年官方历史路况",
+      "publishedAt": "2025-09-25",
+      "asOf": "2025-09-24",
+      "finding": "列有当时G331黑山头至扎赉诺尔部分养护封闭。",
+      "limits": "不是2026年10月路况，也不是本次七卡至黑山头X904全线公告；不据此宣称本次卡线关闭。"
+    }
+  },
+  "discardedClaims": [
+    "新浪自媒体FAQ存在缆车价格、形式、运营季相互矛盾，未当作官方开行、票价或运行时长依据。",
+    "未采用马场企业排行榜的安全、马匹温顺、最佳路线等宣传保证。",
+    "没有根据小红书农家菜好评推断早餐服务，没有把2026年发布但描述去年国庆的骑马帖当成本年国庆经历。"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "孤山",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:49+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "0",
+    "infocode": "10000",
+    "pois": [],
+    "status": "1",
+    "info": "OK"
+  }
+}

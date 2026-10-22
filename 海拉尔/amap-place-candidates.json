@@ -1,0 +1,5457 @@
+{
+  "hailaer-lublu": {
+    "cityId": "hailaer",
+    "queries": [
+      "卢布里西餐厅"
+    ],
+    "pois": [
+      {
+        "id": "B0FFGC4212",
+        "name": "卢布里西餐厅(海拉尔店)",
+        "location": "119.760494,49.213020",
+        "address": "胜利大街2号(市宾馆院内)",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;外国餐厅;西餐厅(综合风味)",
+        "typecode": "050201",
+        "anchorMeters": 2223
+      },
+      {
+        "id": "B0FFF69977",
+        "name": "卢布里西餐厅(满洲里店)",
+        "location": "117.448797,49.591855",
+        "address": "三道街北方边境贸易公司综合楼办公室1层、2层、3层4层409-426",
+        "adname": "满洲里市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;外国餐厅;西餐厅(综合风味)",
+        "typecode": "050201",
+        "anchorMeters": 170835
+      },
+      {
+        "id": "B0FFHPA5RL",
+        "name": "卢布里俄式列巴",
+        "location": "122.743279,48.012883",
+        "address": "布特哈北路与民族东街交叉口西北220米",
+        "adname": "扎兰屯市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;糕饼店;糕饼店",
+        "typecode": "050800",
+        "anchorMeters": 258659
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\5aeecb9a964b146777ed.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:16+08:00"
+  },
+  "hailaer-shaomai": {
+    "cityId": "hailaer",
+    "queries": [
+      "源玺源"
+    ],
+    "pois": [
+      {
+        "id": "B0FFIQSRS4",
+        "name": "源玺源烧麦馆(满洲里中路店)",
+        "location": "119.763769,49.204013",
+        "address": "满洲里路种子公司6号",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 3210
+      },
+      {
+        "id": "B0G10XI7KA",
+        "name": "源玺源烧麦馆(陈巴尔虎旗巴音佳园小区店)",
+        "location": "119.438727,49.331188",
+        "address": "巴音佳园小区",
+        "adname": "陈巴尔虎旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 24833
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\c4e5f6b27723fb2069d9.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:16+08:00"
+  },
+  "hailaer-laoyang": {
+    "cityId": "hailaer",
+    "queries": [
+      "老杨扒拉锅"
+    ],
+    "pois": [
+      {
+        "id": "B0K65RH9CV",
+        "name": "老杨扒拉锅牛肉锅",
+        "location": "119.774905,49.199734",
+        "address": "奋斗镇奋斗综合楼1-16号",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 4033
+      },
+      {
+        "id": "B0LAOBJPXF",
+        "name": "老杨扒拉锅(西旗店)",
+        "location": "116.826164,48.670839",
+        "address": "白音乌拉路17-40",
+        "adname": "新巴尔虎右旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "typecode": "050000",
+        "anchorMeters": 221911
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\a5c1d3a09f8153838399.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:16+08:00"
+  },
+  "hailaer-zhao": {
+    "cityId": "hailaer",
+    "queries": [
+      "赵师傅原味烤肉"
+    ],
+    "pois": [
+      {
+        "id": "B0GRRAJ1DZ",
+        "name": "清真赵师傅原味烤肉坊(当地人常去店)",
+        "location": "119.738805,49.222836",
+        "address": "仁德里街1008号门市",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;清真菜馆|餐饮服务;中餐厅;综合酒楼",
+        "typecode": "050121|050101",
+        "anchorMeters": 846
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\676dd71b7f3ca7186956.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:17+08:00"
+  },
+  "hailaer-bread": {
+    "cityId": "hailaer",
+    "queries": [
+      "蒙源俄式面包"
+    ],
+    "pois": [
+      {
+        "id": "B0FFKT53GY",
+        "name": "蒙源俄式面包房",
+        "location": "119.772397,49.222335",
+        "address": "呼伦办新桥家园三期10幢107号门市",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "typecode": "050000",
+        "anchorMeters": 2240
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\64e3563ba6da78023925.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:17+08:00"
+  },
+  "hailaer-nogoon": {
+    "cityId": "hailaer",
+    "queries": [
+      "诺古恩"
+    ],
+    "pois": [
+      {
+        "id": "B0J3HZNFNB",
+        "name": "Nvgvn诺古恩咖啡店",
+        "location": "119.776608,49.211060",
+        "address": "建设大街党校2号楼3号门市",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;咖啡厅;咖啡厅",
+        "typecode": "050500",
+        "anchorMeters": 3166
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\aae0b157d98a863e3579.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:18+08:00"
+  },
+  "hailaer-gogo": {
+    "cityId": "hailaer",
+    "queries": [
+      "植GoGo"
+    ],
+    "pois": [
+      {
+        "id": "B0K66MQXRC",
+        "name": "植GoGo植物园",
+        "location": "119.758844,49.191054",
+        "address": "万豪国际花园106",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;专卖店;专营店",
+        "typecode": "061200",
+        "anchorMeters": 4440
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\8cd12eebbb01666d7ab7.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:18+08:00"
+  },
+  "hailaer-shenzaki": {
+    "cityId": "hailaer",
+    "queries": [
+      "神崎咖啡"
+    ],
+    "pois": [
+      {
+        "id": "B0JUCRCPJQ",
+        "name": "神崎咖啡(水岸壹号店)",
+        "location": "119.760726,49.197778",
+        "address": "胜利街道水岸壹号-103门市",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;咖啡厅;咖啡厅",
+        "typecode": "050500",
+        "anchorMeters": 3762
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\9cf1133881724346d823.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:18+08:00"
+  },
+  "hailaer-nomintala": {
+    "cityId": "hailaer",
+    "queries": [
+      "诺敏塔拉"
+    ],
+    "pois": [
+      {
+        "id": "B01D60N9GX",
+        "name": "诺敏塔拉奶茶馆(西大街店)",
+        "location": "119.742053,49.205357",
+        "address": "西大街海晨家园门市17号楼",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;冷饮店;冷饮店",
+        "typecode": "050700",
+        "anchorMeters": 2713
+      },
+      {
+        "id": "B0FFGPWMWS",
+        "name": "诺敏塔拉奶茶(锦都会店)",
+        "location": "119.768264,49.208094",
+        "address": "诺敏路锦都会小区A15",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 2995
+      },
+      {
+        "id": "B0G33SXIX8",
+        "name": "诺敏塔拉肉店",
+        "location": "119.752236,49.129889",
+        "address": "南达汗小区利东超市对面",
+        "adname": "鄂温克族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 11120
+      },
+      {
+        "id": "B0HGNSN690",
+        "name": "诺敏塔拉党群服务中心",
+        "location": "118.572172,49.478852",
+        "address": "西乌珠尔苏木",
+        "adname": "陈巴尔虎旗",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府及社会团体相关;政府及社会团体相关",
+        "typecode": "130000",
+        "anchorMeters": 89260
+      },
+      {
+        "id": "B0FFJBHGSR",
+        "name": "佳佳快餐",
+        "location": "118.565991,49.478110",
+        "address": "西乌珠尔苏木诺敏塔拉社区",
+        "adname": "陈巴尔虎旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;快餐厅;快餐厅",
+        "typecode": "050300",
+        "anchorMeters": 89661
+      },
+      {
+        "id": "B0FFFALRXV",
+        "name": "额尔古纳诺敏塔拉蒙古包庄园",
+        "location": "120.184953,50.226550",
+        "address": "海三路东590号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;休闲场所;休闲场所|住宿服务;住宿服务相关;住宿服务相关",
+        "typecode": "080500|100000",
+        "anchorMeters": 115289
+      },
+      {
+        "id": "B0JGU1GVXK",
+        "name": "诺敏塔拉蒙元饭店",
+        "location": "118.259882,48.219123",
+        "address": "阿木古郎路与332国道交叉口北340米",
+        "adname": "新巴尔虎左旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 156439
+      },
+      {
+        "id": "B0FFF9L5YG",
+        "name": "诺敏塔拉奶茶(满洲里分店)",
+        "location": "117.468840,49.591114",
+        "address": "六道街现代花园小区5号楼14号门市",
+        "adname": "满洲里市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;冷饮店;冷饮店|餐饮服务;中餐厅;中餐厅",
+        "typecode": "050700|050100",
+        "anchorMeters": 169408
+      },
+      {
+        "id": "B0LGTBTRLW",
+        "name": "诺敏塔拉蒙餐馆",
+        "location": "116.825497,48.662261",
+        "address": "莫嫩大街与327县道交叉口东80米",
+        "adname": "新巴尔虎右旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 222244
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\b77c1d37ac53b9973874.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:19+08:00"
+  },
+  "hailaer-cliff": {
+    "cityId": "hailaer",
+    "queries": [
+      "哈克崖山",
+      "扎罗木得断崖"
+    ],
+    "pois": [
+      {
+        "id": "B0KGTXCPWE",
+        "name": "扎罗木得风电场",
+        "location": "120.293725,49.266375",
+        "address": [],
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "公司企业;公司;公司",
+        "typecode": "170200",
+        "anchorMeters": 40131
+      },
+      {
+        "id": "B01D60N7T0",
+        "name": "扎罗木得村民委员会",
+        "location": "120.426349,49.220779",
+        "address": "二道街与中央路交叉口东180米",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府机关;乡镇以下级政府及事业单位",
+        "typecode": "130106",
+        "anchorMeters": 49583
+      },
+      {
+        "id": "B0MDTAB9TT",
+        "name": "扎罗木得断崖马背穿越营地",
+        "location": "120.426663,49.225350",
+        "address": "301国道",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;休闲场所;露营地",
+        "typecode": "080504",
+        "anchorMeters": 49596
+      },
+      {
+        "id": "B01D60N7SZ",
+        "name": "呼伦贝尔市海拉尔区扎罗木得学校",
+        "location": "120.427925,49.219795",
+        "address": "哈克镇扎罗木得村",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "科教文化服务;学校;学校",
+        "typecode": "141200",
+        "anchorMeters": 49701
+      },
+      {
+        "id": "B01D60NRZ2",
+        "name": "扎罗木得站",
+        "location": "120.434613,49.217647",
+        "address": "扎罗木得村",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;火车站;火车站",
+        "typecode": "150200",
+        "anchorMeters": 50193
+      },
+      {
+        "id": "BZGFQS000P",
+        "name": "扎罗木得收费站(G10绥满高速出口)",
+        "location": "120.435950,49.227895",
+        "address": "海拉尔区",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "道路附属设施;收费站;收费站",
+        "typecode": "180200",
+        "anchorMeters": 50267
+      },
+      {
+        "id": "BZGFQS000Q",
+        "name": "扎罗木得收费站(G10绥满高速入口)",
+        "location": "120.435961,49.227678",
+        "address": "海拉尔区",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "道路附属设施;收费站;收费站",
+        "typecode": "180200",
+        "anchorMeters": 50268
+      },
+      {
+        "id": "BZGFQS000T",
+        "name": "扎罗木得出口(G10绥满高速东向)",
+        "location": "120.436227,49.229595",
+        "address": "海拉尔区",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;交通地名;高速路出口",
+        "typecode": "190304",
+        "anchorMeters": 50286
+      },
+      {
+        "id": "BZGFQS000S",
+        "name": "扎罗木得出口(G10绥满高速西向)",
+        "location": "120.447671,49.232435",
+        "address": "海拉尔区",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;交通地名;高速路出口",
+        "typecode": "190304",
+        "anchorMeters": 51117
+      },
+      {
+        "id": "B0KRTLT57J",
+        "name": "哈克崖山",
+        "location": "120.457620,49.259426",
+        "address": [],
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;风景名胜",
+        "typecode": "110200",
+        "anchorMeters": 51929
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\514041a18d74ec62a47c.json",
+      "amap-recommendation-evidence\\87ab4e39c28d9c30ff09.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:20+08:00"
+  },
+  "hailaer-museum": {
+    "cityId": "hailaer",
+    "queries": [
+      "呼伦贝尔历史博物馆"
+    ],
+    "pois": [
+      {
+        "id": "B01D60N7J5",
+        "name": "呼伦贝尔民族博物馆(暂停开放)",
+        "location": "119.765020,49.212322",
+        "address": "胜利街道阿里河路老年大学旁边",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "科教文化服务;博物馆;博物馆",
+        "typecode": "140100",
+        "anchorMeters": 2479
+      },
+      {
+        "id": "B0KR9UCBOC",
+        "name": "一隅酒店(历史博物馆店)",
+        "location": "119.757183,49.187478",
+        "address": "和合新城1号楼126门市",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;宾馆酒店",
+        "typecode": "100100",
+        "anchorMeters": 4800
+      },
+      {
+        "id": "B0JK369HQY",
+        "name": "呼伦贝尔历史博物馆售票处",
+        "location": "119.770290,49.190144",
+        "address": "呼伦贝尔历史博物馆",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "生活服务;售票处;公园景点售票处",
+        "typecode": "070306",
+        "anchorMeters": 4807
+      },
+      {
+        "id": "B0HK9D2MNE",
+        "name": "呼伦贝尔历史博物馆",
+        "location": "119.770625,49.190206",
+        "address": "奋斗镇满都拉街与都兰路交叉口西北180米",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "科教文化服务;博物馆;博物馆",
+        "typecode": "140100",
+        "anchorMeters": 4811
+      },
+      {
+        "id": "B0L3H7AIDX",
+        "name": "呼伦贝尔历史博物馆地上停车场",
+        "location": "119.769325,49.189425",
+        "address": "呼伦贝尔历史博物馆",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 4853
+      },
+      {
+        "id": "B0K0OSIIKM",
+        "name": "喜悦精品酒店(呼伦贝尔历史博物馆店)",
+        "location": "119.774309,49.189426",
+        "address": "呼伦万丽城2A栋1楼",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;宾馆酒店",
+        "typecode": "100100",
+        "anchorMeters": 5003
+      },
+      {
+        "id": "B0K624AQJ0",
+        "name": "秋遇智慧酒店(呼伦贝尔历史博物馆店)",
+        "location": "119.764384,49.184822",
+        "address": "盛和湖畔D栋101商铺",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;宾馆酒店",
+        "typecode": "100100",
+        "anchorMeters": 5215
+      },
+      {
+        "id": "B0KRZADGOY",
+        "name": "这里有涧民宿(呼伦贝尔历史博物馆店)",
+        "location": "119.775035,49.181436",
+        "address": "奋斗镇都兰路百年润通老年公寓3号楼一单元101室",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;住宿服务相关;住宿服务相关",
+        "typecode": "100000",
+        "anchorMeters": 5833
+      },
+      {
+        "id": "B01D600OP6",
+        "name": "扎兰屯市历史博物馆",
+        "location": "122.735592,48.018334",
+        "address": "兴华街道兴华街道兴华街道兴华街道兴华街道吊桥路8-1号",
+        "adname": "扎兰屯市",
+        "cityname": "呼伦贝尔市",
+        "type": "科教文化服务;博物馆;博物馆",
+        "typecode": "140100",
+        "anchorMeters": 257850
+      },
+      {
+        "id": "B0LUZZSZN6",
+        "name": "拓跋鲜卑历史博物馆",
+        "location": "123.623438,50.619669",
+        "address": [],
+        "adname": "鄂伦春自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "科教文化服务;博物馆;博物馆",
+        "typecode": "140100",
+        "anchorMeters": 317786
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\acef8f3175c99aa8b451.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:20+08:00"
+  },
+  "hailaer-new-yexue": {
+    "cityId": "hailaer",
+    "queries": [
+      "野雪"
+    ],
+    "pois": [
+      {
+        "id": "B0J33UUWU3",
+        "name": "野雪艺术空间",
+        "location": "119.746078,49.210710",
+        "address": "正阳办天润仿清古建一条街天聚号5号",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "科教文化服务;科教文化场所;科教文化场所",
+        "typecode": "140000",
+        "anchorMeters": 2123
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\3df1c2777a090b240a9f.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:20+08:00"
+  },
+  "hailaer-new-yuanfang": {
+    "cityId": "hailaer",
+    "queries": [
+      "远方来信"
+    ],
+    "pois": [
+      {
+        "id": "B0K6U7WM7R",
+        "name": "远方来信文创店",
+        "location": "119.745752,49.209875",
+        "address": "正阳街道正阳办天润仿清古建一条街隆太号5号",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;购物相关场所;购物相关场所",
+        "typecode": "060000",
+        "anchorMeters": 2213
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\ca805a8cebfb604b2497.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:21+08:00"
+  },
+  "hailaer-new-petersburg": {
+    "cityId": "hailaer",
+    "queries": [
+      "彼得堡餐厅"
+    ],
+    "pois": [
+      {
+        "id": "B0FFH0CJ5O",
+        "name": "彼得堡餐厅",
+        "location": "119.755994,49.207512",
+        "address": "胜利街道海尚牧歌根河路103号",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 2627
+      },
+      {
+        "id": "B0FFHDMBYW",
+        "name": "呼伦贝尔恒基咨询有限公司",
+        "location": "119.755758,49.207298",
+        "address": "彼得堡餐厅西北门南50米",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "公司企业;公司;公司",
+        "typecode": "170200",
+        "anchorMeters": 2644
+      },
+      {
+        "id": "B0MASCH17S",
+        "name": "彼得堡餐饮服务有限公司",
+        "location": "119.755336,49.205617",
+        "address": "哈萨尔大街与阿荣路交叉口西260米",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;外国餐厅;外国餐厅",
+        "typecode": "050200",
+        "anchorMeters": 2812
+      },
+      {
+        "id": "B0FFI8VVXB",
+        "name": "满洲里彼得堡酒店C座",
+        "location": "117.455643,49.589691",
+        "address": "海关路隆富大厦C座9号",
+        "adname": "满洲里市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;住宿服务相关;住宿服务相关",
+        "typecode": "100000",
+        "anchorMeters": 170301
+      },
+      {
+        "id": "B0FFGKY6B3",
+        "name": "满洲里彼得堡酒店",
+        "location": "117.455466,49.589335",
+        "address": "海关路江隆富大厦C座9号",
+        "adname": "满洲里市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;宾馆酒店",
+        "typecode": "100100",
+        "anchorMeters": 170304
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\17cee3196ed21ff1741a.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:21+08:00"
+  },
+  "hailaer-new-menggen": {
+    "cityId": "hailaer",
+    "queries": [
+      "孟根楚鲁"
+    ],
+    "pois": [
+      {
+        "id": "B0FFG8S81Q",
+        "name": "孟根础鲁茶食店",
+        "location": "119.744769,49.212702",
+        "address": "天信小区4号楼孟根楚鲁茶食店奶布里亚特包子牛肉干面羊肉面牛肉面炸肉饼酸奶千层酥列巴西米单锅",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 1896
+      },
+      {
+        "id": "B0KG950YO5",
+        "name": "新孟根础鲁茶食店",
+        "location": "119.744892,49.212308",
+        "address": "中央南路67号",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "typecode": "050000",
+        "anchorMeters": 1940
+      },
+      {
+        "id": "B0MUY9SJ6G",
+        "name": "孟根楚鲁茶食店(河东店)",
+        "location": "119.760010,49.185090",
+        "address": "和平花园2-8号楼106门市",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "typecode": "050000",
+        "anchorMeters": 5104
+      },
+      {
+        "id": "B0M2ANXWD3",
+        "name": "孟根楚鲁路与伊敏路交叉口",
+        "location": "119.750614,49.175279",
+        "address": "鄂温克族自治旗",
+        "adname": "鄂温克族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;交通地名;路口名",
+        "typecode": "190302",
+        "anchorMeters": 6076
+      },
+      {
+        "id": "B0M1SXQRLH",
+        "name": "孟根楚鲁路南侧停车场",
+        "location": "119.752012,49.175259",
+        "address": "孟根楚鲁路与伊敏路交叉口东100米",
+        "adname": "鄂温克族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;路边停车场",
+        "typecode": "150906",
+        "anchorMeters": 6088
+      },
+      {
+        "id": "B0M1SXRAFT",
+        "name": "孟根楚鲁路北侧停车场",
+        "location": "119.756571,49.173716",
+        "address": "孟根楚鲁路与安达大街交叉口西北60米",
+        "adname": "鄂温克族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;路边停车场",
+        "typecode": "150906",
+        "anchorMeters": 6299
+      },
+      {
+        "id": "BZGFQM0047",
+        "name": "孟根楚鲁路",
+        "location": "119.756911,49.173526",
+        "address": "鄂温克族自治旗",
+        "adname": "鄂温克族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;交通地名;道路名",
+        "typecode": "190301",
+        "anchorMeters": 6323
+      },
+      {
+        "id": "B0FFG8TRDT",
+        "name": "孟根楚鲁布里亚特茶食店(世纪花苑店)",
+        "location": "119.756645,49.144945",
+        "address": "鄂温克旗世纪花园孟根础鲁茶食店",
+        "adname": "鄂温克族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅|餐饮服务;冷饮店;冷饮店",
+        "typecode": "050100|050700",
+        "anchorMeters": 9475
+      },
+      {
+        "id": "B0G23MAZMU",
+        "name": "孟根楚鲁手擀面",
+        "location": "119.446755,49.330671",
+        "address": "巴尔虎大街与巴彦哈达路交叉口东北50米",
+        "adname": "陈巴尔虎旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 24289
+      },
+      {
+        "id": "B0H1PK6PMP",
+        "name": "孟根楚鲁社区居民委员会",
+        "location": "119.823943,48.795434",
+        "address": [],
+        "adname": "鄂温克族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府机关;乡镇以下级政府及事业单位",
+        "typecode": "130106",
+        "anchorMeters": 48645
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\dd5789ca7e967f102202.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:22+08:00"
+  },
+  "morigle-new-qushui": {
+    "cityId": "morigle",
+    "queries": [
+      "曲水云天"
+    ],
+    "pois": [
+      {
+        "id": "B0JRFUNGC1",
+        "name": "曲水云天",
+        "location": "119.843207,49.568089",
+        "address": "图嘎营地向东2.8公里",
+        "adname": "陈巴尔虎旗",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;风景名胜",
+        "typecode": "110200",
+        "anchorMeters": 15266
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\b33baf174dccd8cba2c0.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:22+08:00"
+  },
+  "morigle-new-tuga": {
+    "cityId": "morigle",
+    "queries": [
+      "图嘎营地"
+    ],
+    "pois": [
+      {
+        "id": "B0FFKV4E41",
+        "name": "图嘎营地",
+        "location": "119.809336,49.556800",
+        "address": "巴彦哈达苏木",
+        "adname": "陈巴尔虎旗",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;休闲场所;露营地",
+        "typecode": "080504",
+        "anchorMeters": 12797
+      },
+      {
+        "id": "B0LKB6RVJM",
+        "name": "图嘎营地地上停车场",
+        "location": "119.808975,49.558775",
+        "address": "陈巴尔虎旗云下牧歌图嘎营地度假酒店北侧220米",
+        "adname": "陈巴尔虎旗",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 12965
+      },
+      {
+        "id": "B0JRFUNGC1",
+        "name": "曲水云天",
+        "location": "119.843207,49.568089",
+        "address": "图嘎营地向东2.8公里",
+        "adname": "陈巴尔虎旗",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;风景名胜",
+        "typecode": "110200",
+        "anchorMeters": 15266
+      },
+      {
+        "id": "B0I0MR47IX",
+        "name": "莫和尔图嘎查桥",
+        "location": "120.380456,49.093848",
+        "address": "鄂温克族自治旗",
+        "adname": "鄂温克族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;交通地名;桥",
+        "typecode": "190307",
+        "anchorMeters": 63559
+      },
+      {
+        "id": "B0LB2BJWXE",
+        "name": "莫和尔图嘎查桥",
+        "location": "120.380475,49.093748",
+        "address": "鄂温克族自治旗",
+        "adname": "鄂温克族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;交通地名;道路名",
+        "typecode": "190301",
+        "anchorMeters": 63567
+      },
+      {
+        "id": "B0HG0UYG4W",
+        "name": "乌兰图嘎嘎查党群服务中心",
+        "location": "117.928235,48.925520",
+        "address": [],
+        "adname": "新巴尔虎左旗",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府机关;政府机关相关",
+        "typecode": "130100",
+        "anchorMeters": 142515
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\8572ef9414580205f112.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:22+08:00"
+  },
+  "morigle-new-mabeishan": {
+    "cityId": "morigle",
+    "queries": [
+      "马背山"
+    ],
+    "pois": [
+      {
+        "id": "B0LDNA00FO",
+        "name": "马背牧歌蒙古酒吧",
+        "location": "119.743496,49.212883",
+        "address": "天信1号楼16号",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;娱乐场所;酒吧",
+        "typecode": "080304",
+        "anchorMeters": 27765
+      },
+      {
+        "id": "B0FFIXKPF9",
+        "name": "马背草原特产行(胜利农贸批发市场店)",
+        "location": "119.764223,49.210058",
+        "address": "园丁街胜利市场一楼B5",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;专卖店;专营店",
+        "typecode": "061200",
+        "anchorMeters": 28249
+      },
+      {
+        "id": "B0J1JCY3KN",
+        "name": "马背山",
+        "location": "120.061141,49.655689",
+        "address": "332国道呼伦贝尔大草原·莫尔格勒河景区(东北角)",
+        "adname": "陈巴尔虎旗",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "typecode": "110000",
+        "anchorMeters": 33290
+      },
+      {
+        "id": "B0MDTAB9TT",
+        "name": "扎罗木得断崖马背穿越营地",
+        "location": "120.426663,49.225350",
+        "address": "301国道",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;休闲场所;露营地",
+        "typecode": "080504",
+        "anchorMeters": 58205
+      },
+      {
+        "id": "B0MU4UB5N2",
+        "name": "额尔古纳黑山头马背人家",
+        "location": "119.562313,50.215065",
+        "address": "黑山头镇梁东村331国道52号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;住宿服务相关;住宿服务相关",
+        "typecode": "100000",
+        "anchorMeters": 84445
+      },
+      {
+        "id": "B0LR67HD61",
+        "name": "马背牧歌|Family|纯享蒙古包民宿(额尔古纳黑山头店)",
+        "location": "119.579419,50.216965",
+        "address": "黑山头镇梁东村中央大街52号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;旅馆招待所;旅馆招待所",
+        "typecode": "100200",
+        "anchorMeters": 84510
+      },
+      {
+        "id": "B0IR7Z8NQS",
+        "name": "大帅马背骑行俱乐部",
+        "location": "119.508725,50.294275",
+        "address": "黑山头镇904县道旁",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;体育休闲服务场所;体育休闲服务场所",
+        "typecode": "080000",
+        "anchorMeters": 93702
+      },
+      {
+        "id": "B0J22AWVQL",
+        "name": "马背人家火锅店",
+        "location": "123.730685,50.588712",
+        "address": "阿里河镇欧式家园",
+        "adname": "鄂伦春自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;火锅店",
+        "typecode": "050117",
+        "anchorMeters": 313344
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\5fbbf5a18df599a366a5.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:23+08:00"
+  },
+  "eerguna-shuncheng": {
+    "cityId": "eerguna",
+    "queries": [
+      "顺成红焖羊肉"
+    ],
+    "pois": [
+      {
+        "id": "B0FFGP0R0B",
+        "name": "顺成红焖羊肉火锅店(盛大家园店)",
+        "location": "120.184487,50.235606",
+        "address": "拉布达林街道基督教堂对面",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;快餐厅;快餐厅",
+        "typecode": "050300",
+        "anchorMeters": 923
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\8e2e9bbb8232e2efe63e.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:23+08:00"
+  },
+  "eerguna-xing le": {
+    "cityId": "eerguna",
+    "queries": [
+      "兴乐烧麦"
+    ],
+    "pois": [
+      {
+        "id": "B0FFKUX31D",
+        "name": "兴乐烧麦馆",
+        "location": "120.176222,50.244206",
+        "address": "鸿雁街219-5号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 293
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\becfb953f8cd331302bc.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:24+08:00"
+  },
+  "eerguna-kerulen": {
+    "cityId": "eerguna",
+    "queries": [
+      "克尔伦"
+    ],
+    "pois": [
+      {
+        "id": "B0FFFGOZ1L",
+        "name": "克尔伦饭店",
+        "location": "120.180138,50.245044",
+        "address": "百合路65号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 180
+      },
+      {
+        "id": "B0H2H1I79N",
+        "name": "克尔伦火锅烧烤食材店(广达农贸市场店)",
+        "location": "117.464882,49.590290",
+        "address": "广达农贸市场",
+        "adname": "满洲里市",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;综合市场;农副产品市场",
+        "typecode": "060703",
+        "anchorMeters": 207516
+      },
+      {
+        "id": "B0FFGGXU0X",
+        "name": "克尔伦大街与布尔敦路交叉口",
+        "location": "116.833332,48.669252",
+        "address": "新巴尔虎右旗",
+        "adname": "新巴尔虎右旗",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;交通地名;路口名",
+        "typecode": "190302",
+        "anchorMeters": 298547
+      },
+      {
+        "id": "B0FFGKXS5J",
+        "name": "贵宾楼(克尔伦大街店)",
+        "location": "116.832125,48.669331",
+        "address": "克尔伦大街与布尔敦路交叉口西80米",
+        "adname": "新巴尔虎右旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;综合酒楼",
+        "typecode": "050101",
+        "anchorMeters": 298612
+      },
+      {
+        "id": "B0FFIB4VVA",
+        "name": "克尔伦宾馆停车场",
+        "location": "116.831765,48.668936",
+        "address": "克尔伦大街与布尔敦路交叉口西120米",
+        "adname": "新巴尔虎右旗",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 298660
+      },
+      {
+        "id": "B0FFFAFV2H",
+        "name": "克尔伦假日酒店",
+        "location": "116.831346,48.669122",
+        "address": "阿拉坦额莫勒镇克尔伦大街",
+        "adname": "新巴尔虎右旗",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;宾馆酒店",
+        "typecode": "100100",
+        "anchorMeters": 298672
+      },
+      {
+        "id": "B01D60NC29",
+        "name": "克尔伦小区",
+        "location": "116.831812,48.665964",
+        "address": "克尔伦大街与白音乌拉路交叉口东南100米",
+        "adname": "新巴尔虎右旗",
+        "cityname": "呼伦贝尔市",
+        "type": "商务住宅;住宅区;住宅小区",
+        "typecode": "120302",
+        "anchorMeters": 298856
+      },
+      {
+        "id": "B0M175EX95",
+        "name": "克尔伦社区停车场",
+        "location": "116.830350,48.666642",
+        "address": "克尔伦小区",
+        "adname": "新巴尔虎右旗",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 298896
+      },
+      {
+        "id": "B0FFGQEV5A",
+        "name": "克尔伦大街",
+        "location": "116.823421,48.666845",
+        "address": "新巴尔虎右旗",
+        "adname": "新巴尔虎右旗",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;交通地名;道路名",
+        "typecode": "190301",
+        "anchorMeters": 299288
+      },
+      {
+        "id": "B0H62SYTFC",
+        "name": "克尔伦苏木人民政府(就业保障)",
+        "location": "116.820598,48.666789",
+        "address": "新右旗政府楼门市",
+        "adname": "新巴尔虎右旗",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府机关;乡镇级政府及事业单位|政府机构及社会团体;政府机关;乡镇以下级政府及事业单位",
+        "typecode": "130105|130106",
+        "anchorMeters": 299458
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\49ac4d406457eab963f8.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:24+08:00"
+  },
+  "eerguna-mengguyuan": {
+    "cityId": "eerguna",
+    "queries": [
+      "蒙古缘蒙餐"
+    ],
+    "pois": [
+      {
+        "id": "B01D600J5B",
+        "name": "蒙古缘饭店(额尔古纳云杉宾馆店)",
+        "location": "120.171659,50.243502",
+        "address": "云杉路云杉小区7号楼1号门市",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 604
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\97a4d0d0b70362bcdf66.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:24+08:00"
+  },
+  "eerguna-deli": {
+    "cityId": "eerguna",
+    "queries": [
+      "德利烧烤"
+    ],
+    "pois": [
+      {
+        "id": "B0FFKYW1J6",
+        "name": "德利烧烤(兴华小区店)",
+        "location": "120.173971,50.246598",
+        "address": "兴华小区5号楼4号门市",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;特色/地方风味餐厅",
+        "typecode": "050118",
+        "anchorMeters": 564
+      },
+      {
+        "id": "B0JK1HFUMP",
+        "name": "德利饭店",
+        "location": "121.410044,49.588020",
+        "address": "牙伊线惠民小区46号",
+        "adname": "牙克石市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;东北菜",
+        "typecode": "050113",
+        "anchorMeters": 114303
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\aea6c63b787736fbd32d.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:25+08:00"
+  },
+  "eerguna-tieshan": {
+    "cityId": "eerguna",
+    "queries": [
+      "铁山冷饮"
+    ],
+    "pois": [
+      {
+        "id": "B0FFFA62TL",
+        "name": "铁山冷饮(百合小区店)",
+        "location": "120.171820,50.241223",
+        "address": "拉布达林街道人事局档案楼2号门市",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;冷饮店;冷饮店",
+        "typecode": "050700",
+        "anchorMeters": 641
+      },
+      {
+        "id": "B0FFK60664",
+        "name": "铁山冷饮",
+        "location": "119.749344,49.211941",
+        "address": "东大街天润花园小区1号楼1-2门市",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;冷饮店;冷饮店",
+        "typecode": "050700",
+        "anchorMeters": 118802
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\769cc706d77560b436f5.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:25+08:00"
+  },
+  "eerguna-xiaoguo": {
+    "cityId": "eerguna",
+    "queries": [
+      "小郭烧烤"
+    ],
+    "pois": [
+      {
+        "id": "B0HDMPSVBX",
+        "name": "小郭烧烤(兴安街店)",
+        "location": "120.182691,50.239234",
+        "address": "哈撒尔路207-17正东方向170米额尔古纳市第一小学一小看台",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 500
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\a6676efd025d5326c23a.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:26+08:00"
+  },
+  "eerguna-hedian": {
+    "cityId": "eerguna",
+    "queries": [
+      "喝点咖啡"
+    ],
+    "pois": [
+      {
+        "id": "B0KKO130FW",
+        "name": "喝点咖啡",
+        "location": "120.171882,50.240846",
+        "address": "百合小区3号楼3号门市",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;咖啡厅;咖啡厅",
+        "typecode": "050500",
+        "anchorMeters": 654
+      },
+      {
+        "id": "B0LUDLEDXL",
+        "name": "云边咖啡文创特产",
+        "location": "119.584498,50.215879",
+        "address": "一家面馆东侧",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;咖啡厅;咖啡厅",
+        "typecode": "050500",
+        "anchorMeters": 42481
+      },
+      {
+        "id": "B0JU1XRN7H",
+        "name": "一个嘎查咖啡店",
+        "location": "119.914857,50.823212",
+        "address": "恩和俄罗斯族民族乡人民政府东侧80米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;咖啡厅;咖啡厅",
+        "typecode": "050500",
+        "anchorMeters": 67141
+      },
+      {
+        "id": "B0LUSZ3Y33",
+        "name": "北山咖啡",
+        "location": "119.912993,50.822881",
+        "address": "恩和俄罗斯族民族乡人民政府西侧50米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "生活服务;生活服务场所;生活服务场所",
+        "typecode": "070000",
+        "anchorMeters": 67142
+      },
+      {
+        "id": "B0KUYSTVJG",
+        "name": "恩和小屋咖啡",
+        "location": "119.912061,50.823503",
+        "address": "恩和俄罗斯民族乡政府北侧200米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;咖啡厅;咖啡厅",
+        "typecode": "050500",
+        "anchorMeters": 67227
+      },
+      {
+        "id": "B0J3HZNFNB",
+        "name": "Nvgvn诺古恩咖啡店",
+        "location": "119.776608,49.211060",
+        "address": "建设大街党校2号楼3号门市",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;咖啡厅;咖啡厅",
+        "typecode": "050500",
+        "anchorMeters": 118402
+      },
+      {
+        "id": "B0HUSAKSTY",
+        "name": "星巴克(呼伦贝尔伊仕丹广场店)",
+        "location": "119.747380,49.213538",
+        "address": "正阳街道桥头街11号伊仕丹购物广场一层",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;咖啡厅;星巴克咖啡",
+        "typecode": "050501",
+        "anchorMeters": 118667
+      },
+      {
+        "id": "B0JUCRCPJQ",
+        "name": "神崎咖啡(水岸壹号店)",
+        "location": "119.760726,49.197778",
+        "address": "胜利街道水岸壹号-103门市",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;咖啡厅;咖啡厅",
+        "typecode": "050500",
+        "anchorMeters": 120116
+      },
+      {
+        "id": "B0KRD1NNDC",
+        "name": "Moment食钟西餐咖啡甜品",
+        "location": "119.758768,49.197906",
+        "address": "河东水岸壹号商业街",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;咖啡厅;咖啡厅",
+        "typecode": "050500",
+        "anchorMeters": 120138
+      },
+      {
+        "id": "B0KUTXYPZV",
+        "name": "星巴克(呼伦贝尔满洲里万达店)",
+        "location": "117.428655,49.599946",
+        "address": "华埠大街6号万达广场呼伦贝尔满洲里店F1层",
+        "adname": "满洲里市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;咖啡厅;星巴克咖啡",
+        "typecode": "050501",
+        "anchorMeters": 209560
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\147a8509bea2989135bc.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:26+08:00"
+  },
+  "eerguna-new-fuji": {
+    "cityId": "eerguna",
+    "queries": [
+      "福记列巴"
+    ],
+    "pois": [
+      {
+        "id": "B0JRJHBKLS",
+        "name": "福记列巴坊",
+        "location": "120.173330,50.245967",
+        "address": "金鹊街与丁香路交叉口西南60米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "typecode": "050000",
+        "anchorMeters": 561
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\f6170edfda2bc997d2ad.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:27+08:00"
+  },
+  "eerguna-new-mingyuan": {
+    "cityId": "eerguna",
+    "queries": [
+      "铭源特色餐厅"
+    ],
+    "pois": [
+      {
+        "id": "B0FFG7D3VM",
+        "name": "铭源特色餐厅",
+        "location": "120.180888,50.231010",
+        "address": "哈撒尔路214号附近",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;东北菜",
+        "typecode": "050113",
+        "anchorMeters": 1382
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\a818c3961a573d64aa89.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:27+08:00"
+  },
+  "eerguna-new-baohualin": {
+    "cityId": "eerguna",
+    "queries": [
+      "额尔古纳白桦林"
+    ],
+    "pois": [
+      {
+        "id": "B01D600WWT",
+        "name": "额尔古纳市",
+        "location": "120.180506,50.243102",
+        "address": "额尔古纳市",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;普通地名;区县级地名",
+        "typecode": "190105",
+        "anchorMeters": 44
+      },
+      {
+        "id": "B0FFKSXHPQ",
+        "name": "白桦林庄园",
+        "location": "120.169791,50.225349",
+        "address": "拉布大林路7号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;住宿服务相关;住宿服务相关",
+        "typecode": "100000",
+        "anchorMeters": 2141
+      },
+      {
+        "id": "B0FFL18BFN",
+        "name": "白桦林景区小车停车场",
+        "location": "120.127413,50.528817",
+        "address": "民族乡以北10公里国道331旁白桦林景区内(西侧)",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 31954
+      },
+      {
+        "id": "B0FFL1UK69",
+        "name": "白桦林景区停车场(入口)",
+        "location": "120.126725,50.528806",
+        "address": "901县道与331国道交叉口北260米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;停车场出入口",
+        "typecode": "150909",
+        "anchorMeters": 31958
+      },
+      {
+        "id": "B0FFHD3CO0",
+        "name": "白桦林景区游客服务中心",
+        "location": "120.127180,50.529603",
+        "address": "民族乡以北10公里国道331旁白桦林景区内(西侧)",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "生活服务;信息咨询中心;服务中心",
+        "typecode": "070201",
+        "anchorMeters": 32042
+      },
+      {
+        "id": "B0FFKTWTIB",
+        "name": "白桦林景区售票处",
+        "location": "120.127073,50.529764",
+        "address": "民族乡以北10公里国道331旁白桦林景区内(西侧)",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "生活服务;售票处;公园景点售票处",
+        "typecode": "070306",
+        "anchorMeters": 32061
+      },
+      {
+        "id": "B0FFKWWYPA",
+        "name": "山顶观光台",
+        "location": "120.144665,50.537327",
+        "address": "民族乡以北10公里国道331旁白桦林景区内(西侧)",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;观景点",
+        "typecode": "110209",
+        "anchorMeters": 32777
+      },
+      {
+        "id": "B0FFF4GOQQ",
+        "name": "白桦林景区",
+        "location": "120.160433,50.538147",
+        "address": "三河民族乡以北10公里国道331旁",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;国家级景点",
+        "typecode": "110202",
+        "anchorMeters": 32801
+      },
+      {
+        "id": "B0FFKZVZR7",
+        "name": "白桦林景区-休息平台",
+        "location": "120.143585,50.540454",
+        "address": "201省道东100米白桦林景区内西侧",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "typecode": "110000",
+        "anchorMeters": 33130
+      },
+      {
+        "id": "B0K2FHDKL7",
+        "name": "太平林场白桦林景区",
+        "location": "120.296051,51.496528",
+        "address": "331国道",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;风景名胜",
+        "typecode": "110200",
+        "anchorMeters": 139576
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\3a37f6bcb499523aa4c0.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:27+08:00"
+  },
+  "genhe-kaimenhong": {
+    "cityId": "genhe",
+    "queries": [
+      "开门红早餐"
+    ],
+    "pois": [
+      {
+        "id": "B0FFIH7SU0",
+        "name": "开门红早餐店",
+        "location": "121.534159,50.779165",
+        "address": "阿龙山街19号",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 986
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\cabdcb341f06670a686c.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:28+08:00"
+  },
+  "genhe-shourong": {
+    "cityId": "genhe",
+    "queries": [
+      "守荣小吃"
+    ],
+    "pois": [
+      {
+        "id": "B0FFHEF0TK",
+        "name": "守荣小吃部",
+        "location": "121.542284,50.780019",
+        "address": "伊春南路春光南胡同78号",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 1555
+      },
+      {
+        "id": "B0L2URFBBS",
+        "name": "守荣香河肉饼",
+        "location": "122.739625,48.011912",
+        "address": "玉和洗浴东50米香河肉饼",
+        "adname": "扎兰屯市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 320161
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\6bc2675a12ba45ded3d0.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:28+08:00"
+  },
+  "genhe-yijiaren": {
+    "cityId": "genhe",
+    "queries": [
+      "壹家人铁锅炖"
+    ],
+    "pois": [
+      {
+        "id": "B0JRGZZD3R",
+        "name": "壹家人铁锅炖饭店",
+        "location": "121.537613,50.775086",
+        "address": "森林冰雪酒店一楼往事广场2号门市(新客运站)对面",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 1332
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\530292e204a16e1f3e0a.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:29+08:00"
+  },
+  "genhe-chuantianjiao": {
+    "cityId": "genhe",
+    "queries": [
+      "川天椒麻辣烫"
+    ],
+    "pois": [
+      {
+        "id": "B0FFFGOZ37",
+        "name": "川天椒麻辣烫(八中店)",
+        "location": "119.767800,49.229753",
+        "address": "呼伦路11号交通储运楼",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;特色/地方风味餐厅",
+        "typecode": "050118",
+        "anchorMeters": 213036
+      },
+      {
+        "id": "B01D60NLUZ",
+        "name": "川天椒麻辣烫总店",
+        "location": "119.747363,49.218154",
+        "address": "新兴小区104号-105号门市",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;特色/地方风味餐厅",
+        "typecode": "050118",
+        "anchorMeters": 214947
+      },
+      {
+        "id": "B0FFF49DZK",
+        "name": "诚佰和川天椒麻辣烫(呼大店)",
+        "location": "119.775620,49.199361",
+        "address": "学府家园一号楼101门市",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;特色/地方风味餐厅",
+        "typecode": "050118",
+        "anchorMeters": 215478
+      },
+      {
+        "id": "B0FFHDSC36",
+        "name": "诚佰和川天椒麻辣烫(西大街店)",
+        "location": "119.743087,49.211679",
+        "address": "健康办西大街安居1号楼2-1-5号",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;特色/地方风味餐厅",
+        "typecode": "050118",
+        "anchorMeters": 215713
+      },
+      {
+        "id": "B0FFICP7IR",
+        "name": "川天椒麻辣烫(水岸花园店)",
+        "location": "119.744379,49.193026",
+        "address": "水岸花园5号楼5号门市",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;特色/地方风味餐厅",
+        "typecode": "050118",
+        "anchorMeters": 217354
+      },
+      {
+        "id": "B0FFH2HN5D",
+        "name": "微淼川天椒麻辣烫(和平花园店)",
+        "location": "119.761022,49.185027",
+        "address": "和平花园南门2-7-107门市",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;特色/地方风味餐厅",
+        "typecode": "050118",
+        "anchorMeters": 217392
+      },
+      {
+        "id": "B0FFG8SA1N",
+        "name": "诚佰和川天椒麻辣烫(中央南路店)",
+        "location": "119.740280,49.193368",
+        "address": "运输管理站北侧",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;特色/地方风味餐厅",
+        "typecode": "050118",
+        "anchorMeters": 217494
+      },
+      {
+        "id": "B0MAS7HEPF",
+        "name": "川天椒麻辣烫",
+        "location": "119.743999,49.172295",
+        "address": "呼伦贝尔路卓达城市花园-25号楼10号商铺",
+        "adname": "鄂温克族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;快餐厅;快餐厅",
+        "typecode": "050300",
+        "anchorMeters": 219260
+      },
+      {
+        "id": "B0GR6DYAGC",
+        "name": "正宗蜀都川天椒麻辣烫(金鼎上城店)",
+        "location": "119.738053,49.164571",
+        "address": "金鼎上城北区",
+        "adname": "鄂温克族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;快餐厅;快餐厅",
+        "typecode": "050300",
+        "anchorMeters": 220212
+      },
+      {
+        "id": "B0FFKOSLU2",
+        "name": "正宗蜀都川天椒麻辣烫(伊敏嘉园店)",
+        "location": "119.758959,49.137722",
+        "address": "巴彦托海镇伊敏嘉园1号楼3号门市",
+        "adname": "鄂温克族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 221822
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\cdc09d8619c9ec0c1348.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:29+08:00"
+  },
+  "genhe-zhengyi": {
+    "cityId": "genhe",
+    "queries": [
+      "郑姨馄饨"
+    ],
+    "pois": [
+      {
+        "id": "B0GRMC0Y1G",
+        "name": "郑姨砂锅馄饨店",
+        "location": "121.532998,50.782019",
+        "address": "龙凤市场北侧4号门市",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;快餐厅;快餐厅",
+        "typecode": "050300",
+        "anchorMeters": 937
+      },
+      {
+        "id": "B0J2C5A2PQ",
+        "name": "郑姨馄饨",
+        "location": "119.764883,49.215466",
+        "address": "新民路统建5号楼102门市",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;特色/地方风味餐厅",
+        "typecode": "050118",
+        "anchorMeters": 214456
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\c3fad549d3f3df789147.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:29+08:00"
+  },
+  "genhe-shengxianghe": {
+    "cityId": "genhe",
+    "queries": [
+      "盛祥和"
+    ],
+    "pois": [
+      {
+        "id": "B0FFFGQSZG",
+        "name": "鑫盛祥和清真烧麦馆",
+        "location": "121.528706,50.778364",
+        "address": "河东街道红旗路世纪花园3号楼",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;清真菜馆",
+        "typecode": "050121",
+        "anchorMeters": 620
+      },
+      {
+        "id": "B0JDNZ6LDO",
+        "name": "祥和小区",
+        "location": "120.170233,50.242545",
+        "address": "额尔古纳大街102号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "商务住宅;住宅区;住宅小区",
+        "typecode": "120302",
+        "anchorMeters": 112604
+      },
+      {
+        "id": "B0IKFC78F0",
+        "name": "祥和超市(安达街店)",
+        "location": "123.709928,50.597588",
+        "address": "阿里河镇福祥源8号楼",
+        "adname": "鄂伦春自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;购物相关场所;购物相关场所",
+        "typecode": "060000",
+        "anchorMeters": 155578
+      },
+      {
+        "id": "B0FFG8TM21",
+        "name": "祥和建筑机械(富强小区店)",
+        "location": "119.769717,49.196916",
+        "address": "富强小区西南门东220米",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;专卖店;专营店",
+        "typecode": "061200",
+        "anchorMeters": 215945
+      },
+      {
+        "id": "B0L3O7Y1YK",
+        "name": "祥和居烧烤店",
+        "location": "119.739291,49.184521",
+        "address": "御松园",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 218340
+      },
+      {
+        "id": "B0I67ANY5X",
+        "name": "祥和居铜锅涮肉",
+        "location": "119.736997,49.168434",
+        "address": "金鼎·上城",
+        "adname": "鄂温克族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;火锅店",
+        "typecode": "050117",
+        "anchorMeters": 219903
+      },
+      {
+        "id": "B0FFF3XTK5",
+        "name": "祥和商务酒店(站前街)",
+        "location": "117.678362,49.470872",
+        "address": "学府小区商业1-2号楼",
+        "adname": "扎赉诺尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;四星级宾馆",
+        "typecode": "100103",
+        "anchorMeters": 310091
+      },
+      {
+        "id": "B0FFG8S96C",
+        "name": "祥和酒店(向民街店)",
+        "location": "122.756535,47.986267",
+        "address": "中央南路与向民街交叉口南60米",
+        "adname": "扎兰屯市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;宾馆酒店",
+        "typecode": "100100",
+        "anchorMeters": 323246
+      },
+      {
+        "id": "B0LB1RV9UO",
+        "name": "祥和家园",
+        "location": "123.462175,48.137975",
+        "address": "中央大街与体育路交叉口北100米",
+        "adname": "阿荣旗",
+        "cityname": "呼伦贝尔市",
+        "type": "商务住宅;住宅区;住宅小区",
+        "typecode": "120302",
+        "anchorMeters": 325535
+      },
+      {
+        "id": "B0FFL1756G",
+        "name": "祥和家园",
+        "location": "116.825441,48.664685",
+        "address": "阿拉坦额莫勒路与确巴拉森大街交叉口东北260米",
+        "adname": "新巴尔虎右旗",
+        "cityname": "呼伦贝尔市",
+        "type": "商务住宅;住宅区;住宅小区",
+        "typecode": "120302",
+        "anchorMeters": 411227
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\2933770c248dc8c89b2f.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:30+08:00"
+  },
+  "genhe-market": {
+    "cityId": "genhe",
+    "queries": [
+      "龙凤大厦"
+    ],
+    "pois": [
+      {
+        "id": "B0FFHEZLBV",
+        "name": "龙凤大厦菜市场",
+        "location": "121.532869,50.781779",
+        "address": "阿龙山街与中央路交叉口西北100米",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;综合市场;蔬菜市场",
+        "typecode": "060705",
+        "anchorMeters": 921
+      },
+      {
+        "id": "B01D600GS4",
+        "name": "龙凤大厦",
+        "location": "121.533196,50.781575",
+        "address": "中央路",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "商务住宅;楼宇;商务写字楼",
+        "typecode": "120201",
+        "anchorMeters": 938
+      },
+      {
+        "id": "B01D601JYI",
+        "name": "龙凤大厦(林城路)",
+        "location": "120.737775,49.283761",
+        "address": "中央街林城路87号",
+        "adname": "牙克石市",
+        "cityname": "呼伦贝尔市",
+        "type": "商务住宅;楼宇;商务写字楼",
+        "typecode": "120201",
+        "anchorMeters": 175481
+      },
+      {
+        "id": "B0FFG8TRB6",
+        "name": "龙凤名都",
+        "location": "119.772004,49.217796",
+        "address": "民国路中段",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "商务住宅;住宅区;住宅小区",
+        "typecode": "120302",
+        "anchorMeters": 213946
+      },
+      {
+        "id": "B01D60NBUZ",
+        "name": "龙凤家园",
+        "location": "119.783153,49.210586",
+        "address": "机场路",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "商务住宅;住宅区;住宅小区",
+        "typecode": "120302",
+        "anchorMeters": 214140
+      },
+      {
+        "id": "B0FFHDLVD8",
+        "name": "龙凤金融大厦",
+        "location": "119.776812,49.206188",
+        "address": "奋斗镇学府路龙凤学府花园",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "商务住宅;楼宇;商务写字楼",
+        "typecode": "120201",
+        "anchorMeters": 214804
+      },
+      {
+        "id": "B01D60N6U0",
+        "name": "龙凤新天地购物广场",
+        "location": "119.768228,49.209953",
+        "address": "胜利大街27号",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;商场;购物中心",
+        "typecode": "060101",
+        "anchorMeters": 214818
+      },
+      {
+        "id": "B01D600CP3",
+        "name": "龙凤大厦(桥头街)",
+        "location": "119.746068,49.213383",
+        "address": "北斜街",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "商务住宅;楼宇;商务写字楼",
+        "typecode": "120201",
+        "anchorMeters": 215434
+      },
+      {
+        "id": "B0GR9YPSE4",
+        "name": "大娘烧烤店(龙凤大厦店)(暂停营业)",
+        "location": "119.746575,49.212875",
+        "address": "龙凤大厦后身一层C11号",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 215458
+      },
+      {
+        "id": "B0K1HRP8RV",
+        "name": "361°(龙凤大厦店)",
+        "location": "119.745862,49.213088",
+        "address": "正阳办龙凤大厦西侧B7号",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;体育用品店;体育用品店",
+        "typecode": "060900",
+        "anchorMeters": 215469
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\1b71ff3a95c025d89ef7.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:30+08:00"
+  },
+  "genhe-new-shouwang": {
+    "cityId": "genhe",
+    "queries": [
+      "守望桥"
+    ],
+    "pois": [
+      {
+        "id": "B0K2OO88X3",
+        "name": "守望桥",
+        "location": "121.523590,50.771980",
+        "address": "迎宾路与防洪中路交叉口西南280米",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "typecode": "110000",
+        "anchorMeters": 898
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\b9bb693307d5506ee40a.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:31+08:00"
+  },
+  "genhe-new-kefir": {
+    "cityId": "genhe",
+    "queries": [
+      "开菲尔酸奶"
+    ],
+    "pois": [
+      {
+        "id": "B0FFF505GB",
+        "name": "开菲尔饮吧(爱民路店)",
+        "location": "121.533032,50.779995",
+        "address": "步行街A座",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;冷饮店;冷饮店",
+        "typecode": "050700",
+        "anchorMeters": 905
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\8edf04bbc994b44fa62d.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:31+08:00"
+  },
+  "genhe-new-linzhongxian": {
+    "cityId": "genhe",
+    "queries": [
+      "林中鲜烧烤"
+    ],
+    "pois": [
+      {
+        "id": "B0FFH22ITR",
+        "name": "林中鲜小串(幸福家园店)",
+        "location": "121.538209,50.780929",
+        "address": "幸福家园北门旁",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;快餐厅;快餐厅",
+        "typecode": "050300",
+        "anchorMeters": 1275
+      },
+      {
+        "id": "B0I2YCY3T8",
+        "name": "林中鲜烧鸽子",
+        "location": "119.739722,49.196872",
+        "address": "呼伦贝尔路330号",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 217199
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\aeb31ec7e22364809512.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:31+08:00"
+  },
+  "aoluguya-new-museum": {
+    "cityId": "aoluguya",
+    "queries": [
+      "敖鲁古雅鄂温克族驯鹿文化博物馆"
+    ],
+    "pois": [
+      {
+        "id": "B0IG2Z4MHW",
+        "name": "敖鲁古雅鄂温克民族乡委员会",
+        "location": "121.474995,50.776962",
+        "address": "敖鲁古雅鄂温克族驯鹿文化博物馆东南侧150米",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府机关;乡镇级政府及事业单位",
+        "typecode": "130105",
+        "anchorMeters": 322
+      },
+      {
+        "id": "B0M1MCEEQX",
+        "name": "敖鲁古雅鄂温克族驯鹿文化博物馆地上停车场",
+        "location": "121.473925,50.777075",
+        "address": "敖鲁古雅鄂温克民族乡人民政府西侧70米",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 397
+      },
+      {
+        "id": "B0G3LDGUOX",
+        "name": "森龙源鹿茸专卖",
+        "location": "121.476097,50.778909",
+        "address": "敖鲁古雅鄂温克族驯鹿文化博物馆东侧190米",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;专卖店;专营店",
+        "typecode": "061200",
+        "anchorMeters": 398
+      },
+      {
+        "id": "B0IDFM9OYZ",
+        "name": "敖鲁古雅鄂温克族乡使鹿文化社区退役军人服务站",
+        "location": "121.475248,50.778829",
+        "address": "敖鲁古雅鄂温克族驯鹿文化博物馆东北侧130米",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府机关;乡镇以下级政府及事业单位",
+        "typecode": "130106",
+        "anchorMeters": 428
+      },
+      {
+        "id": "B01D601K21",
+        "name": "敖鲁古雅鄂温克族驯鹿文化博物馆",
+        "location": "121.473707,50.778067",
+        "address": "敖鲁古雅路7号敖鲁古雅使鹿部落景区",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "科教文化服务;博物馆;博物馆",
+        "typecode": "140100",
+        "anchorMeters": 457
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\6ce6de9c3a42fdefac0f.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:32+08:00"
+  },
+  "aoluguya-reindeer": {
+    "cityId": "aoluguya",
+    "queries": [
+      "敖鲁古雅使鹿部落"
+    ],
+    "pois": [
+      {
+        "id": "B0FFFGOOS1",
+        "name": "敖鲁古雅使鹿部落景区南门停车场",
+        "location": "121.479287,50.775955",
+        "address": "敖鲁古雅路7号敖鲁古雅使鹿部落景区",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 0
+      },
+      {
+        "id": "B0LR3CDQJI",
+        "name": "敖鲁古雅使鹿部落景区-观光车乘车处",
+        "location": "121.479427,50.776176",
+        "address": "敖鲁古雅路7号敖鲁古雅使鹿部落景区",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "typecode": "110000",
+        "anchorMeters": 26
+      },
+      {
+        "id": "B0FFF9UKTT",
+        "name": "敖鲁古雅使鹿部落景区",
+        "location": "121.479454,50.776185",
+        "address": "敖鲁古雅路7号",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;风景名胜",
+        "typecode": "110200",
+        "anchorMeters": 28
+      },
+      {
+        "id": "B0G3J57B3L",
+        "name": "敖鲁古雅使鹿部落景区游客服务中心",
+        "location": "121.478809,50.776257",
+        "address": "敖鲁古雅路7号敖鲁古雅使鹿部落景区",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "生活服务;信息咨询中心;服务中心",
+        "typecode": "070201",
+        "anchorMeters": 48
+      },
+      {
+        "id": "B0FFF3WXDX",
+        "name": "敖鲁古雅使鹿部落景区售票处",
+        "location": "121.478758,50.776247",
+        "address": "敖鲁古雅路7号敖鲁古雅使鹿部落景区",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "生活服务;售票处;公园景点售票处",
+        "typecode": "070306",
+        "anchorMeters": 49
+      },
+      {
+        "id": "B0L2JU74B1",
+        "name": "部落酒店(敖鲁古雅景区店)",
+        "location": "121.477830,50.778988",
+        "address": "敖鲁雅路7号",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;宾馆酒店",
+        "typecode": "100100",
+        "anchorMeters": 352
+      },
+      {
+        "id": "B0HRD7XBNX",
+        "name": "敖鲁古雅使鹿部落景区西门停车场",
+        "location": "121.473614,50.777104",
+        "address": "敖鲁古雅路7号敖鲁古雅使鹿部落景区",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 419
+      },
+      {
+        "id": "B0FFH6KTEM",
+        "name": "敖鲁古雅驯鹿之乡",
+        "location": "121.474626,50.778415",
+        "address": "敖鲁古雅路7号敖鲁古雅使鹿部落景区",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "typecode": "110000",
+        "anchorMeters": 427
+      },
+      {
+        "id": "B01D601K21",
+        "name": "敖鲁古雅鄂温克族驯鹿文化博物馆",
+        "location": "121.473707,50.778067",
+        "address": "敖鲁古雅路7号敖鲁古雅使鹿部落景区",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "科教文化服务;博物馆;博物馆",
+        "typecode": "140100",
+        "anchorMeters": 457
+      },
+      {
+        "id": "B0H1B7GKFA",
+        "name": "敖鲁古雅使鹿部落景区西门停车点(暂停营业)",
+        "location": "121.467082,50.777201",
+        "address": "敖鲁古雅路7号敖鲁古雅使鹿部落景区",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 869
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\b8ba850396b99ad1231a.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:32+08:00"
+  },
+  "deerbur-deer": {
+    "cityId": "deerbur",
+    "queries": [
+      "兴安神鹿园"
+    ],
+    "pois": [
+      {
+        "id": "B0H06ZAVE6",
+        "name": "得耳布尓兴安神鹿园售票处",
+        "location": "121.103193,51.017068",
+        "address": "325县道得耳布尓兴安神鹿园",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "生活服务;售票处;公园景点售票处",
+        "typecode": "070306",
+        "anchorMeters": 3583
+      },
+      {
+        "id": "B0HR9U6CCO",
+        "name": "得耳布尓兴安神鹿园停车点",
+        "location": "121.103063,51.017185",
+        "address": "325县道得耳布尓兴安神鹿园",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 3585
+      },
+      {
+        "id": "B0FFG6Y0QE",
+        "name": "得耳布尓兴安神鹿园",
+        "location": "121.105195,51.016881",
+        "address": "325县道",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;风景名胜|购物服务;购物相关场所;购物相关场所",
+        "typecode": "110200|060000",
+        "anchorMeters": 3676
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\8700d322a8226ac283e9.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:33+08:00"
+  },
+  "deerbur-guangyuan": {
+    "cityId": "deerbur",
+    "queries": [
+      "得耳布尔广源饭店",
+      "广源饭店"
+    ],
+    "pois": [
+      {
+        "id": "B0L1ZBJP36",
+        "name": "刘涛马肉馆",
+        "location": "121.051874,50.994715",
+        "address": "广源饭店东北侧",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 913
+      },
+      {
+        "id": "B0MAU7TNYI",
+        "name": "三餐四季饺子馆",
+        "location": "121.051875,50.994325",
+        "address": "广源饭店东南侧",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;特色/地方风味餐厅",
+        "typecode": "050118",
+        "anchorMeters": 920
+      },
+      {
+        "id": "B0FFKVX1PO",
+        "name": "广源饭店",
+        "location": "121.051603,50.994478",
+        "address": "得耳布尔等",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 936
+      },
+      {
+        "id": "B0MG2745JH",
+        "name": "新煮酒烤吧",
+        "location": "121.051075,50.994125",
+        "address": "广源饭店西南侧50米",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 979
+      },
+      {
+        "id": "B0JRVPLZFM",
+        "name": "广源羊汤馆(盛达小区店)",
+        "location": "120.180530,50.232238",
+        "address": "盛达小区",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 105357
+      },
+      {
+        "id": "B0FFF4R6T7",
+        "name": "干锅辣鸭头(广源小区店)",
+        "location": "119.749118,49.227218",
+        "address": "夹信子路广源小区2号楼3号门市(天顺新城四个大字顺字对面)",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 217875
+      },
+      {
+        "id": "B0G0BNYMVJ",
+        "name": "广源麻辣烫",
+        "location": "119.984419,48.274576",
+        "address": "鄂温克族自治旗红花尔基林业局西侧250米",
+        "adname": "鄂温克族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 312413
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\903947364ec7ec010c79.json",
+      "amap-recommendation-evidence\\d7b637a8c9a14d1dd635.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:33+08:00"
+  },
+  "deerbur-memorial": {
+    "cityId": "deerbur",
+    "queries": [
+      "卡鲁奔"
+    ],
+    "pois": [
+      {
+        "id": "B0KDZZPTB0",
+        "name": "日出卡鲁奔营地",
+        "location": "120.624956,50.747634",
+        "address": "得耳布尔镇Z008康达岭林场东北420米",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;休闲场所;露营地",
+        "typecode": "080504",
+        "anchorMeters": 41397
+      },
+      {
+        "id": "B01D60057J",
+        "name": "卡鲁奔山",
+        "location": "120.555123,50.727049",
+        "address": "根河市",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 46608
+      },
+      {
+        "id": "B0L3H78ZJP",
+        "name": "卡鲁奔山",
+        "location": "120.555138,50.727019",
+        "address": [],
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;风景名胜",
+        "typecode": "110200",
+        "anchorMeters": 46610
+      },
+      {
+        "id": "B0J1BLQUJU",
+        "name": "卡鲁奔国家湿地公园",
+        "location": "120.516874,50.710592",
+        "address": "得耳布尔镇得耳布尔林业局康达岭林场施业区三干线45公里处",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;公园广场;公园",
+        "typecode": "110101",
+        "anchorMeters": 49848
+      },
+      {
+        "id": "B0M6JUEPW9",
+        "name": "额尔古纳卡鲁奔民宿",
+        "location": "120.335882,50.752702",
+        "address": [],
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;住宿服务相关;住宿服务相关",
+        "typecode": "100000",
+        "anchorMeters": 57847
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\4ae0738924bb0e1b6404.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:34+08:00"
+  },
+  "mordaga-hongjie": {
+    "cityId": "mordaga",
+    "queries": [
+      "红姐砂锅"
+    ],
+    "pois": [
+      {
+        "id": "B0KU37EUGG",
+        "name": "奥莉希亚红姐特色砂锅",
+        "location": "120.780226,51.266377",
+        "address": "额尔古纳国家级自然保护区管理局东南侧50米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 1239
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\8606d654a5abfcc44850.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:34+08:00"
+  },
+  "mordaga-hongzeyuan": {
+    "cityId": "mordaga",
+    "queries": [
+      "鸿泽源"
+    ],
+    "pois": [
+      {
+        "id": "B0K1HRJEU8",
+        "name": "鸿泽庄园",
+        "location": "119.571218,50.210859",
+        "address": "新镇",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;休闲场所;休闲场所",
+        "typecode": "080500",
+        "anchorMeters": 144240
+      },
+      {
+        "id": "B0FFHVOODW",
+        "name": "鸿泽水族(扎赉诺尔区恒泰商贸城D区店)",
+        "location": "117.691660,49.470554",
+        "address": "扎赉诺尔第四街道恒泰商贸城",
+        "adname": "扎赉诺尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;花鸟鱼虫市场;宠物市场",
+        "typecode": "060502",
+        "anchorMeters": 295883
+      },
+      {
+        "id": "B0FFI1Y1ET",
+        "name": "鸿泽手机卖场(龙盛公寓店)",
+        "location": "124.505602,48.477146",
+        "address": "齐齐哈尔南路与纳文西大街交叉口东南40米",
+        "adname": "莫力达瓦达斡尔族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;家电电子卖场;手机销售",
+        "typecode": "060305",
+        "anchorMeters": 407993
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\b2cee278bd44f05d0af2.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:35+08:00"
+  },
+  "mordaga-forest": {
+    "cityId": "mordaga",
+    "queries": [
+      "莫尔道嘎国家森林公园"
+    ],
+    "pois": [
+      {
+        "id": "B0FFFGOZZK",
+        "name": "红豆坡",
+        "location": "120.807667,51.351633",
+        "address": "莫尔道嘎镇11公里处莫尔道嘎国家森林公园",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "typecode": "110000",
+        "anchorMeters": 10767
+      },
+      {
+        "id": "B01D60NRLO",
+        "name": "美人湖",
+        "location": "120.679706,51.332347",
+        "address": "莫尔道嘎国家森林公园东",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "typecode": "110000",
+        "anchorMeters": 11263
+      },
+      {
+        "id": "B0FFM0VY4Z",
+        "name": "莫尔道嘎国家森林公园停车场",
+        "location": "120.673708,51.331505",
+        "address": "莫尔道嘎镇11公里处莫尔道嘎国家森林公园",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 11471
+      },
+      {
+        "id": "B0MAHKKCS3",
+        "name": "蒙马超级充电站(额尔古纳市莫尔道嘎国家森林公园快充电站)",
+        "location": "120.673590,51.331676",
+        "address": "莫尔道嘎镇莫尔道嘎国家森林公园停车场",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "汽车服务;充电站;专用充电站",
+        "typecode": "011103",
+        "anchorMeters": 11491
+      },
+      {
+        "id": "B0JUKZ445Z",
+        "name": "公共厕所(莫尔道嘎景区门口)",
+        "location": "120.673897,51.331980",
+        "address": "莫尔道嘎国家森林公园售票处东侧",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "公共设施;公共厕所;公共厕所",
+        "typecode": "200300",
+        "anchorMeters": 11501
+      },
+      {
+        "id": "B01D60NB2T",
+        "name": "莫尔道嘎国家森林公园售票处",
+        "location": "120.673739,51.331916",
+        "address": "莫尔道嘎国家森林公园游客服务中心东侧",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "生活服务;售票处;公园景点售票处",
+        "typecode": "070306",
+        "anchorMeters": 11503
+      },
+      {
+        "id": "B0HRD7YCX3",
+        "name": "莫尔道嘎国家森林公园游客服务中心",
+        "location": "120.673350,51.331892",
+        "address": "302省道东北30米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "生活服务;信息咨询中心;服务中心",
+        "typecode": "070201",
+        "anchorMeters": 11520
+      },
+      {
+        "id": "B01D600X4B",
+        "name": "莫尔道嘎国家森林公园",
+        "location": "120.673537,51.337518",
+        "address": "莫尔道嘎镇11公里处",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;省级景点",
+        "typecode": "110203",
+        "anchorMeters": 11978
+      },
+      {
+        "id": "B0FFFGOZZU",
+        "name": "一目九岭",
+        "location": "120.820550,51.379818",
+        "address": "莫尔道嘎镇11公里处莫尔道嘎国家森林公园",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;风景名胜",
+        "typecode": "110200",
+        "anchorMeters": 14003
+      },
+      {
+        "id": "B0FFH3H0NJ",
+        "name": "白鹿岛",
+        "location": "120.858815,51.952518",
+        "address": "莫尔道嘎国家森林公园内",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "typecode": "110000",
+        "anchorMeters": 77638
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\4f5c66e6375c3d20534d.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:35+08:00"
+  },
+  "mordaga-new-longshan": {
+    "cityId": "mordaga",
+    "queries": [
+      "莫尔道嘎龙山公园"
+    ],
+    "pois": [
+      {
+        "id": "B01D60NBNE",
+        "name": "中共莫尔道嘎镇纪律检查委员会",
+        "location": "120.785635,51.255741",
+        "address": "莫尔道嘎镇委莫尔道嘎龙山公园",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府机关;乡镇级政府及事业单位",
+        "typecode": "130105",
+        "anchorMeters": 9
+      },
+      {
+        "id": "B0LUN77QCR",
+        "name": "金伊慕额庄园(龙山公园人民公社铁锅炖店)",
+        "location": "120.779942,51.259251",
+        "address": "325县道",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;住宿服务相关;住宿服务相关",
+        "typecode": "100000",
+        "anchorMeters": 559
+      },
+      {
+        "id": "B0FFG8YHW4",
+        "name": "龙山公园",
+        "location": "120.783028,51.262486",
+        "address": "美庐旅店向北150米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;公园广场;公园",
+        "typecode": "110101",
+        "anchorMeters": 769
+      },
+      {
+        "id": "B0KRXSZ6KL",
+        "name": "莫尔道嘎爱尚名宿(龙山公园店)",
+        "location": "120.781622,51.262458",
+        "address": "龙山公园西南方向100米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;住宿服务相关;住宿服务相关",
+        "typecode": "100000",
+        "anchorMeters": 796
+      },
+      {
+        "id": "B0FFG0U3WE",
+        "name": "龙岩山水情缘民宿",
+        "location": "120.782482,51.262806",
+        "address": "莫尔道嘎镇龙山公园北50米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;旅馆招待所;旅馆招待所",
+        "typecode": "100200",
+        "anchorMeters": 813
+      },
+      {
+        "id": "B0IUHANU26",
+        "name": "清真东山羊肉饭店",
+        "location": "120.781986,51.263227",
+        "address": "莫尔道嘎镇龙山公园北100米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "typecode": "050000",
+        "anchorMeters": 868
+      },
+      {
+        "id": "B0KRPSMD6W",
+        "name": "额尔古纳龍山别墅",
+        "location": "120.783325,51.263975",
+        "address": "莫尔道嘎镇河东东风街05-260号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;住宿服务相关;住宿服务相关",
+        "typecode": "100000",
+        "anchorMeters": 926
+      },
+      {
+        "id": "B0FFJA6TIX",
+        "name": "山里人家铁锅炖",
+        "location": "120.781639,51.263920",
+        "address": "325县道龙山公园山下",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 949
+      },
+      {
+        "id": "B0FFH0MLYO",
+        "name": "额尔古纳莫尔道嘎青淼宾馆",
+        "location": "120.781937,51.264439",
+        "address": "莫尔道嘎镇龙山公园(东山)脚下",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;宾馆酒店",
+        "typecode": "100100",
+        "anchorMeters": 998
+      },
+      {
+        "id": "B0MDF59E9S",
+        "name": "聚源宾馆(莫尔道嘎龙山公园店)",
+        "location": "120.766556,51.265715",
+        "address": "莫尔道嘎镇西八彩旁西侧五十米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;住宿服务相关;住宿服务相关",
+        "typecode": "100000",
+        "anchorMeters": 1733
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\9a8662357f56538eac54.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:36+08:00"
+  },
+  "mordaga-new-bawang": {
+    "cityId": "mordaga",
+    "queries": [
+      "莫尔道嘎铁锅炖"
+    ],
+    "pois": [
+      {
+        "id": "B0FFH3NF7Z",
+        "name": "人民公社农家院铁锅炖",
+        "location": "120.779017,51.259009",
+        "address": "莫尔道嘎镇",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;东北菜",
+        "typecode": "050113",
+        "anchorMeters": 590
+      },
+      {
+        "id": "B0FFHBL73H",
+        "name": "粘豆包柴火铁锅炖",
+        "location": "120.779040,51.259881",
+        "address": "莫尔道嘎镇邮政局南侧26米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 652
+      },
+      {
+        "id": "B0KRCXEOLN",
+        "name": "东山铁锅炖",
+        "location": "120.778831,51.262256",
+        "address": "额尔古纳市莫尔道嘎第一小学南侧200米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 866
+      },
+      {
+        "id": "B0FFJA6TIX",
+        "name": "山里人家铁锅炖",
+        "location": "120.781639,51.263920",
+        "address": "325县道龙山公园山下",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 949
+      },
+      {
+        "id": "B0FFI5HPER",
+        "name": "庄家园铁锅炖",
+        "location": "120.782171,51.266766",
+        "address": "莫尔道嘎镇、飞马绿星广场东200米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 1246
+      },
+      {
+        "id": "B0FFIMT0T2",
+        "name": "林家铁锅炖",
+        "location": "120.761822,51.263478",
+        "address": "莫尔道嘎镇9居607号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 1872
+      },
+      {
+        "id": "B0L1ONMGI9",
+        "name": "孙旭柴火铁锅炖",
+        "location": "120.760475,51.266825",
+        "address": "伊舒洋大酒店西北侧130米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 2145
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\114417bac2afd007006d.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:36+08:00"
+  },
+  "bailudao-view": {
+    "cityId": "bailudao",
+    "queries": [
+      "白鹿岛观景台",
+      "白鹿岛"
+    ],
+    "pois": [
+      {
+        "id": "B0MUPXG1QE",
+        "name": "额尔古纳白鹿岛酒店地上停车场",
+        "location": "120.858340,51.940445",
+        "address": "白鹿岛酒店东侧",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 0
+      },
+      {
+        "id": "B0IROAWOLY",
+        "name": "额尔古纳白鹿岛酒店",
+        "location": "120.857734,51.940414",
+        "address": "莫尔道嘎森林公安局白鹿岛派出所东南侧约100米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;宾馆酒店",
+        "typecode": "100100",
+        "anchorMeters": 42
+      },
+      {
+        "id": "B0MG7XJ56F",
+        "name": "莫尔道嘎森林公安局白鹿岛派出所",
+        "location": "120.857375,51.940875",
+        "address": [],
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;公检法机构;公安警察",
+        "typecode": "130501",
+        "anchorMeters": 82
+      },
+      {
+        "id": "B0MAHKKVRU",
+        "name": "蒙马超级充电站(额尔古纳市白鹿岛酒店停车场快充电站)",
+        "location": "120.857530,51.941593",
+        "address": "莫尔道嘎镇331国道",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "汽车服务;充电站;专用充电站",
+        "typecode": "011103",
+        "anchorMeters": 139
+      },
+      {
+        "id": "B0KDXULSM1",
+        "name": "白鹿岛漂流",
+        "location": "120.868620,51.946861",
+        "address": "331国道",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;休闲场所;水上活动中心",
+        "typecode": "080505",
+        "anchorMeters": 1003
+      },
+      {
+        "id": "B0FFH04Q7P",
+        "name": "白鹿岛观景台",
+        "location": "120.856056,51.951036",
+        "address": "莫尔道嘎镇901县道东50米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;观景点",
+        "typecode": "110209",
+        "anchorMeters": 1188
+      },
+      {
+        "id": "B0FFH3H0NJ",
+        "name": "白鹿岛",
+        "location": "120.858815,51.952518",
+        "address": "莫尔道嘎国家森林公园内",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "typecode": "110000",
+        "anchorMeters": 1343
+      },
+      {
+        "id": "B0KUFMWXB7",
+        "name": "白鹿宾馆(额尔古纳湿地景区店)",
+        "location": "120.150728,50.243403",
+        "address": "拉布大林街道白鹿宾馆额尔古纳湿地冰泉小镇内(东侧)",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;宾馆酒店",
+        "typecode": "100100",
+        "anchorMeters": 195064
+      },
+      {
+        "id": "B0L07Z16WV",
+        "name": "白鹿缘鹿肉店",
+        "location": "119.741247,49.222731",
+        "address": "正阳街道朝阳佳园小区7号楼6号",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 312310
+      },
+      {
+        "id": "B0KARA9JA8",
+        "name": "苍狼白鹿主题民宿",
+        "location": "119.762133,49.217205",
+        "address": "阿荣路金榜银星小区",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;旅馆招待所;旅馆招待所",
+        "typecode": "100200",
+        "anchorMeters": 312537
+      },
+      {
+        "id": "B0FFG94I05",
+        "name": "白鹿苑蒙餐(鄂温克宾馆店)",
+        "location": "119.754625,49.146325",
+        "address": "巴彦托海镇巴彦拓海镇鄂温克宾馆",
+        "adname": "鄂温克族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 320322
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\03f69bbc8cb9b20f1144.json",
+      "amap-recommendation-evidence\\877b77fb521f6a027381.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:37+08:00"
+  },
+  "bailudao-new-linxi": {
+    "cityId": "bailudao",
+    "queries": [
+      "林曦农家菜",
+      "太平村"
+    ],
+    "pois": [
+      {
+        "id": "B0FFHE1DSE",
+        "name": "额尔古纳市莫尔道嘎太平林曦农家菜",
+        "location": "120.285873,51.501007",
+        "address": "莫尔道嘎镇太平林场桥头",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "typecode": "050000",
+        "anchorMeters": 62790
+      },
+      {
+        "id": "B0KRDAK7R6",
+        "name": "边陲饭店",
+        "location": "120.271505,51.503768",
+        "address": "莫尔道嘎镇太平村",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;旅馆招待所;旅馆招待所",
+        "typecode": "100200",
+        "anchorMeters": 63180
+      },
+      {
+        "id": "B0H1PN95PM",
+        "name": "太平岗村村民委员会",
+        "location": "123.740485,48.727974",
+        "address": "太平岗村卫生室东侧290米",
+        "adname": "莫力达瓦达斡尔族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府机关;乡镇以下级政府及事业单位",
+        "typecode": "130106",
+        "anchorMeters": 411561
+      },
+      {
+        "id": "B0H1PN9JE5",
+        "name": "太平桥村村民委员会",
+        "location": "123.834031,48.675792",
+        "address": [],
+        "adname": "莫力达瓦达斡尔族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府机关;乡镇以下级政府及事业单位",
+        "typecode": "130106",
+        "anchorMeters": 419958
+      },
+      {
+        "id": "B0H1PN9R2D",
+        "name": "太平川村村民委员会",
+        "location": "123.842893,48.620573",
+        "address": "太平卫生院-预防接种门诊东侧70米",
+        "adname": "莫力达瓦达斡尔族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府机关;乡镇以下级政府及事业单位",
+        "typecode": "130106",
+        "anchorMeters": 425648
+      },
+      {
+        "id": "B0H14OYN2I",
+        "name": "太平庄村村民委员会",
+        "location": "123.620209,48.448907",
+        "address": "308县道北40米",
+        "adname": "阿荣旗",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府机关;乡镇以下级政府及事业单位",
+        "typecode": "130106",
+        "anchorMeters": 435105
+      },
+      {
+        "id": "B0H1PN82J0",
+        "name": "太平桥村村民委员会",
+        "location": "123.929749,48.423656",
+        "address": [],
+        "adname": "阿荣旗",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府机关;乡镇以下级政府及事业单位",
+        "typecode": "130106",
+        "anchorMeters": 447952
+      },
+      {
+        "id": "B0H6D5ART1",
+        "name": "太平桥村人社社保服务大厅",
+        "location": "123.930204,48.423763",
+        "address": "兴安镇太平桥村",
+        "adname": "阿荣旗",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府机关;乡镇以下级政府及事业单位",
+        "typecode": "130106",
+        "anchorMeters": 447957
+      },
+      {
+        "id": "B0FFKVHERD",
+        "name": "太平沟村村民委员会",
+        "location": "123.336272,48.156609",
+        "address": "人社社保服务窗口(向阳峪镇太平沟村党群服务中心)西南侧",
+        "adname": "阿荣旗",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府机关;乡镇以下级政府及事业单位",
+        "typecode": "130106",
+        "anchorMeters": 456363
+      },
+      {
+        "id": "B0H65SM2H3",
+        "name": "向阳峪镇太平山村人社服务中心",
+        "location": "123.457268,48.045441",
+        "address": "向阳峪镇太平山村",
+        "adname": "阿荣旗",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府机关;乡镇以下级政府及事业单位",
+        "typecode": "130106",
+        "anchorMeters": 471193
+      },
+      {
+        "id": "B0H6DHAY4T",
+        "name": "就业服务业务太平沟村村民委员会",
+        "location": "122.293425,47.563212",
+        "address": "蘑阿公路太平沟村二组",
+        "adname": "扎兰屯市",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府机关;乡镇以下级政府及事业单位",
+        "typecode": "130106",
+        "anchorMeters": 497499
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\1704f557df89397cbccd.json",
+      "amap-recommendation-evidence\\48e121f8309698bd52d4.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:38+08:00"
+  },
+  "bailudao-restaurant": {
+    "cityId": "bailudao",
+    "queries": [
+      "白鹿岛酒店中餐厅"
+    ],
+    "pois": [
+      {
+        "id": "B0MUPXG1QE",
+        "name": "额尔古纳白鹿岛酒店地上停车场",
+        "location": "120.858340,51.940445",
+        "address": "白鹿岛酒店东侧",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 0
+      },
+      {
+        "id": "B0IROAWOLY",
+        "name": "额尔古纳白鹿岛酒店",
+        "location": "120.857734,51.940414",
+        "address": "莫尔道嘎森林公安局白鹿岛派出所东南侧约100米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;宾馆酒店",
+        "typecode": "100100",
+        "anchorMeters": 42
+      },
+      {
+        "id": "B0FFH3H0NJ",
+        "name": "白鹿岛",
+        "location": "120.858815,51.952518",
+        "address": "莫尔道嘎国家森林公园内",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "typecode": "110000",
+        "anchorMeters": 1343
+      },
+      {
+        "id": "B01D60NSPL",
+        "name": "白鹿酒店",
+        "location": "120.777524,51.260821",
+        "address": "莫尔道嘎中心街",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;宾馆酒店",
+        "typecode": "100100",
+        "anchorMeters": 75777
+      },
+      {
+        "id": "B0IAPZQ8O5",
+        "name": "白鹿异风园大酒店",
+        "location": "120.151053,50.243020",
+        "address": "冰泉小镇",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;宾馆酒店",
+        "typecode": "100100",
+        "anchorMeters": 195099
+      },
+      {
+        "id": "B01D600KVZ",
+        "name": "小渔船酒店(爱民西街店)",
+        "location": "120.733598,49.283899",
+        "address": "爱民西街五九煤炭职工综合楼3号楼1层门市106室",
+        "adname": "牙克石市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 295526
+      },
+      {
+        "id": "B0J3OUFMD8",
+        "name": "悦府中餐厅",
+        "location": "119.773592,49.224661",
+        "address": "伊敏大街16号海拉尔百府悦酒店3层",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 311533
+      },
+      {
+        "id": "B0I3FLWZ4E",
+        "name": "伯爵大酒店-中餐厅",
+        "location": "119.772325,49.215825",
+        "address": "伯爵大酒店",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 312509
+      },
+      {
+        "id": "B0G3AG9KOA",
+        "name": "这里中餐厅",
+        "location": "119.772522,49.215657",
+        "address": "626街伯爵酒店旁步行60米",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 312524
+      },
+      {
+        "id": "B0FFG94I05",
+        "name": "白鹿苑蒙餐(鄂温克宾馆店)",
+        "location": "119.754625,49.146325",
+        "address": "巴彦托海镇巴彦拓海镇鄂温克宾馆",
+        "adname": "鄂温克族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 320322
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\0c4a0fb4caeb3399a14c.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:38+08:00"
+  },
+  "linjiang-shilu": {
+    "cityId": "linjiang",
+    "queries": [
+      "驶路部落"
+    ],
+    "pois": [
+      {
+        "id": "B0MUJZRZB6",
+        "name": "邻溪驯鹿苑停车场",
+        "location": "119.983860,51.411257",
+        "address": "驶路部落精品民宿院内",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 269
+      },
+      {
+        "id": "B0FFH539WF",
+        "name": "森林之家民宿(呼伦贝尔室韦临江屯店)",
+        "location": "119.984469,51.411634",
+        "address": "驶路部落精品民宿(额尔古纳室韦店)东北侧50米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;住宿服务相关;住宿服务相关",
+        "typecode": "100000",
+        "anchorMeters": 284
+      },
+      {
+        "id": "B0MUZ98SOR",
+        "name": "驶路部落精品民宿(额尔古纳室韦店)",
+        "location": "119.984107,51.411223",
+        "address": "临江村一道街61号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅|体育休闲服务;休闲场所;休闲场所",
+        "typecode": "050100|080500",
+        "anchorMeters": 285
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\0cd6482d156bb63b9e33.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:39+08:00"
+  },
+  "linjiang-new-northhill": {
+    "cityId": "linjiang",
+    "queries": [
+      "临江北山坡",
+      "临江晨雾观景台"
+    ],
+    "pois": [
+      {
+        "id": "B0K2XZ7N9F",
+        "name": "临江村晨雾观景点",
+        "location": "119.997240,51.411277",
+        "address": "临江渔海宾馆东南侧190米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;风景名胜",
+        "typecode": "110200",
+        "anchorMeters": 1154
+      },
+      {
+        "id": "B01D6006KY",
+        "name": "腰店北山",
+        "location": "120.563352,51.611418",
+        "address": "额尔古纳市",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 45975
+      },
+      {
+        "id": "B0MB91VC6F",
+        "name": "恩和北山",
+        "location": "119.909806,50.832679",
+        "address": [],
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "商务住宅;住宅区;住宅区",
+        "typecode": "120300",
+        "anchorMeters": 64686
+      },
+      {
+        "id": "B01D600QAB",
+        "name": "恩和北山",
+        "location": "119.909769,50.832647",
+        "address": "额尔古纳市",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 64689
+      },
+      {
+        "id": "B0LUSZ3Y33",
+        "name": "北山咖啡",
+        "location": "119.912993,50.822881",
+        "address": "恩和俄罗斯族民族乡人民政府西侧50米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "生活服务;生活服务场所;生活服务场所",
+        "typecode": "070000",
+        "anchorMeters": 65756
+      },
+      {
+        "id": "B0LR7AINIT",
+        "name": "北山食堂",
+        "location": "119.910515,50.819890",
+        "address": "904县道",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 66100
+      },
+      {
+        "id": "B01D600RQ1",
+        "name": "三道沟北山",
+        "location": "120.676130,51.833734",
+        "address": "额尔古纳市",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 67053
+      },
+      {
+        "id": "B01D600VFA",
+        "name": "长梁北山",
+        "location": "121.002351,52.456916",
+        "address": "额尔古纳市",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 135597
+      },
+      {
+        "id": "B01D600T33",
+        "name": "哈北山",
+        "location": "120.156885,49.296413",
+        "address": "陈巴尔虎旗",
+        "adname": "陈巴尔虎旗",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 235652
+      },
+      {
+        "id": "B01D600QML",
+        "name": "北山",
+        "location": "119.784049,49.282738",
+        "address": "海拉尔区",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 237252
+      },
+      {
+        "id": "B0FFHBSHM1",
+        "name": "北山公园",
+        "location": "124.623630,49.746553",
+        "address": "伊勒呼里山南麓大杨树镇",
+        "adname": "鄂伦春自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;公园广场;公园",
+        "typecode": "110101",
+        "anchorMeters": 376459
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\955eb38e583b185747e4.json",
+      "amap-recommendation-evidence\\e7330d1261bebc8eb0d1.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:39+08:00"
+  },
+  "linjiang-new-shenxian": {
+    "cityId": "linjiang",
+    "queries": [
+      "临江神仙坡",
+      "界河观景点"
+    ],
+    "pois": [
+      {
+        "id": "B0FFJACTYG",
+        "name": "界河观景点(神仙坡)",
+        "location": "119.973726,51.401687",
+        "address": "蒙兀室韦苏木",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "typecode": "110000",
+        "anchorMeters": 1318
+      },
+      {
+        "id": "B0FFL8SBB9",
+        "name": "神仙居饭店",
+        "location": "119.920817,49.302175",
+        "address": "004乡道北侧",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 234719
+      },
+      {
+        "id": "B01D6005UG",
+        "name": "神仙落",
+        "location": "124.120186,48.548247",
+        "address": "莫力达瓦达斡尔族自治旗",
+        "adname": "莫力达瓦达斡尔族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 434672
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\1fd491735bc9e37ab615.json",
+      "amap-recommendation-evidence\\5b5f9b01b2997685a764.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:40+08:00"
+  },
+  "shiwei-tara": {
+    "cityId": "shiwei",
+    "queries": [
+      "塔拉牧场"
+    ],
+    "pois": [
+      {
+        "id": "B0LRBZNSJ9",
+        "name": "呼和塔拉家庭牧场",
+        "location": "119.667694,49.457170",
+        "address": "332国道西侧",
+        "adname": "陈巴尔虎旗",
+        "cityname": "呼伦贝尔市",
+        "type": "公司企业;农林牧渔基地;其它农林牧渔基地",
+        "typecode": "170400",
+        "anchorMeters": 209798
+      },
+      {
+        "id": "B0FFFRXOUX",
+        "name": "谢尔塔拉牧场良种场",
+        "location": "119.898925,49.312075",
+        "address": "哈克镇",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "公司企业;农林牧渔基地;其它农林牧渔基地",
+        "typecode": "170400",
+        "anchorMeters": 225249
+      },
+      {
+        "id": "B0FFJ429PT",
+        "name": "谢尔塔拉农牧场物资科",
+        "location": "119.915507,49.306111",
+        "address": "301县道东200米",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "公司企业;公司企业;公司企业",
+        "typecode": "170000",
+        "anchorMeters": 225912
+      },
+      {
+        "id": "B0FFF9023H",
+        "name": "谢尔塔拉牧场",
+        "location": "119.913323,49.301778",
+        "address": "哈克镇301县道与004乡道交叉口北",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "公司企业;农林牧渔基地;其它农林牧渔基地",
+        "typecode": "170400",
+        "anchorMeters": 226394
+      },
+      {
+        "id": "B01D601KGX",
+        "name": "呼伦贝尔农垦谢尔塔拉农牧场有限公司",
+        "location": "119.915365,49.301024",
+        "address": "004乡道与301县道交叉口东160米",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "公司企业;农林牧渔基地;其它农林牧渔基地|公司企业;公司;公司",
+        "typecode": "170400|170200",
+        "anchorMeters": 226478
+      },
+      {
+        "id": "B0L129UE60",
+        "name": "海拉尔区哈克镇谢尔塔拉第三牧场",
+        "location": "119.840375,49.295425",
+        "address": [],
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "公司企业;农林牧渔基地;其它农林牧渔基地",
+        "typecode": "170400",
+        "anchorMeters": 227148
+      },
+      {
+        "id": "B0LRDH76L9",
+        "name": "色汗塔拉家庭牧场",
+        "location": "119.510197,49.261161",
+        "address": "白音布日德嘎查路边48公里处左右",
+        "adname": "陈巴尔虎旗",
+        "cityname": "呼伦贝尔市",
+        "type": "公司企业;农林牧渔基地;其它农林牧渔基地",
+        "typecode": "170400",
+        "anchorMeters": 232618
+      },
+      {
+        "id": "B0FFMCYA6L",
+        "name": "塔拉牧场牛羊肉店",
+        "location": "119.765911,49.238693",
+        "address": "万家惠农贸市场12号楼141门市",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;综合市场;农副产品市场",
+        "typecode": "060703",
+        "anchorMeters": 233621
+      },
+      {
+        "id": "B0MUAN00GP",
+        "name": "谢尔塔拉农牧场",
+        "location": "119.764975,49.209225",
+        "address": "满洲里中路与莫尔道嘎街交叉口西20米",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "公司企业;公司企业;公司企业",
+        "typecode": "170000",
+        "anchorMeters": 236898
+      },
+      {
+        "id": "B0KKSM3FZV",
+        "name": "谢尔塔拉农牧场产品销售店",
+        "location": "119.765054,49.209159",
+        "address": [],
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;购物相关场所;购物相关场所",
+        "typecode": "060000",
+        "anchorMeters": 236905
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\d9b393bcc260c82e4040.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:41+08:00"
+  },
+  "shiwei-two lambs": {
+    "cityId": "shiwei",
+    "queries": [
+      "两只小绵羊"
+    ],
+    "pois": [
+      {
+        "id": "B0LR3CDKRV",
+        "name": "两只小绵羊餐厅",
+        "location": "119.906662,51.335350",
+        "address": "幸福路B号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 270
+      },
+      {
+        "id": "B0L0C7Z6BR",
+        "name": "两只小绵羊蒙餐",
+        "location": "124.624730,49.737268",
+        "address": "兴林街内蒙古大杨树林业局西侧",
+        "adname": "鄂伦春自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 377868
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\03c1b81e8b35b93b6326.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:41+08:00"
+  },
+  "shiwei-mengwu": {
+    "cityId": "shiwei",
+    "queries": [
+      "蒙兀奶茶"
+    ],
+    "pois": [
+      {
+        "id": "B0MU6HUQFP",
+        "name": "额尔古纳市室韦蒙兀部落",
+        "location": "119.905887,51.342493",
+        "address": "室韦望见河街北2-11-12号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;住宿服务相关;住宿服务相关",
+        "typecode": "100000",
+        "anchorMeters": 526
+      },
+      {
+        "id": "B0FFH39XC3",
+        "name": "蒙兀铜火锅(御景园店)",
+        "location": "120.735004,49.293537",
+        "address": "文明西街御景园E座7号",
+        "adname": "牙克石市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;火锅店",
+        "typecode": "050117",
+        "anchorMeters": 234794
+      },
+      {
+        "id": "B0MBHGHU89",
+        "name": "呼伦贝尔蒙兀之源旅游文化发展有限公司",
+        "location": "119.750275,49.219675",
+        "address": "草市路与兴华路交叉口西南120米",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "公司企业;公司;公司",
+        "typecode": "170200",
+        "anchorMeters": 235784
+      },
+      {
+        "id": "B0I1LZKM3G",
+        "name": "沪上阿姨·精选茶饮(呼伦贝尔海拉尔温州城步行街店)",
+        "location": "119.746328,49.212127",
+        "address": "正阳街道温州城二栋23号",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "typecode": "050000",
+        "anchorMeters": 236636
+      },
+      {
+        "id": "B0KKLRMAIG",
+        "name": "喜茶(呼伦贝尔成吉思汗广场店)",
+        "location": "119.768597,49.208342",
+        "address": "满洲里中路75号",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "typecode": "050000",
+        "anchorMeters": 236985
+      },
+      {
+        "id": "B0J2OUKH7Q",
+        "name": "茶李奶茶店(天润碧水瑜翠家园店)",
+        "location": "119.749828,49.208820",
+        "address": "正阳街",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;冷饮店;冷饮店",
+        "typecode": "050700",
+        "anchorMeters": 236991
+      },
+      {
+        "id": "B0FFGPWMWS",
+        "name": "诺敏塔拉奶茶(锦都会店)",
+        "location": "119.768264,49.208094",
+        "address": "诺敏路锦都会小区A15",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 237014
+      },
+      {
+        "id": "B01D60N9GX",
+        "name": "诺敏塔拉奶茶馆(西大街店)",
+        "location": "119.742053,49.205357",
+        "address": "西大街海晨家园门市17号楼",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;冷饮店;冷饮店",
+        "typecode": "050700",
+        "anchorMeters": 237402
+      },
+      {
+        "id": "B0MDD6KEZF",
+        "name": "茶之味奶茶店",
+        "location": "119.774932,49.200777",
+        "address": "成吉思汗中路与哈萨尔大街交叉口南340米",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "typecode": "050000",
+        "anchorMeters": 237808
+      },
+      {
+        "id": "B0FFI91S3Y",
+        "name": "蒙达奶茶馆早餐(成吉思汗小区店)",
+        "location": "122.735001,48.010797",
+        "address": "成吉思汗小区2号门东210米",
+        "adname": "扎兰屯市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;糕饼店;糕饼店",
+        "typecode": "050800",
+        "anchorMeters": 422160
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\90d5b078dc641f3ebdc4.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:42+08:00"
+  },
+  "shiwei-taliya": {
+    "cityId": "shiwei",
+    "queries": [
+      "塔莉娅"
+    ],
+    "pois": [
+      {
+        "id": "B0KRP7LJ49",
+        "name": "塔莉娅咖啡列巴屋",
+        "location": "119.905267,51.338311",
+        "address": "蒙兀室韦苏木文化街B33号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;咖啡厅;咖啡厅",
+        "typecode": "050500",
+        "anchorMeters": 105
+      },
+      {
+        "id": "B0KUV9SDDY",
+        "name": "额尔古纳室韦娜塔莉娅民宿",
+        "location": "119.901689,51.336575",
+        "address": "室韦魅力名镇旅游区",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;旅馆招待所;旅馆招待所",
+        "typecode": "100200",
+        "anchorMeters": 361
+      },
+      {
+        "id": "B0KAFAJQ10",
+        "name": "塔莉娅手工列巴坊恩和店",
+        "location": "119.916644,50.824230",
+        "address": "恩和俄罗斯民族乡政府旁200米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "typecode": "050000",
+        "anchorMeters": 57108
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\e3a2e2a51b295f13d7f1.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:42+08:00"
+  },
+  "shiwei-new-lvyou": {
+    "cityId": "shiwei",
+    "queries": [
+      "驴友小酒馆"
+    ],
+    "pois": [
+      {
+        "id": "B0FFG63UGN",
+        "name": "驴友小酒馆",
+        "location": "119.901983,51.338918",
+        "address": "室韦协荣街B37号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 339
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\1703b3e45cc8fd36605e.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:42+08:00"
+  },
+  "shiwei-new-mumin": {
+    "cityId": "shiwei",
+    "queries": [
+      "牧民的日常"
+    ],
+    "pois": [
+      {
+        "id": "B0KUSYLAUV",
+        "name": "牧民的日常蒙古茶餐厅",
+        "location": "119.907450,51.335356",
+        "address": "蒙兀室韦苏木幸福路B4号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;快餐厅;茶餐厅",
+        "typecode": "050305",
+        "anchorMeters": 277
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\c873bee581ce309a193e.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:43+08:00"
+  },
+  "shiwei-new-aoluoqi": {
+    "cityId": "shiwei",
+    "queries": [
+      "奥洛契庄园"
+    ],
+    "pois": [
+      {
+        "id": "B0FFJF1967",
+        "name": "奥洛契庄园",
+        "location": "119.944293,51.369790",
+        "address": "室韦农牧场距离室韦5公里",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "typecode": "110000",
+        "anchorMeters": 4422
+      },
+      {
+        "id": "B0M2B79QLQ",
+        "name": "奥洛契庄园-南侧地上停车场",
+        "location": "119.950467,51.370813",
+        "address": "奥洛契庄园东侧440米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 4776
+      },
+      {
+        "id": "B0K1TSUGUV",
+        "name": "奥洛契庄园游客中心西停车场",
+        "location": "119.950466,51.370815",
+        "address": "奥洛契庄园售票处西侧160米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 4776
+      },
+      {
+        "id": "B0I27ANEGE",
+        "name": "奥洛契庄园售票处",
+        "location": "119.952793,51.371105",
+        "address": "奥洛契庄园",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "生活服务;售票处;公园景点售票处",
+        "typecode": "070306",
+        "anchorMeters": 4905
+      },
+      {
+        "id": "B0I27AMRED",
+        "name": "奥洛契庄园游客服务中心",
+        "location": "119.952816,51.371129",
+        "address": "奥洛契庄园",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "生活服务;信息咨询中心;服务中心",
+        "typecode": "070201",
+        "anchorMeters": 4908
+      },
+      {
+        "id": "B0I27AM4BN",
+        "name": "奥洛契庄园游客中心东停车场",
+        "location": "119.953296,51.371006",
+        "address": "奥洛契庄园",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 4920
+      },
+      {
+        "id": "B0KUSDKVWN",
+        "name": "汽车充电站",
+        "location": "119.953004,51.371248",
+        "address": "奥洛契庄园游客中心东停车场",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "汽车服务;充电站;充电站",
+        "typecode": "011100",
+        "anchorMeters": 4927
+      },
+      {
+        "id": "B0L62K9NDZ",
+        "name": "蒙马超级充电站(额尔古纳市奥洛契庄园停车场快充电站)",
+        "location": "119.955390,51.371426",
+        "address": "蒙兀室韦苏木奥洛契庄园游客中心东停车场",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "汽车服务;充电站;充电站",
+        "typecode": "011100",
+        "anchorMeters": 5051
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\1bf3102b08525b2371f3.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:43+08:00"
+  },
+  "jiuka-view": {
+    "cityId": "jiuka",
+    "queries": [
+      "九卡落日最佳拍摄点"
+    ],
+    "pois": [
+      {
+        "id": "B0L367A2EJ",
+        "name": "九卡落日最佳拍摄点",
+        "location": "119.749176,51.056132",
+        "address": [],
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "typecode": "110000",
+        "anchorMeters": 0
+      },
+      {
+        "id": "B01D600Q9Z",
+        "name": "九卡沟",
+        "location": "119.858839,50.857491",
+        "address": "额尔古纳市",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 23385
+      },
+      {
+        "id": "B0IDCRIR9K",
+        "name": "犯色旅拍摄影工作室(御景花园店)",
+        "location": "119.728100,49.208676",
+        "address": "御景花园1号门市",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "生活服务;摄影冲印店;摄影冲印",
+        "typecode": "071300",
+        "anchorMeters": 205434
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\cb6ff29e2d62d33c69f8.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:44+08:00"
+  },
+  "qika-lanni": {
+    "cityId": "qika",
+    "queries": [
+      "兰妮农家院",
+      "兰妮"
+    ],
+    "pois": [
+      {
+        "id": "B0JUVD9NJ0",
+        "name": "兰妮农家院",
+        "location": "119.535796,50.743351",
+        "address": "恩和七卡",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;休闲场所;休闲场所",
+        "typecode": "080500",
+        "anchorMeters": 76
+      },
+      {
+        "id": "B0M6NRFPKC",
+        "name": "兰妮托管中心",
+        "location": "120.738475,49.283225",
+        "address": "牙克石市第一小学北2门西170米",
+        "adname": "牙克石市",
+        "cityname": "呼伦贝尔市",
+        "type": "科教文化服务;培训机构;培训机构",
+        "typecode": "141400",
+        "anchorMeters": 183625
+      },
+      {
+        "id": "B0JK9UFOK9",
+        "name": "兰妮厚德托管中心",
+        "location": "120.741225,49.283475",
+        "address": "皇冠南区11号楼6号门市",
+        "adname": "牙克石市",
+        "cityname": "呼伦贝尔市",
+        "type": "科教文化服务;培训机构;培训机构",
+        "typecode": "141400",
+        "anchorMeters": 183693
+      },
+      {
+        "id": "B0KRR5QJ4V",
+        "name": "郁肤兰妮美容院",
+        "location": "123.475684,48.122298",
+        "address": "福利路10号",
+        "adname": "阿荣旗",
+        "cityname": "呼伦贝尔市",
+        "type": "生活服务;美容美发店;美容美发店",
+        "typecode": "071100",
+        "anchorMeters": 407387
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\b26ca4bdf7fadecc6e61.json",
+      "amap-recommendation-evidence\\824d093987b074f72714.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:44+08:00"
+  },
+  "qika-danjie": {
+    "cityId": "qika",
+    "queries": [
+      "丹姐农家院"
+    ],
+    "pois": [
+      {
+        "id": "B0JUZBU06B",
+        "name": "丹姐农家院",
+        "location": "119.522370,50.748283",
+        "address": "七卡主街西侧",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;休闲场所;休闲场所",
+        "typecode": "080500",
+        "anchorMeters": 1168
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\a3018d808632c3f39b85.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:45+08:00"
+  },
+  "qika-laowu": {
+    "cityId": "qika",
+    "queries": [
+      "七卡老伍",
+      "老伍农家乐"
+    ],
+    "pois": [
+      {
+        "id": "B0KU3AGQAQ",
+        "name": "七卡老伍农家院",
+        "location": "119.536675,50.743501",
+        "address": [],
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;休闲场所;休闲场所",
+        "typecode": "080500",
+        "anchorMeters": 61
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\bc1913e2da03e86a33b9.json",
+      "amap-recommendation-evidence\\32d0aa36ec8d700001a2.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:45+08:00"
+  },
+  "qika-wulan": {
+    "cityId": "qika",
+    "queries": [
+      "乌兰山"
+    ],
+    "pois": [
+      {
+        "id": "B0FFM3EAVX",
+        "name": "额尔古纳河乌兰山景区",
+        "location": "119.451961,50.603812",
+        "address": "黑山头镇X904",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "typecode": "110000",
+        "anchorMeters": 16583
+      },
+      {
+        "id": "B01D600WOG",
+        "name": "乌兰山",
+        "location": "119.391050,50.622386",
+        "address": "额尔古纳市",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 16882
+      },
+      {
+        "id": "B0JUKZ2ECL",
+        "name": "公共厕所(乌兰山景区内)",
+        "location": "119.369048,50.622647",
+        "address": [],
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "公共设施;公共设施;公共设施",
+        "typecode": "200000",
+        "anchorMeters": 17844
+      },
+      {
+        "id": "B0H2B7MAOU",
+        "name": "额尔古纳河乌兰山景区停车场",
+        "location": "119.357728,50.616547",
+        "address": [],
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 18882
+      },
+      {
+        "id": "B0H2B7KSB8",
+        "name": "额尔古纳河乌兰山景区游客中心",
+        "location": "119.358468,50.615464",
+        "address": "黑山头镇X904额尔古纳河乌兰山景区内(西侧)",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "生活服务;信息咨询中心;服务中心",
+        "typecode": "070201",
+        "anchorMeters": 18937
+      },
+      {
+        "id": "B0H2B7KK7S",
+        "name": "额尔古纳河乌兰山景区售票处",
+        "location": "119.358494,50.615420",
+        "address": "黑山头镇X904额尔古纳河乌兰山景区内(西侧)",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "生活服务;售票处;公园景点售票处",
+        "typecode": "070306",
+        "anchorMeters": 18940
+      },
+      {
+        "id": "B0IRS9GRVC",
+        "name": "额尔古纳河乌兰山景区停车场",
+        "location": "119.352310,50.614808",
+        "address": "黑山头镇X904额尔古纳河乌兰山景区内(西侧)",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 19282
+      },
+      {
+        "id": "B0K0SC746P",
+        "name": "乌兰山驿站",
+        "location": "119.351776,50.614142",
+        "address": "黑山头镇六卡乌兰山景区停车场",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "道路附属设施;服务区;公路驿站",
+        "typecode": "180303",
+        "anchorMeters": 19362
+      },
+      {
+        "id": "B0KATNO1HX",
+        "name": "额尔古纳河乌兰山度假酒店",
+        "location": "119.351093,50.614061",
+        "address": "黑山头镇乌兰山乌兰山旅游景区游客服务中心",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;宾馆酒店",
+        "typecode": "100100",
+        "anchorMeters": 19401
+      },
+      {
+        "id": "B0L1A9K1EZ",
+        "name": "乌兰山驿站",
+        "location": "119.350931,50.613940",
+        "address": "额尔古纳市",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;交通地名;道路名",
+        "typecode": "190301",
+        "anchorMeters": 19418
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\d6d1ef4477b0edc1130f.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:46+08:00"
+  },
+  "qika-new-shubian": {
+    "cityId": "qika",
+    "queries": [
+      "七卡戍边食府"
+    ],
+    "pois": [
+      {
+        "id": "B0JDN56M8O",
+        "name": "七卡戍边食府",
+        "location": "119.536672,50.742951",
+        "address": "恩和民族乡七卡村",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 0
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\692cb54257db77ac7b67.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:46+08:00"
+  },
+  "qika-new-caoyuan": {
+    "cityId": "qika",
+    "queries": [
+      "七卡草原美食"
+    ],
+    "pois": [
+      {
+        "id": "B0FFKUKKZ1",
+        "name": "草原美食餐厅",
+        "location": "119.534994,50.743786",
+        "address": "恩和七卡队82栋89号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 150
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\6364c56a07ab9692ab09.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:47+08:00"
+  },
+  "heishantou-yipinxiang": {
+    "cityId": "heishantou",
+    "queries": [
+      "黑山头一品香"
+    ],
+    "pois": [
+      {
+        "id": "B0FFI1N1ZR",
+        "name": "一品香家常菜馆",
+        "location": "119.574453,50.215050",
+        "address": "蜜雪冰城(黑山头店)西侧70米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 278
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\0f7e461b913d5729c88a.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:47+08:00"
+  },
+  "heishantou-risheng": {
+    "cityId": "heishantou",
+    "queries": [
+      "日晟烤吧"
+    ],
+    "pois": [
+      {
+        "id": "B0MU49CXSI",
+        "name": "黑山头日晟烤吧有间烤肉店",
+        "location": "119.586132,50.215916",
+        "address": "巴音商店东侧",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 563
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\c48935e095c326bfc2be.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:47+08:00"
+  },
+  "heishantou-lamb ranch": {
+    "cityId": "heishantou",
+    "queries": [
+      "小绵羊牧场餐厅"
+    ],
+    "pois": [
+      {
+        "id": "B0L1OHNYO4",
+        "name": "呼鲁格马术营地",
+        "location": "119.495656,50.215377",
+        "address": "黑山头梁西村南一街(小绵羊牧场东侧)",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;体育休闲服务场所;体育休闲服务场所",
+        "typecode": "080000",
+        "anchorMeters": 5875
+      },
+      {
+        "id": "B0JRZZ1EE9",
+        "name": "小绵羊牧场餐厅",
+        "location": "119.494277,50.215553",
+        "address": "黑山头镇小绵羊牧场西侧50m",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;体育休闲服务场所;体育休闲服务场所",
+        "typecode": "080000",
+        "anchorMeters": 5974
+      },
+      {
+        "id": "B0J06CRNW0",
+        "name": "小绵羊牧场",
+        "location": "119.494275,50.215575",
+        "address": "黑山头镇梁西村301省道忠良农家小院西北300米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;体育休闲服务场所;体育休闲服务场所",
+        "typecode": "080000",
+        "anchorMeters": 5974
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\d5806f6db569bc947ea8.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:48+08:00"
+  },
+  "heishantou-gushan": {
+    "cityId": "heishantou",
+    "queries": [
+      "黑山头孤山",
+      "孤山"
+    ],
+    "pois": [
+      {
+        "id": "B01D60NAPS",
+        "name": "黑山头镇人民政府",
+        "location": "119.578229,50.215675",
+        "address": "301省道北50米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府机关;乡镇级政府及事业单位",
+        "typecode": "130105",
+        "anchorMeters": 0
+      },
+      {
+        "id": "B0MDVSNG94",
+        "name": "黑山头草原度假区",
+        "location": "119.554941,50.210636",
+        "address": "331国道52号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;风景名胜",
+        "typecode": "110200",
+        "anchorMeters": 1749
+      },
+      {
+        "id": "B0G1XRH1N3",
+        "name": "黑山头",
+        "location": "119.541564,50.220851",
+        "address": "额尔古纳市",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 2671
+      },
+      {
+        "id": "B0HUKN51FP",
+        "name": "黑山头日落观测点",
+        "location": "119.532592,50.214262",
+        "address": [],
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府及社会团体相关;政府及社会团体相关",
+        "typecode": "130000",
+        "anchorMeters": 3251
+      },
+      {
+        "id": "B01D6004QM",
+        "name": "孤山",
+        "location": "119.485749,50.303678",
+        "address": "额尔古纳市",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 11789
+      },
+      {
+        "id": "B0K2DCDS82",
+        "name": "黑山头界河景区",
+        "location": "119.391922,50.208367",
+        "address": [],
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "typecode": "110000",
+        "anchorMeters": 13282
+      },
+      {
+        "id": "B01D60NHWU",
+        "name": "黑山头",
+        "location": "119.313429,49.252247",
+        "address": "陈巴尔虎旗",
+        "adname": "陈巴尔虎旗",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 108806
+      },
+      {
+        "id": "B01D60N3FB",
+        "name": "黑山头",
+        "location": "120.565439,49.311487",
+        "address": "陈巴尔虎旗",
+        "adname": "陈巴尔虎旗",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 123027
+      },
+      {
+        "id": "B01D6014E0",
+        "name": "黑山头",
+        "location": "120.968939,49.005717",
+        "address": "牙克石市",
+        "adname": "牙克石市",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 167749
+      },
+      {
+        "id": "B01D600X3C",
+        "name": "孤山",
+        "location": "123.215151,48.074554",
+        "address": "阿荣旗",
+        "adname": "阿荣旗",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 355824
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\e721b66a7c0ecaf61ca5.json",
+      "amap-recommendation-evidence\\8a20d548aab1dc8775b0.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:49+08:00"
+  },
+  "heishantou-sunset": {
+    "cityId": "heishantou",
+    "queries": [
+      "黑山头日落"
+    ],
+    "pois": [
+      {
+        "id": "B0L2Y7XH2I",
+        "name": "黑山头日落山民宿(黑山镇二店)",
+        "location": "119.558625,50.217425",
+        "address": "呼伦贝尔蒙古包民宿(黑山头镇店)西侧",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;旅馆招待所;旅馆招待所",
+        "typecode": "100200",
+        "anchorMeters": 1408
+      },
+      {
+        "id": "B0HU7SYKWY",
+        "name": "额尔古纳日落山酒店",
+        "location": "119.556067,50.213927",
+        "address": "904县道黑山头新镇",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;宾馆酒店",
+        "typecode": "100100",
+        "anchorMeters": 1589
+      },
+      {
+        "id": "B0LUY5PP51",
+        "name": "黑山头日落山停车场",
+        "location": "119.554693,50.216210",
+        "address": "黑山头镇中央大街林原马场679号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "生活服务;生活服务场所;生活服务场所",
+        "typecode": "070000",
+        "anchorMeters": 1676
+      },
+      {
+        "id": "B0MRFLUHOI",
+        "name": "黑山头地上停车场",
+        "location": "119.554675,50.216225",
+        "address": "黑山头日落山停车场西北侧",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904",
+        "anchorMeters": 1677
+      },
+      {
+        "id": "B0FFKLDULO",
+        "name": "黑山头哈撒尔马场",
+        "location": "119.554701,50.209482",
+        "address": "331国道52号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;体育休闲服务场所;体育休闲服务场所",
+        "typecode": "080000",
+        "anchorMeters": 1810
+      },
+      {
+        "id": "B0GR5H2NJA",
+        "name": "黑山头巴特尔骑马场",
+        "location": "119.553883,50.209131",
+        "address": "黑山头镇新镇331国道旁",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;娱乐场所;娱乐场所",
+        "typecode": "080300",
+        "anchorMeters": 1879
+      },
+      {
+        "id": "B0G1XRH1N3",
+        "name": "黑山头",
+        "location": "119.541564,50.220851",
+        "address": "额尔古纳市",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 2671
+      },
+      {
+        "id": "B0HUKN51FP",
+        "name": "黑山头日落观测点",
+        "location": "119.532592,50.214262",
+        "address": [],
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "政府机构及社会团体;政府及社会团体相关;政府及社会团体相关",
+        "typecode": "130000",
+        "anchorMeters": 3251
+      },
+      {
+        "id": "B0JRYD0ETH",
+        "name": "黑山头牧野野骑马场(暂停营业)",
+        "location": "119.550825,50.257377",
+        "address": "黑山头十八家",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;体育休闲服务场所;体育休闲服务场所",
+        "typecode": "080000",
+        "anchorMeters": 5030
+      },
+      {
+        "id": "B0KA97OOTU",
+        "name": "额尔古纳黑山头草原迎宾部落宾馆",
+        "location": "119.469261,50.207508",
+        "address": "黑山头老镇日落山梁西村宝胜马场旁",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;宾馆酒店",
+        "typecode": "100100",
+        "anchorMeters": 7807
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\3d6054cb67063b08d7f5.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:49+08:00"
+  },
+  "heishantou-bonfire": {
+    "cityId": "heishantou",
+    "queries": [
+      "牧马人篝火"
+    ],
+    "pois": [
+      {
+        "id": "B0LUTL5H32",
+        "name": "牧马人烤全羊篝火",
+        "location": "119.747156,49.271715",
+        "address": "农林西二道街1号",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 105663
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\4e7aed826386652f0e62.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:50+08:00"
+  },
+  "heishantou-new-youmu": {
+    "cityId": "heishantou",
+    "queries": [
+      "游牧之行庄园"
+    ],
+    "pois": [
+      {
+        "id": "B0KR9BBTPE",
+        "name": "游牧之行庄园餐厅奶茶店(暂停营业)",
+        "location": "119.585837,50.216066",
+        "address": "巴音商店西北侧",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "typecode": "050000",
+        "anchorMeters": 543
+      },
+      {
+        "id": "B0FFJ6R2UN",
+        "name": "陈巴尔虎旗天边草原游牧部落",
+        "location": "118.988325,49.971025",
+        "address": "格根胡硕嘎查边防公路190地段",
+        "adname": "陈巴尔虎旗",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;休闲场所;休闲场所",
+        "typecode": "080500",
+        "anchorMeters": 50109
+      },
+      {
+        "id": "B0FFJ93JFW",
+        "name": "阿都特游牧部落",
+        "location": "118.057863,49.587331",
+        "address": "黑山头边防公路274公里处",
+        "adname": "新巴尔虎左旗",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;体育休闲服务场所;体育休闲服务场所",
+        "typecode": "080000",
+        "anchorMeters": 129374
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\288cacca5095ef599830.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:50+08:00"
+  },
+  "heishantou-new-mazhi": {
+    "cityId": "heishantou",
+    "queries": [
+      "黑山头马之舞"
+    ],
+    "pois": [
+      {
+        "id": "B0LR67HD61",
+        "name": "马背牧歌|Family|纯享蒙古包民宿(额尔古纳黑山头店)",
+        "location": "119.579419,50.216965",
+        "address": "黑山头镇梁东村中央大街52号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;旅馆招待所;旅馆招待所",
+        "typecode": "100200",
+        "anchorMeters": 167
+      },
+      {
+        "id": "B0FFJD689J",
+        "name": "额尔古纳黑山头琳达庄园",
+        "location": "119.593677,50.215701",
+        "address": "黑山头镇梁东村奶牛小区",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;体育休闲服务场所;体育休闲服务场所|住宿服务;住宿服务相关;住宿服务相关|餐饮服务;餐饮相关场所;餐饮相关",
+        "typecode": "080000|100000|050000",
+        "anchorMeters": 1099
+      },
+      {
+        "id": "B0KR65XP2F",
+        "name": "额尔古纳黑山头绿野马帮骑马场",
+        "location": "119.554671,50.211173",
+        "address": "331国道52号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;运动场馆;运动场所",
+        "typecode": "080100",
+        "anchorMeters": 1749
+      },
+      {
+        "id": "B0FFKLDULO",
+        "name": "黑山头哈撒尔马场",
+        "location": "119.554701,50.209482",
+        "address": "331国道52号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;体育休闲服务场所;体育休闲服务场所",
+        "typecode": "080000",
+        "anchorMeters": 1810
+      },
+      {
+        "id": "B0GR5H2NJA",
+        "name": "黑山头巴特尔骑马场",
+        "location": "119.553883,50.209131",
+        "address": "黑山头镇新镇331国道旁",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;娱乐场所;娱乐场所",
+        "typecode": "080300",
+        "anchorMeters": 1879
+      },
+      {
+        "id": "B0J1FPAADN",
+        "name": "黑山头哈撒尔骑马场",
+        "location": "119.535275,50.214925",
+        "address": "新镇301省道路北",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;运动场馆;运动场所",
+        "typecode": "080100",
+        "anchorMeters": 3057
+      },
+      {
+        "id": "B0FFH95XNS",
+        "name": "黑山头草源牧马人宾馆",
+        "location": "119.469916,50.208095",
+        "address": "黑山头梁西村一街北46号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;宾馆酒店|住宿服务;旅馆招待所;旅馆招待所",
+        "typecode": "100100|100200",
+        "anchorMeters": 7753
+      },
+      {
+        "id": "B01D60NHWU",
+        "name": "黑山头",
+        "location": "119.313429,49.252247",
+        "address": "陈巴尔虎旗",
+        "adname": "陈巴尔虎旗",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 108806
+      },
+      {
+        "id": "B01D60N3FB",
+        "name": "黑山头",
+        "location": "120.565439,49.311487",
+        "address": "陈巴尔虎旗",
+        "adname": "陈巴尔虎旗",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;山",
+        "typecode": "190203",
+        "anchorMeters": 123027
+      },
+      {
+        "id": "B0JRRUSP9B",
+        "name": "马之舞大型马术表演",
+        "location": "118.052922,49.499059",
+        "address": "嵯岗牧场301国道巴尔虎蒙古部落内",
+        "adname": "新巴尔虎左旗",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "typecode": "110000",
+        "anchorMeters": 135294
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\eb71176eb22b60d3feb8.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:51+08:00"
+  },
+  "heishantou-new-laogao": {
+    "cityId": "heishantou",
+    "queries": [
+      "老高马场"
+    ],
+    "pois": [
+      {
+        "id": "B0I2BR7LEJ",
+        "name": "那日苏蒙古包民宿",
+        "location": "119.487475,50.211525",
+        "address": "黑山头镇梁西村老高马场东北200米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;旅馆招待所;旅馆招待所",
+        "typecode": "100200",
+        "anchorMeters": 6474
+      },
+      {
+        "id": "B0HULZ3FCR",
+        "name": "老高马场(额尔古纳市黑山头店)",
+        "location": "119.483576,50.209402",
+        "address": "老镇近马场活动区",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;运动场馆;赛马场",
+        "typecode": "080116",
+        "anchorMeters": 6771
+      },
+      {
+        "id": "B0MU57TICP",
+        "name": "额尔古纳市黑山头店",
+        "location": "119.483425,50.209675",
+        "address": "老高马场(额尔古纳市黑山头店)西北侧",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "体育休闲服务;休闲场所;休闲场所",
+        "typecode": "080500",
+        "anchorMeters": 6779
+      },
+      {
+        "id": "B0J2OUFROX",
+        "name": "房东老高公寓(机场大街分店)",
+        "location": "119.778754,49.209835",
+        "address": "机场大街战友经贸有限公司战友服务社草原如家假日酒店",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;旅馆招待所;旅馆招待所",
+        "typecode": "100200",
+        "anchorMeters": 112770
+      },
+      {
+        "id": "B0G0PHDXZU",
+        "name": "老高花鸟鱼",
+        "location": "121.533392,50.782720",
+        "address": "阿龙山街与团结路交叉口西南40米",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;花鸟鱼虫市场;花鸟鱼虫市场",
+        "typecode": "060500",
+        "anchorMeters": 151978
+      },
+      {
+        "id": "B0JGNSV06L",
+        "name": "老高修理部",
+        "location": "122.494780,50.648117",
+        "address": "杜鹃路47号",
+        "adname": "鄂伦春自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "生活服务;维修站点;维修站点",
+        "typecode": "071200",
+        "anchorMeters": 212088
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\11811dbf782f1d292423.json"
+    ],
+    "queriedAt": "2026-09-18T01:54:51+08:00"
+  },
+  "deerbur-new-shanshan": {
+    "cityId": "deerbur",
+    "queries": [
+      "得耳布尔姗姗馅饼",
+      "姗姗馅饼"
+    ],
+    "pois": [
+      {
+        "id": "B0IGCOJFO0",
+        "name": "清真姗姗馅饼店",
+        "location": "121.051184,50.994090",
+        "address": "Z008南30米",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "typecode": "050000",
+        "anchorMeters": 972
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\47620b0fa85f21768609.json",
+      "amap-recommendation-evidence\\45359df865e4c07fbefa.json"
+    ],
+    "queriedAt": "2026-09-18T01:59:18+08:00"
+  },
+  "deerbur-new-cold": {
+    "cityId": "deerbur",
+    "queries": [
+      "得耳布尔冷极碑"
+    ],
+    "pois": [
+      {
+        "id": "B0LRB1OOUN",
+        "name": "根河得耳布尔冷极湖宾馆",
+        "location": "121.071076,51.006067",
+        "address": "得耳布尔汽车站东北方向900米左右",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;宾馆酒店;宾馆酒店",
+        "typecode": "100100",
+        "anchorMeters": 1230
+      },
+      {
+        "id": "B0FFL36RWA",
+        "name": "中国冷极碑",
+        "location": "121.292844,51.031872",
+        "address": "324县道附近",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;风景名胜",
+        "typecode": "110200",
+        "anchorMeters": 16450
+      },
+      {
+        "id": "B0L276HYHW",
+        "name": "中国冷极三角碑",
+        "location": "121.500375,50.769925",
+        "address": "冷极温度计",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜相关;旅游景点",
+        "typecode": "110000",
+        "anchorMeters": 39548
+      },
+      {
+        "id": "B0FFGQF15H",
+        "name": "得耳布尔街",
+        "location": "121.520977,50.784310",
+        "address": "根河市",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;交通地名;道路名",
+        "typecode": "190301",
+        "anchorMeters": 39704
+      },
+      {
+        "id": "B0K3FDPQPH",
+        "name": "冷极广场",
+        "location": "121.519793,50.773449",
+        "address": "迎宾路与双拥街交叉口西南80米",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;公园广场;城市广场",
+        "typecode": "110105",
+        "anchorMeters": 40368
+      },
+      {
+        "id": "B0L2OHVTAA",
+        "name": "中国冷极温度计",
+        "location": "121.520510,50.773438",
+        "address": "冷极广场内(东侧)",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;专卖店;专营店",
+        "typecode": "061200",
+        "anchorMeters": 40408
+      },
+      {
+        "id": "BY0001PECR",
+        "name": "得耳布尔河",
+        "location": "119.625236,50.336136",
+        "address": "额尔古纳市",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "地名地址信息;自然地名;河流",
+        "typecode": "190204",
+        "anchorMeters": 125191
+      },
+      {
+        "id": "B0I6MH0VU1",
+        "name": "牙克石冷极旗舰店",
+        "location": "120.736480,49.283877",
+        "address": "中央街四道街街口西侧",
+        "adname": "牙克石市",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;家电电子卖场;家电电子卖场",
+        "typecode": "060300",
+        "anchorMeters": 191782
+      },
+      {
+        "id": "B0IU4GF493",
+        "name": "冷极商旅酒店(呼伦贝尔海拉尔机场店)",
+        "location": "119.817579,49.244511",
+        "address": "孟根大街岭上家园E区45号楼101室",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;住宿服务相关;住宿服务相关",
+        "typecode": "100000",
+        "anchorMeters": 214062
+      },
+      {
+        "id": "B0IUV7R33X",
+        "name": "冷极商旅酒店大堂",
+        "location": "119.817596,49.244420",
+        "address": "冷极商旅酒店(呼伦贝尔海拉尔机场店)",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;住宿服务相关;住宿服务相关",
+        "typecode": "100000",
+        "anchorMeters": 214071
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\8e3386283a1a32e6269f.json"
+    ],
+    "queriedAt": "2026-09-18T01:59:19+08:00"
+  },
+  "genhe-new-xindingyuan": {
+    "cityId": "genhe",
+    "queries": [
+      "鑫鼎园铜锅"
+    ],
+    "pois": [
+      {
+        "id": "B0FFFGOPDH",
+        "name": "鑫鼎园大铜锅",
+        "location": "121.528129,50.781669",
+        "address": "新华街新华家园小区1号楼",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 599
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\823d61f607c705049fdd.json"
+    ],
+    "queriedAt": "2026-09-18T02:03:59+08:00"
+  },
+  "mordaga-new-jiemei": {
+    "cityId": "mordaga",
+    "queries": [
+      "姐妹酒家"
+    ],
+    "pois": [
+      {
+        "id": "B0FFFGP0DC",
+        "name": "姐妹酒家(河东一道街店)",
+        "location": "120.778982,51.260249",
+        "address": "莫尔道嘎镇河东一道街02-412",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 684
+      },
+      {
+        "id": "B0FFIFGLCI",
+        "name": "姐妹小吃",
+        "location": "119.802710,49.347610",
+        "address": "神宝路西侧",
+        "adname": "陈巴尔虎旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 223366
+      },
+      {
+        "id": "B0FFHCI0J8",
+        "name": "姐妹超市(金明小区店)",
+        "location": "119.805847,49.265793",
+        "address": "中俄蒙汽车城金铭国际小区7号楼1号门市",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;便民商店/便利店;便民商店/便利店",
+        "typecode": "060200",
+        "anchorMeters": 231976
+      },
+      {
+        "id": "B0JRTBUZ2W",
+        "name": "海拉尔站前姐妹名宿公寓(新港二路分店)",
+        "location": "119.745475,49.226975",
+        "address": "新港二路银海小区(沟沿路)C栋",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;住宿服务相关;住宿服务相关",
+        "typecode": "100000",
+        "anchorMeters": 237407
+      },
+      {
+        "id": "B01D60NGSW",
+        "name": "姐妹袜行(开发区商城店)",
+        "location": "119.747082,49.215943",
+        "address": "开发区商城西门旁",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;服装鞋帽皮具店;服装鞋帽皮具店",
+        "typecode": "061100",
+        "anchorMeters": 238540
+      },
+      {
+        "id": "B0ID5GE2ZB",
+        "name": "姐妹快餐(天信小区店)",
+        "location": "119.744448,49.212396",
+        "address": "天信小区5号楼",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;快餐厅;快餐厅",
+        "typecode": "050300",
+        "anchorMeters": 238974
+      },
+      {
+        "id": "B0LA3RFYKE",
+        "name": "姐妹包子铺",
+        "location": "119.747476,49.211068",
+        "address": "北大街4-附2号",
+        "adname": "海拉尔区",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 239048
+      },
+      {
+        "id": "B0LKDRONLH",
+        "name": "姐妹鱼肉店",
+        "location": "119.739925,49.152825",
+        "address": "一七三二街与维纳河路交叉口北460米",
+        "adname": "鄂温克族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "购物服务;专卖店;专营店",
+        "typecode": "061200",
+        "anchorMeters": 245392
+      },
+      {
+        "id": "B0MAJX505S",
+        "name": "乌娜姐妹饭店",
+        "location": "119.750825,49.141525",
+        "address": "财贸街与辉河路交叉口东80米",
+        "adname": "鄂温克族自治旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "typecode": "050000",
+        "anchorMeters": 246359
+      },
+      {
+        "id": "B0LRD96TTO",
+        "name": "姐妹家庭烤肉",
+        "location": "123.472564,48.121803",
+        "address": "中央大街77号",
+        "adname": "阿荣旗",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 398429
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\9e51fef7293ebef9ec7c.json"
+    ],
+    "queriedAt": "2026-09-18T02:04:00+08:00"
+  },
+  "mordaga-new-hulaoda": {
+    "cityId": "mordaga",
+    "queries": [
+      "胡老大铁锅炖"
+    ],
+    "pois": [
+      {
+        "id": "B0IUCUZO3H",
+        "name": "几何精品咖啡与茶",
+        "location": "120.780226,51.259838",
+        "address": "莫尔道嘎镇325县道胡老大铁锅炖西侧",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;咖啡厅;咖啡厅",
+        "typecode": "050500",
+        "anchorMeters": 592
+      },
+      {
+        "id": "B0KUXCIDY1",
+        "name": "额尔古纳莫尔道嘎老鹰嘴传统村落",
+        "location": "120.780800,51.260251",
+        "address": "莫尔道嘎镇粮食局胡同胡老大铁锅炖旁边40米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;住宿服务相关;住宿服务相关",
+        "typecode": "100000",
+        "anchorMeters": 605
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\cb8fc4cd9c64d705c86e.json"
+    ],
+    "queriedAt": "2026-09-18T02:04:00+08:00"
+  },
+  "mordaga-new-yajuan": {
+    "cityId": "mordaga",
+    "queries": [
+      "雅娟家常菜"
+    ],
+    "pois": [
+      {
+        "id": "B0H1X430OA",
+        "name": "雅娟家常菜",
+        "location": "120.782224,51.266662",
+        "address": "莫尔道嘎镇飞马东侧100米处",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 1234
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\7f28ffd4f9bd8a19f9d0.json"
+    ],
+    "queriedAt": "2026-09-18T02:04:01+08:00"
+  },
+  "mordaga-new-jihe": {
+    "cityId": "mordaga",
+    "queries": [
+      "几何精品咖啡"
+    ],
+    "pois": [
+      {
+        "id": "B0LGHRTPWF",
+        "name": "欢姐麻辣烫",
+        "location": "120.780243,51.259822",
+        "address": "几何精品咖啡与茶东南侧",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 590
+      },
+      {
+        "id": "B0IUCUZO3H",
+        "name": "几何精品咖啡与茶",
+        "location": "120.780226,51.259838",
+        "address": "莫尔道嘎镇325县道胡老大铁锅炖西侧",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;咖啡厅;咖啡厅",
+        "typecode": "050500",
+        "anchorMeters": 592
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\8e4b7ef34d71e15fb32f.json"
+    ],
+    "queriedAt": "2026-09-18T02:04:01+08:00"
+  },
+  "shiwei-new-yogurt": {
+    "cityId": "shiwei",
+    "queries": [
+      "室韦河畔牧场酸奶屋"
+    ],
+    "pois": [
+      {
+        "id": "B0K1XK2GQY",
+        "name": "河畔牧场酸奶屋",
+        "location": "119.905589,51.339580",
+        "address": "室韦苏木协荣街",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;餐饮相关场所;餐饮相关",
+        "typecode": "050000",
+        "anchorMeters": 210
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\71689cff14ab469340f3.json"
+    ],
+    "queriedAt": "2026-09-18T02:04:01+08:00"
+  },
+  "heishantou-new-yunxi": {
+    "cityId": "heishantou",
+    "queries": [
+      "云汐小馆"
+    ],
+    "pois": [
+      {
+        "id": "B0KU9CINYC",
+        "name": "云汐小馆",
+        "location": "119.570785,50.214162",
+        "address": "中国石油黑山头加油站西侧60米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 556
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\17210f253c182905844b.json"
+    ],
+    "queriedAt": "2026-09-18T02:04:02+08:00"
+  },
+  "heishantou-new-ziyu": {
+    "cityId": "heishantou",
+    "queries": [
+      "子昱饭店"
+    ],
+    "pois": [
+      {
+        "id": "B0FFFGOC7I",
+        "name": "子昱饭店",
+        "location": "119.583191,50.216094",
+        "address": "黑山头新镇草原宾馆对面",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 356
+      },
+      {
+        "id": "B0MDZ7AS41",
+        "name": "子昱饭店",
+        "location": "120.175369,50.248236",
+        "address": "迎春街388号",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "餐饮服务;中餐厅;中餐厅",
+        "typecode": "050100",
+        "anchorMeters": 42628
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\0784395b202b1d6dd437.json"
+    ],
+    "queriedAt": "2026-09-18T02:04:02+08:00"
+  },
+  "heishantou-new-mengniu": {
+    "cityId": "heishantou",
+    "queries": [
+      "蒙妞图娅"
+    ],
+    "pois": [
+      {
+        "id": "B0KRDCM4SE",
+        "name": "拾光民宿(黑山头镇店)",
+        "location": "119.581072,50.218326",
+        "address": "黑山头镇蒙妞图娅奶食加工厂西南100米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "住宿服务;旅馆招待所;旅馆招待所",
+        "typecode": "100200",
+        "anchorMeters": 358
+      },
+      {
+        "id": "B0HUP5ODFY",
+        "name": "蒙妞图娅奶食品加工厂",
+        "location": "119.582663,50.218987",
+        "address": "黑山头新镇331国道北300米",
+        "adname": "额尔古纳市",
+        "cityname": "呼伦贝尔市",
+        "type": "公司企业;公司企业;公司企业",
+        "typecode": "170000",
+        "anchorMeters": 485
+      }
+    ],
+    "evidenceFiles": [
+      "amap-recommendation-evidence\\a10afedd5df85d6e3679.json"
+    ],
+    "queriedAt": "2026-09-18T02:04:03+08:00"
+  }
+}

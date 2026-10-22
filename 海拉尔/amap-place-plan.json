@@ -1,0 +1,635 @@
+[
+  {
+    "id": "hailaer-lublu",
+    "cityId": "hailaer",
+    "queries": [
+      "卢布里西餐厅"
+    ]
+  },
+  {
+    "id": "hailaer-shaomai",
+    "cityId": "hailaer",
+    "queries": [
+      "源玺源"
+    ]
+  },
+  {
+    "id": "hailaer-laoyang",
+    "cityId": "hailaer",
+    "queries": [
+      "老杨扒拉锅"
+    ]
+  },
+  {
+    "id": "hailaer-zhao",
+    "cityId": "hailaer",
+    "queries": [
+      "赵师傅原味烤肉"
+    ]
+  },
+  {
+    "id": "hailaer-bread",
+    "cityId": "hailaer",
+    "queries": [
+      "蒙源俄式面包"
+    ]
+  },
+  {
+    "id": "hailaer-nogoon",
+    "cityId": "hailaer",
+    "queries": [
+      "诺古恩"
+    ]
+  },
+  {
+    "id": "hailaer-gogo",
+    "cityId": "hailaer",
+    "queries": [
+      "植GoGo"
+    ]
+  },
+  {
+    "id": "hailaer-shenzaki",
+    "cityId": "hailaer",
+    "queries": [
+      "神崎咖啡"
+    ]
+  },
+  {
+    "id": "hailaer-nomintala",
+    "cityId": "hailaer",
+    "queries": [
+      "诺敏塔拉"
+    ]
+  },
+  {
+    "id": "hailaer-cliff",
+    "cityId": "hailaer",
+    "queries": [
+      "哈克崖山",
+      "扎罗木得断崖"
+    ]
+  },
+  {
+    "id": "hailaer-museum",
+    "cityId": "hailaer",
+    "queries": [
+      "呼伦贝尔历史博物馆"
+    ]
+  },
+  {
+    "id": "hailaer-new-yexue",
+    "cityId": "hailaer",
+    "queries": [
+      "野雪"
+    ]
+  },
+  {
+    "id": "hailaer-new-yuanfang",
+    "cityId": "hailaer",
+    "queries": [
+      "远方来信"
+    ]
+  },
+  {
+    "id": "hailaer-new-petersburg",
+    "cityId": "hailaer",
+    "queries": [
+      "彼得堡餐厅"
+    ]
+  },
+  {
+    "id": "hailaer-new-menggen",
+    "cityId": "hailaer",
+    "queries": [
+      "孟根楚鲁"
+    ]
+  },
+  {
+    "id": "morigle-new-qushui",
+    "cityId": "morigle",
+    "queries": [
+      "曲水云天"
+    ]
+  },
+  {
+    "id": "morigle-new-tuga",
+    "cityId": "morigle",
+    "queries": [
+      "图嘎营地"
+    ]
+  },
+  {
+    "id": "morigle-new-mabeishan",
+    "cityId": "morigle",
+    "queries": [
+      "马背山"
+    ]
+  },
+  {
+    "id": "eerguna-shuncheng",
+    "cityId": "eerguna",
+    "queries": [
+      "顺成红焖羊肉"
+    ]
+  },
+  {
+    "id": "eerguna-xing le",
+    "cityId": "eerguna",
+    "queries": [
+      "兴乐烧麦"
+    ]
+  },
+  {
+    "id": "eerguna-kerulen",
+    "cityId": "eerguna",
+    "queries": [
+      "克尔伦"
+    ]
+  },
+  {
+    "id": "eerguna-mengguyuan",
+    "cityId": "eerguna",
+    "queries": [
+      "蒙古缘蒙餐"
+    ]
+  },
+  {
+    "id": "eerguna-deli",
+    "cityId": "eerguna",
+    "queries": [
+      "德利烧烤"
+    ]
+  },
+  {
+    "id": "eerguna-tieshan",
+    "cityId": "eerguna",
+    "queries": [
+      "铁山冷饮"
+    ]
+  },
+  {
+    "id": "eerguna-xiaoguo",
+    "cityId": "eerguna",
+    "queries": [
+      "小郭烧烤"
+    ]
+  },
+  {
+    "id": "eerguna-hedian",
+    "cityId": "eerguna",
+    "queries": [
+      "喝点咖啡"
+    ]
+  },
+  {
+    "id": "eerguna-new-fuji",
+    "cityId": "eerguna",
+    "queries": [
+      "福记列巴"
+    ]
+  },
+  {
+    "id": "eerguna-new-mingyuan",
+    "cityId": "eerguna",
+    "queries": [
+      "铭源特色餐厅"
+    ]
+  },
+  {
+    "id": "eerguna-new-baohualin",
+    "cityId": "eerguna",
+    "queries": [
+      "额尔古纳白桦林"
+    ]
+  },
+  {
+    "id": "genhe-kaimenhong",
+    "cityId": "genhe",
+    "queries": [
+      "开门红早餐"
+    ]
+  },
+  {
+    "id": "genhe-shourong",
+    "cityId": "genhe",
+    "queries": [
+      "守荣小吃"
+    ]
+  },
+  {
+    "id": "genhe-yijiaren",
+    "cityId": "genhe",
+    "queries": [
+      "壹家人铁锅炖"
+    ]
+  },
+  {
+    "id": "genhe-chuantianjiao",
+    "cityId": "genhe",
+    "queries": [
+      "川天椒麻辣烫"
+    ]
+  },
+  {
+    "id": "genhe-zhengyi",
+    "cityId": "genhe",
+    "queries": [
+      "郑姨馄饨"
+    ]
+  },
+  {
+    "id": "genhe-shengxianghe",
+    "cityId": "genhe",
+    "queries": [
+      "盛祥和"
+    ]
+  },
+  {
+    "id": "genhe-market",
+    "cityId": "genhe",
+    "queries": [
+      "龙凤大厦"
+    ]
+  },
+  {
+    "id": "genhe-new-shouwang",
+    "cityId": "genhe",
+    "queries": [
+      "守望桥"
+    ]
+  },
+  {
+    "id": "genhe-new-kefir",
+    "cityId": "genhe",
+    "queries": [
+      "开菲尔酸奶"
+    ]
+  },
+  {
+    "id": "genhe-new-linzhongxian",
+    "cityId": "genhe",
+    "queries": [
+      "林中鲜烧烤"
+    ]
+  },
+  {
+    "id": "genhe-new-xindingyuan",
+    "cityId": "genhe",
+    "queries": [
+      "鑫鼎园铜锅"
+    ]
+  },
+  {
+    "id": "aoluguya-new-museum",
+    "cityId": "aoluguya",
+    "queries": [
+      "敖鲁古雅鄂温克族驯鹿文化博物馆"
+    ]
+  },
+  {
+    "id": "aoluguya-reindeer",
+    "cityId": "aoluguya",
+    "queries": [
+      "敖鲁古雅使鹿部落"
+    ]
+  },
+  {
+    "id": "deerbur-deer",
+    "cityId": "deerbur",
+    "queries": [
+      "兴安神鹿园"
+    ]
+  },
+  {
+    "id": "deerbur-guangyuan",
+    "cityId": "deerbur",
+    "queries": [
+      "得耳布尔广源饭店",
+      "广源饭店"
+    ]
+  },
+  {
+    "id": "deerbur-memorial",
+    "cityId": "deerbur",
+    "queries": [
+      "卡鲁奔"
+    ]
+  },
+  {
+    "id": "deerbur-new-shanshan",
+    "cityId": "deerbur",
+    "queries": [
+      "得耳布尔姗姗馅饼",
+      "姗姗馅饼"
+    ]
+  },
+  {
+    "id": "deerbur-new-cold",
+    "cityId": "deerbur",
+    "queries": [
+      "得耳布尔冷极碑"
+    ]
+  },
+  {
+    "id": "mordaga-hongjie",
+    "cityId": "mordaga",
+    "queries": [
+      "红姐砂锅"
+    ]
+  },
+  {
+    "id": "mordaga-hongzeyuan",
+    "cityId": "mordaga",
+    "queries": [
+      "鸿泽源"
+    ]
+  },
+  {
+    "id": "mordaga-forest",
+    "cityId": "mordaga",
+    "queries": [
+      "莫尔道嘎国家森林公园"
+    ]
+  },
+  {
+    "id": "mordaga-new-longshan",
+    "cityId": "mordaga",
+    "queries": [
+      "莫尔道嘎龙山公园"
+    ]
+  },
+  {
+    "id": "mordaga-new-bawang",
+    "cityId": "mordaga",
+    "queries": [
+      "莫尔道嘎铁锅炖"
+    ]
+  },
+  {
+    "id": "mordaga-new-jiemei",
+    "cityId": "mordaga",
+    "queries": [
+      "姐妹酒家"
+    ]
+  },
+  {
+    "id": "mordaga-new-hulaoda",
+    "cityId": "mordaga",
+    "queries": [
+      "胡老大铁锅炖"
+    ]
+  },
+  {
+    "id": "mordaga-new-yajuan",
+    "cityId": "mordaga",
+    "queries": [
+      "雅娟家常菜"
+    ]
+  },
+  {
+    "id": "mordaga-new-jihe",
+    "cityId": "mordaga",
+    "queries": [
+      "几何精品咖啡"
+    ]
+  },
+  {
+    "id": "bailudao-view",
+    "cityId": "bailudao",
+    "queries": [
+      "白鹿岛观景台",
+      "白鹿岛"
+    ]
+  },
+  {
+    "id": "bailudao-new-linxi",
+    "cityId": "bailudao",
+    "queries": [
+      "林曦农家菜",
+      "太平村"
+    ]
+  },
+  {
+    "id": "bailudao-restaurant",
+    "cityId": "bailudao",
+    "queries": [
+      "白鹿岛酒店中餐厅"
+    ]
+  },
+  {
+    "id": "linjiang-shilu",
+    "cityId": "linjiang",
+    "queries": [
+      "驶路部落"
+    ]
+  },
+  {
+    "id": "linjiang-new-northhill",
+    "cityId": "linjiang",
+    "queries": [
+      "临江北山坡",
+      "临江晨雾观景台"
+    ]
+  },
+  {
+    "id": "linjiang-new-shenxian",
+    "cityId": "linjiang",
+    "queries": [
+      "临江神仙坡",
+      "界河观景点"
+    ]
+  },
+  {
+    "id": "shiwei-tara",
+    "cityId": "shiwei",
+    "queries": [
+      "塔拉牧场"
+    ]
+  },
+  {
+    "id": "shiwei-two lambs",
+    "cityId": "shiwei",
+    "queries": [
+      "两只小绵羊"
+    ]
+  },
+  {
+    "id": "shiwei-mengwu",
+    "cityId": "shiwei",
+    "queries": [
+      "蒙兀奶茶"
+    ]
+  },
+  {
+    "id": "shiwei-taliya",
+    "cityId": "shiwei",
+    "queries": [
+      "塔莉娅"
+    ]
+  },
+  {
+    "id": "shiwei-new-lvyou",
+    "cityId": "shiwei",
+    "queries": [
+      "驴友小酒馆"
+    ]
+  },
+  {
+    "id": "shiwei-new-mumin",
+    "cityId": "shiwei",
+    "queries": [
+      "牧民的日常"
+    ]
+  },
+  {
+    "id": "shiwei-new-aoluoqi",
+    "cityId": "shiwei",
+    "queries": [
+      "奥洛契庄园"
+    ]
+  },
+  {
+    "id": "shiwei-new-yogurt",
+    "cityId": "shiwei",
+    "queries": [
+      "室韦河畔牧场酸奶屋"
+    ]
+  },
+  {
+    "id": "jiuka-view",
+    "cityId": "jiuka",
+    "queries": [
+      "九卡落日最佳拍摄点"
+    ]
+  },
+  {
+    "id": "qika-lanni",
+    "cityId": "qika",
+    "queries": [
+      "兰妮农家院",
+      "兰妮"
+    ]
+  },
+  {
+    "id": "qika-danjie",
+    "cityId": "qika",
+    "queries": [
+      "丹姐农家院"
+    ]
+  },
+  {
+    "id": "qika-laowu",
+    "cityId": "qika",
+    "queries": [
+      "七卡老伍",
+      "老伍农家乐"
+    ]
+  },
+  {
+    "id": "qika-wulan",
+    "cityId": "qika",
+    "queries": [
+      "乌兰山"
+    ]
+  },
+  {
+    "id": "qika-new-shubian",
+    "cityId": "qika",
+    "queries": [
+      "七卡戍边食府"
+    ]
+  },
+  {
+    "id": "qika-new-caoyuan",
+    "cityId": "qika",
+    "queries": [
+      "七卡草原美食"
+    ]
+  },
+  {
+    "id": "heishantou-yipinxiang",
+    "cityId": "heishantou",
+    "queries": [
+      "黑山头一品香"
+    ]
+  },
+  {
+    "id": "heishantou-risheng",
+    "cityId": "heishantou",
+    "queries": [
+      "日晟烤吧"
+    ]
+  },
+  {
+    "id": "heishantou-lamb ranch",
+    "cityId": "heishantou",
+    "queries": [
+      "小绵羊牧场餐厅"
+    ]
+  },
+  {
+    "id": "heishantou-gushan",
+    "cityId": "heishantou",
+    "queries": [
+      "黑山头孤山",
+      "孤山"
+    ]
+  },
+  {
+    "id": "heishantou-sunset",
+    "cityId": "heishantou",
+    "queries": [
+      "黑山头日落"
+    ]
+  },
+  {
+    "id": "heishantou-bonfire",
+    "cityId": "heishantou",
+    "queries": [
+      "牧马人篝火"
+    ]
+  },
+  {
+    "id": "heishantou-new-youmu",
+    "cityId": "heishantou",
+    "queries": [
+      "游牧之行庄园"
+    ]
+  },
+  {
+    "id": "heishantou-new-mazhi",
+    "cityId": "heishantou",
+    "queries": [
+      "黑山头马之舞"
+    ]
+  },
+  {
+    "id": "heishantou-new-laogao",
+    "cityId": "heishantou",
+    "queries": [
+      "老高马场"
+    ]
+  },
+  {
+    "id": "heishantou-new-yunxi",
+    "cityId": "heishantou",
+    "queries": [
+      "云汐小馆"
+    ]
+  },
+  {
+    "id": "heishantou-new-ziyu",
+    "cityId": "heishantou",
+    "queries": [
+      "子昱饭店"
+    ]
+  },
+  {
+    "id": "heishantou-new-mengniu",
+    "cityId": "heishantou",
+    "queries": [
+      "蒙妞图娅"
+    ]
+  }
+]

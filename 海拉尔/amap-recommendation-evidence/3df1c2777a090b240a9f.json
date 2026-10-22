@@ -1,0 +1,52 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "野雪",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:20+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "1",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "DIY手工坊",
+        "importance": [],
+        "biz_ext": [],
+        "type": "科教文化服务;科教文化场所;科教文化场所",
+        "photos": [],
+        "building": [],
+        "typecode": "140000",
+        "shopinfo": "1",
+        "poiweight": [],
+        "adname": "海拉尔区",
+        "featured_reviews_remake": [],
+        "tel": [],
+        "id": "B0J33UUWU3",
+        "address": "正阳办天润仿清古建一条街天聚号5号",
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": [],
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": [],
+        "name": "野雪艺术空间",
+        "location": "119.746078,49.210710",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

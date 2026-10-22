@@ -1,0 +1,52 @@
+{
+  "endpoint": "v3/place/text",
+  "params": {
+    "keywords": "哈克崖山",
+    "city": "150700",
+    "citylimit": "true",
+    "offset": 10,
+    "extensions": "base"
+  },
+  "queriedAt": "2026-09-18T01:54:19+08:00",
+  "response": {
+    "suggestion": {
+      "keywords": [],
+      "cities": []
+    },
+    "count": "1",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": [],
+        "distance": [],
+        "keytag": "景区",
+        "importance": [],
+        "biz_ext": [],
+        "type": "风景名胜;风景名胜;风景名胜",
+        "photos": [],
+        "building": [],
+        "typecode": "110200",
+        "shopinfo": "2",
+        "poiweight": [],
+        "adname": "海拉尔区",
+        "featured_reviews_remake": [],
+        "tel": [],
+        "id": "B0KRTLT57J",
+        "address": [],
+        "space_num": [],
+        "pname": "内蒙古自治区",
+        "biz_type": "tour",
+        "cityname": "呼伦贝尔市",
+        "childtype": [],
+        "atag": [],
+        "name": "哈克崖山",
+        "location": "120.457620,49.259426",
+        "shopid": [],
+        "favorite_num": [],
+        "featured_reviews": []
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

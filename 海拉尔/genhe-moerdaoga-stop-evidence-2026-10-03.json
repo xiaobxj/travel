@@ -1,0 +1,216 @@
+{
+  "queriedAt": "2026-10-03T08:23:57+08:00",
+  "strategy": 32,
+  "purpose": "根河经得耳布尔到莫尔道嘎游玩插点车程核查",
+  "poiSelections": {
+    "B0FFG6Y0QE": {
+      "poi": {
+        "id": "B0FFG6Y0QE",
+        "name": "得耳布尓兴安神鹿园",
+        "location": "121.105195,51.016881",
+        "address": "325县道",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;风景名胜|购物服务;购物相关场所;购物相关场所",
+        "typecode": "110200|060000"
+      },
+      "evidenceFile": "amap-recommendation-evidence\\577e51ccb46f79f7afca.json",
+      "queriedAt": "2026-10-03T08:23:32+08:00"
+    },
+    "B0HR9U6CCO": {
+      "poi": {
+        "id": "B0HR9U6CCO",
+        "name": "得耳布尓兴安神鹿园停车点",
+        "location": "121.103063,51.017185",
+        "address": "325县道得耳布尓兴安神鹿园",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "交通设施服务;停车场;公共停车场",
+        "typecode": "150904"
+      },
+      "evidenceFile": "amap-recommendation-evidence\\577e51ccb46f79f7afca.json",
+      "queriedAt": "2026-10-03T08:23:32+08:00"
+    },
+    "B0J1BLQUJU": {
+      "poi": {
+        "id": "B0J1BLQUJU",
+        "name": "卡鲁奔国家湿地公园",
+        "location": "120.516874,50.710592",
+        "address": "得耳布尔镇得耳布尔林业局康达岭林场施业区三干线45公里处",
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;公园广场;公园",
+        "typecode": "110101"
+      },
+      "evidenceFile": "amap-recommendation-evidence\\9946a98cbdbc4c6471e1.json",
+      "queriedAt": "2026-10-03T08:23:33+08:00"
+    },
+    "B0L3H78ZJP": {
+      "poi": {
+        "id": "B0L3H78ZJP",
+        "name": "卡鲁奔山",
+        "location": "120.555138,50.727019",
+        "address": [],
+        "adname": "根河市",
+        "cityname": "呼伦贝尔市",
+        "type": "风景名胜;风景名胜;风景名胜",
+        "typecode": "110200"
+      },
+      "evidenceFile": "amap-recommendation-evidence\\9946a98cbdbc4c6471e1.json",
+      "queriedAt": "2026-10-03T08:23:33+08:00"
+    }
+  },
+  "routes": {
+    "baseline": {
+      "meters": 126014,
+      "seconds": 7831,
+      "evidenceFile": "amap-recommendation-evidence\\893082ef6b9d97a43892.json",
+      "queriedAt": "2026-10-03T08:23:58+08:00",
+      "roads": [
+        "未命名路",
+        "敖鲁古雅路",
+        "迎宾路",
+        "防洪中路",
+        "332国道",
+        "325县道"
+      ]
+    },
+    "with_deer_park": {
+      "meters": 134787,
+      "seconds": 9172,
+      "evidenceFile": "amap-recommendation-evidence\\50320b36bda4135be29f.json",
+      "queriedAt": "2026-10-03T08:23:59+08:00",
+      "roads": [
+        "未命名路",
+        "敖鲁古雅路",
+        "迎宾路",
+        "防洪中路",
+        "332国道",
+        "325县道"
+      ]
+    },
+    "with_wetland": {
+      "meters": 242422,
+      "seconds": 14950,
+      "evidenceFile": "amap-recommendation-evidence\\e27779b33b3d3d1166af.json",
+      "queriedAt": "2026-10-03T08:24:00+08:00",
+      "roads": [
+        "未命名路",
+        "敖鲁古雅路",
+        "迎宾路",
+        "防洪中路",
+        "332国道",
+        "325县道",
+        "Z008",
+        "Z008乡道"
+      ]
+    },
+    "with_mountain": {
+      "meters": 242029,
+      "seconds": 14937,
+      "evidenceFile": "amap-recommendation-evidence\\ee8781a5e2127e6a6bed.json",
+      "queriedAt": "2026-10-03T08:24:00+08:00",
+      "roads": [
+        "未命名路",
+        "敖鲁古雅路",
+        "迎宾路",
+        "防洪中路",
+        "332国道",
+        "325县道",
+        "Z008",
+        "Z008乡道"
+      ]
+    },
+    "genhe_to_derbur": {
+      "meters": 81237,
+      "seconds": 4763,
+      "evidenceFile": "amap-recommendation-evidence\\112f229b4dd03f00afa0.json",
+      "queriedAt": "2026-10-03T08:24:02+08:00",
+      "roads": [
+        "未命名路",
+        "敖鲁古雅路",
+        "迎宾路",
+        "防洪中路",
+        "332国道",
+        "325县道"
+      ]
+    },
+    "derbur_to_deer": {
+      "meters": 3827,
+      "seconds": 674,
+      "evidenceFile": "amap-recommendation-evidence\\8430ac9a3ac1f45647a3.json",
+      "queriedAt": "2026-10-03T08:24:03+08:00",
+      "roads": [
+        "未命名路",
+        "325县道"
+      ]
+    },
+    "deer_to_moerdaoga": {
+      "meters": 48305,
+      "seconds": 3517,
+      "evidenceFile": "amap-recommendation-evidence\\e7fc08bd81ca176bd350.json",
+      "queriedAt": "2026-10-03T08:24:04+08:00",
+      "roads": [
+        "325县道"
+      ]
+    },
+    "derbur_to_moerdaoga": {
+      "meters": 44701,
+      "seconds": 2778,
+      "evidenceFile": "amap-recommendation-evidence\\4aa3211fa4fbad3d1874.json",
+      "queriedAt": "2026-10-03T08:24:05+08:00",
+      "roads": [
+        "未命名路",
+        "325县道"
+      ]
+    },
+    "derbur_to_wetland": {
+      "meters": 58147,
+      "seconds": 3586,
+      "evidenceFile": "amap-recommendation-evidence\\8b6c5187796f42a5bef5.json",
+      "queriedAt": "2026-10-03T08:24:06+08:00",
+      "roads": [
+        "未命名路",
+        "325县道",
+        "Z008"
+      ]
+    },
+    "derbur_to_mountain": {
+      "meters": 54897,
+      "seconds": 3384,
+      "evidenceFile": "amap-recommendation-evidence\\6c37c7846c6c208408f8.json",
+      "queriedAt": "2026-10-03T08:24:06+08:00",
+      "roads": [
+        "未命名路",
+        "325县道",
+        "Z008"
+      ]
+    }
+  },
+  "anchors": {
+    "origin": {
+      "id": "B0FFFGOOS1",
+      "name": "敖鲁古雅使鹿部落景区南门停车场",
+      "location": "121.479287,50.775955",
+      "address": "敖鲁古雅路7号敖鲁古雅使鹿部落景区",
+      "adname": "根河市",
+      "type": "交通设施服务;停车场;公共停车场"
+    },
+    "end": {
+      "id": "B01D601JZN",
+      "name": "莫尔道嘎镇人民政府",
+      "location": "120.785747,51.255782",
+      "address": "莫尔道嘎镇",
+      "adname": "额尔古纳市",
+      "type": "政府机构及社会团体;政府机关;乡镇级政府及事业单位"
+    },
+    "mandatoryVia": {
+      "id": "B01D601K05",
+      "name": "得耳布尔镇人民政府",
+      "location": "121.064824,50.995729",
+      "address": "得耳布尔镇325号",
+      "adname": "根河市",
+      "type": "政府机构及社会团体;政府机关;乡镇级政府及事业单位"
+    }
+  }
+}

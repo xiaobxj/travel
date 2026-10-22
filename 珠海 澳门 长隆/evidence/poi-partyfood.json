@@ -1,0 +1,252 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "57",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": [],
+      "distance": [],
+      "keytag": "小吃快餐",
+      "importance": [],
+      "biz_ext": {
+        "cost": "21.00",
+        "opentime2": "周一至周日 11:30-14:30,17:00-21:00",
+        "rating": "3.8",
+        "open_time": "11:30-14:30 17:00-21:00",
+        "meal_ordering": "0"
+      },
+      "type": "餐饮服务;快餐厅;快餐厅",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B02F40PDD2/comment/file_media_Photo_5326_IMG_1768444952_5166_IMG_20260115_104052_jpg_ss__1768444916098_45546054.jpg"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/99d4ed7ff04f6fd5a98ef264977409f0"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/1874e8b443dcd878c4139bce5971d570"
+        }
+      ],
+      "building": [],
+      "typecode": "050300",
+      "shopinfo": "0",
+      "poiweight": [],
+      "adname": "香洲区",
+      "featured_reviews_remake": [],
+      "tel": "0756-8871132;13928000502",
+      "id": "B02F40PDD2",
+      "address": "岭南路68号岭秀城2s1-1139",
+      "space_num": [],
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "childtype": [],
+      "atag": "鸭肉",
+      "name": "为食厨房(北岭店)",
+      "location": "113.549318,22.232088",
+      "shopid": [],
+      "favorite_num": [],
+      "featured_reviews": []
+    },
+    {
+      "parent": "B0FFK9PJ4K",
+      "distance": [],
+      "keytag": "川菜",
+      "importance": [],
+      "biz_ext": {
+        "cost": "57.00",
+        "opentime2": "周一至周日 11:00-22:00",
+        "rating": "3.6",
+        "open_time": "11:00-22:00",
+        "meal_ordering": "0"
+      },
+      "type": "餐饮服务;中餐厅;四川菜(川菜)",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0H1VHS4D2/comment/8df37bdd37045ffb01015fbad27939ca_2048_2048_80.jpg"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/3790931279b847ef24e875f2fb824b28"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0H1VHS4D2/comment/75b33df87846851a2cbf916ff1b984da_2048_2048_80.jpg"
+        }
+      ],
+      "building": [],
+      "typecode": "050102",
+      "shopinfo": "1",
+      "poiweight": [],
+      "adname": "香洲区",
+      "featured_reviews_remake": [],
+      "tel": "16506196669",
+      "id": "B0H1VHS4D2",
+      "address": "渔湾路29号海韵城华发新天地B区一层1007-1008商铺",
+      "space_num": [],
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "childtype": "202",
+      "atag": "四川小吃,冰粉,担担面,小酥肉",
+      "name": "舌尖派对·四川小吃集(海韵城店)",
+      "location": "113.590075,22.282525",
+      "shopid": [],
+      "favorite_num": [],
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "distance": [],
+      "keytag": "小吃快餐",
+      "importance": [],
+      "biz_ext": {
+        "cost": "32.00",
+        "opentime2": "周一至周日 10:30-20:00",
+        "rating": "3.7",
+        "open_time": "10:30-20:00",
+        "meal_ordering": "0"
+      },
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/8c570d1c19a46d52c4ae9cda61c38073"
+        },
+        {
+          "title": [],
+          "url": "https://aos-comment.amap.com/B0FFIG01ZO/comment/AB584CBB_E52B_4F4A_89ED_56E46A96A8B4_L0_001_1500_200_1746530482990_26540236.jpg"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/a0a58b0a38fa5ce8128d3bbb0338057f"
+        }
+      ],
+      "building": [],
+      "typecode": "050100",
+      "shopinfo": "1",
+      "poiweight": [],
+      "adname": "香洲区",
+      "featured_reviews_remake": [],
+      "tel": "15989787621",
+      "id": "B0FFIG01ZO",
+      "address": "唐家湾镇明园新村19号",
+      "space_num": [],
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "childtype": [],
+      "atag": [],
+      "name": "可可厨房",
+      "location": "113.593592,22.351698",
+      "shopid": [],
+      "favorite_num": [],
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "distance": [],
+      "keytag": "中餐",
+      "importance": [],
+      "biz_ext": {
+        "cost": "29.00",
+        "opentime2": "周一至周日 09:30-21:30",
+        "rating": "4.2",
+        "open_time": "09:30-21:30",
+        "meal_ordering": "0"
+      },
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/3763d0f7d042e3aa74904b0fd98cf790"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/073b54d98c0cdd410000004294144779?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/b996341085f9e2aa39705ed40ccd0bb3"
+        }
+      ],
+      "building": [],
+      "typecode": "050100",
+      "shopinfo": "0",
+      "poiweight": [],
+      "adname": "香洲区",
+      "featured_reviews_remake": [],
+      "tel": "15813191074",
+      "id": "B0MANXRADR",
+      "address": "华海路86号",
+      "space_num": [],
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "childtype": [],
+      "atag": [],
+      "name": "德盛龙社区厨房(华海路店)",
+      "location": "113.573296,22.287023",
+      "shopid": [],
+      "favorite_num": [],
+      "featured_reviews": []
+    },
+    {
+      "parent": [],
+      "distance": [],
+      "keytag": "小吃快餐",
+      "importance": [],
+      "biz_ext": {
+        "cost": "30.00",
+        "opentime2": "周一至周日 08:00-24:00",
+        "rating": "3.7",
+        "open_time": "08:00-24:00",
+        "meal_ordering": "0"
+      },
+      "type": "餐饮服务;快餐厅;快餐厅",
+      "photos": [
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/ff2465b73b0526e10000004712562514?type=pic"
+        },
+        {
+          "title": [],
+          "url": "https://store.is.autonavi.com/showpic/a71e1fecad5a95030000004712556588?type=pic"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/23c4887fbe8fac3522145bddb1fb8d79"
+        }
+      ],
+      "building": [],
+      "typecode": "050300",
+      "shopinfo": "0",
+      "poiweight": [],
+      "adname": "香洲区",
+      "featured_reviews_remake": [],
+      "tel": "13536586601",
+      "id": "B0FFK22OUH",
+      "address": "唐家湾镇龙岗街1号",
+      "space_num": [],
+      "pname": "广东省",
+      "biz_type": "diner",
+      "cityname": "珠海市",
+      "childtype": [],
+      "atag": [],
+      "name": "开心厨房(唐家店)",
+      "location": "113.594605,22.354973",
+      "shopid": [],
+      "favorite_num": [],
+      "featured_reviews": []
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}
